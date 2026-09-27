@@ -10735,6 +10735,16 @@
 }(typeof self !== 'undefined' ? self : this, function () {
   'use strict';
 
+  function escapeHtml(str) {
+    if (typeof str !== 'string') return '';
+    return str
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
+
   // ----------------------------------------------------------------------------
   // [1] Web Audio Synthesizer (Zero External Dependencies)
   // ----------------------------------------------------------------------------
@@ -11067,7 +11077,7 @@
                   <input type="text"
                          id="c-quiz-answer-input"
                          class="c-quiz-answer-input"
-                         value="${existingAnswer || ''}"
+                         value="${escapeHtml(existingAnswer || '')}"
                          placeholder="한국어 뜻을 입력하세요 (예: 위태로운, 불안정한)"
                          autocapitalize="off"
                          autocorrect="off"
@@ -11556,7 +11566,7 @@
             <div class="c-clinic-answer-box ${isOk ? 'correct' : 'wrong'}">
               <div class="c-clinic-answer-row">
                 <span class="label">제출 답안:</span>
-                <strong class="val ${isOk ? 'success' : 'danger'}">${item.userAnswer || '(미응답 / 스킵)'}</strong>
+                <strong class="val ${isOk ? 'success' : 'danger'}">${escapeHtml(item.userAnswer || '(미응답 / 스킵)')}</strong>
               </div>
               <div class="c-clinic-answer-row">
                 <span class="label">출제 정답:</span>
