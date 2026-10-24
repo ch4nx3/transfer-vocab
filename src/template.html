@@ -749,7 +749,12 @@ document.addEventListener('click', ev => {
       S = { key: 'browse', title: S.title + ' 오답', refs, idx: 0, mode: 'practice', draft: {}, start: Date.now(), browse: true, marked: S.marked };
       VIEW = 'q'; renderQ(); break;
     }
-    case 'reveal': S.revealed = S.revealed || {}; S.revealed[d.l] = 1; a.classList.remove('hide'); break;
+    case 'reveal': {   // tap toggles the cover open/closed
+      S.revealed = S.revealed || {};
+      const open = a.classList.toggle('hide') === false;
+      if (open) S.revealed[d.l] = 1; else delete S.revealed[d.l];
+      break;
+    }
     case 'revealall': document.querySelectorAll('.vm.hide').forEach(x => { x.classList.remove('hide'); S.revealed = S.revealed || {}; S.revealed[x.dataset.l] = 1; }); break;
     case 'toggleword': {
       const l = d.l;
