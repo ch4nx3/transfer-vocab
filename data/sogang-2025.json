@@ -1,0 +1,6821 @@
+{
+ "id": "sogang-2025",
+ "school": "서강대",
+ "year": 2025,
+ "title": "2025학년도 서강대학교 편입영어 1차",
+ "minutes": 60,
+ "directions": [
+  {
+   "from": 1,
+   "to": 3,
+   "text": "Choose the answer that best completes the sentence."
+  },
+  {
+   "from": 4,
+   "to": 5,
+   "text": "Identify the grammatical error."
+  },
+  {
+   "from": 6,
+   "to": 6,
+   "text": "Read the following and answer the question."
+  },
+  {
+   "from": 7,
+   "to": 8,
+   "text": "Read the following passage and answer the question(s)."
+  },
+  {
+   "from": 9,
+   "to": 10,
+   "text": "Read the following passage and answer the question(s)."
+  },
+  {
+   "from": 11,
+   "to": 13,
+   "text": "Read the following passage and answer the question(s)."
+  },
+  {
+   "from": 14,
+   "to": 16,
+   "text": "Read the following passage and answer the question(s)."
+  },
+  {
+   "from": 17,
+   "to": 19,
+   "text": "Read the following passage and answer the question(s)."
+  },
+  {
+   "from": 20,
+   "to": 21,
+   "text": "Read the following passage and answer the question(s)."
+  },
+  {
+   "from": 22,
+   "to": 24,
+   "text": "Read the following passage and answer the question(s)."
+  },
+  {
+   "from": 25,
+   "to": 27,
+   "text": "Read the following passage and answer the question(s)."
+  },
+  {
+   "from": 28,
+   "to": 30,
+   "text": "Read the following passage and answer the question(s)."
+  }
+ ],
+ "passages": [
+  {
+   "id": "p7",
+   "from": 7,
+   "to": 8,
+   "title": "",
+   "text": "A monumental figure in the history of Western philosophy, Plato looms nearly as large in the history of European literary theory. Indeed, for many literary scholars he marks the beginning of the tradition of literary theory, although his choice of the dialogue format, in which historical personages convey particular arguments, suggests that the issue he raises had already been debated before he took them up — as do the extant fragments of the writings of the pre-Socratic philosophers. The several dozen dialogues attributed to Plato engage almost every issue that interests philosophers: the nature of being; the question of how we come to know things; the proper ordering of human society; and the nature of justice, truth, the good, beauty, and love. Although Plato did not set out to write systematic literary theory — unlike his student Aristotle, who produced a treatise on poetics — his consideration of philosophical issues in several of the dialogues leads him to reflect on poetry, and those reflections have often set the terms of literary debate in the West.\n\nWhat binds together Plato’s various discussions of poetry is a distrust of mimesis. According to Plato, all art — including poetry — is a mimesis of nature, a copy of objects in the physical world. But those objects in the material world, according to the idealist philosophy that Plato propounds, are themselves only mutable copies of timeless universals, called Forms or Ideas. Poetry is merely a copy of a copy, leading away from the truth rather than toward it. Philosophers and literary critics ever since, from Plotinus in the third century C.E. to Jacques Derrida in the late twentieth century, have wrestled with the terms of Plato’s critique of poetry, revising it or attempting to point out inconsistencies in his argument.",
+   "sents": [
+    {
+     "en": "A monumental figure in the history of Western philosophy, Plato looms nearly as large in the history of European literary theory.",
+     "ko": "서양 철학사의 기념비적 인물인 플라톤은 유럽 문학 이론사에서도 거의 그만큼 큰 비중을 차지한다."
+    },
+    {
+     "en": "Indeed, for many literary scholars he marks the beginning of the tradition of literary theory, although his choice of the dialogue format, in which historical personages convey particular arguments, suggests that the issue he raises had already been debated before he took them up — as do the extant fragments of the writings of the pre-Socratic philosophers.",
+     "ko": "실제로 많은 문학 연구자들에게 그는 문학 이론 전통의 시작을 나타내는데, 역사적 인물들이 특정한 주장을 전달하는 대화 형식을 그가 택했다는 점은, 그가 제기한 문제가 그가 다루기 이전에 이미 논의되어 왔음을 시사하며, 이는 소크라테스 이전 철학자들의 저술 중 현존하는 단편들도 마찬가지이다."
+    },
+    {
+     "en": "The several dozen dialogues attributed to Plato engage almost every issue that interests philosophers: the nature of being; the question of how we come to know things; the proper ordering of human society; and the nature of justice, truth, the good, beauty, and love.",
+     "ko": "플라톤의 저작으로 여겨지는 수십 편의 대화편은 철학자들이 관심을 갖는 거의 모든 문제, 즉 존재의 본성, 우리가 어떻게 사물을 알게 되는가의 문제, 인간 사회의 올바른 질서, 그리고 정의, 진리, 선, 아름다움, 사랑의 본성을 다룬다."
+    },
+    {
+     "en": "Although Plato did not set out to write systematic literary theory — unlike his student Aristotle, who produced a treatise on poetics — his consideration of philosophical issues in several of the dialogues leads him to reflect on poetry, and those reflections have often set the terms of literary debate in the West.",
+     "ko": "플라톤은 체계적인 문학 이론을 쓰려고 나선 것은 아니었고(시학에 관한 논문을 쓴 그의 제자 아리스토텔레스와는 다르다), 몇몇 대화편에서 철학적 문제들을 고찰하다 보니 시에 대해 성찰하게 되었는데, 그 성찰은 서구 문학 논쟁의 틀을 자주 규정해 왔다."
+    },
+    {
+     "en": "What binds together Plato’s various discussions of poetry is a distrust of mimesis.",
+     "ko": "시에 관한 플라톤의 다양한 논의를 하나로 묶는 것은 모방(미메시스)에 대한 불신이다."
+    },
+    {
+     "en": "According to Plato, all art — including poetry — is a mimesis of nature, a copy of objects in the physical world.",
+     "ko": "플라톤에 따르면 시를 포함한 모든 예술은 자연의 모방, 즉 물리적 세계 사물의 복제이다."
+    },
+    {
+     "en": "But those objects in the material world, according to the idealist philosophy that Plato propounds, are themselves only mutable copies of timeless universals, called Forms or Ideas.",
+     "ko": "그러나 플라톤이 주창하는 관념론 철학에 따르면, 물질세계의 그 사물들 자체가 형상(Form) 또는 이데아(Idea)라 불리는 영원불변의 보편자의 변하기 쉬운 복제물에 불과하다."
+    },
+    {
+     "en": "Poetry is merely a copy of a copy, leading away from the truth rather than toward it.",
+     "ko": "따라서 시는 단지 복제의 복제일 뿐이며, 진리를 향하기보다 진리에서 멀어지게 한다."
+    },
+    {
+     "en": "Philosophers and literary critics ever since, from Plotinus in the third century C.E. to Jacques Derrida in the late twentieth century, have wrestled with the terms of Plato’s critique of poetry, revising it or attempting to point out inconsistencies in his argument.",
+     "ko": "3세기의 플로티노스부터 20세기 후반의 자크 데리다에 이르기까지 그 이후의 철학자들과 문학 비평가들은 플라톤의 시 비판의 논리와 씨름하며 그것을 수정하거나 그의 논증의 모순을 지적하려 해 왔다."
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "from": 9,
+   "to": 10,
+   "title": "",
+   "text": "Nobel laureate Han Kang spoke Saturday about how she employed all of her senses in the creation of some of her best known works. “When I write, I use my body,” she said. “I use all the sensory details of seeing, of listening, of smelling, of tasting, of experiencing tenderness and warmth and cold and pain, of noticing my heart racing and my body needing food and water, of walking and running, of feeling the wind and rain and snow on my skin, of holding hands.” In her lecture she expressed gratitude for those moments when she sensed that she was able to transmit those “vivid sensations” to her readers. “In these moments I experience… the thread of language that connects us, how my questions are relating with readers through <u>that electric, living thing</u>,” Han said as she finished her lecture. “I would like to express my deepest gratitude to all those who have connected with me through that thread, as well as to all those who may come to do so.”",
+   "sents": [
+    {
+     "en": "Nobel laureate Han Kang spoke Saturday about how she employed all of her senses in the creation of some of her best known works.",
+     "ko": "노벨상 수상자 한강은 토요일에 자신의 가장 잘 알려진 작품 몇 편을 창작하면서 오감을 총동원한 방법에 대해 이야기했다."
+    },
+    {
+     "en": "“When I write, I use my body,” she said.",
+     "ko": "“저는 글을 쓸 때 몸을 사용합니다.”라고 그녀는 말했다."
+    },
+    {
+     "en": "“I use all the sensory details of seeing, of listening, of smelling, of tasting, of experiencing tenderness and warmth and cold and pain, of noticing my heart racing and my body needing food and water, of walking and running, of feeling the wind and rain and snow on my skin, of holding hands.”",
+     "ko": "“저는 보고, 듣고, 냄새 맡고, 맛보고, 부드러움과 따뜻함과 차가움과 고통을 느끼고, 심장이 뛰고 몸이 음식과 물을 필요로 함을 알아차리고, 걷고 달리고, 피부에 닿는 바람과 비와 눈을 느끼고, 손을 맞잡는 이 모든 감각적 세부를 사용합니다."
+    },
+    {
+     "en": "In her lecture she expressed gratitude for those moments when she sensed that she was able to transmit those “vivid sensations” to her readers.",
+     "ko": "강연에서 그녀는 그 “생생한 감각”을 독자에게 전달할 수 있었다고 느낀 순간들에 대해 감사를 표했다."
+    },
+    {
+     "en": "“In these moments I experience… the thread of language that connects us, how my questions are relating with readers through that electric, living thing,” Han said as she finished her lecture.",
+     "ko": "“그런 순간에 저는 우리를 이어 주는 언어의 실, 그 전기가 통하는 살아 있는 것을 통해 저의 질문들이 독자들과 어떻게 관계를 맺는지를 경험합니다.”라고 한강은 강연을 마치며 말했다."
+    },
+    {
+     "en": "“I would like to express my deepest gratitude to all those who have connected with me through that thread, as well as to all those who may come to do so.”",
+     "ko": "“그 실을 통해 저와 연결되어 준 모든 분들, 그리고 앞으로 그렇게 될 모든 분들께 깊은 감사를 전하고 싶습니다.”"
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "from": 11,
+   "to": 13,
+   "title": "",
+   "text": "Theodore Roosevelt Island, a living memorial to the 26th President of the United States, stands apart from the grand marble monuments of Washington DC’s National Mall. Accessible only by footbridge from Virginia, this lesser-known retreat on the Potomac River offers serene woodsy trails leading to a statue of Roosevelt. Unlike the vast open spaces honoring presidents like Lincoln, Jefferson, and Washington, Roosevelt Island humbly celebrates nature and quietly commemorates Roosevelt’s environmental legacy.\n\nRoosevelt, renowned for his conservation efforts and the Antiquities Act of 1906, expanded public lands and national forests, securing his place in environmental history. Yet, his legacy is intricate, entwined with imperialism and views on racial domination, reflecting broader American history and environmentalism’s roots in Indigenous displacement and natural resource exploitation.\n\nBefore its transformation into an urban wilderness honoring Roosevelt in 1940, the island had had a rich history — first, <u>stewardship</u> by the Nacotchtank tribe and then development by the Mason family who cultivated it into a prominent estate with the use of slave labor. This layered narrative of conservation, memorialization, and America’s checkered past underscores the nuance of Theodore Roosevelt Island’s monument to its complex namesake, inviting visitors to reflect on the interconnectedness of nature, history, and memory.",
+   "sents": [
+    {
+     "en": "Theodore Roosevelt Island, a living memorial to the 26th President of the United States, stands apart from the grand marble monuments of Washington DC’s National Mall.",
+     "ko": "미국 제26대 대통령을 기리는 살아 있는 기념물인 시어도어 루스벨트 섬은 워싱턴 DC 내셔널 몰의 웅장한 대리석 기념물들과는 동떨어져 있다."
+    },
+    {
+     "en": "Accessible only by footbridge from Virginia, this lesser-known retreat on the Potomac River offers serene woodsy trails leading to a statue of Roosevelt.",
+     "ko": "버지니아에서 인도교로만 접근할 수 있는 포토맥 강의 이 덜 알려진 휴식처는 루스벨트의 동상으로 이어지는 고요한 숲길을 제공한다."
+    },
+    {
+     "en": "Unlike the vast open spaces honoring presidents like Lincoln, Jefferson, and Washington, Roosevelt Island humbly celebrates nature and quietly commemorates Roosevelt’s environmental legacy.",
+     "ko": "링컨, 제퍼슨, 워싱턴 같은 대통령들을 기리는 광대한 열린 공간과 달리, 루스벨트 섬은 겸손하게 자연을 기리고 루스벨트의 환경 유산을 조용히 기념한다."
+    },
+    {
+     "en": "Roosevelt, renowned for his conservation efforts and the Antiquities Act of 1906, expanded public lands and national forests, securing his place in environmental history.",
+     "ko": "보존 노력과 1906년 유물법(Antiquities Act)으로 유명한 루스벨트는 공유지와 국유림을 확대하여 환경사에서 자신의 자리를 굳혔다."
+    },
+    {
+     "en": "Yet, his legacy is intricate, entwined with imperialism and views on racial domination, reflecting broader American history and environmentalism’s roots in Indigenous displacement and natural resource exploitation.",
+     "ko": "그러나 그의 유산은 복잡해서, 제국주의 및 인종적 지배에 대한 관점과 얽혀 있으며, 이는 미국 역사 전반과 원주민 축출 및 천연자원 착취에 뿌리를 둔 환경주의의 기원을 반영한다."
+    },
+    {
+     "en": "Before its transformation into an urban wilderness honoring Roosevelt in 1940, the island had had a rich history — first, stewardship by the Nacotchtank tribe and then development by the Mason family who cultivated it into a prominent estate with the use of slave labor.",
+     "ko": "1940년 루스벨트를 기리는 도시 속 야생 지대로 탈바꿈하기 전에, 이 섬은 풍부한 역사를 지니고 있었는데, 처음에는 나코트탱크 부족의 관리 아래 있었고, 이후 메이슨 가문이 노예 노동을 이용해 이곳을 유명한 대저택 영지로 개발했다."
+    },
+    {
+     "en": "This layered narrative of conservation, memorialization, and America’s checkered past underscores the nuance of Theodore Roosevelt Island’s monument to its complex namesake, inviting visitors to reflect on the interconnectedness of nature, history, and memory.",
+     "ko": "보존, 기념, 그리고 미국의 얼룩진 과거가 겹겹이 쌓인 이 이야기는 복합적인 인물의 이름을 딴 시어도어 루스벨트 섬 기념물의 미묘함을 부각하며, 방문객들에게 자연, 역사, 기억의 상호 연결성을 되돌아보도록 권한다."
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "from": 14,
+   "to": 16,
+   "title": "",
+   "text": "What do I mean by “the happiness turn”? It is certainly the case that numerous books have been published on the science and economics of happiness, especially from 2005 onward. The popularity of therapeutic cultures and discourses of self-help have also meant a turn to happiness: many books and courses now exist that provide instructions on how to be happy, drawing on a variety of knowledges, including the field of positive psychology, as well as on readings of Eastern traditions, especially Buddhism. It is now common to refer to “the happiness industry”: happiness is both produced and consumed through these books, accumulating value as a form of capital. Barbara Gunnell (2004) describes how “the search for happiness is certainly enriching a lot of people. The feel-good industry is flourishing. Sales of self-help books and CDs that promise a more fulfilling life have never been higher.”\n\nThe media are saturated with images and stories of happiness. In the UK, many broadsheet newspapers have included “specials” on happiness and a BBC program, <i>The Happiness Formula</i>, was aired in 2006. This happiness turn can be described as international; you can visit the “happy planet index” on the World Wide Web and a number of global happiness surveys and reports that measure happiness within and between nation states have been published. These reports are often cited in the media when research findings do not correspond to social expectations, that is, when developing countries are shown to be happier than overdeveloped ones. Take the opening sentence of one article: “Would you believe it, Bangladesh is the happiest nation in the world! The United States, on the other hand, is a sad story: it ranks only 46th in the World Happiness Survey.” Happiness and unhappiness become newsworthy when they challenge ideas about the social status of specific individuals, groups, and nations, often confirming status through the language of disbelief.",
+   "sents": [
+    {
+     "en": "What do I mean by “the happiness turn”?",
+     "ko": "‘행복으로의 전환(the happiness turn)’이란 무엇을 뜻하는가?"
+    },
+    {
+     "en": "It is certainly the case that numerous books have been published on the science and economics of happiness, especially from 2005 onward.",
+     "ko": "특히 2005년 이후 행복의 과학과 경제학에 관한 수많은 책이 출간되어 왔음은 분명한 사실이다."
+    },
+    {
+     "en": "The popularity of therapeutic cultures and discourses of self-help have also meant a turn to happiness: many books and courses now exist that provide instructions on how to be happy, drawing on a variety of knowledges, including the field of positive psychology, as well as on readings of Eastern traditions, especially Buddhism.",
+     "ko": "치유 문화와 자기계발 담론의 인기 또한 행복으로의 전환을 의미해 왔는데, 긍정심리학 분야를 비롯한 다양한 지식과 동양 전통, 특히 불교에 대한 해석에 기대어 행복해지는 방법을 알려 주는 책과 강좌가 이제 많이 존재한다."
+    },
+    {
+     "en": "It is now common to refer to “the happiness industry”: happiness is both produced and consumed through these books, accumulating value as a form of capital.",
+     "ko": "이제는 ‘행복 산업’이라고 부르는 것이 흔한데, 행복은 이러한 책들을 통해 생산되고 소비되며 일종의 자본으로서 가치를 축적한다."
+    },
+    {
+     "en": "Barbara Gunnell (2004) describes how “the search for happiness is certainly enriching a lot of people.",
+     "ko": "바바라 거넬(2004)은 “행복의 추구가 확실히 많은 사람들을 부유하게 하고 있다."
+    },
+    {
+     "en": "The feel-good industry is flourishing.",
+     "ko": "기분 좋아지게 하는 산업이 번창하고 있다."
+    },
+    {
+     "en": "Sales of self-help books and CDs that promise a more fulfilling life have never been higher.”",
+     "ko": "더 충만한 삶을 약속하는 자기계발서와 CD의 판매량이 그 어느 때보다 높다.”라고 설명한다."
+    },
+    {
+     "en": "The media are saturated with images and stories of happiness.",
+     "ko": "미디어는 행복에 관한 이미지와 이야기로 포화 상태이다."
+    },
+    {
+     "en": "In the UK, many broadsheet newspapers have included “specials” on happiness and a BBC program, The Happiness Formula, was aired in 2006.",
+     "ko": "영국에서는 많은 대판형 신문이 행복에 관한 ‘특집’을 실었고 BBC 프로그램 〈행복 공식〉이 2006년에 방송되었다."
+    },
+    {
+     "en": "This happiness turn can be described as international; you can visit the “happy planet index” on the World Wide Web and a number of global happiness surveys and reports that measure happiness within and between nation states have been published.",
+     "ko": "이 행복으로의 전환은 국제적이라고 할 수 있다. 월드와이드웹에서 ‘해피 플래닛 지수’를 확인할 수 있고, 국가 내부와 국가 간의 행복을 측정하는 여러 세계 행복 조사와 보고서가 발표되었다."
+    },
+    {
+     "en": "These reports are often cited in the media when research findings do not correspond to social expectations, that is, when developing countries are shown to be happier than overdeveloped ones.",
+     "ko": "이러한 보고서는 연구 결과가 사회적 기대와 맞지 않을 때, 즉 개발도상국이 과도하게 발전한 나라들보다 더 행복하다고 나타날 때 미디어에서 자주 인용된다."
+    },
+    {
+     "en": "Take the opening sentence of one article: “Would you believe it, Bangladesh is the happiest nation in the world!",
+     "ko": "한 기사의 첫 문장을 예로 들어 보자. “믿어지십니까, 방글라데시가 세계에서 가장 행복한 나라랍니다!"
+    },
+    {
+     "en": "The United States, on the other hand, is a sad story: it ranks only 46th in the World Happiness Survey.”",
+     "ko": "반면 미국은 서글픈 이야기인데, 세계 행복 조사에서 겨우 46위에 올랐다."
+    },
+    {
+     "en": "Happiness and unhappiness become newsworthy when they challenge ideas about the social status of specific individuals, groups, and nations, often confirming status through the language of disbelief.",
+     "ko": "행복과 불행은 특정 개인, 집단, 국가의 사회적 지위에 대한 통념에 도전할 때 뉴스거리가 되며, 흔히 불신의 언어를 통해 그 지위를 확인해 준다."
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "from": 17,
+   "to": 19,
+   "title": "",
+   "text": "The Delphic Oracle was one of the most revered consultation sites of ancient Greece, renowned for its role in providing divine guidance. Located at Delphi, a sacred site dedicated to the god Apollo, the Oracle attracted people from all walks of life — kings, warriors, and common citizens — seeking answers to their most pressing questions. Central to this mystical tradition was the Pythia, the priestess of Apollo, who was believed to channel the god’s voice while in a trance-like state. Her cryptic yet profound prophecies were seen as messages from the divine. Ancient writers such as Virgil and Plutarch spoke of the Oracle with reverence, portraying it as a direct link to the gods.\n\nModern science, however, offers a compelling explanation for the Oracle’s seemingly supernatural abilities. Geologists have determined that Delphi is situated atop intersecting fault lines, areas prone to geological activity. These fault lines may have allowed gases, such as ethylene, to seep through the earth’s surface. Ethylene is known to induce euphoria and altered states of consciousness, which could explain the Pythia’s trance-like state during her prophetic rituals. This scientific perspective provides a rational basis for understanding how natural phenomena might have contributed to the Oracle’s mystique.\n\nThe Delphic Oracle remains an enduring symbol of ancient spirituality, but its story also highlights the interplay between human beliefs and the natural world. By examining both historical accounts and modern geological insights, we gain a deeper appreciation for the ways in which mythology and science can intersect.",
+   "sents": [
+    {
+     "en": "The Delphic Oracle was one of the most revered consultation sites of ancient Greece, renowned for its role in providing divine guidance.",
+     "ko": "델포이 신탁은 신의 인도를 제공하는 역할로 유명한, 고대 그리스에서 가장 존경받는 자문 장소 중 하나였다."
+    },
+    {
+     "en": "Located at Delphi, a sacred site dedicated to the god Apollo, the Oracle attracted people from all walks of life — kings, warriors, and common citizens — seeking answers to their most pressing questions.",
+     "ko": "아폴론 신에게 바쳐진 성지인 델포이에 자리한 이 신탁소는 왕, 전사, 평범한 시민 등 모든 계층의 사람들을 끌어들였고, 이들은 가장 절박한 질문의 답을 구했다."
+    },
+    {
+     "en": "Central to this mystical tradition was the Pythia, the priestess of Apollo, who was believed to channel the god’s voice while in a trance-like state.",
+     "ko": "이 신비로운 전통의 중심에는 아폴론의 여사제인 피티아가 있었는데, 그녀는 몽환 상태에서 신의 목소리를 전달한다고 믿어졌다."
+    },
+    {
+     "en": "Her cryptic yet profound prophecies were seen as messages from the divine.",
+     "ko": "그녀의 수수께끼 같으면서도 심오한 예언은 신의 메시지로 여겨졌다."
+    },
+    {
+     "en": "Ancient writers such as Virgil and Plutarch spoke of the Oracle with reverence, portraying it as a direct link to the gods.",
+     "ko": "베르길리우스와 플루타르코스 같은 고대 작가들은 신탁을 경외심을 담아 이야기하며, 그것을 신들과의 직접적인 연결 고리로 묘사했다."
+    },
+    {
+     "en": "Modern science, however, offers a compelling explanation for the Oracle’s seemingly supernatural abilities.",
+     "ko": "그러나 현대 과학은 신탁의 겉보기에 초자연적인 능력에 대해 설득력 있는 설명을 제시한다."
+    },
+    {
+     "en": "Geologists have determined that Delphi is situated atop intersecting fault lines, areas prone to geological activity.",
+     "ko": "지질학자들은 델포이가 지질 활동이 일어나기 쉬운 지역인 교차하는 단층선 위에 놓여 있다고 밝혀냈다."
+    },
+    {
+     "en": "These fault lines may have allowed gases, such as ethylene, to seep through the earth’s surface.",
+     "ko": "이 단층선들이 에틸렌 같은 가스가 지표면으로 스며 나오게 했을 수 있다."
+    },
+    {
+     "en": "Ethylene is known to induce euphoria and altered states of consciousness, which could explain the Pythia’s trance-like state during her prophetic rituals.",
+     "ko": "에틸렌은 도취감과 의식 변성 상태를 유발하는 것으로 알려져 있으며, 이는 예언 의식 중 피티아의 몽환 상태를 설명해 줄 수 있다."
+    },
+    {
+     "en": "This scientific perspective provides a rational basis for understanding how natural phenomena might have contributed to the Oracle’s mystique.",
+     "ko": "이러한 과학적 관점은 자연 현상이 신탁의 신비로움에 어떻게 기여했을 수 있는지를 이해하는 합리적 근거를 제공한다."
+    },
+    {
+     "en": "The Delphic Oracle remains an enduring symbol of ancient spirituality, but its story also highlights the interplay between human beliefs and the natural world.",
+     "ko": "델포이 신탁은 고대 영성의 불멸의 상징으로 남아 있지만, 그 이야기는 또한 인간의 믿음과 자연계 사이의 상호작용을 부각한다."
+    },
+    {
+     "en": "By examining both historical accounts and modern geological insights, we gain a deeper appreciation for the ways in which mythology and science can intersect.",
+     "ko": "역사적 기록과 현대 지질학의 통찰을 함께 살펴봄으로써, 우리는 신화와 과학이 교차할 수 있는 방식에 대한 더 깊은 이해를 얻는다."
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "from": 20,
+   "to": 21,
+   "title": "",
+   "text": "Ⓐ_____ One of the first rooms to be devoted to formal concerts was that opened in London by Thomas Hickford in 1711. From then on other custom-built concert halls and opera houses gradually started to appear all over Europe. German Ⓑ_____ of music built concert halls on a grand scale. At Schwetzingen, the Elector of Palatine built a new opera house capable of holding an audience of 5000, while Duke Karl Theodor of Württemberg bankrupted his entire principality to provide sensational opera productions at Mannheim. The Berlin Opera House was built by Frederick the Great of Prussia (1740–1786). A notable flautist and patron of music, Frederick was deeply immersed in French culture and maintained a French-speaking court. In London, purpose-built concert halls included Carlisle House, Soho Square (1764); the Pantheon, Oxford Street (1772); and the Hanover Square Rooms (1775). Throughout the 19th century the orchestras involved in London concerts contained so many of the same players that it would be difficult to describe each orchestra as different.",
+   "sents": [
+    {
+     "en": "Ⓐ_____ One of the first rooms to be devoted to formal concerts was that opened in London by Thomas Hickford in 1711.",
+     "ko": "Ⓐ ( 빈칸 ) 정식 연주회 전용으로 마련된 최초의 방 가운데 하나는 1711년 토머스 힉포드가 런던에 연 것이었다."
+    },
+    {
+     "en": "From then on other custom-built concert halls and opera houses gradually started to appear all over Europe.",
+     "ko": "그때부터 다른 맞춤 건축된 콘서트홀과 오페라하우스들이 유럽 전역에 점차 나타나기 시작했다."
+    },
+    {
+     "en": "German Ⓑ_____ of music built concert halls on a grand scale.",
+     "ko": "음악의 독일 Ⓑ ( 빈칸: 군주 )들은 웅장한 규모로 콘서트홀을 지었다."
+    },
+    {
+     "en": "At Schwetzingen, the Elector of Palatine built a new opera house capable of holding an audience of 5000, while Duke Karl Theodor of Württemberg bankrupted his entire principality to provide sensational opera productions at Mannheim.",
+     "ko": "슈베칭겐에서는 팔라틴 선제후가 5천 명의 관객을 수용할 수 있는 새 오페라하우스를 지었고, 뷔르템베르크 공작 카를 테오도어는 만하임에서 화려한 오페라 공연을 제공하느라 자신의 공국 전체를 파산시켰다."
+    },
+    {
+     "en": "The Berlin Opera House was built by Frederick the Great of Prussia (1740–1786).",
+     "ko": "베를린 오페라하우스는 프로이센의 프리드리히 대왕(1740–1786)이 지었다."
+    },
+    {
+     "en": "A notable flautist and patron of music, Frederick was deeply immersed in French culture and maintained a French-speaking court.",
+     "ko": "뛰어난 플루트 연주자이자 음악 후원자였던 프리드리히는 프랑스 문화에 깊이 빠져 있었으며 프랑스어를 쓰는 궁정을 유지했다."
+    },
+    {
+     "en": "In London, purpose-built concert halls included Carlisle House, Soho Square (1764); the Pantheon, Oxford Street (1772); and the Hanover Square Rooms (1775).",
+     "ko": "런던에서 전용으로 지어진 콘서트홀로는 소호 광장의 칼라일 하우스(1764), 옥스퍼드 스트리트의 판테온(1772), 하노버 스퀘어 룸(1775)이 있었다."
+    },
+    {
+     "en": "Throughout the 19th century the orchestras involved in London concerts contained so many of the same players that it would be difficult to describe each orchestra as different.",
+     "ko": "19세기 내내 런던 연주회에 참여한 오케스트라들에는 같은 연주자가 너무 많이 포함되어 있어서, 각 오케스트라가 서로 다르다고 말하기 어려울 정도였다."
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "from": 22,
+   "to": 24,
+   "title": "",
+   "text": "The release of new translations of well-known literary works is more than just a matter of rewording old texts; it’s an opportunity to reintroduce these works in ways that resonate with contemporary readers. Even the most iconic and frequently translated works can benefit from a fresh approach, as language, cultural context, and scholarly understanding continue to evolve.\n\nNew translations of classic literary works are essential for ______.\n\nFirst, earlier translations are sometimes based on original editions that contain inaccuracies, which later research and textual scholarship have since corrected. As new discoveries about the source text emerge, these insights can lead to a more accurate and faithful representation of the original work. This ensures that the translation reflects the true intent of the author, rather than perpetuating lingering misconceptions or misinterpretations.\n\nAdditionally, past translators were shaped by the cultural and social norms of their time, which could influence their interpretation of the text. Language that was once considered appropriate may now feel outdated, and expressions that were acceptable in one era may not resonate with modern sensibilities. Older translations might also have been altered to align with the values or expectations of their time, which can make them feel disconnected from the contemporary world.\n\nFurthermore, there is always room for improvement in translation. Even the best previous versions may not have fully captured the <u>nuance</u> of the work in its original language. A new translation allows for a fresh perspective, providing an opportunity to refine the text in ways that speak more directly to today’s readers. By incorporating current translation techniques and cultural awareness, these versions can present a richer and more authentic experience.\n\nUltimately, new translations breathe renewed life into familiar works, allowing them to be rediscovered and appreciated by modern readers. They offer updated perspectives and can highlight subtleties or meanings that were previously overlooked, ensuring that timeless works remain relevant and engaging for future generations.",
+   "sents": [
+    {
+     "en": "The release of new translations of well-known literary works is more than just a matter of rewording old texts; it’s an opportunity to reintroduce these works in ways that resonate with contemporary readers.",
+     "ko": "잘 알려진 문학 작품의 새 번역본 출간은 단지 옛 텍스트의 표현을 바꾸는 것 이상으로, 이러한 작품들을 동시대 독자들에게 공감을 불러일으키는 방식으로 다시 소개할 기회이다."
+    },
+    {
+     "en": "Even the most iconic and frequently translated works can benefit from a fresh approach, as language, cultural context, and scholarly understanding continue to evolve.",
+     "ko": "가장 상징적이고 자주 번역된 작품조차도 언어, 문화적 맥락, 학문적 이해가 계속 발전하기 때문에 새로운 접근의 덕을 볼 수 있다."
+    },
+    {
+     "en": "New translations of classic literary works are essential for ______.",
+     "ko": "고전 문학 작품의 새 번역은 ( 빈칸 ) 에 필수적이다."
+    },
+    {
+     "en": "First, earlier translations are sometimes based on original editions that contain inaccuracies, which later research and textual scholarship have since corrected.",
+     "ko": "첫째, 이전 번역본은 때때로 오류가 있는 원본판에 기반하는데, 이 오류는 이후의 연구와 텍스트 학문에 의해 바로잡혔다."
+    },
+    {
+     "en": "As new discoveries about the source text emerge, these insights can lead to a more accurate and faithful representation of the original work.",
+     "ko": "원전에 관한 새로운 발견이 나타나면 이러한 통찰은 원작에 대한 더 정확하고 충실한 재현으로 이어질 수 있다."
+    },
+    {
+     "en": "This ensures that the translation reflects the true intent of the author, rather than perpetuating lingering misconceptions or misinterpretations.",
+     "ko": "이는 번역이 잔존하는 오해나 잘못된 해석을 영속시키는 대신 저자의 진정한 의도를 반영하도록 보장한다."
+    },
+    {
+     "en": "Additionally, past translators were shaped by the cultural and social norms of their time, which could influence their interpretation of the text.",
+     "ko": "또한 과거의 번역자들은 당대의 문화적, 사회적 규범의 영향을 받았고, 이는 텍스트에 대한 그들의 해석에 영향을 미쳤을 수 있다."
+    },
+    {
+     "en": "Language that was once considered appropriate may now feel outdated, and expressions that were acceptable in one era may not resonate with modern sensibilities.",
+     "ko": "한때 적절하다고 여겨졌던 언어가 이제는 시대에 뒤떨어져 느껴질 수 있고, 한 시대에 받아들여지던 표현이 현대적 감수성에 와닿지 않을 수 있다."
+    },
+    {
+     "en": "Older translations might also have been altered to align with the values or expectations of their time, which can make them feel disconnected from the contemporary world.",
+     "ko": "오래된 번역본은 또한 당대의 가치나 기대에 맞추도록 변형되었을 수 있고, 이 때문에 현대 세계와 단절된 것처럼 느껴질 수 있다."
+    },
+    {
+     "en": "Furthermore, there is always room for improvement in translation.",
+     "ko": "더 나아가 번역에는 언제나 개선의 여지가 있다."
+    },
+    {
+     "en": "Even the best previous versions may not have fully captured the nuance of the work in its original language.",
+     "ko": "가장 훌륭한 이전 번역본조차 원어로 쓰인 작품의 뉘앙스를 완전히 담아내지 못했을 수 있다."
+    },
+    {
+     "en": "A new translation allows for a fresh perspective, providing an opportunity to refine the text in ways that speak more directly to today’s readers.",
+     "ko": "새 번역은 새로운 시각을 가능하게 하여, 오늘날의 독자에게 더 직접적으로 와닿는 방식으로 텍스트를 다듬을 기회를 제공한다."
+    },
+    {
+     "en": "By incorporating current translation techniques and cultural awareness, these versions can present a richer and more authentic experience.",
+     "ko": "현재의 번역 기법과 문화적 인식을 반영함으로써 이러한 번역본은 더 풍부하고 진정성 있는 경험을 제공할 수 있다."
+    },
+    {
+     "en": "Ultimately, new translations breathe renewed life into familiar works, allowing them to be rediscovered and appreciated by modern readers.",
+     "ko": "궁극적으로 새 번역은 친숙한 작품에 새로운 생명을 불어넣어, 현대 독자들이 그것을 재발견하고 음미하도록 해 준다."
+    },
+    {
+     "en": "They offer updated perspectives and can highlight subtleties or meanings that were previously overlooked, ensuring that timeless works remain relevant and engaging for future generations.",
+     "ko": "그것은 갱신된 관점을 제공하고 이전에 간과되었던 미묘함이나 의미를 부각할 수 있어, 시대를 초월한 작품이 미래 세대에게도 계속 의미 있고 흥미로운 것으로 남도록 보장한다."
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "from": 25,
+   "to": 27,
+   "title": "",
+   "text": "The 1963 Nuclear Test Ban Treaty marked a pivotal moment not only in nuclear diplomacy but also in the growing global awareness of environmental consequences. By halting atmospheric nuclear testing, the treaty shed light on the far-reaching impacts of radioactive fallout and underscored the interconnectedness of human activity and the natural world. Signed by the three major nuclear powers of the time — the United States, the Soviet Union, and the United Kingdom — the treaty prohibited nuclear tests in the atmosphere, outer space, and underwater. However, underground testing was still permitted, reflecting the geopolitical realities of the Cold War and the continued desire for nuclear advancement.\n\nThe agreement emerged as a response to mounting public and scientific concerns over the widespread release of radioactive fallout, which had become a serious environmental pollutant during the surge of atmospheric nuclear testing in the 1950s and early 1960s. Fallout consisted of radioactive isotopes such as strontium-90 and cesium-137, which were carried by wind currents across vast distances, settling into soil, water, and vegetation. These isotopes posed severe risks to ecosystems and human health, infiltrating the food chain through contaminated crops, livestock, and water supplies. For instance, strontium-90, a particularly persistent isotope, was found to accumulate in bones and teeth, raising fears about long-term health consequences, including cancer and genetic mutations.\n\nThe scientific scrutiny surrounding radioactive fallout played a crucial role in elevating environmental consciousness. Research into the dispersion and effects of these radioactive particles revealed the delicate balance of ecosystems and the dangers posed by persistent pollutants. Scientists, environmentalists, and concerned citizens began to recognize the global nature of environmental threats and the need for international cooperation to address them. Ultimately, the Nuclear Test Ban Treaty represented a turning point in the public's understanding of environmental stewardship. By directly addressing the environmental consequences of human activity, it laid the groundwork for future environmental movements. The treaty's success in limiting atmospheric pollution offered a powerful example of how scientific research, public awareness, and international collaboration could converge to mitigate a global crisis — an approach that would inspire later efforts to combat other environmental challenges, such as industrial pollution, deforestation, and climate change.",
+   "sents": [
+    {
+     "en": "The 1963 Nuclear Test Ban Treaty marked a pivotal moment not only in nuclear diplomacy but also in the growing global awareness of environmental consequences.",
+     "ko": "1963년 핵실험금지조약은 핵 외교뿐 아니라 환경적 결과에 대한 세계적 인식이 커지는 데서도 중대한 전환점이 되었다."
+    },
+    {
+     "en": "By halting atmospheric nuclear testing, the treaty shed light on the far-reaching impacts of radioactive fallout and underscored the interconnectedness of human activity and the natural world.",
+     "ko": "대기권 핵실험을 중단시킴으로써 이 조약은 방사성 낙진의 광범위한 영향을 밝혀 주었고, 인간 활동과 자연계의 상호 연결성을 강조했다."
+    },
+    {
+     "en": "Signed by the three major nuclear powers of the time — the United States, the Soviet Union, and the United Kingdom — the treaty prohibited nuclear tests in the atmosphere, outer space, and underwater.",
+     "ko": "당시 3대 핵 강국인 미국, 소련, 영국이 서명한 이 조약은 대기권, 우주 공간, 수중에서의 핵실험을 금지했다."
+    },
+    {
+     "en": "However, underground testing was still permitted, reflecting the geopolitical realities of the Cold War and the continued desire for nuclear advancement.",
+     "ko": "그러나 지하 실험은 여전히 허용되었는데, 이는 냉전의 지정학적 현실과 핵 발전에 대한 지속적인 욕구를 반영한다."
+    },
+    {
+     "en": "The agreement emerged as a response to mounting public and scientific concerns over the widespread release of radioactive fallout, which had become a serious environmental pollutant during the surge of atmospheric nuclear testing in the 1950s and early 1960s.",
+     "ko": "이 협정은 1950년대와 1960년대 초 대기권 핵실험이 급증하는 동안 심각한 환경 오염 물질이 된 방사성 낙진의 광범위한 방출에 대한 대중과 과학계의 커져 가는 우려에 대한 대응으로 나왔다."
+    },
+    {
+     "en": "Fallout consisted of radioactive isotopes such as strontium-90 and cesium-137, which were carried by wind currents across vast distances, settling into soil, water, and vegetation.",
+     "ko": "낙진은 스트론튬-90과 세슘-137 같은 방사성 동위원소로 이루어져 있었고, 이것들은 바람의 흐름을 타고 먼 거리를 이동해 토양, 물, 식물에 내려앉았다."
+    },
+    {
+     "en": "These isotopes posed severe risks to ecosystems and human health, infiltrating the food chain through contaminated crops, livestock, and water supplies.",
+     "ko": "이 동위원소들은 오염된 농작물, 가축, 상수원을 통해 먹이 사슬에 스며들면서 생태계와 인체 건강에 심각한 위험을 초래했다."
+    },
+    {
+     "en": "For instance, strontium-90, a particularly persistent isotope, was found to accumulate in bones and teeth, raising fears about long-term health consequences, including cancer and genetic mutations.",
+     "ko": "예를 들어 특히 잘 분해되지 않는 동위원소인 스트론튬-90은 뼈와 치아에 축적되는 것으로 밝혀져, 암과 유전적 돌연변이를 포함한 장기적 건강 영향에 대한 우려를 낳았다."
+    },
+    {
+     "en": "The scientific scrutiny surrounding radioactive fallout played a crucial role in elevating environmental consciousness.",
+     "ko": "방사성 낙진을 둘러싼 과학적 정밀 조사는 환경 의식을 높이는 데 결정적인 역할을 했다."
+    },
+    {
+     "en": "Research into the dispersion and effects of these radioactive particles revealed the delicate balance of ecosystems and the dangers posed by persistent pollutants.",
+     "ko": "이 방사성 입자들의 확산과 영향에 대한 연구는 생태계의 섬세한 균형과 잔류성 오염 물질이 초래하는 위험을 드러냈다."
+    },
+    {
+     "en": "Scientists, environmentalists, and concerned citizens began to recognize the global nature of environmental threats and the need for international cooperation to address them.",
+     "ko": "과학자, 환경운동가, 우려하는 시민들은 환경 위협의 세계적 성격과 이에 대처하기 위한 국제 협력의 필요성을 인식하기 시작했다."
+    },
+    {
+     "en": "Ultimately, the Nuclear Test Ban Treaty represented a turning point in the public's understanding of environmental stewardship.",
+     "ko": "궁극적으로 핵실험금지조약은 환경 관리에 대한 대중의 이해에서 전환점이 되었다."
+    },
+    {
+     "en": "By directly addressing the environmental consequences of human activity, it laid the groundwork for future environmental movements.",
+     "ko": "인간 활동의 환경적 결과를 직접 다룸으로써 이 조약은 이후 환경 운동의 토대를 마련했다."
+    },
+    {
+     "en": "The treaty's success in limiting atmospheric pollution offered a powerful example of how scientific research, public awareness, and international collaboration could converge to mitigate a global crisis — an approach that would inspire later efforts to combat other environmental challenges, such as industrial pollution, deforestation, and climate change.",
+     "ko": "대기 오염을 제한한 이 조약의 성공은 과학 연구, 대중의 인식, 국제 협력이 한데 모여 지구적 위기를 완화할 수 있음을 보여 주는 강력한 사례였으며, 이러한 접근은 산업 오염, 삼림 파괴, 기후 변화 같은 다른 환경 문제에 맞서려는 이후의 노력에 영감을 주게 된다."
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "from": 28,
+   "to": 30,
+   "title": "",
+   "text": "The issue of mind-body dualism — the debate over how the “mind” interfaces with the physical brain — poses a fundamental challenge to modern cognitive science, which seeks to understand thought and mental organization as arising solely from physical phenomenon. From the musings of ancient philosophers like Plato to the pronouncements of modern thinkers such as René Descartes, the concept of mind-body dualism asserts that the “mind,” being non-material and indivisible, cannot be fully explained by physical phenomena alone.\n\nThis philosophical position presents a significant obstacle to cognitive science's goal of explaining consciousness as the result of physical brain processes. If the mind operates on a plane separate from the physical, how can a science grounded in materialism reconcile the two? Philosopher David Chalmers further complicates this inquiry by distinguishing between the “easy” problems of cognitive functions — such as perception, memory, and decision-making — and the “hard” problem of consciousness. For example, Chalmers questions why subjective experience accompanies certain brain processes but not others, adding a layer of complexity to the debate.\n\nChalmers' analysis highlights a crucial issue: cognitive science can address the functional aspects of consciousness — how the brain processes information and enables behaviors — but it struggles to explain the experiential qualities of consciousness, the \"what it's like\" of being aware. This gap in understanding, often referred to as the “explanatory gap,” remains a profound metaphysical quandary. Mind-body dualism, therefore, does not simply challenge the scope of cognitive science; by asserting the metaphysical uniqueness of the “mind,” it _______.",
+   "sents": [
+    {
+     "en": "The issue of mind-body dualism — the debate over how the “mind” interfaces with the physical brain — poses a fundamental challenge to modern cognitive science, which seeks to understand thought and mental organization as arising solely from physical phenomenon.",
+     "ko": "마음이 물리적 뇌와 어떻게 접점을 이루는가에 대한 논쟁인 심신 이원론의 문제는, 사고와 정신 조직을 오로지 물리적 현상에서 비롯되는 것으로 이해하려는 현대 인지과학에 근본적인 도전을 제기한다."
+    },
+    {
+     "en": "From the musings of ancient philosophers like Plato to the pronouncements of modern thinkers such as René Descartes, the concept of mind-body dualism asserts that the “mind,” being non-material and indivisible, cannot be fully explained by physical phenomena alone.",
+     "ko": "플라톤 같은 고대 철학자들의 사색부터 르네 데카르트 같은 근대 사상가들의 선언에 이르기까지, 심신 이원론의 개념은 비물질적이고 분할할 수 없는 ‘마음’이 물리적 현상만으로는 완전히 설명될 수 없다고 주장한다."
+    },
+    {
+     "en": "This philosophical position presents a significant obstacle to cognitive science's goal of explaining consciousness as the result of physical brain processes.",
+     "ko": "이 철학적 입장은 의식을 물리적 뇌 과정의 결과로 설명하려는 인지과학의 목표에 중대한 장애물이 된다."
+    },
+    {
+     "en": "If the mind operates on a plane separate from the physical, how can a science grounded in materialism reconcile the two?",
+     "ko": "마음이 물리적인 것과는 별개의 차원에서 작동한다면, 유물론에 기반한 과학이 어떻게 그 둘을 조화시킬 수 있겠는가?"
+    },
+    {
+     "en": "Philosopher David Chalmers further complicates this inquiry by distinguishing between the “easy” problems of cognitive functions — such as perception, memory, and decision-making — and the “hard” problem of consciousness.",
+     "ko": "철학자 데이비드 차머스는 지각, 기억, 의사 결정과 같은 인지 기능의 ‘쉬운’ 문제와 의식의 ‘어려운’ 문제를 구분함으로써 이 탐구를 더욱 복잡하게 만든다."
+    },
+    {
+     "en": "For example, Chalmers questions why subjective experience accompanies certain brain processes but not others, adding a layer of complexity to the debate.",
+     "ko": "예를 들어 차머스는 왜 주관적 경험이 어떤 뇌 과정에는 수반되고 다른 과정에는 수반되지 않는지를 물으며, 논쟁에 한 겹의 복잡성을 더한다."
+    },
+    {
+     "en": "Chalmers' analysis highlights a crucial issue: cognitive science can address the functional aspects of consciousness — how the brain processes information and enables behaviors — but it struggles to explain the experiential qualities of consciousness, the \"what it's like\" of being aware.",
+     "ko": "차머스의 분석은 핵심 쟁점을 부각한다. 인지과학은 의식의 기능적 측면, 즉 뇌가 어떻게 정보를 처리하고 행동을 가능하게 하는지는 다룰 수 있지만, 의식의 경험적 성질, 즉 인식한다는 것의 ‘어떤 느낌인지’는 설명하기 어려워한다는 것이다."
+    },
+    {
+     "en": "This gap in understanding, often referred to as the “explanatory gap,” remains a profound metaphysical quandary.",
+     "ko": "흔히 ‘설명적 간극’이라 불리는 이 이해의 틈은 여전히 심오한 형이상학적 난제로 남아 있다."
+    },
+    {
+     "en": "Mind-body dualism, therefore, does not simply challenge the scope of cognitive science; by asserting the metaphysical uniqueness of the “mind,” it _______.",
+     "ko": "따라서 심신 이원론은 인지과학의 범위에 단순히 도전하는 것이 아니라, ‘마음’의 형이상학적 고유성을 주장함으로써 ( 빈칸 )."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "no": 1,
+   "passage": null,
+   "stem": "Her _______ made her an easy target for scams, as she was quick to believe even the most outlandish of stories.",
+   "choices": [
+    "frivolity",
+    "solemnity",
+    "mendacity",
+    "credulity",
+    "humility"
+   ],
+   "answer": 4,
+   "points": 3.0,
+   "explain": "'가장 터무니없는 이야기도 금방 믿었다'는 단서가 남을 쉽게 믿는 성질, 즉 credulity(잘 믿음)를 가리킨다. mendacity(거짓말하는 버릇)는 속이는 쪽의 성질이라 함정이다.",
+   "trans": "그녀는 가장 터무니없는 이야기조차 금방 믿어 버렸기 때문에, 그녀의 잘 속는 성격은 그녀를 사기의 손쉬운 표적으로 만들었다.",
+   "sents": [
+    {
+     "en": "Her _______ made her an easy target for scams, as she was quick to believe even the most outlandish of stories.",
+     "ko": "그녀의 ( 빈칸: 잘 믿는 성향 )은 그녀가 가장 터무니없는 이야기조차 금방 믿었기 때문에 그녀를 사기의 손쉬운 표적으로 만들었다."
+    }
+   ],
+   "choices_ko": [
+    "경솔함, 경박함",
+    "엄숙함, 진지함",
+    "거짓말하는 버릇, 허위",
+    "잘 믿음, 쉽게 속는 성질",
+    "겸손"
+   ]
+  },
+  {
+   "no": 2,
+   "passage": null,
+   "stem": "When the family doctor encountered symptoms he could not diagnose, he consulted a specialist, recognizing that the matter was beyond his _______.",
+   "choices": [
+    "ken",
+    "zone",
+    "mew",
+    "grip",
+    "span"
+   ],
+   "answer": 1,
+   "points": 3.0,
+   "explain": "beyond one's ken은 '~의 지식(이해) 범위를 넘어서는'이라는 관용 표현이다. 진단할 수 없는 증상이라 전문의와 상의했다는 문맥에 맞는다.",
+   "trans": "가정의는 진단할 수 없는 증상을 맞닥뜨리자, 그 문제가 자신의 지식 범위를 넘어선다는 것을 인정하고 전문의와 상의했다.",
+   "sents": [
+    {
+     "en": "When the family doctor encountered symptoms he could not diagnose, he consulted a specialist, recognizing that the matter was beyond his _______.",
+     "ko": "가정의가 진단할 수 없는 증상을 마주하자, 그는 그 문제가 자신의 ( 빈칸: 지식 범위 )를 넘어선다고 인식하고 전문의와 상담했다."
+    }
+   ],
+   "choices_ko": [
+    "지식·이해의 범위",
+    "구역, 지대",
+    "갈매기(고어)",
+    "움켜쥐기, 통제력",
+    "기간, 폭, 범위"
+   ]
+  },
+  {
+   "no": 3,
+   "passage": null,
+   "stem": "Oratorio implies the sincere religious treatment of sacred subjects, such that non-sacred oratorio is generally qualified as secular oratorio: a piece of terminology that would, in some historical contexts, have been regarded as _______.",
+   "choices": [
+    "plagiaristic",
+    "oxymoronic",
+    "statutory",
+    "inopportune",
+    "syllogistic"
+   ],
+   "answer": 2,
+   "points": 3.0,
+   "explain": "오라토리오는 본래 종교적 주제를 다루므로 'secular(세속적) oratorio'라는 말은 서로 모순되는 단어의 결합, 즉 oxymoronic(모순어법적)으로 여겨졌을 것이다.",
+   "trans": "오라토리오는 신성한 주제를 진지하게 종교적으로 다루는 것을 뜻하므로, 신성하지 않은 오라토리오는 흔히 '세속 오라토리오'라고 한정되는데, 이는 어떤 역사적 맥락에서는 모순어법으로 여겨졌을 용어이다.",
+   "sents": [
+    {
+     "en": "Oratorio implies the sincere religious treatment of sacred subjects, such that non-sacred oratorio is generally qualified as secular oratorio: a piece of terminology that would, in some historical contexts, have been regarded as _______.",
+     "ko": "오라토리오는 신성한 주제에 대한 진지한 종교적 처리를 함축하며, 그래서 비신성적 오라토리오는 일반적으로 ‘세속 오라토리오’라고 수식되는데, 이는 어떤 역사적 맥락에서는 ( 빈칸: 형용모순적인 )것으로 여겨졌을 용어이다."
+    }
+   ],
+   "choices_ko": [
+    "표절의",
+    "모순 어법의, 형용모순적인",
+    "법령에 의한, 법정의",
+    "시기가 적절하지 않은",
+    "삼단논법의"
+   ]
+  },
+  {
+   "no": 4,
+   "passage": null,
+   "stem": "The rebel group that <u>①toppled</u> former Syrian dictator Bashar al-Assad’s regime now faces the challenge of <u>②replacing</u> it. They’ve set up an interim government. Many people <u>③are waiting</u> to see what the rebel group will do <u>④different</u> than Assad. The challenge is to govern a <u>⑤devastated</u> country with many ethnic and religious groups.",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "answer": 4,
+   "points": 2.0,
+   "explain": "what the rebel group will do ___ 에서 동사 do를 수식하므로 형용사 different가 아니라 부사 differently가 와야 한다. ②는 동명사 replacing이 the challenge of의 목적어로 바르게 쓰였다.",
+   "trans": "시리아의 전 독재자 바샤르 알아사드 정권을 무너뜨린 반군 단체는 이제 그 정권을 대체해야 하는 과제에 직면해 있다. 많은 사람들이 반군이 아사드와 다르게 무엇을 할지 지켜보고 있다.",
+   "sents": [
+    {
+     "en": "The rebel group that ①toppled former Syrian dictator Bashar al-Assad’s regime now faces the challenge of ②replacing it.",
+     "ko": "시리아의 전 독재자 바샤르 알아사드의 정권을 ①무너뜨린 반군 집단은 이제 그것을 ②대체하는 과제에 직면해 있다."
+    },
+    {
+     "en": "They’ve set up an interim government.",
+     "ko": "그들은 과도 정부를 세웠다."
+    },
+    {
+     "en": "Many people ③are waiting to see what the rebel group will do ④different than Assad.",
+     "ko": "많은 사람들은 그 반군 집단이 알아사드와 ④다르게 무엇을 할지 ③지켜보고 있다."
+    },
+    {
+     "en": "The challenge is to govern a ⑤devastated country with many ethnic and religious groups.",
+     "ko": "과제는 여러 민족과 종교 집단이 있는 ⑤황폐해진 나라를 통치하는 것이다."
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 5,
+   "passage": null,
+   "stem": "Civic engagement plays a vital role in shaping a strong and inclusive society. It is impossible for people to achieve dignity in the contemporary world <u>①without active participating as citizens.</u> Voting, volunteering, and community organizing <u>②are just a few ways</u> individuals can make a difference. By taking part in these activities, people <u>③not only improve their communities but also gain</u> a sense of purpose. Those who remain disengaged often miss out on opportunities to influence decisions <u>④that affect their lives.</u> Ultimately, a healthy democracy <u>⑤depends on</u> the involvement of its citizens.",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "answer": 1,
+   "points": 2.0,
+   "explain": "형용사 active의 수식을 받으므로 동명사 participating이 아니라 명사 participation이 와야 한다(without active participation as citizens). ③은 not only A but also B 병렬 구조가 바르다.",
+   "trans": "시민으로서 적극적으로 참여하지 않고서는 사람들이 현대 세계에서 존엄성을 성취하는 것은 불가능하다.",
+   "sents": [
+    {
+     "en": "Civic engagement plays a vital role in shaping a strong and inclusive society.",
+     "ko": "시민 참여는 강하고 포용적인 사회를 형성하는 데 중요한 역할을 한다."
+    },
+    {
+     "en": "It is impossible for people to achieve dignity in the contemporary world ①without active participating as citizens.",
+     "ko": "사람들이 현대 세계에서 시민으로서 ①적극적으로 참여하지 않고서는(문법상 active participation이어야 함) 존엄성을 달성하는 것은 불가능하다."
+    },
+    {
+     "en": "Voting, volunteering, and community organizing ②are just a few ways individuals can make a difference.",
+     "ko": "투표, 자원봉사, 지역사회 조직 활동은 개인이 변화를 만들 수 있는 방법의 일부에 ②불과하다."
+    },
+    {
+     "en": "By taking part in these activities, people ③not only improve their communities but also gain a sense of purpose.",
+     "ko": "이러한 활동에 참여함으로써 사람들은 ③자신의 지역사회를 개선할 뿐만 아니라 목적의식도 얻는다."
+    },
+    {
+     "en": "Those who remain disengaged often miss out on opportunities to influence decisions ④that affect their lives.",
+     "ko": "참여하지 않는 사람들은 자신의 삶에 영향을 미치는 결정에 영향력을 행사할 ④기회를 놓치는 경우가 많다."
+    },
+    {
+     "en": "Ultimately, a healthy democracy ⑤depends on the involvement of its citizens.",
+     "ko": "궁극적으로 건강한 민주주의는 시민의 참여에 ⑤달려 있다."
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 6,
+   "passage": null,
+   "stem": "Reorder the following sentences to form a coherent passage.",
+   "box": "Ⓐ Relevance theory may be seen as an attempt to work out in detail one of Grice’s central claims: that an essential feature of most human communication, both verbal and non-verbal, is the expression and recognition of intentions.\nⒷ According to the code model, a communicator encodes her intended message into a signal, which is decoded by the audience using an identical copy of the code.\nⒸ However, the linguistic meaning recovered by decoding is just one of the inputs to a non-demonstrative inference process which yields an interpretation of the speaker’s meaning.\nⒹ In developing this claim, Grice laid the foundations for an alternative to the classical code model: an inferential model of communication.\nⒺ An utterance is, of course, a linguistically coded piece of evidence, so that verbal comprehension involves an element of decoding.",
+   "choices": [
+    "Ⓑ—Ⓓ—Ⓐ—Ⓔ—Ⓒ",
+    "Ⓐ—Ⓑ—Ⓓ—Ⓒ—Ⓔ",
+    "Ⓑ—Ⓐ—Ⓔ—Ⓓ—Ⓒ",
+    "Ⓐ—Ⓓ—Ⓑ—Ⓔ—Ⓒ",
+    "Ⓐ—Ⓒ—Ⓑ—Ⓓ—Ⓔ"
+   ],
+   "answer": 4,
+   "points": 4.0,
+   "explain": "Ⓐ에서 그라이스의 핵심 주장을 소개하고, Ⓓ의 this claim이 그것을 받아 '고전적 코드 모델의 대안'을 언급한다. Ⓑ가 코드 모델을 설명하고, Ⓔ(발화는 물론 코딩된 증거이므로 해독 요소가 있다)에 이어 Ⓒ의 However(하지만 해독된 의미는 추론의 입력 중 하나일 뿐)로 마무리된다.",
+   "trans": "그러나 해독을 통해 얻어진 언어적 의미는 화자의 의미에 대한 해석을 산출하는 비논증적 추론 과정의 입력 중 하나에 불과하다.",
+   "sents": [
+    {
+     "en": "Reorder the following sentences to form a coherent passage.",
+     "ko": "다음 문장들을 재배열하여 일관된 글을 만드시오."
+    },
+    {
+     "en": "Ⓐ Relevance theory may be seen as an attempt to work out in detail one of Grice’s central claims: that an essential feature of most human communication, both verbal and non-verbal, is the expression and recognition of intentions.",
+     "ko": "Ⓐ 관련성 이론은 그라이스의 핵심 주장 중 하나, 즉 언어적이든 비언어적이든 대부분의 인간 의사소통의 본질적 특징은 의도의 표현과 인식이라는 주장을 상세히 구체화하려는 시도로 볼 수 있다."
+    },
+    {
+     "en": "Ⓑ According to the code model, a communicator encodes her intended message into a signal, which is decoded by the audience using an identical copy of the code.",
+     "ko": "Ⓑ 부호 모형에 따르면, 의사소통자는 의도한 메시지를 신호로 부호화하고, 청중은 그 부호와 동일한 사본을 사용하여 이를 해독한다."
+    },
+    {
+     "en": "Ⓒ However, the linguistic meaning recovered by decoding is just one of the inputs to a non-demonstrative inference process which yields an interpretation of the speaker’s meaning.",
+     "ko": "Ⓒ 그러나 해독으로 복원된 언어적 의미는 화자의 의미에 대한 해석을 산출하는 비논증적 추론 과정에 들어가는 입력 중 하나일 뿐이다."
+    },
+    {
+     "en": "Ⓓ In developing this claim, Grice laid the foundations for an alternative to the classical code model: an inferential model of communication.",
+     "ko": "Ⓓ 이 주장을 발전시키면서 그라이스는 고전적 부호 모형에 대한 대안, 즉 의사소통의 추론 모형의 토대를 놓았다."
+    },
+    {
+     "en": "Ⓔ An utterance is, of course, a linguistically coded piece of evidence, so that verbal comprehension involves an element of decoding.",
+     "ko": "Ⓔ 물론 발화는 언어적으로 부호화된 증거이므로, 언어 이해에는 해독의 요소가 포함된다."
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 7,
+   "passage": "p7",
+   "stem": "What is being said about Plato’s use of the dialogue form?",
+   "choices": [
+    "It shows a link between the pre-Socratics and 20th-century criticism.",
+    "It was a landmark in the history of Western literary criticism.",
+    "It reveals that Plato was uninterested in the function of literature.",
+    "It makes the issues he addresses in them appear longstanding.",
+    "It was the motivation for Aristotle to write his treatise on poetics."
+   ],
+   "answer": 4,
+   "points": 4.0,
+   "explain": "대화 형식은 '그가 제기한 문제가 그가 다루기 전부터 이미 논의되어 왔음을 시사한다'고 했으므로, 다루는 문제들이 오래된 것처럼 보이게 한다는 ④가 정답이다.",
+   "trans": "역사적 인물들이 특정한 주장을 전달하는 대화 형식을 그가 선택한 것은, 그가 제기하는 문제가 그가 다루기 이전에 이미 논의되어 왔음을 시사한다.",
+   "sents": [
+    {
+     "en": "What is being said about Plato’s use of the dialogue form?",
+     "ko": "플라톤의 대화 형식 사용에 대해 무엇이 언급되고 있는가?"
+    }
+   ],
+   "choices_ko": [
+    "소크라테스 이전 철학자들과 20세기 비평 사이의 연결을 보여 준다.",
+    "서양 문학 비평사의 획기적 사건이었다.",
+    "플라톤이 문학의 기능에 관심이 없었음을 보여 준다.",
+    "그가 다루는 문제들이 오래전부터 이어져 온 것처럼 보이게 한다.",
+    "아리스토텔레스가 시학 논문을 쓰게 된 동기였다."
+   ]
+  },
+  {
+   "no": 8,
+   "passage": "p7",
+   "stem": "According to the passage, which statement is correct?",
+   "choices": [
+    "Plato’s role in European literary theory has been minor.",
+    "Plato believed poetry lacks truth because it is a copy of a copy.",
+    "Plato first raised issues now perennial in Western philosophy.",
+    "Plato set out to write a systematic theory of literature.",
+    "Plato values mimesis over objects in the material world."
+   ],
+   "answer": 2,
+   "points": 4.0,
+   "explain": "'시는 복사본의 복사본에 불과하여 진리로부터 멀어지게 한다'는 내용과 일치하는 ②가 정답이다. ③은 문제들이 이미 그 이전부터 논의되었다는 내용과 어긋나고, ④는 체계적 이론을 쓰려 하지 않았다는 내용과 반대이다.",
+   "trans": "시는 복사본의 복사본에 불과하여 진리를 향하기보다는 진리로부터 멀어지게 한다.",
+   "sents": [
+    {
+     "en": "According to the passage, which statement is correct?",
+     "ko": "지문에 따르면 옳은 진술은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "유럽 문학 이론에서 플라톤의 역할은 미미했다.",
+    "플라톤은 시가 복제의 복제이므로 진리가 결여되어 있다고 믿었다.",
+    "플라톤은 지금 서양 철학에서 영원한 쟁점이 된 문제들을 처음 제기했다.",
+    "플라톤은 체계적인 문학 이론을 쓰려고 나섰다.",
+    "플라톤은 물질세계의 사물보다 모방을 더 가치 있게 여긴다."
+   ]
+  },
+  {
+   "no": 9,
+   "passage": "p9",
+   "stem": "Which pairing is incorrect?",
+   "choices": [
+    "of seeing — visual",
+    "of listening — auditory",
+    "of smelling — olfactory",
+    "of tasting — gustatory",
+    "of feeling — kinetic"
+   ],
+   "answer": 5,
+   "points": 2.0,
+   "explain": "visual(시각), auditory(청각), olfactory(후각), gustatory(미각)는 모두 맞다. feeling(촉각)에 해당하는 말은 tactile이며, kinetic은 '운동의'라는 뜻이라 짝이 틀렸다.",
+   "trans": "나는 보고, 듣고, 냄새 맡고, 맛보는 모든 감각적 세부 사항을 사용한다.",
+   "sents": [
+    {
+     "en": "Which pairing is incorrect?",
+     "ko": "옳지 않은 짝은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "보는 것 — 시각의",
+    "듣는 것 — 청각의",
+    "냄새 맡는 것 — 후각의",
+    "맛보는 것 — 미각의",
+    "느끼는 것 — 운동(감각)의"
+   ]
+  },
+  {
+   "no": 10,
+   "passage": "p9",
+   "stem": "What is the author referring to in mentioning <u>“that electric, living thing”</u>?",
+   "choices": [
+    "expressing gratitude",
+    "noticing sensory details",
+    "vivid sensations",
+    "forming connections",
+    "the thread of language"
+   ],
+   "answer": 5,
+   "points": 2.0,
+   "explain": "'우리를 연결하는 언어의 실, 내 질문들이 그 전율하는, 살아 있는 것을 통해 독자와 관계 맺는 방식'이라고 했으므로 that electric, living thing은 앞의 the thread of language를 가리킨다.",
+   "trans": "이런 순간에 나는 우리를 연결하는 언어의 실, 즉 내 질문들이 그 전율하는 살아 있는 것을 통해 독자들과 어떻게 관계 맺는지를 경험한다.",
+   "sents": [
+    {
+     "en": "What is the author referring to in mentioning “that electric, living thing”?",
+     "ko": "“그 전기가 통하는 살아 있는 것”을 언급할 때 필자가 가리키는 것은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "감사를 표하는 것",
+    "감각적 세부를 알아차리는 것",
+    "생생한 감각",
+    "관계를 맺는 것",
+    "언어의 실"
+   ]
+  },
+  {
+   "no": 11,
+   "passage": "p11",
+   "stem": "Which is correct according to the passage?",
+   "choices": [
+    "Theodore Roosevelt Island was first located on the National Mall.",
+    "The statue of Theodore Roosevelt is enmeshed in controversy.",
+    "Theodore Roosevelt is known for the 1906 Humanities Act.",
+    "The Masons superseded the Nacotchtank on Roosevelt Island.",
+    "Theodore Roosevelt’s monument receives only few visitors."
+   ],
+   "answer": 4,
+   "points": 3.0,
+   "explain": "섬은 처음에 나코치탱크 부족이 관리했고 '그 다음' 메이슨 가문이 개발했다고 했으므로, 메이슨 가문이 나코치탱크족을 대체했다는 ④가 맞다. ③은 Antiquities Act를 Humanities Act로 바꾼 함정이다.",
+   "trans": "이 섬은 처음에는 나코치탱크 부족의 관리를 받았고, 그 다음에는 노예 노동을 이용해 섬을 저명한 사유지로 가꾼 메이슨 가문에 의해 개발되었다.",
+   "sents": [
+    {
+     "en": "Which is correct according to the passage?",
+     "ko": "지문에 따르면 옳은 것은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "시어도어 루스벨트 섬은 원래 내셔널 몰에 위치해 있었다.",
+    "시어도어 루스벨트의 동상은 논란에 휘말려 있다.",
+    "시어도어 루스벨트는 1906년 인문학법(Humanities Act)으로 알려져 있다.",
+    "메이슨 가문이 루스벨트 섬에서 나코트탱크 부족을 대체했다.",
+    "시어도어 루스벨트의 기념물은 방문객이 거의 없다."
+   ]
+  },
+  {
+   "no": 12,
+   "passage": "p11",
+   "stem": "What is implied about Theodore Roosevelt Island’s design compared to other presidential monuments?",
+   "choices": [
+    "It is grander than other memorials in Washington, DC.",
+    "It emphasizes nature and environmentalism over politics.",
+    "It was designed primarily to be widely accessible.",
+    "It stresses military accomplishments over social issues.",
+    "It highlights the legacy of slavery in the United States."
+   ],
+   "answer": 2,
+   "points": 3.0,
+   "explain": "다른 대통령 기념물과 달리 루스벨트 섬은 '소박하게 자연을 기리고 루스벨트의 환경적 유산을 조용히 기념한다'고 했으므로 ②가 정답이다. 섬은 보도교로만 접근 가능하므로 ③은 틀리다.",
+   "trans": "링컨, 제퍼슨, 워싱턴 같은 대통령들을 기리는 광활한 개방 공간과 달리, 루스벨트 섬은 소박하게 자연을 기리고 루스벨트의 환경적 유산을 조용히 기념한다.",
+   "sents": [
+    {
+     "en": "What is implied about Theodore Roosevelt Island’s design compared to other presidential monuments?",
+     "ko": "다른 대통령 기념물과 비교한 시어도어 루스벨트 섬의 설계에 대해 암시되는 것은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "워싱턴 DC의 다른 기념물보다 웅장하다.",
+    "정치보다 자연과 환경주의를 강조한다.",
+    "주로 널리 접근할 수 있도록 설계되었다.",
+    "사회 문제보다 군사적 업적을 강조한다.",
+    "미국의 노예제 유산을 부각한다."
+   ]
+  },
+  {
+   "no": 13,
+   "passage": "p11",
+   "stem": "In the context of the passage, which is the best synonym for <u>“stewardship”</u>?",
+   "choices": [
+    "supervision",
+    "guidance",
+    "cultivation",
+    "auspices",
+    "improvement"
+   ],
+   "answer": 1,
+   "points": 3.0,
+   "explain": "stewardship은 토지·자원을 책임지고 '관리·감독'하는 것을 뜻하므로 supervision이 가장 가깝다. cultivation은 뒤의 메이슨 가문의 개발(cultivated)과 연결한 함정이다.",
+   "trans": "처음에는 나코치탱크 부족이 이 섬을 관리했다.",
+   "sents": [
+    {
+     "en": "In the context of the passage, which is the best synonym for “stewardship”?",
+     "ko": "지문의 맥락에서 “stewardship(관리)”의 가장 적절한 동의어는 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "감독, 관리",
+    "지도, 안내",
+    "경작, 재배, 양성",
+    "후원, 보호(auspices)",
+    "개선, 향상"
+   ]
+  },
+  {
+   "no": 14,
+   "passage": "p14",
+   "stem": "What is the passage mainly about?",
+   "choices": [
+    "The UK’s flourishing happiness industry",
+    "The variety of knowledges in positive psychology",
+    "The media coverage of “the happiness turn”",
+    "Bangladesh as the happiest country in the world",
+    "Public interest in happiness being on the rise"
+   ],
+   "answer": 5,
+   "points": 3.0,
+   "explain": "행복에 관한 책·강좌·산업, 언론 보도, 국제 조사 등 행복에 대한 대중적 관심이 커지는 현상('the happiness turn')을 전반적으로 다루므로 ⑤가 정답이다. ③은 둘째 단락에만 해당한다.",
+   "trans": "내가 말하는 '행복으로의 전환'이란 무엇인가? 특히 2005년 이후로 행복의 과학과 경제학에 관한 수많은 책이 출판된 것은 분명한 사실이다.",
+   "sents": [
+    {
+     "en": "What is the passage mainly about?",
+     "ko": "이 글은 주로 무엇에 관한 것인가?"
+    }
+   ],
+   "choices_ko": [
+    "영국의 번창하는 행복 산업",
+    "긍정심리학의 다양한 지식",
+    "‘행복으로의 전환’에 대한 미디어 보도",
+    "세계에서 가장 행복한 나라인 방글라데시",
+    "높아지고 있는 행복에 대한 대중의 관심"
+   ]
+  },
+  {
+   "no": 15,
+   "passage": "p14",
+   "stem": "Which best describes the author’s overall tone in the text?",
+   "choices": [
+    "critical and objective",
+    "appreciative and supportive",
+    "condescending yet pleased",
+    "accusatory and indignant",
+    "pretentious yet sympathetic"
+   ],
+   "answer": 1,
+   "points": 4.0,
+   "explain": "저자는 행복 산업, 언론 보도의 경향을 사실과 인용을 통해 객관적으로 제시하면서도 '불신의 언어를 통해 지위를 확인한다'는 식으로 비판적 시각을 드러내므로 ①이 적절하다.",
+   "trans": "행복과 불행은 특정 개인, 집단, 국가의 사회적 지위에 관한 통념에 도전할 때 뉴스거리가 되며, 흔히 불신의 언어를 통해 오히려 그 지위를 확인한다.",
+   "sents": [
+    {
+     "en": "Which best describes the author’s overall tone in the text?",
+     "ko": "이 글에서 필자의 전반적인 어조를 가장 잘 설명하는 것은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "비판적이면서 객관적인",
+    "감사하며 지지하는",
+    "생색내듯 하면서도 흡족해하는",
+    "비난조이며 분개한",
+    "허세 부리면서도 동정적인"
+   ]
+  },
+  {
+   "no": 16,
+   "passage": "p14",
+   "stem": "According to the passage, which statement is incorrect?",
+   "choices": [
+    "The rise of self-help discourses signals a shift toward prioritizing happiness.",
+    "The happiness industry is currently making many people wealthy.",
+    "Global happiness surveys and reports are generally trustworthy.",
+    "Since “the happiness turn,” happiness has become a quantifiable good.",
+    "Happiness is considered newsworthy when it contradicts social expectations."
+   ],
+   "answer": 3,
+   "points": 4.0,
+   "explain": "본문은 행복 조사 보고서가 언론에 자주 인용된다고만 했을 뿐, 그것이 신뢰할 만하다고 평가하지 않았다. 오히려 비판적 시각을 보이므로 ③이 본문과 맞지 않는다.",
+   "trans": "이러한 보고서들은 연구 결과가 사회적 기대와 일치하지 않을 때, 즉 개발도상국이 과잉 개발된 나라보다 더 행복한 것으로 나타날 때 언론에 자주 인용된다.",
+   "sents": [
+    {
+     "en": "According to the passage, which statement is incorrect?",
+     "ko": "지문에 따르면 옳지 않은 진술은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "자기계발 담론의 부상은 행복을 우선시하는 쪽으로의 전환을 나타낸다.",
+    "행복 산업은 현재 많은 사람들을 부유하게 만들고 있다.",
+    "세계 행복 조사와 보고서는 대체로 신뢰할 만하다.",
+    "‘행복으로의 전환’ 이후 행복은 수치로 측정 가능한 재화가 되었다.",
+    "행복은 사회적 기대와 모순될 때 뉴스거리로 여겨진다."
+   ]
+  },
+  {
+   "no": 17,
+   "passage": "p17",
+   "stem": "Which is the best title for the passage?",
+   "choices": [
+    "The Pythia’s Prophecies: A History of Ancient Greek Divination",
+    "Ethylene and the Human Mind: A Study in Altered States",
+    "The Oracle’s Whisper: Myth, Geology, and the Search for Truth",
+    "Exploring the Supernatural: Ancient Greek Beliefs and Practices",
+    "The Psychology of Prophecy: Understanding Ancient Beliefs"
+   ],
+   "answer": 3,
+   "points": 3.0,
+   "explain": "델포이 신탁의 신화적 위상과 이를 설명하는 지질학적 해석, 그리고 신화와 과학의 교차를 다루므로 ③이 가장 적절한 제목이다.",
+   "trans": "역사적 기록과 현대의 지질학적 통찰을 모두 검토함으로써, 우리는 신화와 과학이 교차할 수 있는 방식을 더 깊이 이해하게 된다.",
+   "sents": [
+    {
+     "en": "Which is the best title for the passage?",
+     "ko": "이 글의 가장 적절한 제목은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "피티아의 예언: 고대 그리스 점술의 역사",
+    "에틸렌과 인간의 마음: 의식 변성 상태 연구",
+    "신탁의 속삭임: 신화, 지질학, 그리고 진실 탐구",
+    "초자연 탐구: 고대 그리스의 믿음과 관습",
+    "예언의 심리학: 고대의 믿음 이해하기"
+   ]
+  },
+  {
+   "no": 18,
+   "passage": "p17",
+   "stem": "Based on the passage, which best describes the relationship between modern science and ancient belief in the Delphic Oracle?",
+   "choices": [
+    "Modern science has debunked the ancient beliefs surrounding the Oracle.",
+    "Modern science has provided a possible natural explanation for the Oracle.",
+    "Modern science has proved that the Oracle’s prophecies were often accurate.",
+    "Modern science has dismissed the role of geology in the Oracle’s previsioning.",
+    "Modern science has confirmed that the Pythia’s trances were caused by ethylene."
+   ],
+   "answer": 2,
+   "points": 4.0,
+   "explain": "단층에서 새어 나온 에틸렌이 무아지경을 설명'할 수 있다(could explain)'고 했으므로, 과학은 가능한 자연적 설명을 제시했을 뿐이다. ⑤의 confirmed나 ①의 debunked는 지나친 단정이다.",
+   "trans": "현대 과학은 신탁의 겉보기에 초자연적인 능력에 대해 설득력 있는 설명을 제시한다.",
+   "sents": [
+    {
+     "en": "Based on the passage, which best describes the relationship between modern science and ancient belief in the Delphic Oracle?",
+     "ko": "지문에 근거할 때, 현대 과학과 델포이 신탁에 대한 고대의 믿음 사이의 관계를 가장 잘 설명하는 것은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "현대 과학은 신탁을 둘러싼 고대의 믿음을 논파했다.",
+    "현대 과학은 신탁에 대한 가능한 자연적 설명을 제공했다.",
+    "현대 과학은 신탁의 예언이 종종 정확했음을 입증했다.",
+    "현대 과학은 신탁의 예지에서 지질학의 역할을 일축했다.",
+    "현대 과학은 피티아의 몽환 상태가 에틸렌 때문이었음을 확인했다."
+   ]
+  },
+  {
+   "no": 19,
+   "passage": "p17",
+   "stem": "Based on the passage, what can we infer about the ancient Greeks’ understanding of the natural world and the divine?",
+   "choices": [
+    "They believed that the natural world was totally separate from the divine.",
+    "They understood the divine as intervening very directly in human affairs.",
+    "They were skeptical of supernatural claims and wanted rational explanations.",
+    "They felt that human sacrifice was the way to communicate with the gods.",
+    "They were aware of the geological factors involved in the Delphic Oracle."
+   ],
+   "answer": 2,
+   "points": 4.0,
+   "explain": "사람들이 절박한 질문의 답을 구하러 신탁을 찾았고, 피티아가 신의 목소리를 전한다고 믿었으며 신탁을 '신과의 직접적인 연결'로 여겼으므로, 신이 인간사에 직접 개입한다고 이해했음을 추론할 수 있다.",
+   "trans": "고대 작가들은 신탁을 경외심을 담아 이야기하며 그것을 신들과의 직접적인 연결로 묘사했다.",
+   "sents": [
+    {
+     "en": "Based on the passage, what can we infer about the ancient Greeks’ understanding of the natural world and the divine?",
+     "ko": "지문에 근거할 때, 고대 그리스인들의 자연계와 신에 대한 이해에 대해 무엇을 추론할 수 있는가?"
+    }
+   ],
+   "choices_ko": [
+    "그들은 자연계가 신과 완전히 분리되어 있다고 믿었다.",
+    "그들은 신이 인간사에 매우 직접적으로 개입한다고 이해했다.",
+    "그들은 초자연적 주장에 회의적이었고 합리적 설명을 원했다.",
+    "그들은 인신 공양이 신과 소통하는 방법이라고 느꼈다.",
+    "그들은 델포이 신탁에 관련된 지질학적 요인을 알고 있었다."
+   ]
+  },
+  {
+   "no": 20,
+   "passage": "p20",
+   "stem": "Choose the best sentence to complete Ⓐ.",
+   "choices": [
+    "In the 17th century, concert halls were ubiquitous in Europe.",
+    "Concert halls and opera houses in Europe have a century-long history.",
+    "Public concert halls were first founded by musicians in the eighteenth-century.",
+    "Public concerts as they are known today did not exist until the 18th century.",
+    "London was the center of music performances in the eighteenth-century."
+   ],
+   "answer": 4,
+   "points": 3.0,
+   "explain": "바로 뒤에 '정식 연주회 전용 최초의 공간 중 하나가 1711년 런던에 열렸다'고 이어지므로, 오늘날과 같은 공공 연주회가 18세기 이전에는 없었다는 ④가 도입 문장으로 알맞다. 최초 설립자는 음악가가 아니므로 ③은 틀리다.",
+   "trans": "정식 연주회 전용으로 마련된 최초의 공간 중 하나는 1711년 토머스 힉포드가 런던에 연 곳이었다.",
+   "sents": [
+    {
+     "en": "Choose the best sentence to complete Ⓐ.",
+     "ko": "Ⓐ를 완성하기에 가장 적절한 문장을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "17세기에 콘서트홀은 유럽 어디에나 있었다.",
+    "유럽의 콘서트홀과 오페라하우스는 한 세기에 걸친 역사를 지닌다.",
+    "공공 콘서트홀은 18세기에 음악가들이 처음 설립했다.",
+    "오늘날 알려진 형태의 공개 연주회는 18세기까지 존재하지 않았다.",
+    "런던은 18세기 음악 공연의 중심지였다."
+   ]
+  },
+  {
+   "no": 21,
+   "passage": "p20",
+   "stem": "Choose the best word for Ⓑ.",
+   "choices": [
+    "composers",
+    "patrons",
+    "princes",
+    "vanguards",
+    "architects"
+   ],
+   "answer": 2,
+   "points": 3.0,
+   "explain": "patrons of music(음악 후원자)은 관용적 결합이며, 뒤에 오페라 하우스를 지은 선제후·공작과 '음악의 저명한 후원자(patron of music)'였던 프리드리히 대왕이 예로 나온다. princes도 그럴듯하지만 'of music'과 어울리지 않는다.",
+   "trans": "독일의 음악 후원자들은 대규모로 연주회장을 지었다.",
+   "sents": [
+    {
+     "en": "Choose the best word for Ⓑ.",
+     "ko": "Ⓑ에 들어갈 가장 적절한 단어를 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "작곡가",
+    "후원자",
+    "군주, 제후",
+    "선구자, 선봉",
+    "건축가"
+   ]
+  },
+  {
+   "no": 22,
+   "passage": "p22",
+   "stem": "Which best completes the missing thesis statement in paragraph one?",
+   "choices": [
+    "clarifying intent, changing cultural context, and increasing appeal",
+    "removing ambiguity, modernizing style, and making texts digestible",
+    "ensuring accuracy, maintaining relevance, and allowing richer nuance",
+    "reinterpreting themes, adjusting tone, and replacing expressions",
+    "preserving meaning, simplifying language, and updating references"
+   ],
+   "answer": 5,
+   "points": 4.0,
+   "explain": "공식 정답은 ⑤이다. 원전 오류를 바로잡아 저자의 참뜻을 보존하고(First), 낡은 표현을 현대 독자에 맞게 고치며(Additionally), 오늘날 독자에게 더 직접 와닿게 다듬는다(Furthermore)는 흐름으로 본 것이다. 다만 내용상 ③(정확성·적합성·풍부한 뉘앙스)도 매우 유력해 보이므로 주의.",
+   "trans": "고전 문학 작품의 새로운 번역은 의미를 보존하고, 언어를 단순화하며, 지시 대상을 현대화하는 데 필수적이다.",
+   "sents": [
+    {
+     "en": "Which best completes the missing thesis statement in paragraph one?",
+     "ko": "첫 번째 단락에서 빠진 주제문을 가장 잘 완성하는 것은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "의도를 명확히 하고, 문화적 맥락을 바꾸고, 호소력을 높이는 것",
+    "모호함을 없애고, 문체를 현대화하고, 텍스트를 소화하기 쉽게 만드는 것",
+    "정확성을 보장하고, 시의성을 유지하고, 더 풍부한 뉘앙스를 가능하게 하는 것",
+    "주제를 재해석하고, 어조를 조정하고, 표현을 대체하는 것",
+    "의미를 보존하고, 언어를 단순화하고, 참조를 갱신하는 것"
+   ]
+  },
+  {
+   "no": 23,
+   "passage": "p22",
+   "stem": "According to the text, which might do harm to an author’s “true intent”?",
+   "choices": [
+    "inaccuracies from the source text",
+    "poorly rendered new translations",
+    "social norms of the author’s times",
+    "the sensibilities of modern readers",
+    "lack of appreciation and obscurity"
+   ],
+   "answer": 1,
+   "points": 4.0,
+   "explain": "부정확한 원전 판본에 기초한 번역이 오해를 지속시킬 수 있으며, 이를 바로잡아야 저자의 참된 의도가 반영된다고 했으므로 ①이 정답이다. ③은 저자가 아니라 '과거 번역자'의 시대 규범이라 틀리다.",
+   "trans": "이것은 번역이 남아 있는 오해나 오역을 지속시키는 대신 저자의 참된 의도를 반영하도록 보장한다.",
+   "sents": [
+    {
+     "en": "According to the text, which might do harm to an author’s “true intent”?",
+     "ko": "글에 따르면 저자의 ‘진정한 의도’를 해칠 수 있는 것은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "원전 텍스트의 부정확성",
+    "형편없이 옮겨진 새 번역",
+    "저자 당대의 사회 규범",
+    "현대 독자의 감수성",
+    "인정받지 못함과 무명"
+   ]
+  },
+  {
+   "no": 24,
+   "passage": "p22",
+   "stem": "In the context of the essay, which is the best synonym for <u>“nuance”</u>?",
+   "choices": [
+    "subtlety",
+    "accuracy",
+    "expediency",
+    "respectability",
+    "equivalency"
+   ],
+   "answer": 1,
+   "points": 3.0,
+   "explain": "nuance는 '미묘한 차이, 뉘앙스'라는 뜻으로 subtlety(미묘함)와 같다. 마지막 단락의 subtleties or meanings도 단서이다.",
+   "trans": "가장 뛰어난 이전 번역본조차 원어로 된 작품의 미묘한 뉘앙스를 완전히 포착하지 못했을 수도 있다.",
+   "sents": [
+    {
+     "en": "In the context of the essay, which is the best synonym for “nuance”?",
+     "ko": "이 글의 맥락에서 “nuance(뉘앙스)”의 가장 적절한 동의어는 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "미묘함, 섬세한 차이",
+    "정확성",
+    "편의, 방편",
+    "존경할 만함, 체면",
+    "동등함"
+   ]
+  },
+  {
+   "no": 25,
+   "passage": "p25",
+   "stem": "Which is the best title for the passage?",
+   "choices": [
+    "Banning Atmospheric Tests: A Victory for Nuclear Disarmament",
+    "Scientific Research and Public Concern: The Drive for a Nuclear Test Ban",
+    "The Legacy of the Nuclear Period: From Atomic Bombs to Environmentalism",
+    "From Fallout to Awareness: The Nuclear Test Ban Treaty's Environmental Legacy",
+    "The Dangers of Radioactive Fallout: Strontium-90 and its Impact on Human Longevity"
+   ],
+   "answer": 4,
+   "points": 3.0,
+   "explain": "글은 방사능 낙진 문제에서 출발한 핵실험 금지 조약이 환경 의식을 높이고 이후 환경 운동의 토대가 되었다는 내용이므로 ④가 가장 적절하다. ②는 조약이 생긴 배경만 다룬다.",
+   "trans": "1963년 핵실험 금지 조약은 핵 외교뿐 아니라 환경적 결과에 대한 전 세계적 인식이 커지는 데에서도 중대한 전환점이 되었다.",
+   "sents": [
+    {
+     "en": "Which is the best title for the passage?",
+     "ko": "이 글의 가장 적절한 제목은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "대기권 실험 금지: 핵 군축의 승리",
+    "과학 연구와 대중의 우려: 핵실험 금지를 향한 동력",
+    "핵 시대의 유산: 원자폭탄에서 환경주의까지",
+    "낙진에서 인식으로: 핵실험금지조약의 환경적 유산",
+    "방사성 낙진의 위험: 스트론튬-90과 그것이 인간 수명에 미친 영향"
+   ]
+  },
+  {
+   "no": 26,
+   "passage": "p25",
+   "stem": "Why was the 1963 Nuclear Test Ban Treaty considered a turning point?",
+   "choices": [
+    "It represented a moment of international awareness of the impact of human activity on the environment.",
+    "It brought to the fore the issue of nuclear disarmament and the need for international cooperation.",
+    "It gave rise to environmentalism as we know it today, most specifically in the climate change movement.",
+    "It was the first step toward preserving the integrity of space as a neutral international zone.",
+    "It launched effort to clean up the environment and eliminate the use of persistent pollutants."
+   ],
+   "answer": 1,
+   "points": 4.0,
+   "explain": "조약은 '환경 관리(stewardship)에 대한 대중의 이해'에서 전환점이 되었고, 인간 활동과 자연 세계의 상호 연관성을 부각했다고 했으므로 ①이 정답이다. ③은 기후 변화 운동을 직접 낳았다고 과장한다.",
+   "trans": "궁극적으로 핵실험 금지 조약은 환경 관리에 대한 대중의 이해에 있어 전환점이 되었다.",
+   "sents": [
+    {
+     "en": "Why was the 1963 Nuclear Test Ban Treaty considered a turning point?",
+     "ko": "1963년 핵실험금지조약이 전환점으로 여겨지는 이유는 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "인간 활동이 환경에 미치는 영향에 대한 국제적 인식의 순간을 나타냈기 때문이다.",
+    "핵 군축 문제와 국제 협력의 필요성을 전면에 부각시켰기 때문이다.",
+    "오늘날 우리가 아는 환경주의, 특히 기후 변화 운동을 탄생시켰기 때문이다.",
+    "우주를 중립적인 국제 지대로 온전히 보존하는 첫걸음이었기 때문이다.",
+    "환경을 정화하고 잔류성 오염 물질 사용을 없애려는 노력을 시작했기 때문이다."
+   ]
+  },
+  {
+   "no": 27,
+   "passage": "p25",
+   "stem": "What can be inferred from the passage?",
+   "choices": [
+    "The nuclear test ban was the first major rift between science and environmentalism.",
+    "The fallout from nuclear testing brought together environmentalism and science.",
+    "The power of vested interests over the autonomy of science is still an issue.",
+    "The nuclear test ban foreshadowed problems climate activists would face.",
+    "The issue of nuclear testing is likely to arise again as a major problem."
+   ],
+   "answer": 2,
+   "points": 4.0,
+   "explain": "낙진에 대한 과학적 연구가 환경 의식을 높였고, 과학자·환경운동가·시민이 함께 환경 위협의 전 지구적 성격을 인식하게 되었으므로, 핵실험 낙진이 환경주의와 과학을 결합시켰다고 추론할 수 있다.",
+   "trans": "방사능 낙진을 둘러싼 과학적 정밀 조사는 환경 의식을 높이는 데 결정적인 역할을 했다.",
+   "sents": [
+    {
+     "en": "What can be inferred from the passage?",
+     "ko": "이 글에서 추론할 수 있는 것은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "핵실험 금지는 과학과 환경주의 사이의 첫 번째 큰 균열이었다.",
+    "핵실험의 낙진은 환경주의와 과학을 하나로 모았다.",
+    "과학의 자율성에 대한 기득권의 힘은 여전히 문제이다.",
+    "핵실험 금지는 기후 운동가들이 직면할 문제들을 예고했다.",
+    "핵실험 문제는 다시 주요 문제로 불거질 가능성이 높다."
+   ]
+  },
+  {
+   "no": 28,
+   "passage": "p28",
+   "stem": "Which is the best title for the passage?",
+   "choices": [
+    "Cognitive Functions and Brain Processes: Understanding Perception, Memory, and Thought",
+    "The Philosophy of Mind: Exploring Ancient and Modern Perspectives on Consciousness",
+    "The Hard Problem of Consciousness: Mind-Body Dualism's Challenge to Cognitive Science",
+    "Materialism and the Study of Mind: Physical Processes Can Account for Consciousness",
+    "The Science of Consciousness: Advances and Challenges in Today's Post-Cognitive Research"
+   ],
+   "answer": 3,
+   "points": 4.0,
+   "explain": "심신 이원론이 인지과학에 제기하는 근본적 도전과 차머스의 '어려운 문제(hard problem)'가 글의 핵심이므로 ③이 정답이다. ④는 글의 주장과 반대이다.",
+   "trans": "심신 이원론의 문제는 사고와 정신적 조직을 오로지 물리적 현상에서 비롯된 것으로 이해하려는 현대 인지과학에 근본적인 도전을 제기한다.",
+   "sents": [
+    {
+     "en": "Which is the best title for the passage?",
+     "ko": "이 글의 가장 적절한 제목은 무엇인가?"
+    }
+   ],
+   "choices_ko": [
+    "인지 기능과 뇌 과정: 지각, 기억, 사고 이해하기",
+    "마음의 철학: 의식에 대한 고대와 현대의 관점 탐구",
+    "의식의 어려운 문제: 심신 이원론이 인지과학에 제기하는 도전",
+    "유물론과 마음 연구: 물리적 과정이 의식을 설명할 수 있다",
+    "의식의 과학: 오늘날 탈인지 연구의 진전과 과제"
+   ]
+  },
+  {
+   "no": 29,
+   "passage": "p28",
+   "stem": "According to Chalmers, the greatest difficulty cognitive science faces is _________.",
+   "choices": [
+    "explaining how the brain processes information and enables behavior",
+    "answering the challenges laid down by Plato and René Descartes",
+    "admitting that their inquiry falls outside the purview of science",
+    "convincing mind-body monists to reconsider their views",
+    "explaining the experiential aspect of consciousness"
+   ],
+   "answer": 5,
+   "points": 4.0,
+   "explain": "인지과학은 의식의 기능적 측면은 다룰 수 있지만 '의식의 경험적 특성'을 설명하는 데 어려움을 겪는다고 했으므로 ⑤가 정답이다. ①은 오히려 인지과학이 다룰 수 있는 '쉬운 문제'이다.",
+   "trans": "인지과학은 의식의 기능적 측면은 다룰 수 있지만, 의식의 경험적 특성, 즉 무언가를 자각한다는 것이 '어떤 느낌인가'를 설명하는 데에는 어려움을 겪는다.",
+   "sents": [
+    {
+     "en": "According to Chalmers, the greatest difficulty cognitive science faces is _________.",
+     "ko": "차머스에 따르면 인지과학이 직면한 가장 큰 어려움은 ( 빈칸 )이다."
+    }
+   ],
+   "choices_ko": [
+    "뇌가 어떻게 정보를 처리하고 행동을 가능하게 하는지 설명하는 것",
+    "플라톤과 르네 데카르트가 제기한 도전에 답하는 것",
+    "자신들의 탐구가 과학의 영역 밖에 있음을 인정하는 것",
+    "심신 일원론자들이 견해를 재고하도록 설득하는 것",
+    "의식의 경험적 측면을 설명하는 것"
+   ]
+  },
+  {
+   "no": 30,
+   "passage": "p28",
+   "stem": "Choose the phrase that best completes the blank.",
+   "choices": [
+    "casts doubt on the work of Plato and Descartes",
+    "calls into question its own relevance",
+    "opens a pathway for dialogue between the disciplines",
+    "solves the problem of the \"explanatory gap“",
+    "strikes at the very foundation of the discipline"
+   ],
+   "answer": 5,
+   "points": 4.0,
+   "explain": "not simply A; ~ it B 구조로, 이원론은 인지과학의 범위에 도전하는 데 그치지 않고 더 근본적으로 '그 학문의 토대 자체를 공격한다'는 ⑤가 점층적으로 이어진다. 물리적 과정으로 의식을 설명하려는 인지과학의 전제를 부정하기 때문이다.",
+   "trans": "따라서 심신 이원론은 단순히 인지과학의 범위에 도전하는 것이 아니라, '마음'의 형이상학적 고유성을 주장함으로써 그 학문의 토대 자체를 공격한다.",
+   "sents": [
+    {
+     "en": "Choose the phrase that best completes the blank.",
+     "ko": "빈칸을 가장 잘 완성하는 구를 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "플라톤과 데카르트의 연구에 의문을 제기한다",
+    "그 자체의 적절성에 의문을 제기한다",
+    "학문 분야 간 대화의 길을 연다",
+    "‘설명적 간극’ 문제를 해결한다",
+    "그 학문의 바로 그 토대를 공격한다(뒤흔든다)"
+   ]
+  }
+ ],
+ "glossary": {
+  "ability": {
+   "ko": "능력",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "abilities"
+   ]
+  },
+  "acceptable": {
+   "ko": "용인되는, 받아들일 만한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "acceptable"
+   ]
+  },
+  "accessible": {
+   "ko": "접근 가능한, 이용하기 쉬운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "accessible"
+   ]
+  },
+  "accompany": {
+   "ko": "동반하다, 수반하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "accompanies"
+   ]
+  },
+  "accomplishment": {
+   "ko": "업적, 성취",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "accomplishments"
+   ]
+  },
+  "account": {
+   "ko": "기록, 설명",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "account",
+    "accounts"
+   ]
+  },
+  "accumulate": {
+   "ko": "축적하다, 쌓이다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "accumulate",
+    "accumulating"
+   ]
+  },
+  "accuracy": {
+   "ko": "정확성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "accuracy"
+   ]
+  },
+  "accurate": {
+   "ko": "정확한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "accurate"
+   ]
+  },
+  "accusatory": {
+   "ko": "비난하는, 고발하는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "accusatory"
+   ]
+  },
+  "achieve": {
+   "ko": "성취하다, 달성하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "achieve"
+   ]
+  },
+  "activist": {
+   "ko": "활동가, 운동가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "activists"
+   ]
+  },
+  "address": {
+   "ko": "(문제를) 다루다, 처리하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "address",
+    "addresses",
+    "addressing"
+   ]
+  },
+  "adjust": {
+   "ko": "조정하다, 맞추다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "adjusting"
+   ]
+  },
+  "admit": {
+   "ko": "인정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "admitting"
+   ]
+  },
+  "advance": {
+   "ko": "발전, 진보",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "advances"
+   ]
+  },
+  "advancement": {
+   "ko": "발전, 진보",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "advancement"
+   ]
+  },
+  "affair": {
+   "ko": "일, 사건, (pl.) 사무",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "affairs"
+   ]
+  },
+  "agreement": {
+   "ko": "협정, 합의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "agreement"
+   ]
+  },
+  "air": {
+   "ko": "방송하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "aired"
+   ]
+  },
+  "align": {
+   "ko": "맞추다, 일치시키다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "align"
+   ]
+  },
+  "alter": {
+   "ko": "바꾸다, 변경하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "altered"
+   ]
+  },
+  "altered state": {
+   "ko": "변성 의식 상태",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "altered states"
+   ]
+  },
+  "alternative": {
+   "ko": "대안",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "alternative"
+   ]
+  },
+  "ambiguity": {
+   "ko": "모호함, 애매함",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "ambiguity"
+   ]
+  },
+  "antiquity": {
+   "ko": "고대 유물, 고대",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "antiquities"
+   ]
+  },
+  "apart": {
+   "ko": "떨어져, 별개로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "apart"
+   ]
+  },
+  "appeal": {
+   "ko": "매력, 호소",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "appeal"
+   ]
+  },
+  "appreciate": {
+   "ko": "진가를 알아보다, 감상하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "appreciated"
+   ]
+  },
+  "appreciation": {
+   "ko": "이해, 감상, 감사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "appreciation"
+   ]
+  },
+  "appreciative": {
+   "ko": "감사하는, 높이 평가하는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "appreciative"
+   ]
+  },
+  "approach": {
+   "ko": "접근법",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "approach"
+   ]
+  },
+  "appropriate": {
+   "ko": "적절한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "appropriate"
+   ]
+  },
+  "architect": {
+   "ko": "건축가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "architects"
+   ]
+  },
+  "argument": {
+   "ko": "주장, 논증",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "argument",
+    "arguments"
+   ]
+  },
+  "arise": {
+   "ko": "생기다, 발생하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "arise",
+    "arising"
+   ]
+  },
+  "article": {
+   "ko": "기사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "article"
+   ]
+  },
+  "aspect": {
+   "ko": "측면",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "aspect",
+    "aspects"
+   ]
+  },
+  "assert": {
+   "ko": "주장하다, 단언하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "asserts",
+    "asserting"
+   ]
+  },
+  "atmosphere": {
+   "ko": "대기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "atmosphere"
+   ]
+  },
+  "atmospheric": {
+   "ko": "대기의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "atmospheric"
+   ]
+  },
+  "atomic bomb": {
+   "ko": "원자 폭탄",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "atomic bombs"
+   ]
+  },
+  "atop": {
+   "ko": "~의 꼭대기에",
+   "pos": "prep.",
+   "lv": 2,
+   "forms": [
+    "atop"
+   ]
+  },
+  "attempt": {
+   "ko": "시도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "attempt",
+    "attempting"
+   ]
+  },
+  "attract": {
+   "ko": "끌어들이다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "attracted"
+   ]
+  },
+  "attribute": {
+   "ko": "(~의 작품으로) 여기다, 귀속시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "attributed"
+   ]
+  },
+  "audience": {
+   "ko": "청중, 관객",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "audience"
+   ]
+  },
+  "auditory": {
+   "ko": "청각의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "auditory"
+   ]
+  },
+  "auspices": {
+   "ko": "후원, 보호, 찬조",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "auspices"
+   ]
+  },
+  "authentic": {
+   "ko": "진정한, 진짜의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "authentic"
+   ]
+  },
+  "autonomy": {
+   "ko": "자율성, 자치",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "autonomy"
+   ]
+  },
+  "aware": {
+   "ko": "알고 있는, 의식하는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "aware"
+   ]
+  },
+  "awareness": {
+   "ko": "인식, 의식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "awareness"
+   ]
+  },
+  "balance": {
+   "ko": "균형",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "balance"
+   ]
+  },
+  "ban": {
+   "ko": "금지",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "ban",
+    "banning"
+   ]
+  },
+  "bankrupt": {
+   "ko": "파산시키다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "bankrupted"
+   ]
+  },
+  "basis": {
+   "ko": "근거, 기초",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "basis"
+   ]
+  },
+  "behavior": {
+   "ko": "행동",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "behavior",
+    "behaviors"
+   ]
+  },
+  "belief": {
+   "ko": "믿음, 신념",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "belief",
+    "beliefs"
+   ]
+  },
+  "benefit": {
+   "ko": "혜택을 입다, 이익을 얻다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "benefit"
+   ]
+  },
+  "bind": {
+   "ko": "묶다, 결합하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "binds"
+   ]
+  },
+  "breathe new life into": {
+   "ko": "~에 새 생명을 불어넣다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "breathe renewed life into"
+   ]
+  },
+  "broadsheet": {
+   "ko": "대판 신문, 고급 신문",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "broadsheet"
+   ]
+  },
+  "bring to the fore": {
+   "ko": "부각시키다, 표면화하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "brought to the fore"
+   ]
+  },
+  "capable": {
+   "ko": "~할 수 있는, 수용 가능한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "capable"
+   ]
+  },
+  "capital": {
+   "ko": "자본",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "capital"
+   ]
+  },
+  "capture": {
+   "ko": "포착하다, 담아내다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "captured"
+   ]
+  },
+  "cast doubt on": {
+   "ko": "~에 의문을 제기하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "casts doubt on"
+   ]
+  },
+  "celebrate": {
+   "ko": "기리다, 찬양하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "celebrates"
+   ]
+  },
+  "central": {
+   "ko": "핵심적인, 중심의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "central"
+   ]
+  },
+  "century-long": {
+   "ko": "한 세기에 걸친",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "century-long"
+   ]
+  },
+  "certain": {
+   "ko": "어떤, 특정한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "certain"
+   ]
+  },
+  "chain": {
+   "ko": "사슬, 연쇄",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "chain"
+   ]
+  },
+  "challenge": {
+   "ko": "과제, 도전",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "challenge",
+    "challenges"
+   ]
+  },
+  "channel": {
+   "ko": "(신의 목소리를) 전하다, 매개하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "channel"
+   ]
+  },
+  "checkered": {
+   "ko": "파란만장한, 얼룩진",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "checkered"
+   ]
+  },
+  "cite": {
+   "ko": "인용하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "cited"
+   ]
+  },
+  "civic": {
+   "ko": "시민의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "civic"
+   ]
+  },
+  "claim": {
+   "ko": "주장",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "claim",
+    "claims"
+   ]
+  },
+  "clarify": {
+   "ko": "명확히 하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "clarifying"
+   ]
+  },
+  "classic": {
+   "ko": "고전의, 걸작의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "classic"
+   ]
+  },
+  "classical": {
+   "ko": "고전적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "classical"
+   ]
+  },
+  "code": {
+   "ko": "코드, 부호",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "code",
+    "coded"
+   ]
+  },
+  "cognitive": {
+   "ko": "인지의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "cognitive"
+   ]
+  },
+  "coherent": {
+   "ko": "일관성 있는, 논리 정연한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "coherent"
+   ]
+  },
+  "collaboration": {
+   "ko": "협력",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "collaboration"
+   ]
+  },
+  "combat": {
+   "ko": "싸우다, 퇴치하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "combat"
+   ]
+  },
+  "commemorate": {
+   "ko": "기념하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "commemorates"
+   ]
+  },
+  "communicate": {
+   "ko": "소통하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "communicate"
+   ]
+  },
+  "communicator": {
+   "ko": "전달자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "communicator"
+   ]
+  },
+  "compare": {
+   "ko": "비교하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "compared"
+   ]
+  },
+  "compelling": {
+   "ko": "설득력 있는, 강력한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "compelling"
+   ]
+  },
+  "complete": {
+   "ko": "완성하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "complete",
+    "completes"
+   ]
+  },
+  "complex": {
+   "ko": "복잡한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "complex"
+   ]
+  },
+  "complexity": {
+   "ko": "복잡성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "complexity"
+   ]
+  },
+  "complicate": {
+   "ko": "복잡하게 만들다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "complicates"
+   ]
+  },
+  "composer": {
+   "ko": "작곡가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "composers"
+   ]
+  },
+  "comprehension": {
+   "ko": "이해",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "comprehension"
+   ]
+  },
+  "concept": {
+   "ko": "개념",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "concept"
+   ]
+  },
+  "concern": {
+   "ko": "우려, 걱정",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "concern",
+    "concerns",
+    "concerned"
+   ]
+  },
+  "condescending": {
+   "ko": "거들먹거리는, 생색내는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "condescending"
+   ]
+  },
+  "confirm": {
+   "ko": "확인하다, 확증하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "confirmed",
+    "confirming"
+   ]
+  },
+  "connection": {
+   "ko": "연결, 관계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "connections"
+   ]
+  },
+  "consciousness": {
+   "ko": "의식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consciousness"
+   ]
+  },
+  "consequence": {
+   "ko": "결과, 영향",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consequences"
+   ]
+  },
+  "conservation": {
+   "ko": "(자연) 보존, 보호",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "conservation"
+   ]
+  },
+  "consideration": {
+   "ko": "고찰, 고려",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consideration"
+   ]
+  },
+  "consist of": {
+   "ko": "~으로 구성되다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "consisted of"
+   ]
+  },
+  "consult": {
+   "ko": "상의하다, 진찰받다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "consulted"
+   ]
+  },
+  "consultation": {
+   "ko": "자문, 상담",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consultation"
+   ]
+  },
+  "consume": {
+   "ko": "소비하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "consumed"
+   ]
+  },
+  "contaminate": {
+   "ko": "오염시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "contaminated"
+   ]
+  },
+  "contemporary": {
+   "ko": "현대의, 동시대의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "contemporary"
+   ]
+  },
+  "context": {
+   "ko": "맥락, 문맥",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "context",
+    "contexts"
+   ]
+  },
+  "contradict": {
+   "ko": "모순되다, 반박하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "contradicts"
+   ]
+  },
+  "contribute to": {
+   "ko": "~에 기여하다, ~의 원인이 되다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "contributed to"
+   ]
+  },
+  "controversy": {
+   "ko": "논란",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "controversy"
+   ]
+  },
+  "converge": {
+   "ko": "모이다, 수렴하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "converge"
+   ]
+  },
+  "convey": {
+   "ko": "전달하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "convey"
+   ]
+  },
+  "convince": {
+   "ko": "설득하다, 납득시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "convincing"
+   ]
+  },
+  "cooperation": {
+   "ko": "협력",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "cooperation"
+   ]
+  },
+  "correspond to": {
+   "ko": "~와 일치하다, 부합하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "correspond to"
+   ]
+  },
+  "court": {
+   "ko": "궁정, 법정",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "court"
+   ]
+  },
+  "coverage": {
+   "ko": "보도, 취재",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "coverage"
+   ]
+  },
+  "credulity": {
+   "ko": "잘 믿음, 쉽게 속음",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "credulity"
+   ]
+  },
+  "crisis": {
+   "ko": "위기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "crisis"
+   ]
+  },
+  "critical": {
+   "ko": "비판적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "critical"
+   ]
+  },
+  "criticism": {
+   "ko": "비평, 비판",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "criticism"
+   ]
+  },
+  "critic": {
+   "ko": "비평가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "critics"
+   ]
+  },
+  "critique": {
+   "ko": "비평, 비판",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "critique"
+   ]
+  },
+  "crop": {
+   "ko": "농작물",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "crops"
+   ]
+  },
+  "crucial": {
+   "ko": "결정적인, 중대한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "crucial"
+   ]
+  },
+  "cryptic": {
+   "ko": "수수께끼 같은, 아리송한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "cryptic"
+   ]
+  },
+  "cultivate": {
+   "ko": "경작하다, 가꾸다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "cultivated"
+   ]
+  },
+  "cultivation": {
+   "ko": "경작, 재배, 함양",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "cultivation"
+   ]
+  },
+  "current": {
+   "ko": "흐름, 기류",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "currents"
+   ]
+  },
+  "custom-built": {
+   "ko": "맞춤 제작된",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "custom-built"
+   ]
+  },
+  "debate": {
+   "ko": "논쟁, 토론",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "debate",
+    "debated"
+   ]
+  },
+  "debunk": {
+   "ko": "(통념의) 허위를 폭로하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "debunked"
+   ]
+  },
+  "decision-making": {
+   "ko": "의사 결정",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "decision-making"
+   ]
+  },
+  "decode": {
+   "ko": "해독하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "decoded",
+    "decoding"
+   ]
+  },
+  "dedicate": {
+   "ko": "바치다, 헌정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "dedicated"
+   ]
+  },
+  "deforestation": {
+   "ko": "삼림 벌채",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "deforestation"
+   ]
+  },
+  "delicate": {
+   "ko": "섬세한, 깨지기 쉬운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "delicate"
+   ]
+  },
+  "democracy": {
+   "ko": "민주주의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "democracy"
+   ]
+  },
+  "depend on": {
+   "ko": "~에 의존하다, 달려 있다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "depends on"
+   ]
+  },
+  "determine": {
+   "ko": "밝혀내다, 결정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "determined"
+   ]
+  },
+  "devastate": {
+   "ko": "황폐하게 하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "devastated"
+   ]
+  },
+  "devote": {
+   "ko": "바치다, 전념하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "devoted"
+   ]
+  },
+  "diagnose": {
+   "ko": "진단하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "diagnose"
+   ]
+  },
+  "dialogue": {
+   "ko": "대화, 대화편",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "dialogue",
+    "dialogues"
+   ]
+  },
+  "dictator": {
+   "ko": "독재자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "dictator"
+   ]
+  },
+  "digestible": {
+   "ko": "이해하기 쉬운, 소화하기 쉬운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "digestible"
+   ]
+  },
+  "dignity": {
+   "ko": "존엄성, 위엄",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "dignity"
+   ]
+  },
+  "diplomacy": {
+   "ko": "외교",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "diplomacy"
+   ]
+  },
+  "direct": {
+   "ko": "직접적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "direct"
+   ]
+  },
+  "disarmament": {
+   "ko": "군비 축소",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "disarmament"
+   ]
+  },
+  "disbelief": {
+   "ko": "불신, 믿기지 않음",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "disbelief"
+   ]
+  },
+  "discipline": {
+   "ko": "학문 분야, 규율",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "discipline",
+    "disciplines"
+   ]
+  },
+  "disconnected": {
+   "ko": "단절된, 동떨어진",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "disconnected"
+   ]
+  },
+  "discourse": {
+   "ko": "담론",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "discourses"
+   ]
+  },
+  "discovery": {
+   "ko": "발견",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "discoveries"
+   ]
+  },
+  "disengaged": {
+   "ko": "관여하지 않는, 무관심한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "disengaged"
+   ]
+  },
+  "dismiss": {
+   "ko": "일축하다, 묵살하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "dismissed"
+   ]
+  },
+  "dispersion": {
+   "ko": "확산, 분산",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "dispersion"
+   ]
+  },
+  "displacement": {
+   "ko": "(강제) 이주, 추방",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "displacement"
+   ]
+  },
+  "distance": {
+   "ko": "거리",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "distances"
+   ]
+  },
+  "distinguish": {
+   "ko": "구별하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "distinguishing"
+   ]
+  },
+  "distrust": {
+   "ko": "불신",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "distrust"
+   ]
+  },
+  "divination": {
+   "ko": "점, 예언",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "divination"
+   ]
+  },
+  "divine": {
+   "ko": "신의, 신성한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "divine"
+   ]
+  },
+  "domination": {
+   "ko": "지배",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "domination"
+   ]
+  },
+  "dozen": {
+   "ko": "12개, 수십",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "dozen"
+   ]
+  },
+  "drive": {
+   "ko": "추진, 운동",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "drive"
+   ]
+  },
+  "dualism": {
+   "ko": "이원론",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "dualism",
+    "dualism's"
+   ]
+  },
+  "duke": {
+   "ko": "공작(작위)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "duke"
+   ]
+  },
+  "earlier": {
+   "ko": "이전의, 앞선",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "earlier"
+   ]
+  },
+  "economics": {
+   "ko": "경제학",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "economics"
+   ]
+  },
+  "ecosystem": {
+   "ko": "생태계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "ecosystems"
+   ]
+  },
+  "edition": {
+   "ko": "판, 판본",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "editions"
+   ]
+  },
+  "effort": {
+   "ko": "노력",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "effort",
+    "efforts"
+   ]
+  },
+  "elector": {
+   "ko": "선제후, 선거인",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "elector"
+   ]
+  },
+  "electric": {
+   "ko": "전율하는, 전기의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "electric"
+   ]
+  },
+  "element": {
+   "ko": "요소",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "element"
+   ]
+  },
+  "elevate": {
+   "ko": "높이다, 향상시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "elevating"
+   ]
+  },
+  "eliminate": {
+   "ko": "제거하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "eliminate"
+   ]
+  },
+  "emerge": {
+   "ko": "나타나다, 생겨나다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "emerge",
+    "emerged"
+   ]
+  },
+  "emphasize": {
+   "ko": "강조하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "emphasizes"
+   ]
+  },
+  "employ": {
+   "ko": "사용하다, 고용하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "employed"
+   ]
+  },
+  "enable": {
+   "ko": "가능하게 하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "enables"
+   ]
+  },
+  "encode": {
+   "ko": "부호화하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "encodes"
+   ]
+  },
+  "encounter": {
+   "ko": "맞닥뜨리다, 마주치다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "encountered"
+   ]
+  },
+  "enduring": {
+   "ko": "오래 지속되는, 영속적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "enduring"
+   ]
+  },
+  "engage": {
+   "ko": "다루다, 관여하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "engage"
+   ]
+  },
+  "engagement": {
+   "ko": "참여, 관여",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "engagement"
+   ]
+  },
+  "engaging": {
+   "ko": "매력적인, 흥미로운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "engaging"
+   ]
+  },
+  "enmeshed": {
+   "ko": "(곤란한 상황에) 휘말린",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "enmeshed"
+   ]
+  },
+  "enrich": {
+   "ko": "부유하게 하다, 풍요롭게 하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "enriching"
+   ]
+  },
+  "ensure": {
+   "ko": "보장하다, 확실히 하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "ensures",
+    "ensuring"
+   ]
+  },
+  "entire": {
+   "ko": "전체의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "entire"
+   ]
+  },
+  "entwine": {
+   "ko": "얽히게 하다, 뒤얽다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "entwined"
+   ]
+  },
+  "environmentalism": {
+   "ko": "환경 보호주의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "environmentalism",
+    "environmentalism’s"
+   ]
+  },
+  "environmentalist": {
+   "ko": "환경 운동가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "environmentalists"
+   ]
+  },
+  "equivalency": {
+   "ko": "동등함, 등가성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "equivalency"
+   ]
+  },
+  "era": {
+   "ko": "시대",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "era"
+   ]
+  },
+  "essay": {
+   "ko": "에세이, 수필",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "essay"
+   ]
+  },
+  "essential": {
+   "ko": "필수적인, 본질적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "essential"
+   ]
+  },
+  "estate": {
+   "ko": "사유지, 토지",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "estate"
+   ]
+  },
+  "ethnic": {
+   "ko": "민족의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "ethnic"
+   ]
+  },
+  "ethylene": {
+   "ko": "에틸렌",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "ethylene"
+   ]
+  },
+  "euphoria": {
+   "ko": "도취감, 행복감",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "euphoria"
+   ]
+  },
+  "evidence": {
+   "ko": "증거",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "evidence"
+   ]
+  },
+  "evolve": {
+   "ko": "발전하다, 진화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "evolve"
+   ]
+  },
+  "examine": {
+   "ko": "검토하다, 조사하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "examining"
+   ]
+  },
+  "exist": {
+   "ko": "존재하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "exist"
+   ]
+  },
+  "expand": {
+   "ko": "확장하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "expanded"
+   ]
+  },
+  "expectation": {
+   "ko": "기대",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "expectations"
+   ]
+  },
+  "expediency": {
+   "ko": "편의, 방편, 편의주의",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "expediency"
+   ]
+  },
+  "experiential": {
+   "ko": "경험적인, 체험의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "experiential"
+   ]
+  },
+  "explanatory": {
+   "ko": "설명하는, 설명적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "explanatory"
+   ]
+  },
+  "exploitation": {
+   "ko": "착취, 개발",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "exploitation"
+   ]
+  },
+  "explore": {
+   "ko": "탐구하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "exploring"
+   ]
+  },
+  "expression": {
+   "ko": "표현",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "expression",
+    "expressions"
+   ]
+  },
+  "extant": {
+   "ko": "현존하는, 남아 있는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "extant"
+   ]
+  },
+  "factor": {
+   "ko": "요인",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "factors"
+   ]
+  },
+  "faithful": {
+   "ko": "충실한, 원본에 충실한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "faithful"
+   ]
+  },
+  "fall outside": {
+   "ko": "~의 범위 밖에 있다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "falls outside"
+   ]
+  },
+  "fallout": {
+   "ko": "방사능 낙진, 여파",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "fallout"
+   ]
+  },
+  "familiar": {
+   "ko": "친숙한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "familiar"
+   ]
+  },
+  "far-reaching": {
+   "ko": "광범위한, 지대한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "far-reaching"
+   ]
+  },
+  "fault line": {
+   "ko": "단층선",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "fault lines"
+   ]
+  },
+  "feature": {
+   "ko": "특징",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "feature"
+   ]
+  },
+  "feel-good": {
+   "ko": "기분 좋게 해 주는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "feel-good"
+   ]
+  },
+  "field": {
+   "ko": "분야",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "field"
+   ]
+  },
+  "figure": {
+   "ko": "인물",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "figure"
+   ]
+  },
+  "findings": {
+   "ko": "(연구) 결과",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "findings"
+   ]
+  },
+  "flautist": {
+   "ko": "플루트 연주자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "flautist"
+   ]
+  },
+  "flourish": {
+   "ko": "번창하다, 번성하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "flourishing"
+   ]
+  },
+  "footbridge": {
+   "ko": "보행자 전용 다리",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "footbridge"
+   ]
+  },
+  "foreshadow": {
+   "ko": "예시하다, 전조가 되다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "foreshadowed"
+   ]
+  },
+  "formal": {
+   "ko": "정식의, 공식적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "formal"
+   ]
+  },
+  "format": {
+   "ko": "형식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "format"
+   ]
+  },
+  "formula": {
+   "ko": "공식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "formula"
+   ]
+  },
+  "foundation": {
+   "ko": "토대, 기초",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "foundation",
+    "foundations"
+   ]
+  },
+  "found": {
+   "ko": "설립하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "founded"
+   ]
+  },
+  "fragment": {
+   "ko": "단편, 조각",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "fragments"
+   ]
+  },
+  "frequently": {
+   "ko": "자주",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "frequently"
+   ]
+  },
+  "frivolity": {
+   "ko": "경박함, 하찮은 짓",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "frivolity"
+   ]
+  },
+  "fulfilling": {
+   "ko": "성취감을 주는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "fulfilling"
+   ]
+  },
+  "function": {
+   "ko": "기능",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "function",
+    "functions"
+   ]
+  },
+  "functional": {
+   "ko": "기능적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "functional"
+   ]
+  },
+  "fundamental": {
+   "ko": "근본적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "fundamental"
+   ]
+  },
+  "genetic": {
+   "ko": "유전의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "genetic"
+   ]
+  },
+  "generation": {
+   "ko": "세대",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "generations"
+   ]
+  },
+  "geological": {
+   "ko": "지질학의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "geological"
+   ]
+  },
+  "geologist": {
+   "ko": "지질학자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "geologists"
+   ]
+  },
+  "geology": {
+   "ko": "지질학",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "geology"
+   ]
+  },
+  "geopolitical": {
+   "ko": "지정학적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "geopolitical"
+   ]
+  },
+  "global": {
+   "ko": "세계적인, 전 지구적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "global"
+   ]
+  },
+  "goal": {
+   "ko": "목표",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "goal"
+   ]
+  },
+  "govern": {
+   "ko": "통치하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "govern"
+   ]
+  },
+  "gradually": {
+   "ko": "점차",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "gradually"
+   ]
+  },
+  "grand": {
+   "ko": "웅장한, 거대한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "grand",
+    "grander"
+   ]
+  },
+  "gratitude": {
+   "ko": "감사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "gratitude"
+   ]
+  },
+  "grip": {
+   "ko": "움켜쥠, 통제",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "grip"
+   ]
+  },
+  "grounded in": {
+   "ko": "~에 기반을 둔",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "grounded in"
+   ]
+  },
+  "groundwork": {
+   "ko": "기초, 토대",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "groundwork"
+   ]
+  },
+  "guidance": {
+   "ko": "지도, 안내",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "guidance"
+   ]
+  },
+  "gustatory": {
+   "ko": "미각의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "gustatory"
+   ]
+  },
+  "halt": {
+   "ko": "중단시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "halting"
+   ]
+  },
+  "harm": {
+   "ko": "해, 피해",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "harm"
+   ]
+  },
+  "highlight": {
+   "ko": "강조하다, 부각하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "highlight",
+    "highlights"
+   ]
+  },
+  "historical": {
+   "ko": "역사적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "historical"
+   ]
+  },
+  "honor": {
+   "ko": "기리다, 경의를 표하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "honoring"
+   ]
+  },
+  "humanities": {
+   "ko": "인문학",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "humanities"
+   ]
+  },
+  "humbly": {
+   "ko": "소박하게, 겸손하게",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "humbly"
+   ]
+  },
+  "humility": {
+   "ko": "겸손",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "humility"
+   ]
+  },
+  "iconic": {
+   "ko": "상징적인, 대표적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "iconic"
+   ]
+  },
+  "idealist": {
+   "ko": "관념론의, 이상주의의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "idealist"
+   ]
+  },
+  "identical": {
+   "ko": "동일한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "identical"
+   ]
+  },
+  "immerse": {
+   "ko": "몰두시키다, 빠지게 하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "immersed"
+   ]
+  },
+  "impact": {
+   "ko": "영향",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "impact",
+    "impacts"
+   ]
+  },
+  "imperialism": {
+   "ko": "제국주의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "imperialism"
+   ]
+  },
+  "imply": {
+   "ko": "암시하다, 의미하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "implies",
+    "implied"
+   ]
+  },
+  "inaccuracy": {
+   "ko": "부정확함, 오류",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "inaccuracies"
+   ]
+  },
+  "inclusive": {
+   "ko": "포용적인, 포괄적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "inclusive"
+   ]
+  },
+  "inconsistency": {
+   "ko": "모순, 불일치",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "inconsistencies"
+   ]
+  },
+  "incorporate": {
+   "ko": "통합하다, 포함하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "incorporating"
+   ]
+  },
+  "incorrect": {
+   "ko": "틀린, 부정확한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "incorrect"
+   ]
+  },
+  "indeed": {
+   "ko": "실제로, 사실",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "indeed"
+   ]
+  },
+  "index": {
+   "ko": "지수, 지표",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "index"
+   ]
+  },
+  "indigenous": {
+   "ko": "토착의, 원주민의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "indigenous"
+   ]
+  },
+  "indignant": {
+   "ko": "분개한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "indignant"
+   ]
+  },
+  "indivisible": {
+   "ko": "나눌 수 없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "indivisible"
+   ]
+  },
+  "induce": {
+   "ko": "유발하다, 유도하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "induce"
+   ]
+  },
+  "industrial": {
+   "ko": "산업의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "industrial"
+   ]
+  },
+  "infer": {
+   "ko": "추론하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "infer",
+    "inferred"
+   ]
+  },
+  "inference": {
+   "ko": "추론",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "inference"
+   ]
+  },
+  "inferential": {
+   "ko": "추론의, 추론에 의한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "inferential"
+   ]
+  },
+  "infiltrate": {
+   "ko": "침투하다, 스며들다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "infiltrating"
+   ]
+  },
+  "influence": {
+   "ko": "영향을 미치다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "influence"
+   ]
+  },
+  "input": {
+   "ko": "입력, 투입",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "inputs"
+   ]
+  },
+  "inopportune": {
+   "ko": "시기가 나쁜, 부적절한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "inopportune"
+   ]
+  },
+  "inquiry": {
+   "ko": "탐구, 조사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "inquiry"
+   ]
+  },
+  "insight": {
+   "ko": "통찰",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "insights"
+   ]
+  },
+  "inspire": {
+   "ko": "영감을 주다, 고무하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "inspire"
+   ]
+  },
+  "instance": {
+   "ko": "사례, 경우",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "instance"
+   ]
+  },
+  "instruction": {
+   "ko": "지침, 설명",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "instructions"
+   ]
+  },
+  "integrity": {
+   "ko": "온전함, 완전성, 진실성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "integrity"
+   ]
+  },
+  "intended": {
+   "ko": "의도된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "intended"
+   ]
+  },
+  "intent": {
+   "ko": "의도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "intent"
+   ]
+  },
+  "intention": {
+   "ko": "의도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "intentions"
+   ]
+  },
+  "interconnectedness": {
+   "ko": "상호 연관성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "interconnectedness"
+   ]
+  },
+  "interface": {
+   "ko": "접속하다, 상호작용하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "interfaces"
+   ]
+  },
+  "interim": {
+   "ko": "임시의, 과도기의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "interim"
+   ]
+  },
+  "interplay": {
+   "ko": "상호작용",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "interplay"
+   ]
+  },
+  "interpretation": {
+   "ko": "해석",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "interpretation"
+   ]
+  },
+  "intersect": {
+   "ko": "교차하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "intersect",
+    "intersecting"
+   ]
+  },
+  "intervene": {
+   "ko": "개입하다, 간섭하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "intervening"
+   ]
+  },
+  "intricate": {
+   "ko": "복잡한, 뒤얽힌",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "intricate"
+   ]
+  },
+  "involve": {
+   "ko": "포함하다, 수반하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "involves",
+    "involved"
+   ]
+  },
+  "involvement": {
+   "ko": "참여, 관여",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "involvement"
+   ]
+  },
+  "isotope": {
+   "ko": "동위원소",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "isotope",
+    "isotopes"
+   ]
+  },
+  "issue": {
+   "ko": "문제, 쟁점",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "issue",
+    "issues"
+   ]
+  },
+  "justice": {
+   "ko": "정의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "justice"
+   ]
+  },
+  "ken": {
+   "ko": "지식(이해)의 범위",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "ken"
+   ]
+  },
+  "kinetic": {
+   "ko": "운동의, 동적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "kinetic"
+   ]
+  },
+  "knowledge": {
+   "ko": "지식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "knowledges"
+   ]
+  },
+  "labor": {
+   "ko": "노동",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "labor"
+   ]
+  },
+  "lack": {
+   "ko": "부족하다, 결여하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "lack",
+    "lacks"
+   ]
+  },
+  "landmark": {
+   "ko": "획기적 사건, 이정표",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "landmark"
+   ]
+  },
+  "laureate": {
+   "ko": "수상자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "laureate"
+   ]
+  },
+  "launch": {
+   "ko": "시작하다, 착수하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "launched"
+   ]
+  },
+  "lay down": {
+   "ko": "(원칙·도전을) 제시하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "laid down"
+   ]
+  },
+  "lay the foundation(s) for": {
+   "ko": "~의 기초를 놓다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "laid the foundations for"
+   ]
+  },
+  "lay the groundwork for": {
+   "ko": "~의 토대를 마련하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "laid the groundwork for"
+   ]
+  },
+  "layer": {
+   "ko": "층, 겹",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "layer"
+   ]
+  },
+  "layered": {
+   "ko": "여러 층으로 된, 다층적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "layered"
+   ]
+  },
+  "lecture": {
+   "ko": "강연",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "lecture"
+   ]
+  },
+  "legacy": {
+   "ko": "유산",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "legacy"
+   ]
+  },
+  "lesser-known": {
+   "ko": "덜 알려진",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "lesser-known"
+   ]
+  },
+  "limit": {
+   "ko": "제한하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "limiting"
+   ]
+  },
+  "linger": {
+   "ko": "남아 있다, 오래 끌다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "lingering"
+   ]
+  },
+  "linguistic": {
+   "ko": "언어의, 언어학의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "linguistic"
+   ]
+  },
+  "linguistically": {
+   "ko": "언어적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "linguistically"
+   ]
+  },
+  "literary": {
+   "ko": "문학의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "literary"
+   ]
+  },
+  "livestock": {
+   "ko": "가축",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "livestock"
+   ]
+  },
+  "long-term": {
+   "ko": "장기적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "long-term"
+   ]
+  },
+  "longevity": {
+   "ko": "수명, 장수",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "longevity"
+   ]
+  },
+  "longstanding": {
+   "ko": "오래된, 다년간의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "longstanding"
+   ]
+  },
+  "loom": {
+   "ko": "(크게) 부각되다, 어렴풋이 나타나다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "looms"
+   ]
+  },
+  "maintain": {
+   "ko": "유지하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "maintained",
+    "maintaining"
+   ]
+  },
+  "major": {
+   "ko": "주요한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "major"
+   ]
+  },
+  "marble": {
+   "ko": "대리석",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "marble"
+   ]
+  },
+  "mark": {
+   "ko": "나타내다, 기념하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "marks",
+    "marked"
+   ]
+  },
+  "material": {
+   "ko": "물질의, 물질적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "material"
+   ]
+  },
+  "materialism": {
+   "ko": "유물론, 물질주의",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "materialism"
+   ]
+  },
+  "measure": {
+   "ko": "측정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "measure"
+   ]
+  },
+  "memorial": {
+   "ko": "기념물, 기념관",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "memorial",
+    "memorials"
+   ]
+  },
+  "memorialization": {
+   "ko": "기념(화)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "memorialization"
+   ]
+  },
+  "mendacity": {
+   "ko": "거짓말하는 버릇, 허위",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "mendacity"
+   ]
+  },
+  "mental": {
+   "ko": "정신의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "mental"
+   ]
+  },
+  "merely": {
+   "ko": "단지",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "merely"
+   ]
+  },
+  "metaphysical": {
+   "ko": "형이상학적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "metaphysical"
+   ]
+  },
+  "mew": {
+   "ko": "야옹(소리), 갈매기",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "mew"
+   ]
+  },
+  "military": {
+   "ko": "군사의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "military"
+   ]
+  },
+  "mimesis": {
+   "ko": "모방, 미메시스",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "mimesis"
+   ]
+  },
+  "mind-body": {
+   "ko": "심신의, 정신과 육체의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "mind-body"
+   ]
+  },
+  "minor": {
+   "ko": "사소한, 중요하지 않은",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "minor"
+   ]
+  },
+  "misconception": {
+   "ko": "오해",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "misconceptions"
+   ]
+  },
+  "misinterpretation": {
+   "ko": "오역, 잘못된 해석",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "misinterpretations"
+   ]
+  },
+  "miss out on": {
+   "ko": "~을 놓치다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "miss out on"
+   ]
+  },
+  "mitigate": {
+   "ko": "완화하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "mitigate"
+   ]
+  },
+  "modernize": {
+   "ko": "현대화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "modernizing"
+   ]
+  },
+  "monist": {
+   "ko": "일원론자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "monists"
+   ]
+  },
+  "monument": {
+   "ko": "기념비, 기념물",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "monument",
+    "monuments"
+   ]
+  },
+  "monumental": {
+   "ko": "기념비적인, 엄청난",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "monumental"
+   ]
+  },
+  "motivation": {
+   "ko": "동기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "motivation"
+   ]
+  },
+  "mounting": {
+   "ko": "증가하는, 커지는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "mounting"
+   ]
+  },
+  "movement": {
+   "ko": "운동",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "movement",
+    "movements"
+   ]
+  },
+  "musing": {
+   "ko": "사색, 생각",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "musings"
+   ]
+  },
+  "mutable": {
+   "ko": "변하기 쉬운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "mutable"
+   ]
+  },
+  "mutation": {
+   "ko": "돌연변이",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "mutations"
+   ]
+  },
+  "mystical": {
+   "ko": "신비주의의, 신비로운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "mystical"
+   ]
+  },
+  "mystique": {
+   "ko": "신비로움, 신비감",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "mystique"
+   ]
+  },
+  "myth": {
+   "ko": "신화",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "myth"
+   ]
+  },
+  "mythology": {
+   "ko": "신화",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "mythology"
+   ]
+  },
+  "namesake": {
+   "ko": "이름의 유래가 된 사람",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "namesake"
+   ]
+  },
+  "narrative": {
+   "ko": "이야기, 서사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "narrative"
+   ]
+  },
+  "nation state": {
+   "ko": "민족 국가",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "nation states"
+   ]
+  },
+  "neutral": {
+   "ko": "중립의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "neutral"
+   ]
+  },
+  "newsworthy": {
+   "ko": "보도 가치가 있는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "newsworthy"
+   ]
+  },
+  "non-demonstrative": {
+   "ko": "비논증적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "non-demonstrative"
+   ]
+  },
+  "non-material": {
+   "ko": "비물질적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "non-material"
+   ]
+  },
+  "non-verbal": {
+   "ko": "비언어적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "non-verbal"
+   ]
+  },
+  "norm": {
+   "ko": "규범",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "norms"
+   ]
+  },
+  "notable": {
+   "ko": "저명한, 주목할 만한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "notable"
+   ]
+  },
+  "nuance": {
+   "ko": "뉘앙스, 미묘한 차이",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "nuance"
+   ]
+  },
+  "nuclear": {
+   "ko": "핵의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "nuclear"
+   ]
+  },
+  "numerous": {
+   "ko": "수많은",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "numerous"
+   ]
+  },
+  "objective": {
+   "ko": "객관적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "objective"
+   ]
+  },
+  "obscurity": {
+   "ko": "무명, 모호함",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "obscurity"
+   ]
+  },
+  "obstacle": {
+   "ko": "장애물",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "obstacle"
+   ]
+  },
+  "olfactory": {
+   "ko": "후각의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "olfactory"
+   ]
+  },
+  "onward": {
+   "ko": "그 이후로, 앞으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "onward"
+   ]
+  },
+  "opera house": {
+   "ko": "오페라 극장",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "opera house",
+    "opera houses"
+   ]
+  },
+  "operate": {
+   "ko": "작동하다, 작용하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "operates"
+   ]
+  },
+  "oracle": {
+   "ko": "신탁, 신탁소",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "oracle",
+    "oracle’s"
+   ]
+  },
+  "oratorio": {
+   "ko": "오라토리오(종교 극음악)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "oratorio"
+   ]
+  },
+  "orchestra": {
+   "ko": "관현악단",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "orchestra",
+    "orchestras"
+   ]
+  },
+  "ordering": {
+   "ko": "질서, 배열",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "ordering"
+   ]
+  },
+  "organize": {
+   "ko": "조직하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "organizing"
+   ]
+  },
+  "organization": {
+   "ko": "구조, 조직",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "organization"
+   ]
+  },
+  "original": {
+   "ko": "원래의, 원본의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "original"
+   ]
+  },
+  "outdated": {
+   "ko": "구식의, 시대에 뒤진",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "outdated"
+   ]
+  },
+  "outlandish": {
+   "ko": "기이한, 터무니없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "outlandish"
+   ]
+  },
+  "overall": {
+   "ko": "전반적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "overall"
+   ]
+  },
+  "overdeveloped": {
+   "ko": "과잉 개발된",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "overdeveloped"
+   ]
+  },
+  "overlook": {
+   "ko": "간과하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "overlooked"
+   ]
+  },
+  "oxymoronic": {
+   "ko": "모순어법의, 자기모순적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "oxymoronic"
+   ]
+  },
+  "pairing": {
+   "ko": "짝, 짝짓기",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "pairing"
+   ]
+  },
+  "participate": {
+   "ko": "참여하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "participating"
+   ]
+  },
+  "particle": {
+   "ko": "입자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "particles"
+   ]
+  },
+  "particular": {
+   "ko": "특정한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "particular"
+   ]
+  },
+  "particularly": {
+   "ko": "특히",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "particularly"
+   ]
+  },
+  "pathway": {
+   "ko": "길, 경로",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "pathway"
+   ]
+  },
+  "patron": {
+   "ko": "후원자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "patron",
+    "patrons"
+   ]
+  },
+  "perception": {
+   "ko": "지각, 인식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "perception"
+   ]
+  },
+  "perennial": {
+   "ko": "끊임없는, 영원한, 다년생의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "perennial"
+   ]
+  },
+  "performance": {
+   "ko": "공연",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "performances"
+   ]
+  },
+  "permit": {
+   "ko": "허용하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "permitted"
+   ]
+  },
+  "perpetuate": {
+   "ko": "영속시키다, 지속시키다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "perpetuating"
+   ]
+  },
+  "persistent": {
+   "ko": "잔류성의, 끈질긴",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "persistent"
+   ]
+  },
+  "personage": {
+   "ko": "(저명한) 인물",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "personages"
+   ]
+  },
+  "perspective": {
+   "ko": "관점",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "perspective",
+    "perspectives"
+   ]
+  },
+  "phenomenon": {
+   "ko": "현상(pl. phenomena)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "phenomenon",
+    "phenomena"
+   ]
+  },
+  "philosophical": {
+   "ko": "철학의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "philosophical"
+   ]
+  },
+  "pivotal": {
+   "ko": "중추적인, 중대한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "pivotal"
+   ]
+  },
+  "plagiaristic": {
+   "ko": "표절의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "plagiaristic"
+   ]
+  },
+  "plane": {
+   "ko": "차원, 수준, 평면",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "plane"
+   ]
+  },
+  "poetics": {
+   "ko": "시학",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "poetics"
+   ]
+  },
+  "poetry": {
+   "ko": "시",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "poetry"
+   ]
+  },
+  "politics": {
+   "ko": "정치",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "politics"
+   ]
+  },
+  "pollutant": {
+   "ko": "오염 물질",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "pollutant",
+    "pollutants"
+   ]
+  },
+  "pollution": {
+   "ko": "오염",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "pollution"
+   ]
+  },
+  "popularity": {
+   "ko": "인기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "popularity"
+   ]
+  },
+  "portray": {
+   "ko": "묘사하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "portraying"
+   ]
+  },
+  "pose": {
+   "ko": "(문제·위험을) 제기하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "poses",
+    "posed"
+   ]
+  },
+  "position": {
+   "ko": "입장",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "position"
+   ]
+  },
+  "positive psychology": {
+   "ko": "긍정 심리학",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "positive psychology"
+   ]
+  },
+  "post-cognitive": {
+   "ko": "후기 인지(주의)의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "post-cognitive"
+   ]
+  },
+  "practice": {
+   "ko": "관행, 관습",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "practices"
+   ]
+  },
+  "preserve": {
+   "ko": "보존하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "preserving"
+   ]
+  },
+  "pressing": {
+   "ko": "긴급한, 절박한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "pressing"
+   ]
+  },
+  "pretentious": {
+   "ko": "허세 부리는, 가식적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "pretentious"
+   ]
+  },
+  "previous": {
+   "ko": "이전의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "previous",
+    "previously"
+   ]
+  },
+  "previsioning": {
+   "ko": "예지, 예견",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "previsioning"
+   ]
+  },
+  "priestess": {
+   "ko": "여사제",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "priestess"
+   ]
+  },
+  "primarily": {
+   "ko": "주로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "primarily"
+   ]
+  },
+  "principality": {
+   "ko": "공국",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "principality"
+   ]
+  },
+  "prioritize": {
+   "ko": "우선시하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "prioritizing"
+   ]
+  },
+  "production": {
+   "ko": "제작, 공연 작품",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "productions"
+   ]
+  },
+  "profound": {
+   "ko": "심오한, 깊은",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "profound"
+   ]
+  },
+  "prohibit": {
+   "ko": "금지하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "prohibited"
+   ]
+  },
+  "prominent": {
+   "ko": "저명한, 두드러진",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "prominent"
+   ]
+  },
+  "prone to": {
+   "ko": "~하기 쉬운",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "prone to"
+   ]
+  },
+  "pronouncement": {
+   "ko": "공표, 선언",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "pronouncements"
+   ]
+  },
+  "prophecy": {
+   "ko": "예언",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "prophecy",
+    "prophecies"
+   ]
+  },
+  "prophetic": {
+   "ko": "예언의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "prophetic"
+   ]
+  },
+  "propound": {
+   "ko": "(학설을) 제시하다, 주장하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "propounds"
+   ]
+  },
+  "prove": {
+   "ko": "증명하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "proved"
+   ]
+  },
+  "psychology": {
+   "ko": "심리학",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "psychology"
+   ]
+  },
+  "purpose-built": {
+   "ko": "특정 목적으로 지어진",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "purpose-built"
+   ]
+  },
+  "purview": {
+   "ko": "범위, 권한",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "purview"
+   ]
+  },
+  "qualify": {
+   "ko": "한정하다, 수식하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "qualified"
+   ]
+  },
+  "quality": {
+   "ko": "특성, 자질",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "qualities"
+   ]
+  },
+  "quandary": {
+   "ko": "난제, 곤경",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "quandary"
+   ]
+  },
+  "quantifiable": {
+   "ko": "수량화할 수 있는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "quantifiable"
+   ]
+  },
+  "racial": {
+   "ko": "인종의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "racial"
+   ]
+  },
+  "racing": {
+   "ko": "(심장이) 마구 뛰는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "racing"
+   ]
+  },
+  "radioactive": {
+   "ko": "방사성의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "radioactive"
+   ]
+  },
+  "rank": {
+   "ko": "(순위를) 차지하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "ranks"
+   ]
+  },
+  "rational": {
+   "ko": "이성적인, 합리적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "rational"
+   ]
+  },
+  "reality": {
+   "ko": "현실",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "realities"
+   ]
+  },
+  "rebel": {
+   "ko": "반군, 반역자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "rebel"
+   ]
+  },
+  "recognition": {
+   "ko": "인식, 인정",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "recognition"
+   ]
+  },
+  "recognize": {
+   "ko": "인정하다, 인식하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "recognize",
+    "recognizing"
+   ]
+  },
+  "reconcile": {
+   "ko": "조화시키다, 화해시키다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "reconcile"
+   ]
+  },
+  "reconsider": {
+   "ko": "재고하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "reconsider"
+   ]
+  },
+  "recover": {
+   "ko": "복원하다, 되찾다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "recovered"
+   ]
+  },
+  "rediscover": {
+   "ko": "재발견하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "rediscovered"
+   ]
+  },
+  "refer to": {
+   "ko": "~을 가리키다, 언급하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "refer to",
+    "referred to",
+    "referring to"
+   ]
+  },
+  "reference": {
+   "ko": "지시 대상, 언급",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "references"
+   ]
+  },
+  "refine": {
+   "ko": "다듬다, 정제하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "refine"
+   ]
+  },
+  "reflect": {
+   "ko": "반영하다, 숙고하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "reflect",
+    "reflecting",
+    "reflects"
+   ]
+  },
+  "reflection": {
+   "ko": "숙고, 반영",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "reflections"
+   ]
+  },
+  "regard A as B": {
+   "ko": "A를 B로 여기다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "regarded as"
+   ]
+  },
+  "regime": {
+   "ko": "정권",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "regime"
+   ]
+  },
+  "reinterpret": {
+   "ko": "재해석하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "reinterpreting"
+   ]
+  },
+  "reintroduce": {
+   "ko": "다시 소개하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "reintroduce"
+   ]
+  },
+  "relate": {
+   "ko": "관련되다, 관계 맺다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "relating"
+   ]
+  },
+  "release": {
+   "ko": "출시, 방출",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "release"
+   ]
+  },
+  "relevance": {
+   "ko": "관련성, 적절성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "relevance"
+   ]
+  },
+  "relevant": {
+   "ko": "적절한, 의미 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "relevant"
+   ]
+  },
+  "religious": {
+   "ko": "종교의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "religious"
+   ]
+  },
+  "remain": {
+   "ko": "여전히 ~이다, 남다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "remain",
+    "remains"
+   ]
+  },
+  "render": {
+   "ko": "번역하다, 표현하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "rendered"
+   ]
+  },
+  "renew": {
+   "ko": "새롭게 하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "renewed"
+   ]
+  },
+  "renowned": {
+   "ko": "유명한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "renowned"
+   ]
+  },
+  "reorder": {
+   "ko": "재배열하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "reorder"
+   ]
+  },
+  "replace": {
+   "ko": "대체하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "replacing"
+   ]
+  },
+  "representation": {
+   "ko": "표현, 묘사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "representation"
+   ]
+  },
+  "represent": {
+   "ko": "나타내다, 상징하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "represented"
+   ]
+  },
+  "resonate with": {
+   "ko": "~의 공감을 얻다, 와닿다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "resonate with"
+   ]
+  },
+  "resource": {
+   "ko": "자원",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "resource"
+   ]
+  },
+  "respectability": {
+   "ko": "존경할 만함, 체면",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "respectability"
+   ]
+  },
+  "retreat": {
+   "ko": "휴식처, 은신처",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "retreat"
+   ]
+  },
+  "reveal": {
+   "ko": "드러내다, 밝히다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "revealed",
+    "reveals"
+   ]
+  },
+  "revere": {
+   "ko": "숭배하다, 경외하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "revered"
+   ]
+  },
+  "reverence": {
+   "ko": "숭배, 경외",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "reverence"
+   ]
+  },
+  "revise": {
+   "ko": "수정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "revising"
+   ]
+  },
+  "reword": {
+   "ko": "바꿔 말하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "rewording"
+   ]
+  },
+  "rift": {
+   "ko": "균열, 불화",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "rift"
+   ]
+  },
+  "ritual": {
+   "ko": "의식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "rituals"
+   ]
+  },
+  "sacred": {
+   "ko": "신성한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "sacred"
+   ]
+  },
+  "sacrifice": {
+   "ko": "제물, 희생",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "sacrifice"
+   ]
+  },
+  "saturate": {
+   "ko": "포화시키다, 흠뻑 적시다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "saturated"
+   ]
+  },
+  "scale": {
+   "ko": "규모",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "scale"
+   ]
+  },
+  "scam": {
+   "ko": "사기",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "scams"
+   ]
+  },
+  "scholar": {
+   "ko": "학자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "scholars"
+   ]
+  },
+  "scholarly": {
+   "ko": "학문적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "scholarly"
+   ]
+  },
+  "scholarship": {
+   "ko": "학문, 학식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "scholarship"
+   ]
+  },
+  "scope": {
+   "ko": "범위",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "scope"
+   ]
+  },
+  "scrutiny": {
+   "ko": "정밀 조사, 면밀한 검토",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "scrutiny"
+   ]
+  },
+  "secular": {
+   "ko": "세속적인, 비종교적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "secular"
+   ]
+  },
+  "secure": {
+   "ko": "확보하다, 획득하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "securing"
+   ]
+  },
+  "seek": {
+   "ko": "추구하다, 찾다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "seeks",
+    "seeking"
+   ]
+  },
+  "seemingly": {
+   "ko": "겉보기에",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "seemingly"
+   ]
+  },
+  "seep": {
+   "ko": "스며 나오다, 새다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "seep"
+   ]
+  },
+  "self-help": {
+   "ko": "자기 계발",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "self-help"
+   ]
+  },
+  "sensation": {
+   "ko": "감각, 느낌",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "sensations"
+   ]
+  },
+  "sensational": {
+   "ko": "선풍적인, 세상을 놀라게 하는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "sensational"
+   ]
+  },
+  "sensibility": {
+   "ko": "감수성, 감각",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "sensibilities"
+   ]
+  },
+  "sensory": {
+   "ko": "감각의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "sensory"
+   ]
+  },
+  "separate": {
+   "ko": "분리된, 별개의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "separate"
+   ]
+  },
+  "serene": {
+   "ko": "고요한, 평온한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "serene"
+   ]
+  },
+  "settle": {
+   "ko": "가라앉다, 정착하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "settling"
+   ]
+  },
+  "severe": {
+   "ko": "심각한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "severe"
+   ]
+  },
+  "shape": {
+   "ko": "형성하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "shaped",
+    "shaping"
+   ]
+  },
+  "shed light on": {
+   "ko": "~을 밝히다, 조명하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "shed light on"
+   ]
+  },
+  "shift": {
+   "ko": "변화, 전환",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "shift"
+   ]
+  },
+  "signal": {
+   "ko": "신호",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "signal",
+    "signals"
+   ]
+  },
+  "significant": {
+   "ko": "중요한, 상당한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "significant"
+   ]
+  },
+  "simplify": {
+   "ko": "단순화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "simplifying"
+   ]
+  },
+  "sincere": {
+   "ko": "진지한, 진실한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "sincere"
+   ]
+  },
+  "site": {
+   "ko": "장소, 유적지",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "site",
+    "sites"
+   ]
+  },
+  "situated": {
+   "ko": "위치한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "situated"
+   ]
+  },
+  "skeptical": {
+   "ko": "회의적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "skeptical"
+   ]
+  },
+  "slave": {
+   "ko": "노예",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "slave"
+   ]
+  },
+  "slavery": {
+   "ko": "노예 제도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "slavery"
+   ]
+  },
+  "solely": {
+   "ko": "오로지",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "solely"
+   ]
+  },
+  "solemnity": {
+   "ko": "엄숙함",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "solemnity"
+   ]
+  },
+  "source text": {
+   "ko": "원전, 원문",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "source text"
+   ]
+  },
+  "specialist": {
+   "ko": "전문의, 전문가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "specialist"
+   ]
+  },
+  "specific": {
+   "ko": "특정한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "specific",
+    "specifically"
+   ]
+  },
+  "spirituality": {
+   "ko": "영성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "spirituality"
+   ]
+  },
+  "stand apart from": {
+   "ko": "~와 구별되다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "stands apart from"
+   ]
+  },
+  "statement": {
+   "ko": "진술, 문장",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "statement"
+   ]
+  },
+  "status": {
+   "ko": "지위",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "status"
+   ]
+  },
+  "statue": {
+   "ko": "조각상",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "statue"
+   ]
+  },
+  "statutory": {
+   "ko": "법에 정해진, 법정의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "statutory"
+   ]
+  },
+  "stewardship": {
+   "ko": "관리, 책무, 청지기 직분",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "stewardship"
+   ]
+  },
+  "stress": {
+   "ko": "강조하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "stresses"
+   ]
+  },
+  "strike at": {
+   "ko": "~을 공격하다, ~의 근간을 흔들다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "strikes at"
+   ]
+  },
+  "struggle": {
+   "ko": "애쓰다, 고전하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "struggles"
+   ]
+  },
+  "subject": {
+   "ko": "주제",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "subjects"
+   ]
+  },
+  "subjective": {
+   "ko": "주관적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "subjective"
+   ]
+  },
+  "subtlety": {
+   "ko": "미묘함, 미묘한 차이",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "subtlety",
+    "subtleties"
+   ]
+  },
+  "suggest": {
+   "ko": "시사하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "suggests"
+   ]
+  },
+  "supernatural": {
+   "ko": "초자연적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "supernatural"
+   ]
+  },
+  "supersede": {
+   "ko": "대체하다, 대신하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "superseded"
+   ]
+  },
+  "supervision": {
+   "ko": "감독, 관리",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "supervision"
+   ]
+  },
+  "supply": {
+   "ko": "공급(품)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "supplies"
+   ]
+  },
+  "supportive": {
+   "ko": "지지하는, 협력적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "supportive"
+   ]
+  },
+  "surge": {
+   "ko": "급증",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "surge"
+   ]
+  },
+  "surround": {
+   "ko": "둘러싸다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "surrounding"
+   ]
+  },
+  "survey": {
+   "ko": "조사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "survey",
+    "surveys"
+   ]
+  },
+  "syllogistic": {
+   "ko": "삼단논법의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "syllogistic"
+   ]
+  },
+  "symbol": {
+   "ko": "상징",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "symbol"
+   ]
+  },
+  "sympathetic": {
+   "ko": "동정적인, 공감하는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "sympathetic"
+   ]
+  },
+  "symptom": {
+   "ko": "증상",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "symptoms"
+   ]
+  },
+  "synonym": {
+   "ko": "동의어",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "synonym"
+   ]
+  },
+  "systematic": {
+   "ko": "체계적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "systematic"
+   ]
+  },
+  "target": {
+   "ko": "표적, 대상",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "target"
+   ]
+  },
+  "technique": {
+   "ko": "기법",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "techniques"
+   ]
+  },
+  "tenderness": {
+   "ko": "다정함, 부드러움",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "tenderness"
+   ]
+  },
+  "terminology": {
+   "ko": "용어, 술어",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "terminology"
+   ]
+  },
+  "terms": {
+   "ko": "조건, 틀, 용어",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "terms"
+   ]
+  },
+  "textual": {
+   "ko": "원문의, 본문의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "textual"
+   ]
+  },
+  "theme": {
+   "ko": "주제",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "themes"
+   ]
+  },
+  "therapeutic": {
+   "ko": "치료의, 치유의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "therapeutic"
+   ]
+  },
+  "thesis": {
+   "ko": "논지, 논제",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "thesis"
+   ]
+  },
+  "thinker": {
+   "ko": "사상가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "thinkers"
+   ]
+  },
+  "thread": {
+   "ko": "실, 맥락",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "thread"
+   ]
+  },
+  "threat": {
+   "ko": "위협",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "threats"
+   ]
+  },
+  "timeless": {
+   "ko": "영원한, 시대를 초월한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "timeless"
+   ]
+  },
+  "tone": {
+   "ko": "어조",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "tone"
+   ]
+  },
+  "topple": {
+   "ko": "(정권을) 무너뜨리다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "toppled"
+   ]
+  },
+  "totally": {
+   "ko": "완전히",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "totally"
+   ]
+  },
+  "tradition": {
+   "ko": "전통",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "tradition",
+    "traditions"
+   ]
+  },
+  "trail": {
+   "ko": "오솔길, 산책로",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "trails"
+   ]
+  },
+  "trance": {
+   "ko": "무아지경, 황홀경",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "trances",
+    "trance-like"
+   ]
+  },
+  "transformation": {
+   "ko": "변화, 변형",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "transformation"
+   ]
+  },
+  "translate": {
+   "ko": "번역하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "translated"
+   ]
+  },
+  "translation": {
+   "ko": "번역(본)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "translation",
+    "translations"
+   ]
+  },
+  "translator": {
+   "ko": "번역가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "translators"
+   ]
+  },
+  "transmit": {
+   "ko": "전하다, 전송하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "transmit"
+   ]
+  },
+  "treatise": {
+   "ko": "논문, 전문 서적",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "treatise"
+   ]
+  },
+  "treatment": {
+   "ko": "다룸, 처리, 치료",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "treatment"
+   ]
+  },
+  "treaty": {
+   "ko": "조약",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "treaty",
+    "treaty's"
+   ]
+  },
+  "tribe": {
+   "ko": "부족",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "tribe"
+   ]
+  },
+  "trustworthy": {
+   "ko": "신뢰할 수 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "trustworthy"
+   ]
+  },
+  "turning point": {
+   "ko": "전환점",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "turning point"
+   ]
+  },
+  "ubiquitous": {
+   "ko": "어디에나 있는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "ubiquitous"
+   ]
+  },
+  "underground": {
+   "ko": "지하의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "underground"
+   ]
+  },
+  "underscore": {
+   "ko": "강조하다, 분명히 하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "underscores",
+    "underscored"
+   ]
+  },
+  "uninterested": {
+   "ko": "관심 없는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "uninterested"
+   ]
+  },
+  "uniqueness": {
+   "ko": "고유성, 독특함",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "uniqueness"
+   ]
+  },
+  "universal": {
+   "ko": "보편자, 보편적인 것",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "universals"
+   ]
+  },
+  "update": {
+   "ko": "최신화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "updated",
+    "updating"
+   ]
+  },
+  "urban": {
+   "ko": "도시의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "urban"
+   ]
+  },
+  "utterance": {
+   "ko": "발화, 말",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "utterance"
+   ]
+  },
+  "value": {
+   "ko": "가치, (pl.) 가치관",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "value",
+    "values"
+   ]
+  },
+  "vanguard": {
+   "ko": "선봉, 선구자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "vanguards"
+   ]
+  },
+  "variety": {
+   "ko": "다양성, 여러 가지",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "variety"
+   ]
+  },
+  "various": {
+   "ko": "다양한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "various"
+   ]
+  },
+  "vast": {
+   "ko": "광대한, 막대한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "vast"
+   ]
+  },
+  "vegetation": {
+   "ko": "초목, 식물",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "vegetation"
+   ]
+  },
+  "verbal": {
+   "ko": "언어의, 말로 된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "verbal"
+   ]
+  },
+  "version": {
+   "ko": "판, 번역본",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "versions"
+   ]
+  },
+  "vested interest": {
+   "ko": "기득권",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "vested interests"
+   ]
+  },
+  "victory": {
+   "ko": "승리",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "victory"
+   ]
+  },
+  "view": {
+   "ko": "견해",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "views"
+   ]
+  },
+  "visual": {
+   "ko": "시각의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "visual"
+   ]
+  },
+  "vital": {
+   "ko": "필수적인, 중대한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "vital"
+   ]
+  },
+  "vivid": {
+   "ko": "생생한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "vivid"
+   ]
+  },
+  "volunteer": {
+   "ko": "자원봉사하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "volunteering"
+   ]
+  },
+  "vote": {
+   "ko": "투표하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "voting"
+   ]
+  },
+  "walk of life": {
+   "ko": "계층, 신분, 직업",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "walks of life"
+   ]
+  },
+  "warmth": {
+   "ko": "따뜻함",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "warmth"
+   ]
+  },
+  "warrior": {
+   "ko": "전사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "warriors"
+   ]
+  },
+  "wealthy": {
+   "ko": "부유한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "wealthy"
+   ]
+  },
+  "well-known": {
+   "ko": "잘 알려진",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "well-known"
+   ]
+  },
+  "whisper": {
+   "ko": "속삭임",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "whisper"
+   ]
+  },
+  "widespread": {
+   "ko": "광범위한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "widespread"
+   ]
+  },
+  "wilderness": {
+   "ko": "황무지, 야생 지대",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "wilderness"
+   ]
+  },
+  "woodsy": {
+   "ko": "숲의, 숲이 우거진",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "woodsy"
+   ]
+  },
+  "wrestle with": {
+   "ko": "~와 씨름하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "wrestled with"
+   ]
+  },
+  "yield": {
+   "ko": "산출하다, 낳다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "yields"
+   ]
+  },
+  "zone": {
+   "ko": "구역, 지대",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "zone"
+   ]
+  },
+  "mainly": {
+   "ko": "주로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "mainly"
+   ]
+  }
+ }
+}

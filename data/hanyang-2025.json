@@ -1,0 +1,8761 @@
+{
+ "id": "hanyang-2025",
+ "school": "한양대",
+ "year": 2025,
+ "title": "2025학년도 한양대학교 편입영어 인문계열 A형",
+ "minutes": 60,
+ "note": "시험지 1번(문제 유형 표시, 무배점)은 제외하고, 시험지 2~36번을 공식 정답지 번호에 맞춰 1~35번으로 수록함. 각 문항의 paper_no가 시험지 원래 번호.",
+ "directions": [
+  {
+   "from": 1,
+   "to": 6,
+   "text": "밑줄 친 단어의 뜻과 가장 가까운 것을 고르시오. (시험지 [2-7])"
+  },
+  {
+   "from": 7,
+   "to": 18,
+   "text": "빈칸에 들어갈 가장 적절한 것을 고르시오. (시험지 [8-19])"
+  },
+  {
+   "from": 19,
+   "to": 19,
+   "text": "빈칸 (A), (B)에 들어갈 가장 적절한 것은? (시험지 20번)"
+  },
+  {
+   "from": 20,
+   "to": 21,
+   "text": "다음 글을 읽고 물음에 답하시오. (시험지 [21-22])"
+  },
+  {
+   "from": 22,
+   "to": 23,
+   "text": "다음 글의 주제로 가장 적절한 것을 고르시오. (시험지 [23-24])"
+  },
+  {
+   "from": 24,
+   "to": 25,
+   "text": "다음 글의 요지로 가장 적절한 것을 고르시오. (시험지 [25-26])"
+  },
+  {
+   "from": 26,
+   "to": 27,
+   "text": "다음 글의 제목으로 가장 적절한 것을 고르시오. (시험지 [27-28])"
+  },
+  {
+   "from": 28,
+   "to": 29,
+   "text": "다음 글의 내용과 가장 거리가 <u>먼</u> 것을 고르시오. (시험지 [29-30])"
+  },
+  {
+   "from": 30,
+   "to": 31,
+   "text": "다음 글을 읽고 물음에 답하시오. (시험지 [31-32])"
+  },
+  {
+   "from": 32,
+   "to": 33,
+   "text": "다음 글을 읽고 물음에 답하시오. (시험지 [33-34])"
+  },
+  {
+   "from": 34,
+   "to": 35,
+   "text": "다음 글을 읽고 물음에 답하시오. (시험지 [35-36])"
+  }
+ ],
+ "passages": [
+  {
+   "id": "p20",
+   "from": 20,
+   "to": 21,
+   "title": "",
+   "text": "Our skin is curiously soft compared to that of other more hirsute vertebrates. Hairy skin is surely advantageous in terms of insulation from the cold, protection from abrasions, and the burning sun, which is why most hairless creatures live either underground or in water. A big advantage of being hairless, though, is in keeping cool. Humans have glands that can produce up to 12 litres of watery sweat every day, which evaporates easily to cool us down. When our distant relatives moved out of forests into savanna grasslands, we did a lot of trekking in the hot sun to search for water, edible plants and meat required for our energy-sapping large brains. Thanks to our ability to sweat profusely on a hot day we, or at least some of us, could outcompete a horse in a marathon. But, we solved the problem of overheating at the risk of making our sensitive skin more vulnerable to infection. Each sweat gland is an oasis colonised by 100,000 bacteria, quietly tolerated, except during adolescence, when a flood of hormones stimulates oil production, food for Propionibacterium acnes, causing unsightly blackheads; our castle <u>sanctions</u> some itinerant campers outside its walls, feeding on scraps. The advantages of keeping us cool by being relatively hairless must be weighed against our susceptibility to injury and infection as our skin is easily removed by burns or wounding.",
+   "sents": [
+    {
+     "en": "Our skin is curiously soft compared to that of other more hirsute vertebrates.",
+     "ko": "우리의 피부는 털이 더 많은 다른 척추동물의 피부에 비해 묘하게 부드럽다."
+    },
+    {
+     "en": "Hairy skin is surely advantageous in terms of insulation from the cold, protection from abrasions, and the burning sun, which is why most hairless creatures live either underground or in water.",
+     "ko": "털 있는 피부는 추위로부터의 단열, 찰과상과 뜨거운 햇볕으로부터의 보호 면에서 분명 유리하며, 이 때문에 털 없는 생물 대부분이 땅속이나 물속에서 산다."
+    },
+    {
+     "en": "A big advantage of being hairless, though, is in keeping cool.",
+     "ko": "하지만 털이 없다는 것의 큰 이점은 몸을 시원하게 유지하는 데 있다."
+    },
+    {
+     "en": "Humans have glands that can produce up to 12 litres of watery sweat every day, which evaporates easily to cool us down.",
+     "ko": "인간은 하루에 최대 12리터의 묽은 땀을 만들어 낼 수 있는 땀샘을 가지고 있으며, 이 땀은 쉽게 증발하여 우리의 열을 식혀 준다."
+    },
+    {
+     "en": "When our distant relatives moved out of forests into savanna grasslands, we did a lot of trekking in the hot sun to search for water, edible plants and meat required for our energy-sapping large brains.",
+     "ko": "우리의 먼 친척들이 숲에서 사바나 초원으로 나왔을 때, 우리는 에너지를 많이 소모하는 큰 뇌에 필요한 물, 먹을 수 있는 식물, 고기를 찾아 뜨거운 햇볕 아래에서 오랜 도보 이동을 많이 했다."
+    },
+    {
+     "en": "Thanks to our ability to sweat profusely on a hot day we, or at least some of us, could outcompete a horse in a marathon.",
+     "ko": "더운 날 땀을 많이 흘릴 수 있는 능력 덕분에, 우리 인간, 적어도 우리 중 일부는 마라톤에서 말을 이길 수도 있었다."
+    },
+    {
+     "en": "But, we solved the problem of overheating at the risk of making our sensitive skin more vulnerable to infection.",
+     "ko": "하지만 우리는 민감한 피부가 감염에 더 취약해질 위험을 감수하면서 과열 문제를 해결한 것이다."
+    },
+    {
+     "en": "Each sweat gland is an oasis colonised by 100,000 bacteria, quietly tolerated, except during adolescence, when a flood of hormones stimulates oil production, food for Propionibacterium acnes, causing unsightly blackheads; our castle sanctions some itinerant campers outside its walls, feeding on scraps.",
+     "ko": "각 땀샘은 10만 마리의 박테리아가 서식하는 오아시스로, 이들은 조용히 용인되지만, 호르몬이 쏟아져 나와 피지 분비를 촉진하는 사춘기 동안은 예외이다. 피지는 여드름균(Propionibacterium acnes)의 먹이가 되어 보기 흉한 블랙헤드를 일으킨다. 우리의 성(城)은 성벽 바깥에서 부스러기를 먹고 사는 떠돌이 야영객 몇몇을 허용한다(sanctions = 허용한다)."
+    },
+    {
+     "en": "The advantages of keeping us cool by being relatively hairless must be weighed against our susceptibility to injury and infection as our skin is easily removed by burns or wounding.",
+     "ko": "상대적으로 털이 없어 몸을 시원하게 유지하는 이점은, 피부가 화상이나 부상으로 쉽게 벗겨지기 때문에 생기는 부상과 감염에 대한 취약성과 견주어 따져 보아야 한다."
+    }
+   ]
+  },
+  {
+   "id": "p30",
+   "from": 30,
+   "to": 31,
+   "title": "",
+   "text": "Anglo-American culture—the dominant seedbed of science fiction—assumes the negative about urban life more often and more easily than does continental culture. It is easy to trace American (A)<u>antiurban</u> thinking through intellectual traditions and popular culture. When Thomas Jefferson compared cities to cancers and sores on the body politic, he set a tone that has resonated in American politics for two centuries. Nineteenth-century fears of cities as cauldrons of social disorder and political chaos fueled the urban (B)<u>dystopias</u> that appeared again and again in imagined futures of the late nineteenth and early twentieth centuries. Even in the twenty-first century, a (C)<u>minority</u> of Americans hold to the ideal of small-town living over big-city life that is supposedly less satisfying, less authentic, less healthy, more dangerous, and more alienating.\n\nThe comprehensive findings of social science, however, are not so clear. City people in the United States have roughly the same density of social networks as small-town folks, just skewed away from kin and toward groups of common interest. Even the slums and shantytowns of Latin America and South Asia are places of opportunity for the (D)<u>rural</u> poor, with better health care, education, and job opportunities. In developing countries, city dwellers generally are more likely than their rural counterparts to say they are happy. Cities are cultural incubators, technological innovators, and the places where reformers introduce and test (E)<u>progressive</u> institutions. The city as creative milieu is a network of industries and universities, artists and entrepreneurs.",
+   "sents": [
+    {
+     "en": "Anglo-American culture—the dominant seedbed of science fiction—assumes the negative about urban life more often and more easily than does continental culture.",
+     "ko": "공상과학 소설의 지배적인 토양인 영미 문화는 대륙 문화보다 도시 생활에 대해 부정적인 것을 더 자주, 더 쉽게 전제한다."
+    },
+    {
+     "en": "It is easy to trace American (A)antiurban thinking through intellectual traditions and popular culture.",
+     "ko": "미국의 (A) 반(反)도시적 사고를 지적 전통과 대중문화 전반에서 추적하기는 쉽다."
+    },
+    {
+     "en": "When Thomas Jefferson compared cities to cancers and sores on the body politic, he set a tone that has resonated in American politics for two centuries.",
+     "ko": "토머스 제퍼슨이 도시를 정치 공동체(국가 조직)의 암과 종기에 비유했을 때, 그는 두 세기 동안 미국 정치에 울려 퍼져 온 기조를 세웠다."
+    },
+    {
+     "en": "Nineteenth-century fears of cities as cauldrons of social disorder and political chaos fueled the urban (B)dystopias that appeared again and again in imagined futures of the late nineteenth and early twentieth centuries.",
+     "ko": "도시를 사회 무질서와 정치적 혼란의 도가니로 보는 19세기의 공포는, 19세기 말과 20세기 초에 상상된 미래상에서 거듭 나타난 도시 (B) 디스토피아(암울한 반이상향)를 부채질했다."
+    },
+    {
+     "en": "Even in the twenty-first century, a (C)minority of Americans hold to the ideal of small-town living over big-city life that is supposedly less satisfying, less authentic, less healthy, more dangerous, and more alienating.",
+     "ko": "21세기에도 (C) 소수의 미국인은 대도시 생활보다 소도시 생활이라는 이상을 고수하는데, 대도시 생활은 이른바 덜 만족스럽고, 덜 진정성 있고, 덜 건강하고, 더 위험하고, 더 소외감을 준다는 것이다."
+    },
+    {
+     "en": "The comprehensive findings of social science, however, are not so clear.",
+     "ko": "그러나 사회과학의 종합적인 연구 결과는 그렇게 분명하지 않다."
+    },
+    {
+     "en": "City people in the United States have roughly the same density of social networks as small-town folks, just skewed away from kin and toward groups of common interest.",
+     "ko": "미국의 도시 사람들은 소도시 사람들과 대략 같은 밀도의 사회적 관계망을 가지고 있으며, 다만 그 관계망이 친족에서 멀어지고 공통 관심사 집단 쪽으로 기울어 있을 뿐이다."
+    },
+    {
+     "en": "Even the slums and shantytowns of Latin America and South Asia are places of opportunity for the (D)rural poor, with better health care, education, and job opportunities.",
+     "ko": "라틴아메리카와 남아시아의 슬럼가와 판자촌조차도 더 나은 보건 의료, 교육, 일자리 기회가 있어 (D) 시골의 빈민에게는 기회의 장소이다."
+    },
+    {
+     "en": "In developing countries, city dwellers generally are more likely than their rural counterparts to say they are happy.",
+     "ko": "개발도상국에서는 도시 거주자가 시골 거주자보다 자신이 행복하다고 말할 가능성이 대체로 더 높다."
+    },
+    {
+     "en": "Cities are cultural incubators, technological innovators, and the places where reformers introduce and test (E)progressive institutions.",
+     "ko": "도시는 문화의 인큐베이터이자 기술 혁신가이며, 개혁가들이 (E) 진보적인 제도를 도입하고 시험하는 장소이다."
+    },
+    {
+     "en": "The city as creative milieu is a network of industries and universities, artists and entrepreneurs.",
+     "ko": "창조적 환경으로서의 도시는 산업과 대학, 예술가와 기업가로 이루어진 네트워크이다."
+    }
+   ]
+  },
+  {
+   "id": "p32",
+   "from": 32,
+   "to": 33,
+   "title": "",
+   "text": "According to Henri Bergson, laughter emanates from the recognition of mechanical rigidity imposed upon the organic dynamism of human life. For Bergson, laughter functions as a profound social corrective, addressing behaviors or situations where individuals succumb to automatism or inflexible patterns, thereby disrupting the fluidity and spontaneity requisite for harmonious social interaction. He famously contends that laughter bears a “social signification,” designed to “humiliate” and rectify the incongruous, restoring equilibrium within the collective. In contrast, Oscar Wilde conceptualizes laughter through a lens of irony and subversion, wielding wit as an incisive tool to expose the hypocrisies and absurdities underpinning societal conventions. Wilde orchestrates humor through deftly constructed paradoxes and the playful inversion of expectations, eliciting laughter not as a moral imperative but as a jubilant affirmation of the ridiculous and the deliberate artifice of social mores. Together, Bergson and Wilde illuminate distinct yet complementary dimensions of laughter: the former as an instrument of social regulation and cohesion, the latter as a medium for critical interrogation and aesthetic pleasure. Their perspectives collectively underscore laughter’s profound cultural and intellectual __________, revealing its intricate entanglement with human behavior and the structures of society.",
+   "sents": [
+    {
+     "en": "According to Henri Bergson, laughter emanates from the recognition of mechanical rigidity imposed upon the organic dynamism of human life.",
+     "ko": "앙리 베르그송에 따르면, 웃음은 인간 삶의 유기적 역동성에 기계적 경직성이 부과된 것을 알아차리는 데서 나온다."
+    },
+    {
+     "en": "For Bergson, laughter functions as a profound social corrective, addressing behaviors or situations where individuals succumb to automatism or inflexible patterns, thereby disrupting the fluidity and spontaneity requisite for harmonious social interaction.",
+     "ko": "베르그송에게 웃음은 심오한 사회적 교정 수단으로 기능하는데, 개인이 자동성이나 융통성 없는 패턴에 굴복하는 행동이나 상황을 바로잡아, 조화로운 사회적 상호작용에 필요한 유동성과 자발성이 훼손되는 것을 막는다."
+    },
+    {
+     "en": "He famously contends that laughter bears a “social signification,” designed to “humiliate” and rectify the incongruous, restoring equilibrium within the collective.",
+     "ko": "그는 웃음이 부조화스러운 것을 “창피 주어” 바로잡고 집단 내의 균형을 회복하도록 의도된 “사회적 의미”를 지닌다고 유명하게 주장한다."
+    },
+    {
+     "en": "In contrast, Oscar Wilde conceptualizes laughter through a lens of irony and subversion, wielding wit as an incisive tool to expose the hypocrisies and absurdities underpinning societal conventions.",
+     "ko": "반면 오스카 와일드는 아이러니와 전복의 관점에서 웃음을 개념화하며, 재치를 예리한 도구로 휘둘러 사회 관습의 밑바탕에 깔린 위선과 부조리를 폭로한다."
+    },
+    {
+     "en": "Wilde orchestrates humor through deftly constructed paradoxes and the playful inversion of expectations, eliciting laughter not as a moral imperative but as a jubilant affirmation of the ridiculous and the deliberate artifice of social mores.",
+     "ko": "와일드는 교묘하게 구성된 역설과 기대의 장난스러운 뒤집기를 통해 유머를 연출하며, 웃음을 도덕적 의무로서가 아니라 우스꽝스러운 것과 사회 풍속의 의도적인 인위성에 대한 환희에 찬 긍정으로서 이끌어 낸다."
+    },
+    {
+     "en": "Together, Bergson and Wilde illuminate distinct yet complementary dimensions of laughter: the former as an instrument of social regulation and cohesion, the latter as a medium for critical interrogation and aesthetic pleasure.",
+     "ko": "베르그송과 와일드는 함께 웃음의 서로 다르면서도 상호 보완적인 면을 밝혀 준다. 전자는 사회적 규제와 결속의 도구로서, 후자는 비판적 탐구와 미적 즐거움의 매개로서의 면이다."
+    },
+    {
+     "en": "Their perspectives collectively underscore laughter’s profound cultural and intellectual __________, revealing its intricate entanglement with human behavior and the structures of society.",
+     "ko": "그들의 관점은 종합적으로 웃음이 지닌 심오한 문화적·지적 ( 빈칸: 울림, 공명 )을 강조하며, 웃음이 인간 행동과 사회 구조에 복잡하게 얽혀 있음을 드러낸다."
+    }
+   ]
+  },
+  {
+   "id": "p34",
+   "from": 34,
+   "to": 35,
+   "title": "",
+   "text": "Our conceptualization of boredom offers a differentiated view on the oft-found link between boredom and attention. A very consistent body of research has linked boredom to attentional failures. That is, when bored, we fail to keep our attention engaged with the task at hand. In turn, failures to keep attention engaged have been incorporated into the conceptualization of boredom as a defining feature. While we in no way negate the close link between boredom and attention, we argue that in the context of boredom, attentional disengagement does not represent a failure. We suggest that disengaging attention from a situation that yields only uninformative reward prediction errors (i.e., minimized near zero) is the very function of boredom. By triggering exploration via increased mental or motor motion, boredom is intrinsically designed to engage attention elsewhere. Thus, attentional disengagement is not the bug of boredom, but one of its core features. <u>Clearly, people frequently find themselves in situations whereby attentional disengagement is problematic and whereby boredom-induced attentional failures can produce catastrophic consequences.</u> However, we argue that in navigating the plethora of choices people make in life (simply put: Where do I devote my time and attention?), boredom serves as an adaptive function in helping people disengage from a course of action that is too low in subjective utility. Consistent with this, people who are frequently bored (i.e., score high in boredom proneness) scored lower on a measure of trait disengagement, thus supporting the notion that rather than being a pure measure of trait boredom, boredom proneness might reflect the dispositional self-regulatory failure to adaptively respond to boredom.",
+   "sents": [
+    {
+     "en": "Our conceptualization of boredom offers a differentiated view on the oft-found link between boredom and attention.",
+     "ko": "우리의 지루함에 대한 개념화는 지루함과 주의력 사이에서 흔히 발견되는 연관성에 대해 차별화된 시각을 제공한다."
+    },
+    {
+     "en": "A very consistent body of research has linked boredom to attentional failures.",
+     "ko": "매우 일관된 연구 결과들이 지루함을 주의력 실패와 연결해 왔다."
+    },
+    {
+     "en": "That is, when bored, we fail to keep our attention engaged with the task at hand.",
+     "ko": "즉, 지루할 때 우리는 당면한 과제에 주의를 집중한 채로 유지하지 못한다."
+    },
+    {
+     "en": "In turn, failures to keep attention engaged have been incorporated into the conceptualization of boredom as a defining feature.",
+     "ko": "이어서, 주의를 집중하지 못하는 것은 지루함의 결정적 특징으로서 지루함의 개념화에 포함되어 왔다."
+    },
+    {
+     "en": "While we in no way negate the close link between boredom and attention, we argue that in the context of boredom, attentional disengagement does not represent a failure.",
+     "ko": "우리는 지루함과 주의력 사이의 밀접한 연관성을 결코 부정하지 않지만, 지루함의 맥락에서 주의의 이탈은 실패를 나타내지 않는다고 주장한다."
+    },
+    {
+     "en": "We suggest that disengaging attention from a situation that yields only uninformative reward prediction errors (i.e., minimized near zero) is the very function of boredom.",
+     "ko": "우리는 정보가 없는 보상 예측 오류(즉, 0에 가깝게 최소화된 오류)만을 낳는 상황에서 주의를 거두는 것이 바로 지루함의 기능이라고 제안한다."
+    },
+    {
+     "en": "By triggering exploration via increased mental or motor motion, boredom is intrinsically designed to engage attention elsewhere.",
+     "ko": "지루함은 정신적 또는 운동적 움직임의 증가를 통해 탐색을 유발함으로써, 본질적으로 다른 곳으로 주의를 돌리도록 설계되어 있다."
+    },
+    {
+     "en": "Thus, attentional disengagement is not the bug of boredom, but one of its core features.",
+     "ko": "따라서 주의 이탈은 지루함의 결함(버그)이 아니라 핵심 특징 중 하나이다."
+    },
+    {
+     "en": "Clearly, people frequently find themselves in situations whereby attentional disengagement is problematic and whereby boredom-induced attentional failures can produce catastrophic consequences.",
+     "ko": "분명 사람들은 주의 이탈이 문제가 되고, 지루함으로 인한 주의력 실패가 치명적인 결과를 낳을 수 있는 상황에 자주 놓인다."
+    },
+    {
+     "en": "However, we argue that in navigating the plethora of choices people make in life (simply put: Where do I devote my time and attention?), boredom serves as an adaptive function in helping people disengage from a course of action that is too low in subjective utility.",
+     "ko": "그러나 우리는 사람들이 삶에서 내리는 수많은 선택(간단히 말해, 나의 시간과 주의를 어디에 쏟을 것인가?)을 헤쳐 나가는 데 있어, 지루함이 주관적 효용이 너무 낮은 행동 방침에서 벗어나도록 돕는 적응적 기능을 한다고 주장한다."
+    },
+    {
+     "en": "Consistent with this, people who are frequently bored (i.e., score high in boredom proneness) scored lower on a measure of trait disengagement, thus supporting the notion that rather than being a pure measure of trait boredom, boredom proneness might reflect the dispositional self-regulatory failure to adaptively respond to boredom.",
+     "ko": "이와 일치하게, 자주 지루함을 느끼는 사람들(즉, 지루함 성향 점수가 높은 사람들)은 특성 이탈(trait disengagement) 척도에서 더 낮은 점수를 받았는데, 이는 지루함 성향이 순수한 특성 지루함의 척도라기보다 지루함에 적응적으로 반응하지 못하는 기질적인 자기조절 실패를 반영할 수 있다는 생각을 뒷받침한다."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "no": 1,
+   "paper_no": 2,
+   "passage": null,
+   "stem": "Democracy, that delicate and ever-evolving tapestry of collective will, is both the guardian of individual freedoms and the <u>crucible</u> in which the aspirations of humanity are unceasingly tested and refined.",
+   "choices": [
+    "trial",
+    "catalyst",
+    "portal",
+    "foundation",
+    "experiment"
+   ],
+   "answer": 1,
+   "points": 2,
+   "explain": "crucible은 '도가니', 비유적으로 '혹독한 시련(시험)의 장'을 뜻한다. 뒤의 'in which ... are unceasingly tested and refined(끊임없이 시험받고 정제되는)'가 단서이므로 trial(시련, 시험)이 가장 가깝다. experiment(실험)는 '시험하다'에 끌린 함정이다.",
+   "trans": "민주주의, 즉 집단 의지로 짜인 섬세하고 끊임없이 진화하는 태피스트리는 개인의 자유를 지키는 수호자인 동시에 인류의 열망이 끊임없이 시험받고 다듬어지는 시련의 장이다.",
+   "sents": [
+    {
+     "en": "Democracy, that delicate and ever-evolving tapestry of collective will, is both the guardian of individual freedoms and the crucible in which the aspirations of humanity are unceasingly tested and refined.",
+     "ko": "민주주의, 즉 집단 의지로 짜인 섬세하고 끊임없이 진화하는 태피스트리는 개인의 자유를 지키는 수호자인 동시에, 인류의 열망이 끊임없이 시험받고 정제되는 도가니(crucible: 혹독한 시련의 장)이다."
+    }
+   ],
+   "choices_ko": [
+    "시련, 시험",
+    "촉매",
+    "관문, 입구",
+    "토대",
+    "실험"
+   ]
+  },
+  {
+   "no": 2,
+   "paper_no": 3,
+   "passage": null,
+   "stem": "Videogames certainly have a reputation for encouraging and exemplifying the predatory, neoliberal, regressive tendencies we recognise around us. Still, to billions, gaming is a space for <u>respite</u>, for building lives not yet lived, structures not yet imagined. And, as such, it has to be fought for.",
+   "choices": [
+    "rest",
+    "penance",
+    "aggression",
+    "consensus",
+    "authenticity"
+   ],
+   "answer": 1,
+   "points": 2,
+   "explain": "respite는 '(힘든 일로부터의) 일시적 휴식, 유예'라는 뜻으로 rest(휴식)와 같다. 앞 문장의 부정적 평판과 대조(Still)되어 게임이 '쉼의 공간'이라는 흐름이다.",
+   "trans": "그럼에도 수십억 명에게 게임은 휴식의 공간이자, 아직 살아보지 못한 삶과 아직 상상하지 못한 구조를 만들어가는 공간이다.",
+   "sents": [
+    {
+     "en": "Videogames certainly have a reputation for encouraging and exemplifying the predatory, neoliberal, regressive tendencies we recognise around us.",
+     "ko": "비디오게임은 분명 우리 주변에서 보이는 약탈적이고 신자유주의적이며 퇴행적인 경향을 조장하고 대표한다는 평판을 갖고 있다."
+    },
+    {
+     "en": "Still, to billions, gaming is a space for respite, for building lives not yet lived, structures not yet imagined.",
+     "ko": "그럼에도 수십억 명에게 게임은 휴식(respite)의 공간이며, 아직 살아보지 못한 삶과 아직 상상하지 못한 구조를 만들어 가는 공간이다."
+    },
+    {
+     "en": "And, as such, it has to be fought for.",
+     "ko": "그리고 그런 만큼 게임은 지켜 내기 위해 싸워야 한다."
+    }
+   ],
+   "choices_ko": [
+    "휴식",
+    "속죄, 참회",
+    "공격성",
+    "합의",
+    "진정성"
+   ]
+  },
+  {
+   "no": 3,
+   "paper_no": 4,
+   "passage": null,
+   "stem": "In the late-nineteenth- and early-twentieth-century period, when Irish revivalism and modernism were both still in their fledgling and most <u>protean</u> phases, they did not seem as antithetical to each other as they would later appear to many after each had assumed more programmatic definition from the 1920s or 1930s onwards.",
+   "choices": [
+    "morbid",
+    "prolific",
+    "mutable",
+    "trivial",
+    "timorous"
+   ],
+   "answer": 3,
+   "points": 2,
+   "explain": "protean은 '변화무쌍한, 다양한 형태를 취하는'(그리스 신 Proteus에서 유래)이라는 뜻으로 mutable(변하기 쉬운)과 같다. 뒤의 '이후 더 정형화된(programmatic) 정의를 갖추었다'와 대비되는 초기의 유동적 상태라는 점이 단서다.",
+   "trans": "19세기 후반과 20세기 초반, 아일랜드 부흥 운동과 모더니즘이 둘 다 아직 초창기이자 가장 변화무쌍한 단계에 있었을 때, 그 둘은 훗날 많은 이들에게 보였던 것만큼 서로 대립적으로 보이지 않았다.",
+   "sents": [
+    {
+     "en": "In the late-nineteenth- and early-twentieth-century period, when Irish revivalism and modernism were both still in their fledgling and most protean phases, they did not seem as antithetical to each other as they would later appear to many after each had assumed more programmatic definition from the 1920s or 1930s onwards.",
+     "ko": "19세기 말과 20세기 초, 아일랜드 부흥주의와 모더니즘이 둘 다 아직 초기 단계이고 가장 변화무쌍한(protean) 국면에 있었을 때, 이 둘은 1920~30년대 이후 각각이 더 체계적인 정의를 갖추게 된 뒤 많은 사람에게 보이게 된 것만큼 서로 상반되어 보이지 않았다."
+    }
+   ],
+   "choices_ko": [
+    "병적인, 섬뜩한",
+    "다작의, 번성하는",
+    "변하기 쉬운, 가변적인",
+    "사소한",
+    "소심한, 겁 많은"
+   ]
+  },
+  {
+   "no": 4,
+   "paper_no": 5,
+   "passage": null,
+   "stem": "The less the worker identifies his own freedom and pleasure with the purpose of the work, Marx writes, “the closer his attention is forced to be.” As work becomes more alienating and exploitative, the “exertion of the working organs” must be forcibly <u>cajoled</u>. It is as if an outside, hostile will, at odds with the worker’s own, takes hold of him, using his attention to manipulate his body so that he can execute its plans.",
+   "choices": [
+    "reenacted",
+    "expelled",
+    "mitigated",
+    "coaxed",
+    "dissociated"
+   ],
+   "answer": 4,
+   "points": 2,
+   "explain": "cajole은 '(감언이설로) 구슬리다, 꾀어서 ~하게 하다'라는 뜻으로 coax(달래서 ~하게 하다)와 같다. 노동이 소외적일수록 '노동 기관의 힘씀'을 억지로 끌어내야 한다는 맥락이다.",
+   "trans": "노동이 더 소외적이고 착취적으로 될수록, '노동 기관의 힘씀'은 강제로 구슬려 끌어내야만 한다.",
+   "sents": [
+    {
+     "en": "The less the worker identifies his own freedom and pleasure with the purpose of the work, Marx writes, “the closer his attention is forced to be.”",
+     "ko": "마르크스는 노동자가 자신의 자유와 즐거움을 노동의 목적과 동일시하지 않을수록 “그의 주의가 더 강하게 강제되어야 한다”고 쓴다."
+    },
+    {
+     "en": "As work becomes more alienating and exploitative, the “exertion of the working organs” must be forcibly cajoled.",
+     "ko": "노동이 더 소외적이고 착취적이 될수록, “노동 기관들의 힘 씀”은 억지로 구슬려져야(cajoled) 한다."
+    },
+    {
+     "en": "It is as if an outside, hostile will, at odds with the worker’s own, takes hold of him, using his attention to manipulate his body so that he can execute its plans.",
+     "ko": "마치 노동자 자신의 의지와 어긋나는 외부의 적대적 의지가 그를 사로잡아, 그의 주의를 이용해 자신의 계획을 실행할 수 있도록 그의 몸을 조종하는 것과 같다."
+    }
+   ],
+   "choices_ko": [
+    "재연된",
+    "추방된",
+    "완화된",
+    "구슬려진, 달래진",
+    "분리된"
+   ]
+  },
+  {
+   "no": 5,
+   "paper_no": 6,
+   "passage": null,
+   "stem": "Americans love the ideal of equal opportunity for all. As a vehicle for that idea, admission to highly selective colleges and universities is unworkable almost by definition, because people with advantages don’t want their own children to <u>forgo</u> those advantages, but if we want to come closer to the ideal, we should recognize that operating a series of highly consequential education selections works against it.",
+   "choices": [
+    "belittle",
+    "reserve",
+    "procure",
+    "disclose",
+    "relinquish"
+   ],
+   "answer": 5,
+   "points": 2,
+   "explain": "forgo는 '(누릴 수 있는 것을) 포기하다, 단념하다'라는 뜻으로 relinquish(포기하다, 내주다)와 같다. 유리한 사람들은 자녀가 그 이점을 '포기하기'를 원치 않는다는 맥락이다. procure(획득하다)는 반대 방향이다.",
+   "trans": "유리한 위치에 있는 사람들은 자기 자녀가 그 이점을 포기하기를 원하지 않기 때문에, 고도로 선별적인 대학 입학은 그 이상을 실현하는 수단으로서 거의 정의상 실행 불가능하다.",
+   "sents": [
+    {
+     "en": "Americans love the ideal of equal opportunity for all.",
+     "ko": "미국인은 모두에게 평등한 기회라는 이상을 사랑한다."
+    },
+    {
+     "en": "As a vehicle for that idea, admission to highly selective colleges and universities is unworkable almost by definition, because people with advantages don’t want their own children to forgo those advantages, but if we want to come closer to the ideal, we should recognize that operating a series of highly consequential education selections works against it.",
+     "ko": "그 이상을 실현하는 수단으로서, 선발이 매우 까다로운 대학의 입학은 거의 본질적으로 실현 불가능한데, 유리한 위치에 있는 사람들은 자기 자녀가 그 이점을 포기하는(forgo) 것을 원하지 않기 때문이다. 그러나 우리가 그 이상에 더 가까워지고자 한다면, 결과적으로 큰 영향을 미치는 일련의 교육 선발을 운영하는 것이 오히려 이상에 역행한다는 점을 인식해야 한다."
+    }
+   ],
+   "choices_ko": [
+    "얕보다, 깎아내리다",
+    "예약하다, 보류하다",
+    "획득하다, 조달하다",
+    "밝히다, 공개하다",
+    "포기하다, 내려놓다"
+   ]
+  },
+  {
+   "no": 6,
+   "paper_no": 7,
+   "passage": null,
+   "stem": "Honor, that ineffable <u>beacon</u> of human virtue, stands as the unyielding compass guiding the soul through the labyrinth of moral ambiguity, demanding an unwavering allegiance to truth, dignity, and the quiet courage of integrity.",
+   "choices": [
+    "signal",
+    "agency",
+    "obstacle",
+    "retainer",
+    "medium"
+   ],
+   "answer": 1,
+   "points": 2,
+   "explain": "beacon은 '신호등, 봉화, (길잡이가 되는) 불빛'이라는 뜻으로 signal(신호)과 가장 가깝다. 뒤의 compass guiding(길을 안내하는 나침반)이 같은 '길잡이' 이미지를 이어 준다.",
+   "trans": "인간 미덕의 형언할 수 없는 등불인 명예는 도덕적 모호함의 미로 속에서 영혼을 이끄는 흔들림 없는 나침반으로 서 있다.",
+   "sents": [
+    {
+     "en": "Honor, that ineffable beacon of human virtue, stands as the unyielding compass guiding the soul through the labyrinth of moral ambiguity, demanding an unwavering allegiance to truth, dignity, and the quiet courage of integrity.",
+     "ko": "명예, 그 말로 형언하기 어려운 인간 미덕의 등대(beacon)는, 도덕적 모호함의 미로 속에서 영혼을 이끄는 굽힐 줄 모르는 나침반으로 서서, 진실과 존엄, 그리고 정직함이라는 조용한 용기에 대한 흔들림 없는 충성을 요구한다."
+    }
+   ],
+   "choices_ko": [
+    "신호(등)",
+    "기관, 대행사",
+    "장애물",
+    "가신, 고용인",
+    "매체, 수단"
+   ]
+  },
+  {
+   "no": 7,
+   "paper_no": 8,
+   "passage": null,
+   "stem": "The new intern’s __________ behavior, marked by constant flattery and excessive eagerness to please, quickly became tiresome to her colleagues.",
+   "choices": [
+    "assertive",
+    "apathetic",
+    "sedulous",
+    "scrupulous",
+    "obsequious"
+   ],
+   "answer": 5,
+   "points": 2,
+   "explain": "빈칸 뒤 'constant flattery and excessive eagerness to please(끊임없는 아첨과 비위를 맞추려는 지나친 열의)'가 정의 단서이므로 obsequious(아첨하는, 비굴한)가 정답이다. sedulous(근면한)는 '열의'에 끌린 함정이다.",
+   "trans": "끊임없는 아첨과 비위를 맞추려는 지나친 열의로 특징지어지는 새 인턴의 아부하는 행동은 곧 동료들을 지치게 했다.",
+   "sents": [
+    {
+     "en": "The new intern’s __________ behavior, marked by constant flattery and excessive eagerness to please, quickly became tiresome to her colleagues.",
+     "ko": "그 신입 인턴의 ( 빈칸: 아첨하는 ) 행동은 끊임없는 아부와 지나친 비위 맞추기가 특징이었는데, 곧 동료들에게 짜증스러운 것이 되었다."
+    }
+   ],
+   "choices_ko": [
+    "단호한, 자기주장이 강한",
+    "무관심한",
+    "부지런한, 꾸준한",
+    "양심적인, 꼼꼼한",
+    "아부하는, 굽실거리는"
+   ]
+  },
+  {
+   "no": 8,
+   "paper_no": 9,
+   "passage": null,
+   "stem": "Discrimination based on race or gender is often recognized in blatant forms, but it can also manifest in more __________ behaviors, such as subtle biases in hiring practices or microaggressions in daily interactions.",
+   "choices": [
+    "overt",
+    "casual",
+    "explicit",
+    "insidious",
+    "redundant"
+   ],
+   "answer": 4,
+   "points": 2,
+   "explain": "blatant(노골적인)와 but으로 대조되고, 예시가 subtle biases(미묘한 편견), microaggressions이므로 '눈에 잘 띄지 않게 서서히 해를 끼치는' insidious가 정답이다. overt, explicit는 blatant와 같은 쪽이라 오답.",
+   "trans": "인종이나 성별에 근거한 차별은 흔히 노골적인 형태로 인식되지만, 채용 관행의 미묘한 편견이나 일상적 상호작용 속 미세 공격처럼 더 은밀한 행동으로도 나타날 수 있다.",
+   "sents": [
+    {
+     "en": "Discrimination based on race or gender is often recognized in blatant forms, but it can also manifest in more __________ behaviors, such as subtle biases in hiring practices or microaggressions in daily interactions.",
+     "ko": "인종이나 성별에 근거한 차별은 흔히 노골적인 형태로 인식되지만, 채용 관행의 미묘한 편견이나 일상적 상호작용에서의 미세 공격 같은 더 ( 빈칸: 교묘한/은근히 해로운 ) 행동으로도 나타날 수 있다."
+    }
+   ],
+   "choices_ko": [
+    "공공연한",
+    "격식 없는, 무심한",
+    "명시적인",
+    "교묘한, 서서히 해를 끼치는",
+    "불필요한, 중복되는"
+   ]
+  },
+  {
+   "no": 9,
+   "paper_no": 10,
+   "passage": null,
+   "stem": "The scientist’s theory, once dismissed as __________, has now gained widespread acceptance due to recent discoveries that support its validity.",
+   "choices": [
+    "implausible",
+    "empirical",
+    "ingenuous",
+    "terse",
+    "transparent"
+   ],
+   "answer": 1,
+   "points": 2,
+   "explain": "once dismissed(한때 일축되었던)와 now gained widespread acceptance(이제 널리 인정받는)의 대조가 단서다. 한때는 '믿기 어려운(implausible)' 것으로 무시되었다는 의미가 자연스럽다.",
+   "trans": "한때 믿기 어려운 것으로 일축되었던 그 과학자의 이론은 이제 그 타당성을 뒷받침하는 최근의 발견들 덕분에 널리 받아들여지게 되었다.",
+   "sents": [
+    {
+     "en": "The scientist’s theory, once dismissed as __________, has now gained widespread acceptance due to recent discoveries that support its validity.",
+     "ko": "한때 ( 빈칸: 믿기 어려운 것 )으로 일축되었던 그 과학자의 이론은, 그 타당성을 뒷받침하는 최근의 발견들 덕분에 이제 폭넓게 받아들여지고 있다."
+    }
+   ],
+   "choices_ko": [
+    "믿기 어려운, 그럴듯하지 않은",
+    "경험적인",
+    "순진한, 천진한",
+    "간결한, 퉁명스러운",
+    "투명한"
+   ]
+  },
+  {
+   "no": 10,
+   "paper_no": 11,
+   "passage": null,
+   "stem": "Aristocrats have never taken kindly to ___________. They have seen themselves as born to command others rather than accept the dictates of superiors. The duty of higher authority in their eyes has been to confirm and uphold their pretensions.",
+   "choices": [
+    "acclaim",
+    "intrigue",
+    "vulgarity",
+    "compulsion",
+    "conservatism"
+   ],
+   "answer": 4,
+   "points": 3,
+   "explain": "귀족들은 '윗사람의 지시를 받아들이기보다 남에게 명령하도록 태어났다'고 여겼으므로, 그들이 결코 달가워하지 않은 것은 compulsion(강제, 강요)이다.",
+   "trans": "귀족들은 강요를 결코 달갑게 받아들인 적이 없다. 그들은 스스로를 윗사람의 지시를 받아들이기보다는 남들에게 명령하도록 태어난 존재로 여겨 왔다.",
+   "sents": [
+    {
+     "en": "Aristocrats have never taken kindly to ___________.",
+     "ko": "귀족들은 ( 빈칸: 강제 )를 결코 곱게 받아들인 적이 없다."
+    },
+    {
+     "en": "They have seen themselves as born to command others rather than accept the dictates of superiors.",
+     "ko": "그들은 스스로를 윗사람의 명령을 받아들이기보다 다른 이들에게 명령하도록 태어난 존재로 여겨 왔다."
+    },
+    {
+     "en": "The duty of higher authority in their eyes has been to confirm and uphold their pretensions.",
+     "ko": "그들의 눈에 상급 권위의 의무는 그들의 허세(주장)를 인정하고 지지해 주는 것이었다."
+    }
+   ],
+   "choices_ko": [
+    "갈채, 찬사",
+    "음모, 책략",
+    "저속함",
+    "강제, 강요",
+    "보수주의"
+   ]
+  },
+  {
+   "no": 11,
+   "paper_no": 12,
+   "passage": null,
+   "stem": "No composer could afford to act like a prima donna. Nobody was about to treat a mere hired hand with that sort of ___________. His was essentially a service role. Like the librettist’s, his primary aim was to please—the impresario, the singers, and (finally and most importantly) the paying public.",
+   "choices": [
+    "obstinacy",
+    "deference",
+    "informality",
+    "consistency",
+    "rapport"
+   ],
+   "answer": 2,
+   "points": 3,
+   "explain": "작곡가는 '고용된 일꾼(mere hired hand)'에 불과하고 본질적으로 '봉사하는 역할'이었으므로, 아무도 그를 프리마돈나처럼 deference(존경, 경의)로 대하지 않았다는 흐름이다.",
+   "trans": "아무도 일개 고용된 일꾼을 그런 식의 존경으로 대할 생각이 없었다. 그의 역할은 본질적으로 봉사하는 것이었다.",
+   "sents": [
+    {
+     "en": "No composer could afford to act like a prima donna.",
+     "ko": "어떤 작곡가도 프리마돈나처럼 행동할 여유가 없었다."
+    },
+    {
+     "en": "Nobody was about to treat a mere hired hand with that sort of ___________.",
+     "ko": "고용된 일꾼에 불과한 사람에게 그런 ( 빈칸: 경의/존중 )을 보일 사람은 아무도 없었다."
+    },
+    {
+     "en": "His was essentially a service role.",
+     "ko": "그의 역할은 본질적으로 서비스 역할이었다."
+    },
+    {
+     "en": "Like the librettist’s, his primary aim was to please—the impresario, the singers, and (finally and most importantly) the paying public.",
+     "ko": "대본 작가의 경우처럼, 그의 주된 목적은 공연 기획자, 가수들, 그리고 (마지막이자 가장 중요하게는) 돈을 내는 대중을 기쁘게 하는 것이었다."
+    }
+   ],
+   "choices_ko": [
+    "고집, 완고함",
+    "경의, 존중",
+    "격식 없음, 허물없음",
+    "일관성",
+    "친밀한 관계, 신뢰 관계"
+   ]
+  },
+  {
+   "no": 12,
+   "paper_no": 13,
+   "passage": null,
+   "stem": "Epicurus observed that some people wanted to become famous and conspicuous, thinking they would thus win safety from others. Instead, people were trapped by their own celebrity and power; they lost their freedom. Epicurus saw greater rewards in __________, extolling the “immunity which results from a quiet life and the retirement from the world.”",
+   "choices": [
+    "salvation",
+    "solidarity",
+    "sympathy",
+    "seclusion",
+    "subtlety"
+   ],
+   "answer": 4,
+   "points": 3,
+   "explain": "뒤의 'a quiet life and the retirement from the world(조용한 삶과 세상으로부터의 은퇴)'가 직접적인 단서이므로 seclusion(은둔, 격리)이 정답이다. 유명해지는 것(conspicuous)과 대조된다.",
+   "trans": "에피쿠로스는 은둔에서 더 큰 보상을 보았으며, '조용한 삶과 세상으로부터의 물러남에서 생겨나는 면제(안전)'를 찬양했다.",
+   "sents": [
+    {
+     "en": "Epicurus observed that some people wanted to become famous and conspicuous, thinking they would thus win safety from others.",
+     "ko": "에피쿠로스는 어떤 사람들은 유명해지고 눈에 띄기를 원하며, 그렇게 하면 타인으로부터 안전을 얻을 것이라 생각한다고 관찰했다."
+    },
+    {
+     "en": "Instead, people were trapped by their own celebrity and power; they lost their freedom.",
+     "ko": "그러나 오히려 사람들은 자신의 명성과 권력에 갇혀 자유를 잃었다."
+    },
+    {
+     "en": "Epicurus saw greater rewards in __________, extolling the “immunity which results from a quiet life and the retirement from the world.”",
+     "ko": "에피쿠로스는 ( 빈칸: 은둔 )에서 더 큰 보상을 보았으며, “조용한 삶과 세상으로부터의 은퇴에서 비롯되는 면역(안전)”을 극찬했다."
+    }
+   ],
+   "choices_ko": [
+    "구원",
+    "연대",
+    "동정, 공감",
+    "은둔, 격리",
+    "미묘함, 교묘함"
+   ]
+  },
+  {
+   "no": 13,
+   "paper_no": 14,
+   "passage": null,
+   "stem": "Identity has been aptly called the “primary commodity of the social media culture industry,” which means that, like reality TV studios, this industry must design to produce that commodity, also through genuine self-disclosure. This further ___________ what’s considered public and what should be kept private. One study of the most popular YouTube channels, for example, finds that when vloggers reveal their personal lives, they’re rated as more authentic.",
+   "choices": [
+    "curbs",
+    "promotes",
+    "elucidates",
+    "erodes",
+    "regulates"
+   ],
+   "answer": 4,
+   "points": 3,
+   "explain": "진정한 자기 노출(self-disclosure)을 통해 정체성을 상품으로 생산하면 공적인 것과 사적인 것의 '경계'가 더욱 허물어진다. 따라서 erodes(침식하다, 무너뜨리다)가 정답이다. 사생활을 드러낼수록 진정성 있다고 평가받는다는 예시가 이를 뒷받침한다.",
+   "trans": "이것은 무엇이 공적인 것으로 여겨지고 무엇이 사적으로 지켜져야 하는지(의 구분)를 더욱 무너뜨린다.",
+   "sents": [
+    {
+     "en": "Identity has been aptly called the “primary commodity of the social media culture industry,” which means that, like reality TV studios, this industry must design to produce that commodity, also through genuine self-disclosure.",
+     "ko": "정체성은 “소셜 미디어 문화 산업의 주요 상품”이라고 적절하게 불려 왔는데, 이는 리얼리티 TV 제작사처럼 이 산업도 그 상품을 생산하도록 설계되어야 하며, 그것도 진정한 자기 노출을 통해서 그렇다는 뜻이다."
+    },
+    {
+     "en": "This further ___________ what’s considered public and what should be kept private.",
+     "ko": "이는 무엇이 공적인 것으로 여겨지고 무엇이 사적으로 유지되어야 하는지의 경계를 더욱 ( 빈칸: 허물어뜨린다 )."
+    },
+    {
+     "en": "One study of the most popular YouTube channels, for example, finds that when vloggers reveal their personal lives, they’re rated as more authentic.",
+     "ko": "예컨대 가장 인기 있는 유튜브 채널들에 대한 한 연구는, 브이로거들이 자신의 사생활을 드러낼 때 더 진정성 있다는 평가를 받는다는 것을 발견했다."
+    }
+   ],
+   "choices_ko": [
+    "억제하다",
+    "촉진하다",
+    "설명하다, 밝히다",
+    "약화시키다, 허물어뜨리다",
+    "규제하다"
+   ]
+  },
+  {
+   "no": 14,
+   "paper_no": 15,
+   "passage": null,
+   "stem": "When we read, we often ask ourselves why are we reading: for entertainment, for instruction, to participate in a long conversation with the past or to escape our present in a world of the imagination? We understand that literature has value, but our acts of reading constantly query that sense of value. These meditations and reflections do not __________ the value of literature. They texture it. They make each reading something new and strange. And in our current age of irony and parody, tweets and texts, these meditations are all the more important. They help us find a place for literary experience in a world increasingly suspicious of sincerity.",
+   "choices": [
+    "underscore",
+    "circumvent",
+    "fortify",
+    "disseminate",
+    "undermine"
+   ],
+   "answer": 5,
+   "points": 3,
+   "explain": "가치에 대한 질문(query)이 문학의 가치를 '훼손하는(undermine)' 것이 아니라 오히려 '결을 더해 준다(texture)'는 대조 구조(do not A. They B.)다. 질문이 가치를 흔들 것 같다는 우려를 부정하므로 undermine이 정답이다.",
+   "trans": "이러한 사색과 성찰은 문학의 가치를 훼손하지 않는다. 오히려 그것에 결을 더해 준다.",
+   "sents": [
+    {
+     "en": "When we read, we often ask ourselves why are we reading: for entertainment, for instruction, to participate in a long conversation with the past or to escape our present in a world of the imagination?",
+     "ko": "우리는 책을 읽을 때 종종 스스로에게 왜 읽는지 묻는다. 오락을 위해서인가, 배움을 위해서인가, 과거와의 긴 대화에 참여하기 위해서인가, 아니면 상상의 세계에서 현재를 벗어나기 위해서인가?"
+    },
+    {
+     "en": "We understand that literature has value, but our acts of reading constantly query that sense of value.",
+     "ko": "우리는 문학에 가치가 있다는 것을 이해하지만, 우리의 독서 행위는 그 가치의 감각에 끊임없이 의문을 제기한다."
+    },
+    {
+     "en": "These meditations and reflections do not __________ the value of literature.",
+     "ko": "이러한 숙고와 성찰은 문학의 가치를 ( 빈칸: 훼손하는 ) 것이 아니다."
+    },
+    {
+     "en": "They texture it.",
+     "ko": "그것은 문학에 결을 더해 준다."
+    },
+    {
+     "en": "They make each reading something new and strange.",
+     "ko": "그것은 각각의 독서를 새롭고 낯선 어떤 것으로 만든다."
+    },
+    {
+     "en": "And in our current age of irony and parody, tweets and texts, these meditations are all the more important.",
+     "ko": "그리고 아이러니와 패러디, 트윗과 문자의 오늘날 시대에, 이러한 숙고는 더욱 중요하다."
+    },
+    {
+     "en": "They help us find a place for literary experience in a world increasingly suspicious of sincerity.",
+     "ko": "그것은 진정성을 점점 더 의심하는 세상에서 문학적 경험이 설 자리를 찾도록 도와준다."
+    }
+   ],
+   "choices_ko": [
+    "강조하다",
+    "회피하다, 우회하다",
+    "강화하다",
+    "퍼뜨리다",
+    "훼손하다, 약화시키다"
+   ]
+  },
+  {
+   "no": 15,
+   "paper_no": 16,
+   "passage": null,
+   "stem": "A feature of ballet’s tony profile is its association with the qualities of smoothness and effortless grace. So strong is this association that the word “ballet” is often used to describe any ________________________________. The docking of two space vehicles is called “a space ballet”; the changing of the guards looks like “a military ballet.” Sports commentators are constantly comparing the smooth power moves of athletes to dance, as if conferring upon jocks the ultimate compliment—that they are strong and efficient in getting the basketball into the hoop or the puck into the net, but they do it with such grace that it’s an aesthetic delight.",
+   "choices": [
+    "technically intricate maneuver associated with high social class",
+    "complex physical activity done without a hint of awkwardness",
+    "large-scale venture requiring long-term financial investment",
+    "cultural performance that appeals to a diverse demographic",
+    "professional practice subject to close public scrutiny"
+   ],
+   "answer": 2,
+   "points": 3,
+   "explain": "발레는 '부드러움과 힘들이지 않는 우아함(smoothness and effortless grace)'과 연관되므로, 우주선 도킹·근위병 교대·운동선수의 동작처럼 '어색함 없이 해내는 복잡한 신체 활동'을 묘사하는 데 쓰인다. ①은 tony(고급스러운)에 끌린 함정이다.",
+   "trans": "이 연상이 너무 강해서 '발레'라는 단어는 어색함이라고는 전혀 없이 이루어지는 복잡한 신체 활동이면 무엇이든 묘사하는 데 흔히 쓰인다.",
+   "sents": [
+    {
+     "en": "A feature of ballet’s tony profile is its association with the qualities of smoothness and effortless grace.",
+     "ko": "발레의 고급스러운(tony) 이미지의 한 특징은 부드러움과 힘들이지 않는 우아함이라는 특성과의 연관성이다."
+    },
+    {
+     "en": "So strong is this association that the word “ballet” is often used to describe any ________________________________.",
+     "ko": "이 연관성이 너무 강해서 “발레”라는 단어는 흔히 모든 ( 빈칸: 어색함의 기미 없이 이루어지는 복잡한 신체 활동 )을 묘사하는 데 쓰인다."
+    },
+    {
+     "en": "The docking of two space vehicles is called “a space ballet”; the changing of the guards looks like “a military ballet.”",
+     "ko": "두 우주선의 도킹은 “우주 발레”라고 불리고, 근위병 교대식은 “군사 발레”처럼 보인다."
+    },
+    {
+     "en": "Sports commentators are constantly comparing the smooth power moves of athletes to dance, as if conferring upon jocks the ultimate compliment—that they are strong and efficient in getting the basketball into the hoop or the puck into the net, but they do it with such grace that it’s an aesthetic delight.",
+     "ko": "스포츠 해설자들은 선수들의 매끄럽고 힘 있는 동작을 끊임없이 춤에 비유하는데, 이는 마치 운동선수들에게 최고의 찬사를 보내는 것과 같다. 즉 그들은 농구공을 골대에 넣거나 퍽을 네트에 넣는 데 강하고 효율적이면서도, 그것을 너무나 우아하게 해내어 미적 즐거움을 준다는 것이다."
+    }
+   ],
+   "choices_ko": [
+    "상류 계층과 관련된 기술적으로 복잡한 동작",
+    "어색함의 기미 없이 이루어지는 복잡한 신체 활동",
+    "장기적인 재정 투자가 필요한 대규모 사업",
+    "다양한 인구 집단의 호응을 얻는 문화 공연",
+    "대중의 면밀한 감시를 받는 전문 직업 활동"
+   ]
+  },
+  {
+   "no": 16,
+   "paper_no": 17,
+   "passage": null,
+   "stem": "Tragic heroes inspire us, but they can also frighten us. They are defined by conflict and often they are simply not likable. Antigone’s stubbornness is terrifying when she resolutely rejects the support of those who love her. While we are led to believe that Hamlet might once have been the most “sweet prince,” he spends most of his time abusing his companions and relatives, and he is responsible for at least five deaths (not counting Ophelia’s). Romantic heroes like Karl von Moor in Schiller’s <i>The Robbers</i> or more modern figures like Ibsen’s Hedda Gabler may inspire devotion, but they are people with whom it would be impossible to live. Tragic heroes embody _________________________________.",
+   "choices": [
+    "our lust for revenge and power",
+    "both human constancy and divine caprice",
+    "our communal beliefs and standards of behavior",
+    "our need to escape from the everyday boredom of life",
+    "both all that we hope for ourselves and all that we fear or hate"
+   ],
+   "answer": 5,
+   "points": 3,
+   "explain": "첫 문장 'inspire us, but they can also frighten us'와 '헌신을 불러일으키지만 함께 살기는 불가능하다'는 양면성이 단서다. 따라서 비극적 영웅은 '우리가 바라는 모든 것과 두려워하거나 싫어하는 모든 것'을 동시에 구현한다.",
+   "trans": "비극적 영웅들은 우리가 스스로에게 바라는 모든 것과 우리가 두려워하거나 증오하는 모든 것을 함께 구현한다.",
+   "sents": [
+    {
+     "en": "Tragic heroes inspire us, but they can also frighten us.",
+     "ko": "비극의 영웅들은 우리에게 영감을 주지만, 동시에 우리를 두렵게 할 수도 있다."
+    },
+    {
+     "en": "They are defined by conflict and often they are simply not likable.",
+     "ko": "그들은 갈등으로 규정되며, 종종 단순히 호감이 가지 않는 인물들이다."
+    },
+    {
+     "en": "Antigone’s stubbornness is terrifying when she resolutely rejects the support of those who love her.",
+     "ko": "안티고네의 고집은 그녀가 자신을 사랑하는 이들의 지지를 단호히 거부할 때 섬뜩하다."
+    },
+    {
+     "en": "While we are led to believe that Hamlet might once have been the most “sweet prince,” he spends most of his time abusing his companions and relatives, and he is responsible for at least five deaths (not counting Ophelia’s).",
+     "ko": "햄릿이 한때는 가장 “상냥한 왕자”였을지도 모른다고 우리는 믿게 되지만, 그는 대부분의 시간을 동료들과 친척들을 학대하며 보내고, (오필리아의 죽음은 빼고도) 적어도 다섯 명의 죽음에 책임이 있다."
+    },
+    {
+     "en": "Romantic heroes like Karl von Moor in Schiller’s The Robbers or more modern figures like Ibsen’s Hedda Gabler may inspire devotion, but they are people with whom it would be impossible to live.",
+     "ko": "실러의 『군도』에 나오는 카를 폰 모어 같은 낭만주의 영웅이나 입센의 헤다 가블러 같은 더 현대적인 인물들은 헌신을 불러일으킬 수는 있지만, 함께 살기는 불가능한 사람들이다."
+    },
+    {
+     "en": "Tragic heroes embody _________________________________.",
+     "ko": "비극의 영웅들은 ( 빈칸: 우리 자신에게 바라는 모든 것과 우리가 두려워하거나 증오하는 모든 것 둘 다 )를 구현한다."
+    }
+   ],
+   "choices_ko": [
+    "복수와 권력에 대한 우리의 욕망",
+    "인간의 한결같음과 신의 변덕 둘 다",
+    "우리의 공동체적 신념과 행동 기준",
+    "일상의 지루함에서 벗어나려는 우리의 욕구",
+    "우리 자신에게 바라는 모든 것과 우리가 두려워하거나 증오하는 모든 것 둘 다"
+   ]
+  },
+  {
+   "no": 17,
+   "paper_no": 18,
+   "passage": null,
+   "stem": "On an individual level, how much we care what society thinks of us might be influenced by our biology. In a 2014 study, the psychologist Shinobu Kitayama found the degree to which we uphold cultural norms is related to the type of variation we have on one gene, the dopamine D4 receptor gene. The gene doesn’t change how we behave; instead, it influences how much we endorse the prevailing norms of our environments. Asians who carried certain variations of this gene became more interdependent. They were more likely to endorse values related to social harmony, collectivism, and modesty. Meanwhile, European Americans who carried the same gene variants became more individualistic—a traditionally white American norm. The gene makes you ________________________________.",
+   "choices": [
+    "more open to enduring personal losses for collective gain",
+    "more of a rule follower, whatever the rules happen to be",
+    "less of a conformist, regardless of the cultural context",
+    "less likely to sacrifice immediate pleasure for future payoffs",
+    "less of a first mover, even when the advantages are evident"
+   ],
+   "answer": 2,
+   "points": 3,
+   "explain": "그 유전자는 행동 자체를 바꾸는 것이 아니라 '주변 환경의 지배적 규범을 얼마나 지지하는가'에 영향을 준다. 같은 변이가 아시아인은 더 집단주의적으로, 유럽계 미국인은 더 개인주의적으로 만들었으므로, 규칙이 무엇이든 그것을 더 따르게 만든다는 ②가 정답이다.",
+   "trans": "그 유전자는 행동 방식을 바꾸는 것이 아니라, 우리가 주변 환경의 지배적인 규범을 얼마나 지지하는지에 영향을 미친다.",
+   "sents": [
+    {
+     "en": "On an individual level, how much we care what society thinks of us might be influenced by our biology.",
+     "ko": "개인 차원에서, 우리가 사회가 우리를 어떻게 생각하는지 얼마나 신경 쓰는가는 우리의 생물학적 특성에 영향을 받을 수 있다."
+    },
+    {
+     "en": "In a 2014 study, the psychologist Shinobu Kitayama found the degree to which we uphold cultural norms is related to the type of variation we have on one gene, the dopamine D4 receptor gene.",
+     "ko": "2014년 연구에서 심리학자 시노부 기타야마는 우리가 문화적 규범을 얼마나 지키는지가 하나의 유전자, 즉 도파민 D4 수용체 유전자의 변이 유형과 관련 있음을 발견했다."
+    },
+    {
+     "en": "The gene doesn’t change how we behave; instead, it influences how much we endorse the prevailing norms of our environments.",
+     "ko": "이 유전자는 우리의 행동 방식을 바꾸지 않으며, 대신 우리가 환경에서 우세한 규범을 얼마나 지지하는지에 영향을 준다."
+    },
+    {
+     "en": "Asians who carried certain variations of this gene became more interdependent.",
+     "ko": "이 유전자의 특정 변이를 가진 아시아인들은 더 상호의존적이 되었다."
+    },
+    {
+     "en": "They were more likely to endorse values related to social harmony, collectivism, and modesty.",
+     "ko": "그들은 사회적 조화, 집단주의, 겸손과 관련된 가치를 지지할 가능성이 더 높았다."
+    },
+    {
+     "en": "Meanwhile, European Americans who carried the same gene variants became more individualistic—a traditionally white American norm.",
+     "ko": "한편 같은 유전자 변이를 가진 유럽계 미국인들은 더 개인주의적이 되었는데, 이는 전통적으로 백인 미국인의 규범이다."
+    },
+    {
+     "en": "The gene makes you ________________________________.",
+     "ko": "이 유전자는 당신을 ( 빈칸: 규칙이 무엇이든 더 규칙을 잘 따르는 사람 )으로 만든다."
+    }
+   ],
+   "choices_ko": [
+    "집단의 이익을 위해 개인적 손실을 기꺼이 견디는 쪽에 더 열려 있는",
+    "규칙이 무엇이든 더 규칙을 잘 따르는 사람인",
+    "문화적 맥락과 관계없이 덜 순응적인",
+    "미래의 이익을 위해 당장의 즐거움을 희생할 가능성이 더 낮은",
+    "이점이 분명한 때에도 덜 선구자적인(먼저 나서지 않는)"
+   ]
+  },
+  {
+   "no": 18,
+   "paper_no": 19,
+   "passage": null,
+   "stem": "Throughout history, many great civilizations have risen and fallen, often as a result of internal strife, economic instability, or external invasion. Yet, there are those that have endured, their legacies imprinted in the very fabric of human culture. These resilient societies were not immune to failure or adversity, but they demonstrated a remarkable capacity for adaptation, adapting to challenges in ways that allowed them to not only survive but also flourish. Some scholars argue that this ability is linked to a deep understanding of the underlying forces that shape the human experience—forces of power, culture, and knowledge—that allow a civilization to transcend its own limitations and embrace new possibilities. The key, however, lies not in merely surviving difficult times, but in ___________________.",
+   "choices": [
+    "developing resilience through the preservation of core values and traditions",
+    "strategically navigating uncertainty by maintaining long-established practices",
+    "fostering stability by minimizing external influences and focusing on internal strengths",
+    "cultivating an ability to mitigate the unexpected, embracing change as an opportunity rather than a threat",
+    "establishing a framework where gradual, incremental changes are prioritized over rapid, disruptive shifts to ensure long-term stability"
+   ],
+   "answer": 4,
+   "points": 4,
+   "explain": "지속된 문명의 핵심은 '적응 능력(capacity for adaptation)'과 '한계를 넘어 새로운 가능성을 받아들이는 것(embrace new possibilities)'이다. 따라서 변화를 위협이 아닌 기회로 받아들인다는 ④가 정답이다. ①②③⑤는 보존·안정·전통 유지 쪽이라 글의 흐름과 반대다.",
+   "trans": "그러나 핵심은 단지 어려운 시기를 견뎌내는 데 있는 것이 아니라, 변화를 위협이 아닌 기회로 받아들이며 예상치 못한 일을 완화하는 능력을 기르는 데 있다.",
+   "sents": [
+    {
+     "en": "Throughout history, many great civilizations have risen and fallen, often as a result of internal strife, economic instability, or external invasion.",
+     "ko": "역사를 통틀어 많은 위대한 문명이 흥하고 망했으며, 그 원인은 흔히 내부 분쟁, 경제적 불안정, 외부 침략이었다."
+    },
+    {
+     "en": "Yet, there are those that have endured, their legacies imprinted in the very fabric of human culture.",
+     "ko": "그러나 살아남은 문명들도 있으며, 그 유산은 인간 문화의 바로 그 직물에 새겨져 있다."
+    },
+    {
+     "en": "These resilient societies were not immune to failure or adversity, but they demonstrated a remarkable capacity for adaptation, adapting to challenges in ways that allowed them to not only survive but also flourish.",
+     "ko": "이러한 회복력 있는 사회들이 실패나 역경에 면역이 있었던 것은 아니지만, 그들은 놀라운 적응 능력을 보였고, 도전에 적응함으로써 살아남을 뿐 아니라 번영할 수 있었다."
+    },
+    {
+     "en": "Some scholars argue that this ability is linked to a deep understanding of the underlying forces that shape the human experience—forces of power, culture, and knowledge—that allow a civilization to transcend its own limitations and embrace new possibilities.",
+     "ko": "일부 학자들은 이 능력이 인간 경험을 형성하는 근본적인 힘, 즉 권력, 문화, 지식의 힘에 대한 깊은 이해와 연결되어 있다고 주장하며, 그 이해가 문명으로 하여금 스스로의 한계를 초월하고 새로운 가능성을 받아들이게 한다고 본다."
+    },
+    {
+     "en": "The key, however, lies not in merely surviving difficult times, but in ___________________.",
+     "ko": "그러나 핵심은 단지 어려운 시기를 견뎌 내는 데 있는 것이 아니라 ( 빈칸: 예기치 못한 일을 완화하는 능력을 기르고, 변화를 위협이 아닌 기회로 받아들이는 것 )에 있다."
+    }
+   ],
+   "choices_ko": [
+    "핵심 가치와 전통을 보존함으로써 회복력을 기르는 것",
+    "오랜 관행을 유지함으로써 불확실성을 전략적으로 헤쳐 나가는 것",
+    "외부 영향을 최소화하고 내부 강점에 집중함으로써 안정을 도모하는 것",
+    "예기치 못한 일을 완화하는 능력을 기르고, 변화를 위협이 아닌 기회로 받아들이는 것",
+    "장기적 안정을 위해 급격하고 파괴적인 변화보다 점진적이고 단계적인 변화를 우선하는 틀을 세우는 것"
+   ]
+  },
+  {
+   "no": 19,
+   "paper_no": 20,
+   "passage": null,
+   "stem": "In the field of quantum mechanics, there are debates that often verge on the abstruse, as physicists attempt to explain phenomena that challenge the boundaries of current scientific understanding. These discussions, though intensely intellectual, can sometimes become (A) __________, as scholars employ highly abstract concepts and complex mathematical models that are difficult for the general public to comprehend. However, despite the often obscure nature of the subject, the academic community remains energized by the promise of new discoveries. The debates are driven by a deep sense of (B) __________, with researchers pushing the limits of what is known, even when confronted with seemingly insurmountable paradoxes and questions that defy conventional logic. Though some critics argue that these ideas are little more than speculative, the continued drive for knowledge remains a core tenet of the discipline.",
+   "choices": [
+    "collegial — fulfillment",
+    "esoteric — optimism",
+    "speculative — despondency",
+    "contentious — skepticism",
+    "impenetrable — disillusionment"
+   ],
+   "answer": 2,
+   "points": 3,
+   "explain": "(A) 일반 대중이 이해하기 어려운 추상적 개념을 쓴다고 했으므로 '소수만 이해하는, 난해한(esoteric)'이 맞다. (B) 새로운 발견에 대한 기대로 활력을 얻고 한계를 밀어붙인다고 했으므로 '낙관(optimism)'이 적절하다. despondency, disillusionment 같은 부정적 단어는 오답이다.",
+   "trans": "이러한 논의들은 매우 지적이긴 하지만, 학자들이 일반 대중이 이해하기 어려운 고도로 추상적인 개념과 복잡한 수학 모델을 사용하기 때문에 때때로 난해해질 수 있다. 이 논쟁은 깊은 낙관에 의해 추진된다.",
+   "sents": [
+    {
+     "en": "In the field of quantum mechanics, there are debates that often verge on the abstruse, as physicists attempt to explain phenomena that challenge the boundaries of current scientific understanding.",
+     "ko": "양자역학 분야에는 물리학자들이 현재 과학적 이해의 경계에 도전하는 현상을 설명하려 하면서 난해함(abstruse)에 가까워지는 논쟁이 흔히 있다."
+    },
+    {
+     "en": "These discussions, though intensely intellectual, can sometimes become (A) __________, as scholars employ highly abstract concepts and complex mathematical models that are difficult for the general public to comprehend.",
+     "ko": "이러한 논의는 매우 지적이긴 하지만, 학자들이 일반 대중이 이해하기 어려운 고도로 추상적인 개념과 복잡한 수학적 모형을 사용하기 때문에 때로 (A) ( 빈칸: 소수만 이해하는/난해한 ) 것이 될 수 있다."
+    },
+    {
+     "en": "However, despite the often obscure nature of the subject, the academic community remains energized by the promise of new discoveries.",
+     "ko": "그러나 이 주제가 흔히 모호함에도 불구하고, 학계는 새로운 발견에 대한 기대로 활력을 유지하고 있다."
+    },
+    {
+     "en": "The debates are driven by a deep sense of (B) __________, with researchers pushing the limits of what is known, even when confronted with seemingly insurmountable paradoxes and questions that defy conventional logic.",
+     "ko": "논쟁은 깊은 (B) ( 빈칸: 낙관 )에 의해 추진되며, 연구자들은 극복할 수 없어 보이는 역설과 통상의 논리를 거스르는 질문에 직면해서도 알려진 것의 한계를 밀어붙인다."
+    },
+    {
+     "en": "Though some critics argue that these ideas are little more than speculative, the continued drive for knowledge remains a core tenet of the discipline.",
+     "ko": "일부 비평가는 이러한 생각이 추측에 불과하다고 주장하지만, 지식을 향한 지속적인 추진력은 이 학문의 핵심 신조로 남아 있다."
+    }
+   ],
+   "choices_ko": [
+    "협력적인 — 성취감",
+    "난해한, 소수만 아는 — 낙관",
+    "추측에 근거한 — 낙담",
+    "논쟁적인 — 회의",
+    "이해할 수 없는 — 환멸"
+   ]
+  },
+  {
+   "no": 20,
+   "paper_no": 21,
+   "passage": "p20",
+   "stem": "윗글의 내용과 가장 거리가 <u>먼</u> 것은?",
+   "choices": [
+    "Most hairless animals inhabit environments with reduced exposure to heat and cold.",
+    "Hairless skin is more effective than hairy skin in reducing high temperatures.",
+    "The ability to sweat in heat was especially important for survival activities in savanna grasslands.",
+    "During puberty, hormones suppress oil secretion, creating skin problems.",
+    "Our skin’s ability to manage heat comes at the cost of greater vulnerability."
+   ],
+   "answer": 4,
+   "points": 3,
+   "explain": "본문은 사춘기에 호르몬이 '피지 생성을 자극한다(stimulates oil production)'고 했으므로, 호르몬이 피지 분비를 '억제한다(suppress)'는 ④가 내용과 다르다.",
+   "trans": "사춘기에는 호르몬이 대량으로 분비되어 피지 생성을 자극하는데, 이것이 여드름균의 먹이가 되어 보기 흉한 블랙헤드를 일으킨다.",
+   "sents": [
+    {
+     "en": "윗글의 내용과 가장 거리가 먼 것은?",
+     "ko": "윗글의 내용과 가장 거리가 먼 것은?"
+    }
+   ],
+   "choices_ko": [
+    "털 없는 동물 대부분은 더위와 추위에 덜 노출되는 환경에 서식한다.",
+    "털 없는 피부는 털 있는 피부보다 높은 온도를 낮추는 데 더 효과적이다.",
+    "더울 때 땀을 흘릴 수 있는 능력은 사바나 초원에서의 생존 활동에 특히 중요했다.",
+    "사춘기 동안 호르몬은 피지 분비를 억제하여 피부 문제를 일으킨다.",
+    "우리 피부의 체온 조절 능력은 더 큰 취약성이라는 대가를 치른 것이다."
+   ]
+  },
+  {
+   "no": 21,
+   "paper_no": 22,
+   "passage": "p20",
+   "stem": "밑줄 친 “sanctions”의 뜻과 가장 가까운 것은?",
+   "choices": [
+    "releases",
+    "permits",
+    "stimulates",
+    "abandons",
+    "supervises"
+   ],
+   "answer": 2,
+   "points": 3,
+   "explain": "sanction은 '제재하다'뿐 아니라 '승인하다, 허용하다'의 뜻도 있다. 박테리아가 '조용히 용인된다(quietly tolerated)'는 앞 내용과, 성(피부)이 성벽 밖 떠돌이 야영객들을 '허용한다'는 비유이므로 permits가 정답이다.",
+   "trans": "우리의 성(피부)은 성벽 바깥에서 부스러기를 먹고 사는 떠돌이 야영객들 일부를 허용한다.",
+   "sents": [
+    {
+     "en": "밑줄 친 “sanctions”의 뜻과 가장 가까운 것은?",
+     "ko": "밑줄 친 “sanctions”의 뜻과 가장 가까운 것은?"
+    }
+   ],
+   "choices_ko": [
+    "풀어 주다, 놓아주다",
+    "허용하다",
+    "자극하다",
+    "버리다",
+    "감독하다"
+   ]
+  },
+  {
+   "no": 22,
+   "paper_no": 23,
+   "passage": null,
+   "stem": "There is no ecological scenario in which there are no more extinctions at all, yet no extinction today should be deemed permissible in advance, and every impending extinction implores prevention. Ecology is both a descriptive science and an ethical project inclusive of creative efforts that imagine a better world for all life. Engaging with extinction as ecological practice, however, does not mean trying to redeem or save animals from the difficulties of life or death as such. Caring for endangered animals entails working to preserve them from perishing due to anthropogenic causes without insisting on salvational outcomes and without idealizing ecosystems as danger-free utopian spaces. Studying the history of extinction and vigilance toward preventing extinctions in the present does not commit one to the restoration of an ideal garden of protected and enduring life, nor does it necessitate a dystopian vision in which nothing matters because extinction renders everything meaningless in advance.",
+   "choices": [
+    "practical challenges in preserving planetary biodiversity",
+    "need for balanced expectations in caring for endangered life",
+    "impossibility of maintaining optimism in facing global warming",
+    "demand for more rigorous documentations of devastated animal life",
+    "ethical dilemmas in reconstructing genes of species facing extinction"
+   ],
+   "answer": 2,
+   "points": 3,
+   "explain": "멸종 위기 동물 보호는 구원적 결과를 고집하거나 생태계를 이상화(유토피아)하지도, 모든 것이 무의미하다는 디스토피아적 시각에 빠지지도 않아야 한다는 내용이다. 즉 '균형 잡힌 기대'의 필요성이 주제다.",
+   "trans": "멸종 위기 동물을 돌보는 것은 구원적 결과를 고집하거나 생태계를 위험 없는 유토피아로 이상화하지 않으면서, 인간에 의한 원인으로 사라지지 않도록 그들을 보존하려 노력하는 것을 수반한다.",
+   "sents": [
+    {
+     "en": "There is no ecological scenario in which there are no more extinctions at all, yet no extinction today should be deemed permissible in advance, and every impending extinction implores prevention.",
+     "ko": "더 이상의 멸종이 전혀 없는 생태적 시나리오는 존재하지 않지만, 오늘날의 어떤 멸종도 미리 허용 가능하다고 여겨져서는 안 되며, 임박한 모든 멸종은 예방을 간청한다."
+    },
+    {
+     "en": "Ecology is both a descriptive science and an ethical project inclusive of creative efforts that imagine a better world for all life.",
+     "ko": "생태학은 기술적(서술적) 과학인 동시에, 모든 생명을 위한 더 나은 세상을 상상하는 창의적 노력을 포함하는 윤리적 프로젝트이다."
+    },
+    {
+     "en": "Engaging with extinction as ecological practice, however, does not mean trying to redeem or save animals from the difficulties of life or death as such.",
+     "ko": "그러나 멸종을 생태적 실천으로서 다룬다는 것은, 동물을 삶이나 죽음 자체의 어려움에서 구원하거나 구제하려 애쓴다는 뜻이 아니다."
+    },
+    {
+     "en": "Caring for endangered animals entails working to preserve them from perishing due to anthropogenic causes without insisting on salvational outcomes and without idealizing ecosystems as danger-free utopian spaces.",
+     "ko": "멸종 위기 동물을 돌본다는 것은, 구원적 결과를 고집하지 않고 생태계를 위험 없는 유토피아적 공간으로 이상화하지 않으면서, 인간에 의한 원인으로 그들이 멸종하지 않도록 보존하는 일을 포함한다."
+    },
+    {
+     "en": "Studying the history of extinction and vigilance toward preventing extinctions in the present does not commit one to the restoration of an ideal garden of protected and enduring life, nor does it necessitate a dystopian vision in which nothing matters because extinction renders everything meaningless in advance.",
+     "ko": "멸종의 역사를 연구하고 현재의 멸종을 막기 위해 경계하는 것은, 보호받고 지속되는 생명의 이상적인 정원을 복원하겠다는 약속을 요구하지 않으며, 멸종이 모든 것을 미리 무의미하게 만들기 때문에 아무것도 중요하지 않다는 디스토피아적 비전을 필연적으로 낳지도 않는다."
+    }
+   ],
+   "choices_ko": [
+    "지구 생물 다양성을 보존하는 데 따르는 실질적 어려움",
+    "멸종 위기 생명을 돌보는 데 필요한 균형 잡힌 기대",
+    "지구온난화에 직면하여 낙관을 유지하는 것의 불가능성",
+    "파괴된 동물 생명에 대한 더 엄밀한 기록의 요구",
+    "멸종 위기 종의 유전자를 복원하는 데 따르는 윤리적 딜레마"
+   ]
+  },
+  {
+   "no": 23,
+   "paper_no": 24,
+   "passage": null,
+   "stem": "The macroeconomic principles on which central banks and the welfare state were conceived were the same: countercyclical policies intended to protect individuals from economic risk (including price and financial instability) and reduce overall uncertainty. But these historical and conceptual links between central banks and the welfare state are rarely made explicit. Drawing attention to them does not mean to suggest that we should ask the central bank to pay for welfare benefits. The point is to recognize that, like other pillars of the welfare state in capitalist societies, the central bank performs a function of managing risks and reducing uncertainty. Just as the risks evolve, so too must the institutions. As the twentieth-century economic anthropologist Karl Polanyi said, the central bank’s policy is always a form of interventionism that evolves over time in accord with the nature of the state. It reflects the choices made regarding distribution and power in society.",
+   "choices": [
+    "lost confidence in central banks’ independence from the state",
+    "challenges for central banks in responding to financial instability",
+    "need to exercise discretion when formulating monetary policy",
+    "transferal of responsibilities from welfare states to central banks",
+    "functional correspondence between central banks and welfare states"
+   ],
+   "answer": 5,
+   "points": 4,
+   "explain": "중앙은행과 복지국가는 같은 거시경제 원리에서 출발했고, 중앙은행도 복지국가의 다른 기둥처럼 '위험 관리와 불확실성 감소' 기능을 수행한다는 것이 요점이다. 따라서 둘 사이의 기능적 상응이 주제다. ④는 '중앙은행이 복지 비용을 내라는 뜻이 아니다'라는 문장에 반한다.",
+   "trans": "요점은 자본주의 사회에서 복지국가의 다른 기둥들처럼 중앙은행도 위험을 관리하고 불확실성을 줄이는 기능을 수행한다는 것을 인식하는 것이다.",
+   "sents": [
+    {
+     "en": "The macroeconomic principles on which central banks and the welfare state were conceived were the same: countercyclical policies intended to protect individuals from economic risk (including price and financial instability) and reduce overall uncertainty.",
+     "ko": "중앙은행과 복지국가가 구상된 거시경제 원칙은 동일했다. 즉 개인을 경제적 위험(물가와 금융 불안정 포함)으로부터 보호하고 전반적 불확실성을 줄이려는 경기 대응적(countercyclical) 정책이었다."
+    },
+    {
+     "en": "But these historical and conceptual links between central banks and the welfare state are rarely made explicit.",
+     "ko": "그러나 중앙은행과 복지국가 사이의 이러한 역사적·개념적 연결은 좀처럼 명시적으로 언급되지 않는다."
+    },
+    {
+     "en": "Drawing attention to them does not mean to suggest that we should ask the central bank to pay for welfare benefits.",
+     "ko": "그것들에 주의를 환기하는 것이 중앙은행에 복지 급여를 지급하라고 요구해야 한다는 뜻은 아니다."
+    },
+    {
+     "en": "The point is to recognize that, like other pillars of the welfare state in capitalist societies, the central bank performs a function of managing risks and reducing uncertainty.",
+     "ko": "요점은, 자본주의 사회의 복지국가의 다른 기둥들처럼 중앙은행도 위험을 관리하고 불확실성을 줄이는 기능을 수행한다는 점을 인식하는 것이다."
+    },
+    {
+     "en": "Just as the risks evolve, so too must the institutions.",
+     "ko": "위험이 진화하듯 제도도 진화해야 한다."
+    },
+    {
+     "en": "As the twentieth-century economic anthropologist Karl Polanyi said, the central bank’s policy is always a form of interventionism that evolves over time in accord with the nature of the state.",
+     "ko": "20세기 경제인류학자 칼 폴라니가 말했듯, 중앙은행의 정책은 언제나 국가의 성격에 맞추어 시간이 지나며 진화하는 일종의 개입주의이다."
+    },
+    {
+     "en": "It reflects the choices made regarding distribution and power in society.",
+     "ko": "그것은 사회의 분배와 권력에 관해 내려진 선택을 반영한다."
+    }
+   ],
+   "choices_ko": [
+    "중앙은행의 국가로부터의 독립성에 대한 신뢰 상실",
+    "금융 불안정에 대응하는 데 있어 중앙은행이 직면한 과제",
+    "통화정책을 수립할 때 재량을 발휘할 필요성",
+    "복지국가에서 중앙은행으로의 책임 이전",
+    "중앙은행과 복지국가 사이의 기능적 상응 관계"
+   ]
+  },
+  {
+   "no": 24,
+   "paper_no": 25,
+   "passage": null,
+   "stem": "At the very beginning Thomas More designated utopia as a place, an island in the distant South Seas. This designation underwent changes later so that it left space and entered time. Indeed, the Utopians, especially those of the eighteenth and nineteenth centuries, transposed the wishland more into the future. In other words, there is a transformation of the topos from space into time. With Thomas More the wishland was still ready, on a distant island, but I am not there. On the other hand, when it is transposed into the future, not only am I not there, but utopia itself is also not with itself. This island does not even exist. But it is not something like nonsense or absolute fancy; rather it is not yet in the sense of a possibility; that it could be there if we could only do something for it. Not only if we travel there, but <i>in that</i> we travel there the island utopia arises out of the sea of the possible—utopia, but with new contents.",
+   "choices": [
+    "Utopia is increasingly seen as an unattainable fantasy, if not a merely theoretical construct.",
+    "Utopia offers an immutable model that can withstand historical and political turbulence.",
+    "Utopia has evolved from a physical location to a future possibility, or a sense of potentiality.",
+    "Utopia tries to restore a concrete reality from the past instead of projecting a fanciful ideal.",
+    "Utopia in its earliest forms referred to a place that can be located and accessed with ease."
+   ],
+   "answer": 3,
+   "points": 3,
+   "explain": "유토피아는 처음엔 '먼 섬'이라는 공간이었으나 이후 '미래'라는 시간으로 옮겨졌고(from space into time), 허황된 공상이 아니라 '아직 오지 않은 가능성'이라는 것이 요지다. ①은 'not nonsense or absolute fancy'에 반하고, ⑤는 '먼 섬'이라 쉽게 갈 수 없다는 점에서 틀리다.",
+   "trans": "다시 말해, 장소(토포스)가 공간에서 시간으로 변형된 것이다. 그것은 허튼소리나 완전한 공상이 아니라, 가능성이라는 의미에서 '아직 아닌 것'이다.",
+   "sents": [
+    {
+     "en": "At the very beginning Thomas More designated utopia as a place, an island in the distant South Seas.",
+     "ko": "맨 처음에 토머스 모어는 유토피아를 먼 남해의 섬이라는 장소로 지정했다."
+    },
+    {
+     "en": "This designation underwent changes later so that it left space and entered time.",
+     "ko": "이 지정은 나중에 바뀌어 공간을 떠나 시간으로 들어갔다."
+    },
+    {
+     "en": "Indeed, the Utopians, especially those of the eighteenth and nineteenth centuries, transposed the wishland more into the future.",
+     "ko": "실제로 유토피아주의자들, 특히 18~19세기의 사람들은 소망의 땅을 더욱 미래로 옮겨 놓았다."
+    },
+    {
+     "en": "In other words, there is a transformation of the topos from space into time.",
+     "ko": "다시 말해, 토포스(장소)가 공간에서 시간으로 변형된 것이다."
+    },
+    {
+     "en": "With Thomas More the wishland was still ready, on a distant island, but I am not there.",
+     "ko": "토머스 모어에게 소망의 땅은 아직 먼 섬에 이미 준비되어 있었지만, 나는 거기에 있지 않다."
+    },
+    {
+     "en": "On the other hand, when it is transposed into the future, not only am I not there, but utopia itself is also not with itself.",
+     "ko": "반면 그것이 미래로 옮겨질 때는 나만 거기에 없는 것이 아니라 유토피아 자체도 자기 자신과 함께 있지 않다."
+    },
+    {
+     "en": "This island does not even exist.",
+     "ko": "이 섬은 아예 존재하지도 않는다."
+    },
+    {
+     "en": "But it is not something like nonsense or absolute fancy; rather it is not yet in the sense of a possibility; that it could be there if we could only do something for it.",
+     "ko": "그러나 그것은 터무니없는 것이나 절대적 공상 같은 것이 아니며, 오히려 가능성이라는 의미에서 ‘아직 아닌 것’이다. 즉 우리가 그것을 위해 무언가를 하기만 한다면 그곳에 있을 수 있다는 뜻이다."
+    },
+    {
+     "en": "Not only if we travel there, but in that we travel there the island utopia arises out of the sea of the possible—utopia, but with new contents.",
+     "ko": "우리가 거기로 여행한다면 그렇다는 것만이 아니라, 우리가 거기로 여행한다는 바로 그 사실 속에서, 섬 유토피아는 가능성의 바다에서 솟아오른다. 유토피아이되 새로운 내용을 지닌 채로 말이다."
+    }
+   ],
+   "choices_ko": [
+    "유토피아는 이론적 구성물에 그치지는 않더라도 도달할 수 없는 환상으로 점점 더 여겨지고 있다.",
+    "유토피아는 역사적·정치적 격동을 견딜 수 있는 불변의 모델을 제공한다.",
+    "유토피아는 물리적 장소에서 미래의 가능성, 즉 잠재성의 감각으로 진화해 왔다.",
+    "유토피아는 공상적인 이상을 투사하는 대신 과거의 구체적 현실을 복원하려 한다.",
+    "유토피아의 가장 초기 형태는 위치를 알 수 있고 쉽게 갈 수 있는 장소를 가리켰다."
+   ]
+  },
+  {
+   "no": 25,
+   "paper_no": 26,
+   "passage": null,
+   "stem": "People often call the earth the “lonely” planet because we have found no other humans or evidence of life outside earth. Even if it were true that there is no life outside earth, which is highly unlikely, this is a profoundly anthropocentric and biocentric way of thinking about the earth. It allows us to ignore and devalue our relationship of dependency on non-living processes here and in the cosmos at large. When we do this, we use a particular form of life to judge the world as a failed attempt to become that form. By contrast, our whole solar system most likely emerged from the same nebular cloud of molecular gas and dust. We are, therefore, not externally related to the other planetary circulations in our solar system but internally entangled and intra-related with them. The earth is not simply among the stars, it is of the stars.",
+   "choices": [
+    "The earth’s processes are more unpredictable than we once believed.",
+    "Life on earth resulted from miraculously improbable coincidences.",
+    "Human life has never been separable from the cosmos that produced it.",
+    "Enlightenment thinking intensified anthropocentric understandings of nature.",
+    "We know far too little about the prehuman history of the earth."
+   ],
+   "answer": 3,
+   "points": 4,
+   "explain": "태양계 전체가 같은 성운에서 생겨났으므로 우리는 다른 행성 순환과 '내적으로 얽혀 있고', 지구는 '별들 사이에 있는 것이 아니라 별들로부터 나온 것'이라는 결론이 요지다. 즉 인간의 삶은 우주와 분리될 수 없다.",
+   "trans": "따라서 우리는 태양계의 다른 행성 순환과 외적으로 관계 맺는 것이 아니라 내적으로 얽혀 있고 상호 연관되어 있다. 지구는 단순히 별들 사이에 있는 것이 아니라 별들로부터 나온 것이다.",
+   "sents": [
+    {
+     "en": "People often call the earth the “lonely” planet because we have found no other humans or evidence of life outside earth.",
+     "ko": "사람들은 흔히 지구를 “외로운” 행성이라 부르는데, 우리가 지구 밖에서 다른 인간이나 생명의 증거를 발견하지 못했기 때문이다."
+    },
+    {
+     "en": "Even if it were true that there is no life outside earth, which is highly unlikely, this is a profoundly anthropocentric and biocentric way of thinking about the earth.",
+     "ko": "지구 밖에 생명이 없다는 것이 사실이라 하더라도(그럴 가능성은 매우 낮지만), 이것은 지구에 대해 생각하는 극히 인간 중심적이고 생명 중심적인 방식이다."
+    },
+    {
+     "en": "It allows us to ignore and devalue our relationship of dependency on non-living processes here and in the cosmos at large.",
+     "ko": "그것은 우리가 이곳과 우주 전반의 비생명적 과정에 의존하는 관계를 무시하고 평가절하하도록 허용한다."
+    },
+    {
+     "en": "When we do this, we use a particular form of life to judge the world as a failed attempt to become that form.",
+     "ko": "우리가 이렇게 할 때, 우리는 특정한 형태의 생명을 기준으로 삼아 세계를 그 형태가 되려다 실패한 시도로 판단한다."
+    },
+    {
+     "en": "By contrast, our whole solar system most likely emerged from the same nebular cloud of molecular gas and dust.",
+     "ko": "이와 대조적으로, 우리의 태양계 전체는 분자 기체와 먼지로 이루어진 같은 성운 구름에서 생겨났을 가능성이 가장 높다."
+    },
+    {
+     "en": "We are, therefore, not externally related to the other planetary circulations in our solar system but internally entangled and intra-related with them.",
+     "ko": "따라서 우리는 태양계의 다른 행성들의 순환과 외적으로 관련되어 있는 것이 아니라, 그것들과 내적으로 얽혀 있고 서로 내부에서 관계 맺고 있다."
+    },
+    {
+     "en": "The earth is not simply among the stars, it is of the stars.",
+     "ko": "지구는 단지 별들 사이에 있는 것이 아니라, 별들에서 나온 것(별들의 일부)이다."
+    }
+   ],
+   "choices_ko": [
+    "지구의 과정은 우리가 한때 믿었던 것보다 더 예측 불가능하다.",
+    "지구의 생명은 기적처럼 일어날 법하지 않은 우연의 결과였다.",
+    "인간의 생명은 그것을 낳은 우주와 결코 분리될 수 없었다.",
+    "계몽주의 사고는 자연에 대한 인간 중심적 이해를 강화했다.",
+    "우리는 지구의 인류 이전 역사에 대해 너무나 모른다."
+   ]
+  },
+  {
+   "no": 26,
+   "paper_no": 27,
+   "passage": null,
+   "stem": "In 2018, Derek Hodgson and Paul Pettitt published a paper in the Cambridge Archaeological Journal pointing to studies in neuroscience showing that people who are conditioned to recognize a specific object, such as a face or animal, will then see it in ambiguous patterns. We are attuned, for example, to see faces in the clouds. Hodgson and Pettitt hypothesized that Neanderthal hunters who had conditioned themselves to find camouflaged animals lurking everywhere perhaps saw outlines of those same animals in the flickering light of their torches in the dark chambers they inhabited. Studying 64,000-year-old images and sculptures at El Castillo Cave in Spain, the archaeologists came to believe that Neanderthals saw the crags and varicolored walls come “alive” with the images that filled their world. For example, a stalagmite with a rounded top and dark mottled patterns maybe wasn’t merely a rock rising from the cave’s floor to these Ice Age people but was interpreted as a bear rising to its feet.",
+   "choices": [
+    "The Evolutionary Benefits of Spiritual Expression",
+    "A New Theory of the Origins of Neanderthal Cave Art",
+    "Speaking with Clouds: Language and Neanderthal Art",
+    "Scientific Perspectives on the Earliest Human Religions",
+    "Dancing Shadows: How Caves Shine a Light on Neanderthal Superstition"
+   ],
+   "answer": 2,
+   "points": 3,
+   "explain": "사냥감을 찾도록 조건화된 네안데르탈인이 동굴 벽의 모호한 무늬에서 동물을 보았고 이것이 동굴 이미지·조각으로 이어졌다는 '가설(hypothesized)'을 소개하므로, '네안데르탈 동굴 예술의 기원에 관한 새로운 이론'이 제목이다. 종교·미신(④⑤)은 언급되지 않는다.",
+   "trans": "호지슨과 페티트는 사방에 숨어 있는 위장한 동물을 찾도록 스스로를 조건화한 네안데르탈 사냥꾼들이 그들이 살던 어두운 동굴 속 깜박이는 횃불 빛에서 그 동물들의 윤곽을 보았을지도 모른다는 가설을 세웠다.",
+   "sents": [
+    {
+     "en": "In 2018, Derek Hodgson and Paul Pettitt published a paper in the Cambridge Archaeological Journal pointing to studies in neuroscience showing that people who are conditioned to recognize a specific object, such as a face or animal, will then see it in ambiguous patterns.",
+     "ko": "2018년, 데릭 호지슨과 폴 페티트는 『케임브리지 고고학 저널』에 논문을 발표했는데, 얼굴이나 동물 같은 특정 대상을 인식하도록 길들여진 사람들은 이후 모호한 패턴 속에서도 그것을 보게 된다는 신경과학 연구들을 지적했다."
+    },
+    {
+     "en": "We are attuned, for example, to see faces in the clouds.",
+     "ko": "예를 들어 우리는 구름 속에서 얼굴을 보도록 맞춰져 있다."
+    },
+    {
+     "en": "Hodgson and Pettitt hypothesized that Neanderthal hunters who had conditioned themselves to find camouflaged animals lurking everywhere perhaps saw outlines of those same animals in the flickering light of their torches in the dark chambers they inhabited.",
+     "ko": "호지슨과 페티트는 위장한 동물이 곳곳에 숨어 있음을 찾아내도록 스스로를 길들인 네안데르탈인 사냥꾼들이, 자신들이 거주하던 어두운 동굴 속에서 횃불의 깜박이는 빛 아래 바로 그 동물들의 윤곽을 보았을 것이라는 가설을 세웠다."
+    },
+    {
+     "en": "Studying 64,000-year-old images and sculptures at El Castillo Cave in Spain, the archaeologists came to believe that Neanderthals saw the crags and varicolored walls come “alive” with the images that filled their world.",
+     "ko": "스페인 엘 카스티요 동굴의 6만 4천 년 된 이미지와 조각을 연구하면서, 고고학자들은 네안데르탈인이 울퉁불퉁한 바위와 여러 색의 벽이 그들의 세계를 채운 이미지들로 “살아” 움직이는 것을 보았다고 믿게 되었다."
+    },
+    {
+     "en": "For example, a stalagmite with a rounded top and dark mottled patterns maybe wasn’t merely a rock rising from the cave’s floor to these Ice Age people but was interpreted as a bear rising to its feet.",
+     "ko": "예를 들어, 꼭대기가 둥글고 어두운 얼룩무늬가 있는 석순은 이 빙하기 사람들에게 단지 동굴 바닥에서 솟아오른 바위가 아니라, 곰이 일어서는 모습으로 해석되었을 수 있다."
+    }
+   ],
+   "choices_ko": [
+    "영적 표현의 진화적 이점",
+    "네안데르탈인 동굴 예술의 기원에 관한 새로운 이론",
+    "구름과 대화하기: 언어와 네안데르탈인 예술",
+    "최초의 인류 종교에 대한 과학적 관점",
+    "춤추는 그림자: 동굴이 네안데르탈인의 미신을 비추는 방식"
+   ]
+  },
+  {
+   "no": 27,
+   "paper_no": 28,
+   "passage": null,
+   "stem": "Until a few years ago it was thought that only certain species of plants—those defined precisely as carnivores—had the capacity to digest small animals, thus obtaining from them the nutrients they need. But recent studies have shown that the plant world’s use of animal nourishment is quite widespread. If you’ve ever looked at the leaves of a potato plant, or a tobacco plant, or even more exotic plants such as Paulonia tomentosa (a tree that originated in China and is becoming very common in Europe and the United States), you may have noticed that they often have little insect corpses on them. Why do the leaves of these plants secrete sticky or poisonous substances that kill the insects, if they can’t digest them? The reason is simple and, if you think about it, makes perfect sense: even if the bodies of these insects are not digested right away, they fall to the ground and decompose, releasing nitrogen that the plant needs in its diet; those remaining on the leaf provide nutriment to the bacteria on the plant, which easily absorb their nitrogen-rich waste products.",
+   "choices": [
+    "Beyond the Flytrap: Extended Forms of Plant Carnivory",
+    "Effects of Nitrogen Deficiency on Carnivorous Plants",
+    "The Secret Signals at the Heart of Root Intelligence",
+    "Leaf to Leaf: The Science of Plant Communication",
+    "Why Carnivorous Plants Face Conservation Threats"
+   ],
+   "answer": 1,
+   "points": 4,
+   "explain": "육식 식물로 분류된 일부 종뿐 아니라 감자·담배 등 일반 식물도 곤충을 죽여 간접적으로 질소를 얻는다는 내용, 즉 '식물의 동물 영양 이용이 꽤 널리 퍼져 있다'는 것이 핵심이므로 '파리지옥을 넘어: 식물 육식성의 확장된 형태'가 제목이다.",
+   "trans": "그러나 최근 연구들은 식물계의 동물 영양 이용이 꽤 널리 퍼져 있다는 것을 보여 주었다.",
+   "sents": [
+    {
+     "en": "Until a few years ago it was thought that only certain species of plants—those defined precisely as carnivores—had the capacity to digest small animals, thus obtaining from them the nutrients they need.",
+     "ko": "몇 년 전까지만 해도 정확히 식충식물로 규정된 특정 식물 종만이 작은 동물을 소화하여 필요한 영양분을 얻을 수 있다고 여겨졌다."
+    },
+    {
+     "en": "But recent studies have shown that the plant world’s use of animal nourishment is quite widespread.",
+     "ko": "그러나 최근 연구들은 식물계가 동물성 영양분을 이용하는 일이 상당히 광범위하다는 것을 보여 주었다."
+    },
+    {
+     "en": "If you’ve ever looked at the leaves of a potato plant, or a tobacco plant, or even more exotic plants such as Paulonia tomentosa (a tree that originated in China and is becoming very common in Europe and the United States), you may have noticed that they often have little insect corpses on them.",
+     "ko": "감자나 담배 같은 식물, 혹은 파울로니아 토멘토사(중국에서 유래해 유럽과 미국에서 매우 흔해지고 있는 나무)처럼 더 이국적인 식물의 잎을 본 적이 있다면, 그 위에 작은 곤충 사체가 붙어 있는 경우가 많다는 것을 알아챘을 것이다."
+    },
+    {
+     "en": "Why do the leaves of these plants secrete sticky or poisonous substances that kill the insects, if they can’t digest them?",
+     "ko": "이 식물들의 잎은 곤충을 소화하지도 못하면서 왜 곤충을 죽이는 끈적하거나 독성 있는 물질을 분비하는 것일까?"
+    },
+    {
+     "en": "The reason is simple and, if you think about it, makes perfect sense: even if the bodies of these insects are not digested right away, they fall to the ground and decompose, releasing nitrogen that the plant needs in its diet; those remaining on the leaf provide nutriment to the bacteria on the plant, which easily absorb their nitrogen-rich waste products.",
+     "ko": "그 이유는 간단하며, 생각해 보면 완벽하게 이치에 맞다. 이 곤충들의 몸이 곧바로 소화되지는 않더라도, 땅에 떨어져 분해되면서 식물이 식단에 필요로 하는 질소를 방출하고, 잎에 남은 것들은 식물에 있는 박테리아에게 영양분을 제공하며, 그 박테리아는 곤충의 질소가 풍부한 배설물을 쉽게 흡수한다."
+    }
+   ],
+   "choices_ko": [
+    "파리지옥을 넘어서: 식물 육식성의 확장된 형태",
+    "질소 결핍이 식충식물에 미치는 영향",
+    "뿌리 지능의 핵심에 있는 비밀 신호",
+    "잎에서 잎으로: 식물 의사소통의 과학",
+    "식충식물이 보전 위협에 직면하는 이유"
+   ]
+  },
+  {
+   "no": 28,
+   "paper_no": 29,
+   "passage": null,
+   "stem": "In 2024, the term <i>brat</i> emerged as a cultural and linguistic emblem, encapsulating a rebellious and unapologetically hedonistic attitude popularized by younger generations, particularly Gen Z. Far from its conventional derogatory connotations, <i>brat</i> has been reclaimed to signify an ethos of self-expression, confidence, and playful defiance. This reclamation reflects a broader societal shift toward celebrating individuality and rejecting traditional norms of decorum and conformity. Artists like Charli XCX and others have championed the brat aesthetic, which fuses a carefree attitude with bold, experimental styles, resonating deeply with contemporary notions of empowerment and self-determination. Its rise to prominence, including recognition as Collins Dictionary’s Word of the Year, underscores its cultural resonance as more than a fashion or linguistic trend—it is a statement of identity and autonomy in a rapidly evolving social landscape.",
+   "choices": [
+    "<i>Brat</i> has become a cultural term that signals the defiant pursuit of pleasure, especially among members of Gen Z.",
+    "The term <i>brat</i> has transcended its original negative connotations to signify positive self-expression.",
+    "The reclamation of <i>brat</i> signals a general movement to repudiate social standards that impose sameness.",
+    "Artists such as Charli XCX have promoted the brat attitude and style, which affirm current notions of autonomy.",
+    "The <i>brat</i> aesthetic was highlighted by Collins Dictionary for epitomizing refined and classic cultural values."
+   ],
+   "answer": 5,
+   "points": 3,
+   "explain": "brat은 전통적 예절(decorum)과 순응을 거부하는 반항적·쾌락주의적 태도를 나타내므로, 콜린스 사전이 '세련되고 고전적인 문화 가치'를 대표한다는 이유로 주목했다는 ⑤는 내용과 정반대다.",
+   "trans": "이러한 재전유는 개성을 찬양하고 예절과 순응이라는 전통적 규범을 거부하는 더 광범위한 사회적 변화를 반영한다.",
+   "sents": [
+    {
+     "en": "In 2024, the term brat emerged as a cultural and linguistic emblem, encapsulating a rebellious and unapologetically hedonistic attitude popularized by younger generations, particularly Gen Z.",
+     "ko": "2024년에 ‘브랫(brat)’이라는 용어가 문화적·언어적 상징으로 떠올랐는데, 이는 젊은 세대, 특히 Z세대가 대중화한 반항적이고 거리낌 없이 쾌락을 추구하는 태도를 담아냈다."
+    },
+    {
+     "en": "Far from its conventional derogatory connotations, brat has been reclaimed to signify an ethos of self-expression, confidence, and playful defiance.",
+     "ko": "종래의 경멸적 함축과는 거리가 멀게, ‘브랫’은 자기표현, 자신감, 장난기 어린 저항의 기풍을 뜻하는 말로 되찾아졌다."
+    },
+    {
+     "en": "This reclamation reflects a broader societal shift toward celebrating individuality and rejecting traditional norms of decorum and conformity.",
+     "ko": "이러한 되찾기는 개성을 기리고 예의와 순응이라는 전통적 규범을 거부하는 보다 폭넓은 사회적 변화를 반영한다."
+    },
+    {
+     "en": "Artists like Charli XCX and others have championed the brat aesthetic, which fuses a carefree attitude with bold, experimental styles, resonating deeply with contemporary notions of empowerment and self-determination.",
+     "ko": "찰리 XCX 같은 아티스트들이 브랫 미학을 옹호해 왔는데, 이 미학은 걱정 없는 태도와 대담하고 실험적인 스타일을 결합하여 오늘날의 자율적 힘 기르기와 자기 결정의 개념과 깊이 공명한다."
+    },
+    {
+     "en": "Its rise to prominence, including recognition as Collins Dictionary’s Word of the Year, underscores its cultural resonance as more than a fashion or linguistic trend—it is a statement of identity and autonomy in a rapidly evolving social landscape.",
+     "ko": "콜린스 사전의 올해의 단어로 선정된 것을 포함한 그 부상은, 이것이 단순한 패션이나 언어적 유행 이상이며 급속히 변화하는 사회 환경 속에서 정체성과 자율성의 선언임을 보여 준다."
+    }
+   ],
+   "choices_ko": [
+    "‘브랫’은 특히 Z세대 사이에서 쾌락의 반항적 추구를 나타내는 문화적 용어가 되었다.",
+    "‘브랫’이라는 용어는 본래의 부정적 함축을 넘어 긍정적인 자기표현을 뜻하게 되었다.",
+    "‘브랫’의 되찾기는 획일성을 강요하는 사회적 기준을 거부하는 전반적 움직임을 보여 준다.",
+    "찰리 XCX 같은 아티스트들은 오늘날의 자율성 개념을 긍정하는 브랫 태도와 스타일을 널리 알렸다.",
+    "‘브랫’ 미학은 세련되고 고전적인 문화적 가치를 대표한다는 이유로 콜린스 사전에서 주목받았다."
+   ]
+  },
+  {
+   "no": 29,
+   "paper_no": 30,
+   "passage": null,
+   "stem": "Parents will typically observe the sleep of newborns as having no rhythm or significant day-night difference. By around two months, the first elements of a rhythmic pattern emerge, but are not closely related to the environment. By four or five months, sleep becomes more influenced by light and darkness, and most sleep will occur at night. In newborns and during the first few months, parents may sometimes observe the behavioral manifestations of active sleep: periods in which there are occasional grimaces and quick twitching of the limbs, sometimes with respiration that is slightly more irregular than in quiet sleep. The total amount of sleep will be seen to be declining from up to 16 hours per day in newborns to 10-12 hours at age two, continuing to drop until adolescence. The tendency to fall asleep will occur during the mid-evening in children, in contrast to the tendency to stay up later which will appear in adolescence.",
+   "choices": [
+    "A two-month-old’s sleep is not heavily affected by environmental factors.",
+    "Illumination has an impact on the sleep of five-month-old infants.",
+    "In active sleep, respiration occurs more regularly than in quiet sleep.",
+    "As they grow older, children gradually decrease their total amount of sleep.",
+    "Adolescents are more inclined than children to go to bed later."
+   ],
+   "answer": 3,
+   "points": 3,
+   "explain": "본문은 활동 수면(active sleep) 중 호흡이 조용한 수면보다 '약간 더 불규칙하다(more irregular)'고 했으므로, '더 규칙적'이라는 ③이 내용과 다르다.",
+   "trans": "활동 수면 동안에는 가끔 얼굴을 찡그리고 팔다리를 빠르게 씰룩거리며, 때로 조용한 수면 때보다 약간 더 불규칙한 호흡을 보인다.",
+   "sents": [
+    {
+     "en": "Parents will typically observe the sleep of newborns as having no rhythm or significant day-night difference.",
+     "ko": "부모들은 대개 신생아의 수면이 리듬이 없고 낮과 밤의 뚜렷한 차이가 없다고 관찰한다."
+    },
+    {
+     "en": "By around two months, the first elements of a rhythmic pattern emerge, but are not closely related to the environment.",
+     "ko": "생후 약 두 달 무렵이 되면 리듬 있는 패턴의 첫 요소들이 나타나지만 환경과 밀접하게 연관되지는 않는다."
+    },
+    {
+     "en": "By four or five months, sleep becomes more influenced by light and darkness, and most sleep will occur at night.",
+     "ko": "넷 또는 다섯 달이 되면 수면은 빛과 어둠의 영향을 더 많이 받게 되고, 대부분의 수면은 밤에 이루어진다."
+    },
+    {
+     "en": "In newborns and during the first few months, parents may sometimes observe the behavioral manifestations of active sleep: periods in which there are occasional grimaces and quick twitching of the limbs, sometimes with respiration that is slightly more irregular than in quiet sleep.",
+     "ko": "신생아와 생후 몇 개월 동안, 부모는 때때로 능동 수면(active sleep)의 행동적 징후를 관찰할 수 있다. 이는 간간이 얼굴을 찡그리고 팔다리를 빠르게 씰룩거리는 시기이며, 때로 호흡이 조용한 수면보다 약간 더 불규칙하다."
+    },
+    {
+     "en": "The total amount of sleep will be seen to be declining from up to 16 hours per day in newborns to 10-12 hours at age two, continuing to drop until adolescence.",
+     "ko": "총 수면량은 신생아의 하루 최대 16시간에서 두 살의 10~12시간으로 감소하는 것으로 나타나며, 청소년기까지 계속 줄어든다."
+    },
+    {
+     "en": "The tendency to fall asleep will occur during the mid-evening in children, in contrast to the tendency to stay up later which will appear in adolescence.",
+     "ko": "잠드는 경향은 아동기에는 저녁 중간 무렵에 나타나는데, 이는 청소년기에 나타나는 더 늦게까지 깨어 있으려는 경향과 대조된다."
+    }
+   ],
+   "choices_ko": [
+    "두 달 된 아기의 수면은 환경적 요인의 영향을 크게 받지 않는다.",
+    "조명은 다섯 달 된 영아의 수면에 영향을 미친다.",
+    "능동 수면에서는 조용한 수면보다 호흡이 더 규칙적으로 이루어진다.",
+    "자라면서 아이들은 총 수면량을 점차 줄인다.",
+    "청소년은 아동보다 더 늦게 잠자리에 드는 경향이 있다."
+   ]
+  },
+  {
+   "no": 30,
+   "paper_no": 31,
+   "passage": "p30",
+   "stem": "윗글의 제목으로 가장 적절한 것은?",
+   "choices": [
+    "Effects of Urban Living on Mental Health",
+    "The Country and the City: A Dystopian Story",
+    "How Do City Environments Enable Innovation?",
+    "A Few Guidelines for Sustainable Urban Planning",
+    "Life in the City: Disparities in Perception and Reality"
+   ],
+   "answer": 5,
+   "points": 3,
+   "explain": "첫 단락은 영미 문화가 도시 생활을 부정적으로 '인식'해 왔다는 내용이고, 둘째 단락은 사회과학의 실제 연구 결과(however)는 그렇지 않다는 '현실'을 보여 준다. 따라서 도시 생활에 대한 인식과 현실의 괴리가 제목이다. ③은 둘째 단락 일부만 다룬다.",
+   "trans": "그러나 사회과학의 포괄적인 연구 결과는 그렇게 분명하지 않다.",
+   "sents": [
+    {
+     "en": "윗글의 제목으로 가장 적절한 것은?",
+     "ko": "윗글의 제목으로 가장 적절한 것은?"
+    }
+   ],
+   "choices_ko": [
+    "도시 생활이 정신 건강에 미치는 영향",
+    "시골과 도시: 디스토피아 이야기",
+    "도시 환경은 어떻게 혁신을 가능하게 하는가?",
+    "지속 가능한 도시 계획을 위한 몇 가지 지침",
+    "도시에서의 삶: 인식과 현실의 괴리"
+   ]
+  },
+  {
+   "no": 31,
+   "paper_no": 32,
+   "passage": "p30",
+   "stem": "밑줄 친 (A) ∼ (E) 중에서 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?",
+   "choices": [
+    "(A)",
+    "(B)",
+    "(C)",
+    "(D)",
+    "(E)"
+   ],
+   "answer": 3,
+   "points": 3,
+   "explain": "미국인들의 반도시적 사고가 오늘날까지 이어진다는 흐름이므로, 21세기에도 '다수(majority)'의 미국인이 소도시 생활을 이상으로 여긴다고 해야 한다. 'minority(소수)'는 문맥에 맞지 않는다.",
+   "trans": "21세기에도 다수의 미국인들은 대도시 생활보다 소도시 생활이라는 이상을 고수한다.",
+   "sents": [
+    {
+     "en": "밑줄 친 (A) ∼ (E) 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+     "ko": "밑줄 친 (A) ∼ (E) 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것은?"
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 32,
+   "paper_no": 33,
+   "passage": "p32",
+   "stem": "빈칸에 들어갈 가장 적절한 것은?",
+   "choices": [
+    "isolation",
+    "dismissal",
+    "resonance",
+    "divergence",
+    "abstraction"
+   ],
+   "answer": 3,
+   "points": 3,
+   "explain": "베르그송과 와일드의 관점이 웃음의 서로 다르지만 상호 보완적인 측면을 밝히며, 웃음이 인간 행동과 사회 구조에 복잡하게 얽혀 있음을 드러낸다고 했으므로 웃음의 문화적·지적 '반향, 울림(resonance)'이 적절하다.",
+   "trans": "그들의 관점은 함께 웃음의 심오한 문화적·지적 울림을 강조하며, 웃음이 인간 행동 및 사회 구조와 복잡하게 얽혀 있음을 드러낸다.",
+   "sents": [
+    {
+     "en": "빈칸에 들어갈 가장 적절한 것은?",
+     "ko": "빈칸에 들어갈 가장 적절한 것은?"
+    }
+   ],
+   "choices_ko": [
+    "고립",
+    "묵살, 일축",
+    "울림, 공명",
+    "차이, 분기",
+    "추상화, 추상"
+   ]
+  },
+  {
+   "no": 33,
+   "paper_no": 34,
+   "passage": "p32",
+   "stem": "윗글의 요지로 가장 적절한 것은?",
+   "choices": [
+    "Bergson sees laughter as a means of social critique, while Wilde views it as a tool for moral education.",
+    "Bergson considers laughter an artistic expression, whereas Wilde sees it as a manifestation of rigid social norms.",
+    "Bergson regards laughter as a mechanism for social cohesion, whereas Wilde treats it as a celebration of individual freedom.",
+    "Bergson emphasizes laughter’s corrective role in society, while Wilde highlights its role in exposing and enjoying absurdities.",
+    "Bergson and Wilde both see laughter as subversive, though Wilde applies it to linguistic constructs and Bergson to societal behavior."
+   ],
+   "answer": 4,
+   "points": 3,
+   "explain": "베르그송은 웃음을 경직성을 바로잡는 '사회적 교정 수단(social corrective)'으로, 와일드는 사회 관습의 위선과 부조리를 '폭로'하고 그 우스꽝스러움을 즐겁게 긍정하는 수단으로 보았으므로 ④가 요지다. ③은 와일드의 관점을 '개인의 자유 찬양'으로 잘못 바꾸었다.",
+   "trans": "베르그송과 와일드는 함께 웃음의 서로 다르지만 상호 보완적인 차원을 밝혀 준다. 전자는 사회적 규제와 결속의 도구로서, 후자는 비판적 문제 제기와 미적 즐거움의 매개로서이다.",
+   "sents": [
+    {
+     "en": "윗글의 요지로 가장 적절한 것은?",
+     "ko": "윗글의 요지로 가장 적절한 것은?"
+    }
+   ],
+   "choices_ko": [
+    "베르그송은 웃음을 사회 비판의 수단으로 보는 반면, 와일드는 그것을 도덕 교육의 도구로 본다.",
+    "베르그송은 웃음을 예술적 표현으로 여기는 반면, 와일드는 그것을 경직된 사회 규범의 발현으로 본다.",
+    "베르그송은 웃음을 사회적 결속의 메커니즘으로 여기는 반면, 와일드는 그것을 개인의 자유에 대한 찬양으로 다룬다.",
+    "베르그송은 웃음이 사회에서 갖는 교정적 역할을 강조하는 반면, 와일드는 부조리를 폭로하고 즐기는 역할을 강조한다.",
+    "베르그송과 와일드는 둘 다 웃음을 전복적인 것으로 보지만, 와일드는 그것을 언어적 구성물에, 베르그송은 사회적 행동에 적용한다."
+   ]
+  },
+  {
+   "no": 34,
+   "paper_no": 35,
+   "passage": "p34",
+   "stem": "윗글의 주제로 가장 적절한 것은?",
+   "choices": [
+    "neurological explanations for attentional failure",
+    "negative effects of boredom on attention",
+    "adaptive function of boredom and attention",
+    "instances of boredom motivating change",
+    "correlations between boredom and productivity"
+   ],
+   "answer": 3,
+   "points": 3,
+   "explain": "지루함으로 인한 주의 이탈은 '실패'가 아니라 주관적 효용이 낮은 활동에서 벗어나게 하는 지루함의 '핵심 기능(adaptive function)'이라는 것이 주제다. ②는 글쓴이가 반박하는 기존 관점이다.",
+   "trans": "따라서 주의 이탈은 지루함의 결함이 아니라 그 핵심 특징 중 하나이다.",
+   "sents": [
+    {
+     "en": "윗글의 주제로 가장 적절한 것은?",
+     "ko": "윗글의 주제로 가장 적절한 것은?"
+    }
+   ],
+   "choices_ko": [
+    "주의력 실패에 대한 신경학적 설명",
+    "지루함이 주의력에 미치는 부정적 영향",
+    "지루함과 주의력의 적응적 기능",
+    "지루함이 변화를 동기화하는 사례",
+    "지루함과 생산성 사이의 상관관계"
+   ]
+  },
+  {
+   "no": 35,
+   "paper_no": 36,
+   "passage": "p34",
+   "stem": "밑줄 친 문장의 예시로 가장 적절한 것은?",
+   "choices": [
+    "Boredom while driving on a highway",
+    "Boredom while attending a public lecture",
+    "Boredom while watching a documentary on television",
+    "Boredom during a casual conversation at a coffee shop",
+    "Boredom while waiting in a long line at the grocery store"
+   ],
+   "answer": 1,
+   "points": 3,
+   "explain": "밑줄 문장은 주의 이탈이 문제가 되고 지루함으로 인한 주의 실패가 '파국적 결과(catastrophic consequences)'를 낳을 수 있는 상황이다. 고속도로 운전 중 지루해져 주의를 놓치면 사고로 이어질 수 있으므로 ①이 가장 적절하다.",
+   "trans": "분명히 사람들은 주의 이탈이 문제가 되고 지루함으로 인한 주의 실패가 파국적인 결과를 낳을 수 있는 상황에 자주 처한다.",
+   "sents": [
+    {
+     "en": "밑줄 친 문장의 예시로 가장 적절한 것은?",
+     "ko": "밑줄 친 문장의 예시로 가장 적절한 것은?"
+    }
+   ],
+   "choices_ko": [
+    "고속도로에서 운전하는 동안 느끼는 지루함",
+    "공개 강연에 참석하는 동안 느끼는 지루함",
+    "텔레비전으로 다큐멘터리를 보는 동안 느끼는 지루함",
+    "카페에서 가벼운 대화를 나누는 동안 느끼는 지루함",
+    "식료품점에서 긴 줄을 기다리는 동안 느끼는 지루함"
+   ]
+  }
+ ],
+ "glossary": {
+  "abandon": {
+   "ko": "버리다, 포기하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "abandons"
+   ]
+  },
+  "abrasion": {
+   "ko": "찰과상, 마모",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "abrasions"
+   ]
+  },
+  "absolute": {
+   "ko": "완전한, 절대적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "absolute"
+   ]
+  },
+  "absorb": {
+   "ko": "흡수하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "absorb"
+   ]
+  },
+  "abstract": {
+   "ko": "추상적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "abstract"
+   ]
+  },
+  "abstraction": {
+   "ko": "추상(적 개념)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "abstraction"
+   ]
+  },
+  "abstruse": {
+   "ko": "난해한, 심오한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "abstruse"
+   ]
+  },
+  "absurdity": {
+   "ko": "부조리, 불합리",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "absurdities"
+   ]
+  },
+  "abuse": {
+   "ko": "학대하다, 함부로 대하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "abusing"
+   ]
+  },
+  "academic": {
+   "ko": "학계의, 학문적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "academic"
+   ]
+  },
+  "acclaim": {
+   "ko": "찬사, 환호",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "acclaim"
+   ]
+  },
+  "in accord with": {
+   "ko": "~와 일치하여",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "accord"
+   ]
+  },
+  "access": {
+   "ko": "접근하다, 도달하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "accessed"
+   ]
+  },
+  "acne": {
+   "ko": "여드름",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "acnes"
+   ]
+  },
+  "adaptation": {
+   "ko": "적응",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "adaptation"
+   ]
+  },
+  "adapt": {
+   "ko": "적응하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "adapting"
+   ]
+  },
+  "adaptive": {
+   "ko": "적응의, 적응을 돕는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "adaptive"
+   ]
+  },
+  "adaptively": {
+   "ko": "적응적으로",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "adaptively"
+   ]
+  },
+  "address": {
+   "ko": "다루다, 대처하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "addressing"
+   ]
+  },
+  "admission": {
+   "ko": "입학, 입장 허가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "admission"
+   ]
+  },
+  "adolescence": {
+   "ko": "청소년기, 사춘기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "adolescence"
+   ]
+  },
+  "adolescent": {
+   "ko": "청소년",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "adolescents"
+   ]
+  },
+  "advantageous": {
+   "ko": "유리한, 이로운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "advantageous"
+   ]
+  },
+  "adversity": {
+   "ko": "역경",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "adversity"
+   ]
+  },
+  "aesthetic": {
+   "ko": "미적인; n. 미학, 스타일",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "aesthetic"
+   ]
+  },
+  "affirm": {
+   "ko": "확언하다, 지지하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "affirm"
+   ]
+  },
+  "affirmation": {
+   "ko": "긍정, 확언",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "affirmation"
+   ]
+  },
+  "afford": {
+   "ko": "~할 여유가 있다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "afford"
+   ]
+  },
+  "agency": {
+   "ko": "행위 주체성, 대행사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "agency"
+   ]
+  },
+  "aggression": {
+   "ko": "공격(성)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "aggression"
+   ]
+  },
+  "alienate": {
+   "ko": "소외시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "alienating"
+   ]
+  },
+  "allegiance": {
+   "ko": "충성, 충절",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "allegiance"
+   ]
+  },
+  "ambiguity": {
+   "ko": "모호함",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "ambiguity"
+   ]
+  },
+  "ambiguous": {
+   "ko": "모호한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "ambiguous"
+   ]
+  },
+  "anthropocentric": {
+   "ko": "인간 중심적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "anthropocentric"
+   ]
+  },
+  "anthropogenic": {
+   "ko": "인간에 의해 생긴, 인위적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "anthropogenic"
+   ]
+  },
+  "anthropologist": {
+   "ko": "인류학자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "anthropologist"
+   ]
+  },
+  "antithetical": {
+   "ko": "정반대의, 대립되는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "antithetical"
+   ]
+  },
+  "antiurban": {
+   "ko": "반(反)도시적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "antiurban"
+   ]
+  },
+  "apathetic": {
+   "ko": "무관심한, 냉담한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "apathetic"
+   ]
+  },
+  "appeal to": {
+   "ko": "~의 마음을 끌다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "appeals"
+   ]
+  },
+  "aptly": {
+   "ko": "적절하게",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "aptly"
+   ]
+  },
+  "archaeological": {
+   "ko": "고고학의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "archaeological"
+   ]
+  },
+  "archaeologist": {
+   "ko": "고고학자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "archaeologists"
+   ]
+  },
+  "arise": {
+   "ko": "생기다, 일어나다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "arises"
+   ]
+  },
+  "aristocrat": {
+   "ko": "귀족",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "aristocrats"
+   ]
+  },
+  "artifice": {
+   "ko": "교묘한 술책, 인위적 꾸밈",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "artifice"
+   ]
+  },
+  "aspiration": {
+   "ko": "열망, 포부",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "aspirations"
+   ]
+  },
+  "assertive": {
+   "ko": "단호한, 자기주장이 강한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "assertive"
+   ]
+  },
+  "associate": {
+   "ko": "연관 짓다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "associated"
+   ]
+  },
+  "association": {
+   "ko": "연상, 연관",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "association"
+   ]
+  },
+  "assume": {
+   "ko": "(성격·형태를) 띠다, 가정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "assumed",
+    "assumes"
+   ]
+  },
+  "athlete": {
+   "ko": "운동선수",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "athletes"
+   ]
+  },
+  "attentional": {
+   "ko": "주의(력)의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "attentional"
+   ]
+  },
+  "attitude": {
+   "ko": "태도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "attitude"
+   ]
+  },
+  "attuned": {
+   "ko": "~에 익숙해진, 맞춰진",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "attuned"
+   ]
+  },
+  "authentic": {
+   "ko": "진정한, 진짜의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "authentic"
+   ]
+  },
+  "authenticity": {
+   "ko": "진정성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "authenticity"
+   ]
+  },
+  "authority": {
+   "ko": "권위, 권한",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "authority"
+   ]
+  },
+  "automatism": {
+   "ko": "기계적 행동, 자동성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "automatism"
+   ]
+  },
+  "autonomy": {
+   "ko": "자율(성)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "autonomy"
+   ]
+  },
+  "awkwardness": {
+   "ko": "어색함, 서투름",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "awkwardness"
+   ]
+  },
+  "bacteria": {
+   "ko": "박테리아, 세균",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "bacteria"
+   ]
+  },
+  "balanced": {
+   "ko": "균형 잡힌",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "balanced"
+   ]
+  },
+  "beacon": {
+   "ko": "등불, 신호(등)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "beacon"
+   ]
+  },
+  "belittle": {
+   "ko": "과소평가하다, 얕보다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "belittle"
+   ]
+  },
+  "bias": {
+   "ko": "편견",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "biases"
+   ]
+  },
+  "biocentric": {
+   "ko": "생명 중심적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "biocentric"
+   ]
+  },
+  "biodiversity": {
+   "ko": "생물 다양성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "biodiversity"
+   ]
+  },
+  "blackhead": {
+   "ko": "블랙헤드(여드름)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "blackheads"
+   ]
+  },
+  "blatant": {
+   "ko": "노골적인, 뻔한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "blatant"
+   ]
+  },
+  "bold": {
+   "ko": "대담한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "bold"
+   ]
+  },
+  "boredom": {
+   "ko": "지루함",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "boredom"
+   ]
+  },
+  "boundary": {
+   "ko": "경계, 한계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "boundaries"
+   ]
+  },
+  "brat": {
+   "ko": "버릇없는 아이, 악동",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "brat"
+   ]
+  },
+  "bug": {
+   "ko": "결함, 오류",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "bug"
+   ]
+  },
+  "camouflage": {
+   "ko": "위장하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "camouflaged"
+   ]
+  },
+  "cancer": {
+   "ko": "암",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "cancers"
+   ]
+  },
+  "capacity": {
+   "ko": "능력, 수용력",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "capacity"
+   ]
+  },
+  "capitalist": {
+   "ko": "자본주의의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "capitalist"
+   ]
+  },
+  "caprice": {
+   "ko": "변덕",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "caprice"
+   ]
+  },
+  "carefree": {
+   "ko": "근심 없는, 태평한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "carefree"
+   ]
+  },
+  "carnivore": {
+   "ko": "육식 동물(식물)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "carnivores"
+   ]
+  },
+  "carnivorous": {
+   "ko": "육식성의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "carnivorous"
+   ]
+  },
+  "carnivory": {
+   "ko": "육식성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "carnivory"
+   ]
+  },
+  "casual": {
+   "ko": "격식 없는, 무심한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "casual"
+   ]
+  },
+  "catalyst": {
+   "ko": "촉매(제)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "catalyst"
+   ]
+  },
+  "catastrophic": {
+   "ko": "파국적인, 재앙의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "catastrophic"
+   ]
+  },
+  "cauldron": {
+   "ko": "큰 솥, 소용돌이",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "cauldrons"
+   ]
+  },
+  "celebrity": {
+   "ko": "명성, 유명인",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "celebrity"
+   ]
+  },
+  "chamber": {
+   "ko": "방, 공간",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "chambers"
+   ]
+  },
+  "champion": {
+   "ko": "옹호하다, 지지하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "championed"
+   ]
+  },
+  "chaos": {
+   "ko": "혼돈",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "chaos"
+   ]
+  },
+  "circulation": {
+   "ko": "순환",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "circulations"
+   ]
+  },
+  "circumvent": {
+   "ko": "피하다, 우회하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "circumvent"
+   ]
+  },
+  "civilization": {
+   "ko": "문명",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "civilization",
+    "civilizations"
+   ]
+  },
+  "coax": {
+   "ko": "구슬리다, 달래서 ~하게 하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "coaxed"
+   ]
+  },
+  "cohesion": {
+   "ko": "결속, 응집력",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "cohesion"
+   ]
+  },
+  "coincidence": {
+   "ko": "우연의 일치",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "coincidences"
+   ]
+  },
+  "collective": {
+   "ko": "집단의; n. 집단",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "collective"
+   ]
+  },
+  "collectively": {
+   "ko": "집합적으로, 함께",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "collectively"
+   ]
+  },
+  "collectivism": {
+   "ko": "집단주의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "collectivism"
+   ]
+  },
+  "collegial": {
+   "ko": "협력적인, 동료 간의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "collegial"
+   ]
+  },
+  "colonise": {
+   "ko": "군체를 이루다, 식민지로 만들다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "colonised"
+   ]
+  },
+  "commentator": {
+   "ko": "해설자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "commentators"
+   ]
+  },
+  "commit": {
+   "ko": "(어떤 입장에) 얽매이게 하다, 저지르다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "commit"
+   ]
+  },
+  "commodity": {
+   "ko": "상품",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "commodity"
+   ]
+  },
+  "communal": {
+   "ko": "공동체의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "communal"
+   ]
+  },
+  "companion": {
+   "ko": "동료, 친구",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "companions"
+   ]
+  },
+  "compass": {
+   "ko": "나침반",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "compass"
+   ]
+  },
+  "complementary": {
+   "ko": "상호 보완적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "complementary"
+   ]
+  },
+  "compliment": {
+   "ko": "칭찬",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "compliment"
+   ]
+  },
+  "composer": {
+   "ko": "작곡가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "composer"
+   ]
+  },
+  "comprehend": {
+   "ko": "이해하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "comprehend"
+   ]
+  },
+  "comprehensive": {
+   "ko": "포괄적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "comprehensive"
+   ]
+  },
+  "compulsion": {
+   "ko": "강요, 강제",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "compulsion"
+   ]
+  },
+  "conceive": {
+   "ko": "구상하다, 생각해 내다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "conceived"
+   ]
+  },
+  "conceptual": {
+   "ko": "개념적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "conceptual"
+   ]
+  },
+  "conceptualization": {
+   "ko": "개념화",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "conceptualization"
+   ]
+  },
+  "conceptualize": {
+   "ko": "개념화하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "conceptualizes"
+   ]
+  },
+  "concrete": {
+   "ko": "구체적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "concrete"
+   ]
+  },
+  "condition": {
+   "ko": "조건화하다, 길들이다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "conditioned"
+   ]
+  },
+  "confer": {
+   "ko": "(칭호 등을) 수여하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "conferring"
+   ]
+  },
+  "confidence": {
+   "ko": "자신감, 신뢰",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "confidence"
+   ]
+  },
+  "confirm": {
+   "ko": "확인하다, 승인하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "confirm"
+   ]
+  },
+  "conformist": {
+   "ko": "순응주의자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "conformist"
+   ]
+  },
+  "conformity": {
+   "ko": "순응",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "conformity"
+   ]
+  },
+  "confront": {
+   "ko": "직면하게 하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "confronted"
+   ]
+  },
+  "connotation": {
+   "ko": "함축, 내포된 의미",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "connotations"
+   ]
+  },
+  "consensus": {
+   "ko": "합의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consensus"
+   ]
+  },
+  "consequence": {
+   "ko": "결과",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consequences"
+   ]
+  },
+  "consequential": {
+   "ko": "중대한, 결과로 일어나는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "consequential"
+   ]
+  },
+  "conservation": {
+   "ko": "보존",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "conservation"
+   ]
+  },
+  "conservatism": {
+   "ko": "보수주의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "conservatism"
+   ]
+  },
+  "consistency": {
+   "ko": "일관성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consistency"
+   ]
+  },
+  "consistent": {
+   "ko": "일관된, 일치하는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "consistent"
+   ]
+  },
+  "conspicuous": {
+   "ko": "눈에 띄는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "conspicuous"
+   ]
+  },
+  "constancy": {
+   "ko": "불변성, 항상성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "constancy"
+   ]
+  },
+  "construct": {
+   "ko": "구성 개념; v. 구성하다",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "construct",
+    "constructs",
+    "constructed"
+   ]
+  },
+  "contemporary": {
+   "ko": "현대의, 동시대의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "contemporary"
+   ]
+  },
+  "contend": {
+   "ko": "주장하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "contends"
+   ]
+  },
+  "contentious": {
+   "ko": "논쟁을 불러일으키는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "contentious"
+   ]
+  },
+  "context": {
+   "ko": "맥락",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "context"
+   ]
+  },
+  "continental": {
+   "ko": "대륙의, 유럽 대륙의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "continental"
+   ]
+  },
+  "conventional": {
+   "ko": "관습적인, 기존의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "conventional"
+   ]
+  },
+  "convention": {
+   "ko": "관습",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "conventions"
+   ]
+  },
+  "core": {
+   "ko": "핵심의; n. 핵심",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "core"
+   ]
+  },
+  "corpse": {
+   "ko": "시체",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "corpses"
+   ]
+  },
+  "corrective": {
+   "ko": "교정 수단; a. 바로잡는",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "corrective"
+   ]
+  },
+  "correlation": {
+   "ko": "상관관계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "correlations"
+   ]
+  },
+  "correspondence": {
+   "ko": "상응, 일치",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "correspondence"
+   ]
+  },
+  "cosmos": {
+   "ko": "우주",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "cosmos"
+   ]
+  },
+  "at the cost of": {
+   "ko": "~을 대가로",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "cost"
+   ]
+  },
+  "countercyclical": {
+   "ko": "경기 대응적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "countercyclical"
+   ]
+  },
+  "counterpart": {
+   "ko": "상대, 대응 관계에 있는 것",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "counterparts"
+   ]
+  },
+  "crag": {
+   "ko": "험준한 바위",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "crags"
+   ]
+  },
+  "creature": {
+   "ko": "생물",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "creatures"
+   ]
+  },
+  "critique": {
+   "ko": "비평, 비판",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "critique"
+   ]
+  },
+  "crucible": {
+   "ko": "도가니, 혹독한 시련",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "crucible"
+   ]
+  },
+  "cultivate": {
+   "ko": "기르다, 함양하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "cultivating"
+   ]
+  },
+  "curb": {
+   "ko": "억제하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "curbs"
+   ]
+  },
+  "curiously": {
+   "ko": "이상하게도, 묘하게",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "curiously"
+   ]
+  },
+  "daily": {
+   "ko": "일상의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "daily"
+   ]
+  },
+  "day-night": {
+   "ko": "밤낮의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "day-night"
+   ]
+  },
+  "debate": {
+   "ko": "논쟁",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "debates"
+   ]
+  },
+  "decline": {
+   "ko": "감소하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "declining"
+   ]
+  },
+  "decompose": {
+   "ko": "분해되다, 부패하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "decompose"
+   ]
+  },
+  "decorum": {
+   "ko": "예의 바름, 품위",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "decorum"
+   ]
+  },
+  "deem": {
+   "ko": "여기다, 간주하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "deemed"
+   ]
+  },
+  "deference": {
+   "ko": "존중, 경의",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "deference"
+   ]
+  },
+  "defiance": {
+   "ko": "반항, 저항",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "defiance"
+   ]
+  },
+  "defiant": {
+   "ko": "반항적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "defiant"
+   ]
+  },
+  "deficiency": {
+   "ko": "결핍",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "deficiency"
+   ]
+  },
+  "definition": {
+   "ko": "정의, 명확한 형태",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "definition"
+   ]
+  },
+  "deftly": {
+   "ko": "능숙하게, 솜씨 좋게",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "deftly"
+   ]
+  },
+  "defy": {
+   "ko": "거역하다, 무시하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "defy"
+   ]
+  },
+  "deliberate": {
+   "ko": "의도적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "deliberate"
+   ]
+  },
+  "delicate": {
+   "ko": "섬세한, 연약한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "delicate"
+   ]
+  },
+  "democracy": {
+   "ko": "민주주의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "democracy"
+   ]
+  },
+  "demographic": {
+   "ko": "(특정) 인구 집단",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "demographic"
+   ]
+  },
+  "demonstrate": {
+   "ko": "보여 주다, 입증하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "demonstrated"
+   ]
+  },
+  "density": {
+   "ko": "밀도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "density"
+   ]
+  },
+  "dependency": {
+   "ko": "의존",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "dependency"
+   ]
+  },
+  "derogatory": {
+   "ko": "경멸적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "derogatory"
+   ]
+  },
+  "descriptive": {
+   "ko": "기술적인, 서술적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "descriptive"
+   ]
+  },
+  "designate": {
+   "ko": "지정하다, 지칭하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "designated"
+   ]
+  },
+  "designation": {
+   "ko": "지정, 명칭",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "designation"
+   ]
+  },
+  "despondency": {
+   "ko": "낙담, 의기소침",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "despondency"
+   ]
+  },
+  "devalue": {
+   "ko": "평가 절하하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "devalue"
+   ]
+  },
+  "devastate": {
+   "ko": "황폐화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "devastated"
+   ]
+  },
+  "devote": {
+   "ko": "바치다, 쏟다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "devote"
+   ]
+  },
+  "devotion": {
+   "ko": "헌신, 숭배",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "devotion"
+   ]
+  },
+  "dictate": {
+   "ko": "명령, 지시",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "dictates"
+   ]
+  },
+  "diet": {
+   "ko": "식단, 먹이",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "diet"
+   ]
+  },
+  "differentiated": {
+   "ko": "차별화된, 세분화된",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "differentiated"
+   ]
+  },
+  "digest": {
+   "ko": "소화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "digest",
+    "digested"
+   ]
+  },
+  "dignity": {
+   "ko": "존엄, 품위",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "dignity"
+   ]
+  },
+  "dilemma": {
+   "ko": "딜레마",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "dilemmas"
+   ]
+  },
+  "dimension": {
+   "ko": "차원, 측면",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "dimensions"
+   ]
+  },
+  "discipline": {
+   "ko": "학문 분야",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "discipline"
+   ]
+  },
+  "disclose": {
+   "ko": "폭로하다, 밝히다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "disclose"
+   ]
+  },
+  "discretion": {
+   "ko": "재량, 신중함",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "discretion"
+   ]
+  },
+  "discrimination": {
+   "ko": "차별",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "discrimination"
+   ]
+  },
+  "disengage": {
+   "ko": "(주의를) 떼다, 벗어나다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "disengage",
+    "disengaging"
+   ]
+  },
+  "disengagement": {
+   "ko": "이탈, 분리",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "disengagement"
+   ]
+  },
+  "disillusionment": {
+   "ko": "환멸",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "disillusionment"
+   ]
+  },
+  "dismiss": {
+   "ko": "일축하다, 묵살하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "dismissed"
+   ]
+  },
+  "dismissal": {
+   "ko": "일축, 묵살",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "dismissal"
+   ]
+  },
+  "disorder": {
+   "ko": "무질서",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "disorder"
+   ]
+  },
+  "disparity": {
+   "ko": "격차, 불일치",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "disparities"
+   ]
+  },
+  "dispositional": {
+   "ko": "기질적인, 성향의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "dispositional"
+   ]
+  },
+  "disrupt": {
+   "ko": "방해하다, 지장을 주다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "disrupting"
+   ]
+  },
+  "disruptive": {
+   "ko": "파괴적인, 지장을 주는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "disruptive"
+   ]
+  },
+  "disseminate": {
+   "ko": "퍼뜨리다, 보급하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "disseminate"
+   ]
+  },
+  "dissociate": {
+   "ko": "분리하다, 관계를 끊다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "dissociated"
+   ]
+  },
+  "distinct": {
+   "ko": "뚜렷이 다른, 별개의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "distinct"
+   ]
+  },
+  "distribution": {
+   "ko": "분배",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "distribution"
+   ]
+  },
+  "divergence": {
+   "ko": "분기, 차이",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "divergence"
+   ]
+  },
+  "diverse": {
+   "ko": "다양한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "diverse"
+   ]
+  },
+  "divine": {
+   "ko": "신의, 신성한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "divine"
+   ]
+  },
+  "docking": {
+   "ko": "(우주선의) 도킹",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "docking"
+   ]
+  },
+  "documentary": {
+   "ko": "다큐멘터리",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "documentary"
+   ]
+  },
+  "documentation": {
+   "ko": "기록, 문서화",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "documentations"
+   ]
+  },
+  "dominant": {
+   "ko": "지배적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "dominant"
+   ]
+  },
+  "dopamine": {
+   "ko": "도파민",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "dopamine"
+   ]
+  },
+  "dweller": {
+   "ko": "거주자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "dwellers"
+   ]
+  },
+  "dynamism": {
+   "ko": "역동성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "dynamism"
+   ]
+  },
+  "dystopia": {
+   "ko": "디스토피아, 반이상향",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "dystopias"
+   ]
+  },
+  "dystopian": {
+   "ko": "디스토피아적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "dystopian"
+   ]
+  },
+  "eagerness": {
+   "ko": "열의, 열망",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "eagerness"
+   ]
+  },
+  "ecological": {
+   "ko": "생태(학)의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "ecological"
+   ]
+  },
+  "ecology": {
+   "ko": "생태학",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "ecology"
+   ]
+  },
+  "ecosystem": {
+   "ko": "생태계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "ecosystems"
+   ]
+  },
+  "edible": {
+   "ko": "먹을 수 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "edible"
+   ]
+  },
+  "effortless": {
+   "ko": "힘들이지 않는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "effortless"
+   ]
+  },
+  "element": {
+   "ko": "요소",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "elements"
+   ]
+  },
+  "elicit": {
+   "ko": "이끌어 내다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "eliciting"
+   ]
+  },
+  "elucidate": {
+   "ko": "밝히다, 설명하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "elucidates"
+   ]
+  },
+  "emanate": {
+   "ko": "발산하다, ~에서 나오다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "emanates"
+   ]
+  },
+  "emblem": {
+   "ko": "상징",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "emblem"
+   ]
+  },
+  "embody": {
+   "ko": "구현하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "embody"
+   ]
+  },
+  "embrace": {
+   "ko": "받아들이다, 수용하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "embrace",
+    "embracing"
+   ]
+  },
+  "emerge": {
+   "ko": "나타나다, 생겨나다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "emerge",
+    "emerged"
+   ]
+  },
+  "emphasize": {
+   "ko": "강조하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "emphasizes"
+   ]
+  },
+  "empirical": {
+   "ko": "경험적인, 실증적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "empirical"
+   ]
+  },
+  "employ": {
+   "ko": "사용하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "employ"
+   ]
+  },
+  "empowerment": {
+   "ko": "권한 부여, 자율권",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "empowerment"
+   ]
+  },
+  "encapsulate": {
+   "ko": "압축하다, 요약하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "encapsulating"
+   ]
+  },
+  "endangered": {
+   "ko": "멸종 위기에 처한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "endangered"
+   ]
+  },
+  "endorse": {
+   "ko": "지지하다, 승인하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "endorse"
+   ]
+  },
+  "endure": {
+   "ko": "견디다, 지속되다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "endured",
+    "enduring"
+   ]
+  },
+  "energize": {
+   "ko": "활력을 주다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "energized"
+   ]
+  },
+  "energy-sapping": {
+   "ko": "에너지를 고갈시키는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "energy-sapping"
+   ]
+  },
+  "engage": {
+   "ko": "관여시키다, (주의를) 끌다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "engage",
+    "engaged",
+    "engaging"
+   ]
+  },
+  "enlightenment": {
+   "ko": "계몽(주의)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "enlightenment"
+   ]
+  },
+  "entail": {
+   "ko": "수반하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "entails"
+   ]
+  },
+  "entangled": {
+   "ko": "얽힌",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "entangled"
+   ]
+  },
+  "entanglement": {
+   "ko": "얽힘",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "entanglement"
+   ]
+  },
+  "entrepreneur": {
+   "ko": "기업가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "entrepreneurs"
+   ]
+  },
+  "epitomize": {
+   "ko": "전형이 되다, 집약하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "epitomizing"
+   ]
+  },
+  "equilibrium": {
+   "ko": "평형, 균형",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "equilibrium"
+   ]
+  },
+  "erode": {
+   "ko": "침식하다, 약화시키다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "erodes"
+   ]
+  },
+  "esoteric": {
+   "ko": "난해한, 소수만 이해하는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "esoteric"
+   ]
+  },
+  "essentially": {
+   "ko": "본질적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "essentially"
+   ]
+  },
+  "ethical": {
+   "ko": "윤리적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "ethical"
+   ]
+  },
+  "ethos": {
+   "ko": "기풍, 정신",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "ethos"
+   ]
+  },
+  "evaporate": {
+   "ko": "증발하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "evaporates"
+   ]
+  },
+  "ever-evolving": {
+   "ko": "끊임없이 진화하는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "ever-evolving"
+   ]
+  },
+  "evident": {
+   "ko": "분명한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "evident"
+   ]
+  },
+  "evolutionary": {
+   "ko": "진화의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "evolutionary"
+   ]
+  },
+  "excessive": {
+   "ko": "지나친",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "excessive"
+   ]
+  },
+  "execute": {
+   "ko": "실행하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "execute"
+   ]
+  },
+  "exemplify": {
+   "ko": "전형적으로 보여 주다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "exemplifying"
+   ]
+  },
+  "exertion": {
+   "ko": "힘씀, 노력",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "exertion"
+   ]
+  },
+  "exotic": {
+   "ko": "이국적인, 외래의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "exotic"
+   ]
+  },
+  "expel": {
+   "ko": "쫓아내다, 배출하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "expelled"
+   ]
+  },
+  "experimental": {
+   "ko": "실험적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "experimental"
+   ]
+  },
+  "explicit": {
+   "ko": "명시적인, 노골적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "explicit"
+   ]
+  },
+  "exploitative": {
+   "ko": "착취적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "exploitative"
+   ]
+  },
+  "exploration": {
+   "ko": "탐색, 탐험",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "exploration"
+   ]
+  },
+  "expose": {
+   "ko": "폭로하다, 노출시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "expose",
+    "exposing"
+   ]
+  },
+  "exposure": {
+   "ko": "노출",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "exposure"
+   ]
+  },
+  "extend": {
+   "ko": "확장하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "extended"
+   ]
+  },
+  "externally": {
+   "ko": "외적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "externally"
+   ]
+  },
+  "extinction": {
+   "ko": "멸종",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "extinction",
+    "extinctions"
+   ]
+  },
+  "extol": {
+   "ko": "극찬하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "extolling"
+   ]
+  },
+  "fabric": {
+   "ko": "구조, 조직, 천",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "fabric"
+   ]
+  },
+  "facing": {
+   "ko": "직면한",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "facing"
+   ]
+  },
+  "fanciful": {
+   "ko": "공상적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "fanciful"
+   ]
+  },
+  "fancy": {
+   "ko": "공상, 상상",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "fancy"
+   ]
+  },
+  "fantasy": {
+   "ko": "공상, 환상",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "fantasy"
+   ]
+  },
+  "flattery": {
+   "ko": "아첨",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "flattery"
+   ]
+  },
+  "fledgling": {
+   "ko": "초보의, 갓 생겨난",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "fledgling"
+   ]
+  },
+  "flicker": {
+   "ko": "깜박이다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "flickering"
+   ]
+  },
+  "flourish": {
+   "ko": "번성하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "flourish"
+   ]
+  },
+  "fluidity": {
+   "ko": "유동성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "fluidity"
+   ]
+  },
+  "flytrap": {
+   "ko": "파리지옥(식충 식물)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "flytrap"
+   ]
+  },
+  "folks": {
+   "ko": "사람들",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "folks"
+   ]
+  },
+  "forcibly": {
+   "ko": "강제로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "forcibly"
+   ]
+  },
+  "forgo": {
+   "ko": "포기하다, 단념하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "forgo"
+   ]
+  },
+  "former": {
+   "ko": "전자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "former"
+   ]
+  },
+  "formulate": {
+   "ko": "만들어 내다, 수립하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "formulating"
+   ]
+  },
+  "fortify": {
+   "ko": "강화하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "fortify"
+   ]
+  },
+  "foster": {
+   "ko": "조성하다, 촉진하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "fostering"
+   ]
+  },
+  "foundation": {
+   "ko": "토대, 기초",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "foundation"
+   ]
+  },
+  "framework": {
+   "ko": "틀, 체계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "framework"
+   ]
+  },
+  "frequently": {
+   "ko": "자주",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "frequently"
+   ]
+  },
+  "frighten": {
+   "ko": "겁먹게 하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "frighten"
+   ]
+  },
+  "fuel": {
+   "ko": "부채질하다, 연료를 공급하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "fueled"
+   ]
+  },
+  "fulfillment": {
+   "ko": "성취(감), 충족",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "fulfillment"
+   ]
+  },
+  "functional": {
+   "ko": "기능적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "functional"
+   ]
+  },
+  "fuse": {
+   "ko": "융합하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "fuses"
+   ]
+  },
+  "gain": {
+   "ko": "이익, 이득",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "gain"
+   ]
+  },
+  "gender": {
+   "ko": "성별",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "gender"
+   ]
+  },
+  "gene": {
+   "ko": "유전자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "gene",
+    "genes"
+   ]
+  },
+  "generation": {
+   "ko": "세대",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "generations"
+   ]
+  },
+  "genuine": {
+   "ko": "진실된, 진짜의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "genuine"
+   ]
+  },
+  "gland": {
+   "ko": "분비샘",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "gland",
+    "glands"
+   ]
+  },
+  "grace": {
+   "ko": "우아함",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "grace"
+   ]
+  },
+  "gradual": {
+   "ko": "점진적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "gradual"
+   ]
+  },
+  "grassland": {
+   "ko": "초원",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "grasslands"
+   ]
+  },
+  "grimace": {
+   "ko": "얼굴을 찡그림",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "grimaces"
+   ]
+  },
+  "grocery": {
+   "ko": "식료품점",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "grocery"
+   ]
+  },
+  "guardian": {
+   "ko": "수호자, 보호자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "guardian"
+   ]
+  },
+  "guideline": {
+   "ko": "지침",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "guidelines"
+   ]
+  },
+  "hairless": {
+   "ko": "털이 없는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "hairless"
+   ]
+  },
+  "harmonious": {
+   "ko": "조화로운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "harmonious"
+   ]
+  },
+  "harmony": {
+   "ko": "조화",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "harmony"
+   ]
+  },
+  "hedonistic": {
+   "ko": "쾌락주의적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "hedonistic"
+   ]
+  },
+  "highlight": {
+   "ko": "강조하다, 부각하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "highlighted",
+    "highlights"
+   ]
+  },
+  "hint": {
+   "ko": "기미, 약간",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "hint"
+   ]
+  },
+  "hire": {
+   "ko": "고용하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "hired",
+    "hiring"
+   ]
+  },
+  "hired hand": {
+   "ko": "고용된 일꾼",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "hired hand"
+   ]
+  },
+  "hirsute": {
+   "ko": "털이 많은",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "hirsute"
+   ]
+  },
+  "hoop": {
+   "ko": "(농구) 골대 링, 고리",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "hoop"
+   ]
+  },
+  "hormone": {
+   "ko": "호르몬",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "hormones"
+   ]
+  },
+  "hostile": {
+   "ko": "적대적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "hostile"
+   ]
+  },
+  "humiliate": {
+   "ko": "굴욕감을 주다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "humiliate"
+   ]
+  },
+  "hunter": {
+   "ko": "사냥꾼",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "hunters"
+   ]
+  },
+  "hypocrisy": {
+   "ko": "위선",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "hypocrisies"
+   ]
+  },
+  "hypothesize": {
+   "ko": "가설을 세우다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "hypothesized"
+   ]
+  },
+  "idealize": {
+   "ko": "이상화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "idealizing"
+   ]
+  },
+  "identify A with B": {
+   "ko": "A를 B와 동일시하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "identifies"
+   ]
+  },
+  "illuminate": {
+   "ko": "밝히다, 조명하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "illuminate"
+   ]
+  },
+  "illumination": {
+   "ko": "조명, 빛",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "illumination"
+   ]
+  },
+  "immune": {
+   "ko": "면역의, ~의 영향을 받지 않는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "immune"
+   ]
+  },
+  "immunity": {
+   "ko": "면제, 면역",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "immunity"
+   ]
+  },
+  "immutable": {
+   "ko": "불변의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "immutable"
+   ]
+  },
+  "impending": {
+   "ko": "임박한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "impending"
+   ]
+  },
+  "impenetrable": {
+   "ko": "이해할 수 없는, 뚫을 수 없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "impenetrable"
+   ]
+  },
+  "imperative": {
+   "ko": "의무, 명령",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "imperative"
+   ]
+  },
+  "implausible": {
+   "ko": "믿기 어려운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "implausible"
+   ]
+  },
+  "implore": {
+   "ko": "간청하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "implores"
+   ]
+  },
+  "impose": {
+   "ko": "부과하다, 강요하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "impose",
+    "imposed"
+   ]
+  },
+  "impossibility": {
+   "ko": "불가능(성)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "impossibility"
+   ]
+  },
+  "impresario": {
+   "ko": "(공연) 기획자, 흥행주",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "impresario"
+   ]
+  },
+  "imprint": {
+   "ko": "새기다, 각인하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "imprinted"
+   ]
+  },
+  "improbable": {
+   "ko": "있을 법하지 않은",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "improbable"
+   ]
+  },
+  "incisive": {
+   "ko": "예리한, 날카로운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "incisive"
+   ]
+  },
+  "inclined": {
+   "ko": "~하는 경향이 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "inclined"
+   ]
+  },
+  "inclusive": {
+   "ko": "포괄적인, ~을 포함하는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "inclusive"
+   ]
+  },
+  "incongruous": {
+   "ko": "어울리지 않는, 부조화한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "incongruous"
+   ]
+  },
+  "incorporate": {
+   "ko": "포함시키다, 통합하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "incorporated"
+   ]
+  },
+  "incremental": {
+   "ko": "점진적인, 증가하는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "incremental"
+   ]
+  },
+  "incubator": {
+   "ko": "인큐베이터, 육성 기관",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "incubators"
+   ]
+  },
+  "indeed": {
+   "ko": "실제로, 정말로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "indeed"
+   ]
+  },
+  "independence": {
+   "ko": "독립(성)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "independence"
+   ]
+  },
+  "individualistic": {
+   "ko": "개인주의적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "individualistic"
+   ]
+  },
+  "individuality": {
+   "ko": "개성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "individuality"
+   ]
+  },
+  "ineffable": {
+   "ko": "형언할 수 없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "ineffable"
+   ]
+  },
+  "infant": {
+   "ko": "유아",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "infants"
+   ]
+  },
+  "infection": {
+   "ko": "감염",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "infection"
+   ]
+  },
+  "inflexible": {
+   "ko": "융통성 없는, 경직된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "inflexible"
+   ]
+  },
+  "informality": {
+   "ko": "격식 없음, 비공식",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "informality"
+   ]
+  },
+  "ingenuous": {
+   "ko": "순진한, 솔직한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "ingenuous"
+   ]
+  },
+  "inhabit": {
+   "ko": "살다, 거주하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "inhabit",
+    "inhabited"
+   ]
+  },
+  "injury": {
+   "ko": "부상",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "injury"
+   ]
+  },
+  "innovation": {
+   "ko": "혁신",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "innovation"
+   ]
+  },
+  "innovator": {
+   "ko": "혁신가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "innovators"
+   ]
+  },
+  "insect": {
+   "ko": "곤충",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "insect",
+    "insects"
+   ]
+  },
+  "insidious": {
+   "ko": "서서히 해를 끼치는, 은밀한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "insidious"
+   ]
+  },
+  "insist on": {
+   "ko": "~을 고집하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "insisting"
+   ]
+  },
+  "inspire": {
+   "ko": "고무하다, 불러일으키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "inspire"
+   ]
+  },
+  "instability": {
+   "ko": "불안정",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "instability"
+   ]
+  },
+  "instance": {
+   "ko": "사례",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "instances"
+   ]
+  },
+  "institution": {
+   "ko": "제도, 기관",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "institutions"
+   ]
+  },
+  "instruction": {
+   "ko": "가르침, 교육",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "instruction"
+   ]
+  },
+  "instrument": {
+   "ko": "도구, 수단",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "instrument"
+   ]
+  },
+  "insulation": {
+   "ko": "단열, 절연",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "insulation"
+   ]
+  },
+  "insurmountable": {
+   "ko": "극복할 수 없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "insurmountable"
+   ]
+  },
+  "integrity": {
+   "ko": "정직, 진실성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "integrity"
+   ]
+  },
+  "intellectual": {
+   "ko": "지적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "intellectual"
+   ]
+  },
+  "intelligence": {
+   "ko": "지능",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "intelligence"
+   ]
+  },
+  "intensely": {
+   "ko": "강렬하게, 몹시",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "intensely"
+   ]
+  },
+  "intensify": {
+   "ko": "강화하다, 심화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "intensified"
+   ]
+  },
+  "interaction": {
+   "ko": "상호작용",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "interaction",
+    "interactions"
+   ]
+  },
+  "interdependent": {
+   "ko": "상호 의존적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "interdependent"
+   ]
+  },
+  "internal": {
+   "ko": "내부의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "internal"
+   ]
+  },
+  "internally": {
+   "ko": "내적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "internally"
+   ]
+  },
+  "interpret": {
+   "ko": "해석하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "interpreted"
+   ]
+  },
+  "interrogation": {
+   "ko": "문제 제기, 심문",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "interrogation"
+   ]
+  },
+  "interventionism": {
+   "ko": "간섭주의, 개입주의",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "interventionism"
+   ]
+  },
+  "intra-related": {
+   "ko": "내적으로 연관된",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "intra-related"
+   ]
+  },
+  "intricate": {
+   "ko": "복잡한, 정교한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "intricate"
+   ]
+  },
+  "intrigue": {
+   "ko": "음모, 호기심",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "intrigue"
+   ]
+  },
+  "intrinsically": {
+   "ko": "본질적으로, 내재적으로",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "intrinsically"
+   ]
+  },
+  "invasion": {
+   "ko": "침략",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "invasion"
+   ]
+  },
+  "inversion": {
+   "ko": "전도, 뒤집기",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "inversion"
+   ]
+  },
+  "investment": {
+   "ko": "투자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "investment"
+   ]
+  },
+  "irony": {
+   "ko": "아이러니, 반어",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "irony"
+   ]
+  },
+  "irregular": {
+   "ko": "불규칙한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "irregular"
+   ]
+  },
+  "isolation": {
+   "ko": "고립",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "isolation"
+   ]
+  },
+  "itinerant": {
+   "ko": "떠돌아다니는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "itinerant"
+   ]
+  },
+  "jock": {
+   "ko": "운동선수(구어)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "jocks"
+   ]
+  },
+  "jubilant": {
+   "ko": "환희에 찬",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "jubilant"
+   ]
+  },
+  "take kindly to": {
+   "ko": "~을 달갑게 받아들이다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "kindly"
+   ]
+  },
+  "kin": {
+   "ko": "친족",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "kin"
+   ]
+  },
+  "labyrinth": {
+   "ko": "미로",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "labyrinth"
+   ]
+  },
+  "landscape": {
+   "ko": "풍경, 상황",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "landscape"
+   ]
+  },
+  "latter": {
+   "ko": "후자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "latter"
+   ]
+  },
+  "legacy": {
+   "ko": "유산",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "legacies"
+   ]
+  },
+  "lens": {
+   "ko": "렌즈, 관점",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "lens"
+   ]
+  },
+  "librettist": {
+   "ko": "(오페라) 대본 작가",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "librettist’s"
+   ]
+  },
+  "likable": {
+   "ko": "호감 가는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "likable"
+   ]
+  },
+  "limb": {
+   "ko": "팔다리",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "limbs"
+   ]
+  },
+  "limitation": {
+   "ko": "한계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "limitations"
+   ]
+  },
+  "linguistic": {
+   "ko": "언어의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "linguistic"
+   ]
+  },
+  "literary": {
+   "ko": "문학의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "literary"
+   ]
+  },
+  "literature": {
+   "ko": "문학",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "literature"
+   ]
+  },
+  "litre": {
+   "ko": "리터",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "litres"
+   ]
+  },
+  "location": {
+   "ko": "장소, 위치",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "location"
+   ]
+  },
+  "lurk": {
+   "ko": "숨어 있다, 잠복하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "lurking"
+   ]
+  },
+  "lust": {
+   "ko": "욕망, 갈망",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "lust"
+   ]
+  },
+  "macroeconomic": {
+   "ko": "거시 경제의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "macroeconomic"
+   ]
+  },
+  "maneuver": {
+   "ko": "(능숙한) 동작, 책략",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "maneuver"
+   ]
+  },
+  "manifest": {
+   "ko": "나타나다, 드러나다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "manifest"
+   ]
+  },
+  "manifestation": {
+   "ko": "발현, 표명",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "manifestation",
+    "manifestations"
+   ]
+  },
+  "manipulate": {
+   "ko": "조종하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "manipulate"
+   ]
+  },
+  "marathon": {
+   "ko": "마라톤",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "marathon"
+   ]
+  },
+  "mathematical": {
+   "ko": "수학적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "mathematical"
+   ]
+  },
+  "meaningless": {
+   "ko": "무의미한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "meaningless"
+   ]
+  },
+  "mechanical": {
+   "ko": "기계적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "mechanical"
+   ]
+  },
+  "mechanics": {
+   "ko": "역학",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "mechanics"
+   ]
+  },
+  "mechanism": {
+   "ko": "기제, 메커니즘",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "mechanism"
+   ]
+  },
+  "meditation": {
+   "ko": "사색, 명상",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "meditations"
+   ]
+  },
+  "medium": {
+   "ko": "매개, 수단",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "medium"
+   ]
+  },
+  "merely": {
+   "ko": "단지",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "merely"
+   ]
+  },
+  "microaggression": {
+   "ko": "미세 공격(은근한 차별)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "microaggressions"
+   ]
+  },
+  "milieu": {
+   "ko": "환경, 주위",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "milieu"
+   ]
+  },
+  "minimize": {
+   "ko": "최소화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "minimized",
+    "minimizing"
+   ]
+  },
+  "minority": {
+   "ko": "소수",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "minority"
+   ]
+  },
+  "miraculously": {
+   "ko": "기적적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "miraculously"
+   ]
+  },
+  "mitigate": {
+   "ko": "완화하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "mitigate",
+    "mitigated"
+   ]
+  },
+  "modernism": {
+   "ko": "모더니즘",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "modernism"
+   ]
+  },
+  "modesty": {
+   "ko": "겸손",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "modesty"
+   ]
+  },
+  "molecular": {
+   "ko": "분자의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "molecular"
+   ]
+  },
+  "monetary": {
+   "ko": "통화의, 금전의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "monetary"
+   ]
+  },
+  "moral": {
+   "ko": "도덕적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "moral"
+   ]
+  },
+  "morbid": {
+   "ko": "병적인, 음울한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "morbid"
+   ]
+  },
+  "mores": {
+   "ko": "관습, 관행",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "mores"
+   ]
+  },
+  "motivate": {
+   "ko": "동기를 부여하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "motivating"
+   ]
+  },
+  "mottled": {
+   "ko": "얼룩덜룩한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "mottled"
+   ]
+  },
+  "mutable": {
+   "ko": "변하기 쉬운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "mutable"
+   ]
+  },
+  "navigate": {
+   "ko": "헤쳐 나가다, 길을 찾다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "navigating"
+   ]
+  },
+  "nebular": {
+   "ko": "성운의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "nebular"
+   ]
+  },
+  "necessitate": {
+   "ko": "필요로 하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "necessitate"
+   ]
+  },
+  "negate": {
+   "ko": "부정하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "negate"
+   ]
+  },
+  "neoliberal": {
+   "ko": "신자유주의의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "neoliberal"
+   ]
+  },
+  "neurological": {
+   "ko": "신경(학)의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "neurological"
+   ]
+  },
+  "neuroscience": {
+   "ko": "신경 과학",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "neuroscience"
+   ]
+  },
+  "newborn": {
+   "ko": "신생아",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "newborns"
+   ]
+  },
+  "nitrogen": {
+   "ko": "질소",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "nitrogen",
+    "nitrogen-rich"
+   ]
+  },
+  "non-living": {
+   "ko": "무생물의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "non-living"
+   ]
+  },
+  "nonsense": {
+   "ko": "터무니없는 말",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "nonsense"
+   ]
+  },
+  "norm": {
+   "ko": "규범",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "norm",
+    "norms"
+   ]
+  },
+  "notion": {
+   "ko": "개념, 생각",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "notion",
+    "notions"
+   ]
+  },
+  "nourishment": {
+   "ko": "영양(분)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "nourishment"
+   ]
+  },
+  "nutrient": {
+   "ko": "영양소",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "nutrients"
+   ]
+  },
+  "nutriment": {
+   "ko": "영양물",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "nutriment"
+   ]
+  },
+  "oasis": {
+   "ko": "오아시스",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "oasis"
+   ]
+  },
+  "obscure": {
+   "ko": "모호한, 난해한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "obscure"
+   ]
+  },
+  "obsequious": {
+   "ko": "아첨하는, 비굴한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "obsequious"
+   ]
+  },
+  "observe": {
+   "ko": "관찰하다, 말하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "observe",
+    "observed"
+   ]
+  },
+  "obstacle": {
+   "ko": "장애물",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "obstacle"
+   ]
+  },
+  "obstinacy": {
+   "ko": "고집, 완고함",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "obstinacy"
+   ]
+  },
+  "obtain": {
+   "ko": "얻다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "obtaining"
+   ]
+  },
+  "occasional": {
+   "ko": "가끔의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "occasional"
+   ]
+  },
+  "at odds with": {
+   "ko": "~와 상충하는",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "odds"
+   ]
+  },
+  "oft-found": {
+   "ko": "흔히 발견되는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "oft-found"
+   ]
+  },
+  "onwards": {
+   "ko": "~이후로 계속",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "onwards"
+   ]
+  },
+  "optimism": {
+   "ko": "낙관(주의)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "optimism"
+   ]
+  },
+  "orchestrate": {
+   "ko": "조직하다, 획책하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "orchestrates"
+   ]
+  },
+  "organ": {
+   "ko": "기관, 장기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "organs"
+   ]
+  },
+  "organic": {
+   "ko": "유기적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "organic"
+   ]
+  },
+  "originate": {
+   "ko": "유래하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "originated"
+   ]
+  },
+  "outcome": {
+   "ko": "결과",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "outcomes"
+   ]
+  },
+  "outcompete": {
+   "ko": "경쟁에서 이기다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "outcompete"
+   ]
+  },
+  "outline": {
+   "ko": "윤곽",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "outlines"
+   ]
+  },
+  "overheating": {
+   "ko": "과열",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "overheating"
+   ]
+  },
+  "overt": {
+   "ko": "공공연한, 명백한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "overt"
+   ]
+  },
+  "paradox": {
+   "ko": "역설",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "paradoxes"
+   ]
+  },
+  "parody": {
+   "ko": "패러디, 풍자적 모방",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "parody"
+   ]
+  },
+  "payoff": {
+   "ko": "보상, 이득",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "payoffs"
+   ]
+  },
+  "penance": {
+   "ko": "참회, 속죄",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "penance"
+   ]
+  },
+  "perception": {
+   "ko": "인식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "perception"
+   ]
+  },
+  "perish": {
+   "ko": "죽다, 소멸하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "perishing"
+   ]
+  },
+  "permissible": {
+   "ko": "허용되는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "permissible"
+   ]
+  },
+  "permit": {
+   "ko": "허락하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "permits"
+   ]
+  },
+  "perspective": {
+   "ko": "관점",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "perspectives"
+   ]
+  },
+  "phase": {
+   "ko": "단계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "phases"
+   ]
+  },
+  "phenomenon": {
+   "ko": "현상",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "phenomena"
+   ]
+  },
+  "physicist": {
+   "ko": "물리학자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "physicists"
+   ]
+  },
+  "pillar": {
+   "ko": "기둥",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "pillars"
+   ]
+  },
+  "planetary": {
+   "ko": "행성의, 지구 전체의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "planetary"
+   ]
+  },
+  "plethora": {
+   "ko": "과다, 과잉",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "plethora"
+   ]
+  },
+  "poisonous": {
+   "ko": "독이 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "poisonous"
+   ]
+  },
+  "body politic": {
+   "ko": "국가, 정치 공동체",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "politic"
+   ]
+  },
+  "portal": {
+   "ko": "정문, 입구",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "portal"
+   ]
+  },
+  "potentiality": {
+   "ko": "잠재력, 가능성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "potentiality"
+   ]
+  },
+  "practical": {
+   "ko": "실제적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "practical"
+   ]
+  },
+  "precisely": {
+   "ko": "정확히",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "precisely"
+   ]
+  },
+  "predatory": {
+   "ko": "약탈적인, 포식성의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "predatory"
+   ]
+  },
+  "prediction": {
+   "ko": "예측",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "prediction"
+   ]
+  },
+  "prehuman": {
+   "ko": "인류 이전의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "prehuman"
+   ]
+  },
+  "preservation": {
+   "ko": "보존",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "preservation"
+   ]
+  },
+  "preserve": {
+   "ko": "보존하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "preserve",
+    "preserving"
+   ]
+  },
+  "pretension": {
+   "ko": "허세, 자부, 주장",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "pretensions"
+   ]
+  },
+  "prevail": {
+   "ko": "만연하다, 우세하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "prevailing"
+   ]
+  },
+  "prevention": {
+   "ko": "예방",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "prevention"
+   ]
+  },
+  "prima donna": {
+   "ko": "프리마돈나, 거만한 사람",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "prima donna"
+   ]
+  },
+  "primary": {
+   "ko": "주된, 주요한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "primary"
+   ]
+  },
+  "principle": {
+   "ko": "원리, 원칙",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "principles"
+   ]
+  },
+  "prioritize": {
+   "ko": "우선시하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "prioritized"
+   ]
+  },
+  "procure": {
+   "ko": "구하다, 획득하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "procure"
+   ]
+  },
+  "productivity": {
+   "ko": "생산성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "productivity"
+   ]
+  },
+  "profile": {
+   "ko": "이미지, 인지도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "profile"
+   ]
+  },
+  "profound": {
+   "ko": "심오한, 깊은",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "profound"
+   ]
+  },
+  "profoundly": {
+   "ko": "깊이, 심오하게",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "profoundly"
+   ]
+  },
+  "profusely": {
+   "ko": "아낌없이, 많이",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "profusely"
+   ]
+  },
+  "programmatic": {
+   "ko": "강령적인, 체계적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "programmatic"
+   ]
+  },
+  "progressive": {
+   "ko": "진보적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "progressive"
+   ]
+  },
+  "project": {
+   "ko": "투사하다, 제시하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "projecting"
+   ]
+  },
+  "prolific": {
+   "ko": "다작의, 많이 생산하는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "prolific"
+   ]
+  },
+  "prominence": {
+   "ko": "명성, 두드러짐",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "prominence"
+   ]
+  },
+  "promote": {
+   "ko": "촉진하다, 홍보하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "promoted",
+    "promotes"
+   ]
+  },
+  "proneness": {
+   "ko": "~하기 쉬운 경향",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "proneness"
+   ]
+  },
+  "protean": {
+   "ko": "변화무쌍한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "protean"
+   ]
+  },
+  "psychologist": {
+   "ko": "심리학자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "psychologist"
+   ]
+  },
+  "puberty": {
+   "ko": "사춘기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "puberty"
+   ]
+  },
+  "puck": {
+   "ko": "(아이스하키) 퍽",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "puck"
+   ]
+  },
+  "pursuit": {
+   "ko": "추구",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "pursuit"
+   ]
+  },
+  "quantum": {
+   "ko": "양자의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "quantum"
+   ]
+  },
+  "query": {
+   "ko": "의문을 제기하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "query"
+   ]
+  },
+  "race": {
+   "ko": "인종",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "race"
+   ]
+  },
+  "rapport": {
+   "ko": "친밀한 관계, 교감",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "rapport"
+   ]
+  },
+  "rate": {
+   "ko": "평가하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "rated"
+   ]
+  },
+  "rebellious": {
+   "ko": "반항적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "rebellious"
+   ]
+  },
+  "receptor": {
+   "ko": "수용체",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "receptor"
+   ]
+  },
+  "reclaim": {
+   "ko": "되찾다, (의미를) 재전유하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "reclaimed"
+   ]
+  },
+  "reclamation": {
+   "ko": "되찾음, 재전유",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "reclamation"
+   ]
+  },
+  "reconstruct": {
+   "ko": "재구성하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "reconstructing"
+   ]
+  },
+  "rectify": {
+   "ko": "바로잡다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "rectify"
+   ]
+  },
+  "redeem": {
+   "ko": "구원하다, 되찾다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "redeem"
+   ]
+  },
+  "redundant": {
+   "ko": "불필요한, 중복된",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "redundant"
+   ]
+  },
+  "reenact": {
+   "ko": "재연하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "reenacted"
+   ]
+  },
+  "refine": {
+   "ko": "다듬다, 정제하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "refined"
+   ]
+  },
+  "reflection": {
+   "ko": "성찰, 반영",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "reflections"
+   ]
+  },
+  "reformer": {
+   "ko": "개혁가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "reformers"
+   ]
+  },
+  "regardless of": {
+   "ko": "~에 상관없이",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "regardless"
+   ]
+  },
+  "regressive": {
+   "ko": "퇴행적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "regressive"
+   ]
+  },
+  "regulate": {
+   "ko": "규제하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "regulates"
+   ]
+  },
+  "regulation": {
+   "ko": "규제, 조절",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "regulation"
+   ]
+  },
+  "relatively": {
+   "ko": "상대적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "relatively"
+   ]
+  },
+  "relative": {
+   "ko": "친척",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "relatives"
+   ]
+  },
+  "release": {
+   "ko": "방출하다, 풀어 주다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "releases",
+    "releasing"
+   ]
+  },
+  "relinquish": {
+   "ko": "포기하다, 내주다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "relinquish"
+   ]
+  },
+  "remarkable": {
+   "ko": "놀라운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "remarkable"
+   ]
+  },
+  "render": {
+   "ko": "~하게 만들다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "renders"
+   ]
+  },
+  "repudiate": {
+   "ko": "거부하다, 부인하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "repudiate"
+   ]
+  },
+  "reputation": {
+   "ko": "평판",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "reputation"
+   ]
+  },
+  "requisite": {
+   "ko": "필요한, 필수의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "requisite"
+   ]
+  },
+  "reserve": {
+   "ko": "남겨 두다, 예약하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "reserve"
+   ]
+  },
+  "resilience": {
+   "ko": "회복력",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "resilience"
+   ]
+  },
+  "resilient": {
+   "ko": "회복력 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "resilient"
+   ]
+  },
+  "resolutely": {
+   "ko": "단호하게",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "resolutely"
+   ]
+  },
+  "resonance": {
+   "ko": "울림, 반향",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "resonance"
+   ]
+  },
+  "resonate": {
+   "ko": "반향을 일으키다, 공명하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "resonated",
+    "resonating"
+   ]
+  },
+  "respiration": {
+   "ko": "호흡",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "respiration"
+   ]
+  },
+  "respite": {
+   "ko": "휴식, 일시적 중단",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "respite"
+   ]
+  },
+  "restoration": {
+   "ko": "복원",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "restoration"
+   ]
+  },
+  "restore": {
+   "ko": "회복시키다, 복원하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "restore",
+    "restoring"
+   ]
+  },
+  "retainer": {
+   "ko": "가신, 하인",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "retainer"
+   ]
+  },
+  "retirement": {
+   "ko": "은퇴, 물러남",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "retirement"
+   ]
+  },
+  "revenge": {
+   "ko": "복수",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "revenge"
+   ]
+  },
+  "revivalism": {
+   "ko": "부흥 운동",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "revivalism"
+   ]
+  },
+  "reward": {
+   "ko": "보상",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "reward",
+    "rewards"
+   ]
+  },
+  "rhythmic": {
+   "ko": "리듬이 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "rhythmic"
+   ]
+  },
+  "ridiculous": {
+   "ko": "우스꽝스러운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "ridiculous"
+   ]
+  },
+  "rigid": {
+   "ko": "경직된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "rigid"
+   ]
+  },
+  "rigidity": {
+   "ko": "경직성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "rigidity"
+   ]
+  },
+  "rigorous": {
+   "ko": "엄격한, 철저한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "rigorous"
+   ]
+  },
+  "roughly": {
+   "ko": "대략",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "roughly"
+   ]
+  },
+  "rural": {
+   "ko": "시골의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "rural"
+   ]
+  },
+  "sacrifice": {
+   "ko": "희생하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "sacrifice"
+   ]
+  },
+  "salvation": {
+   "ko": "구원",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "salvation"
+   ]
+  },
+  "salvational": {
+   "ko": "구원적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "salvational"
+   ]
+  },
+  "sameness": {
+   "ko": "획일성, 동일함",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "sameness"
+   ]
+  },
+  "sanction": {
+   "ko": "허가하다, 승인하다; 제재하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "sanctions"
+   ]
+  },
+  "savanna": {
+   "ko": "사바나, 열대 초원",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "savanna"
+   ]
+  },
+  "scenario": {
+   "ko": "시나리오",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "scenario"
+   ]
+  },
+  "scholar": {
+   "ko": "학자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "scholars"
+   ]
+  },
+  "scrap": {
+   "ko": "부스러기, 조각",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "scraps"
+   ]
+  },
+  "scrupulous": {
+   "ko": "양심적인, 꼼꼼한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "scrupulous"
+   ]
+  },
+  "scrutiny": {
+   "ko": "정밀 조사, 감시",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "scrutiny"
+   ]
+  },
+  "sculpture": {
+   "ko": "조각품",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "sculptures"
+   ]
+  },
+  "seclusion": {
+   "ko": "은둔, 격리",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "seclusion"
+   ]
+  },
+  "secrete": {
+   "ko": "분비하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "secrete"
+   ]
+  },
+  "secretion": {
+   "ko": "분비",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "secretion"
+   ]
+  },
+  "sedulous": {
+   "ko": "근면한, 공들인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "sedulous"
+   ]
+  },
+  "seedbed": {
+   "ko": "온상, 묘판",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "seedbed"
+   ]
+  },
+  "seemingly": {
+   "ko": "겉보기에는",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "seemingly"
+   ]
+  },
+  "selective": {
+   "ko": "선별적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "selective"
+   ]
+  },
+  "self-determination": {
+   "ko": "자기 결정(권)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "self-determination"
+   ]
+  },
+  "self-disclosure": {
+   "ko": "자기 노출",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "self-disclosure"
+   ]
+  },
+  "self-regulatory": {
+   "ko": "자기 조절의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "self-regulatory"
+   ]
+  },
+  "sensitive": {
+   "ko": "민감한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "sensitive"
+   ]
+  },
+  "separable": {
+   "ko": "분리할 수 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "separable"
+   ]
+  },
+  "shantytown": {
+   "ko": "판자촌, 빈민가",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "shantytowns"
+   ]
+  },
+  "signal": {
+   "ko": "신호; v. 나타내다",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "signal",
+    "signals"
+   ]
+  },
+  "signification": {
+   "ko": "의미, 의의",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "signification"
+   ]
+  },
+  "signify": {
+   "ko": "의미하다, 나타내다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "signify"
+   ]
+  },
+  "skepticism": {
+   "ko": "회의론, 회의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "skepticism"
+   ]
+  },
+  "skew": {
+   "ko": "치우치게 하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "skewed"
+   ]
+  },
+  "slum": {
+   "ko": "빈민가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "slums"
+   ]
+  },
+  "smoothness": {
+   "ko": "매끄러움",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "smoothness"
+   ]
+  },
+  "societal": {
+   "ko": "사회의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "societal"
+   ]
+  },
+  "solar": {
+   "ko": "태양의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "solar"
+   ]
+  },
+  "solidarity": {
+   "ko": "연대, 결속",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "solidarity"
+   ]
+  },
+  "sore": {
+   "ko": "상처, 종기",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "sores"
+   ]
+  },
+  "soul": {
+   "ko": "영혼",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "soul"
+   ]
+  },
+  "species": {
+   "ko": "(생물의) 종",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "species"
+   ]
+  },
+  "speculative": {
+   "ko": "사변적인, 추측에 근거한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "speculative"
+   ]
+  },
+  "spiritual": {
+   "ko": "영적인, 정신적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "spiritual"
+   ]
+  },
+  "spontaneity": {
+   "ko": "자발성, 자연스러움",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "spontaneity"
+   ]
+  },
+  "stability": {
+   "ko": "안정(성)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "stability"
+   ]
+  },
+  "stalagmite": {
+   "ko": "석순",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "stalagmite"
+   ]
+  },
+  "statement": {
+   "ko": "성명, 표현",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "statement"
+   ]
+  },
+  "sticky": {
+   "ko": "끈적끈적한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "sticky"
+   ]
+  },
+  "stimulate": {
+   "ko": "자극하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "stimulates"
+   ]
+  },
+  "strategically": {
+   "ko": "전략적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "strategically"
+   ]
+  },
+  "strife": {
+   "ko": "갈등, 분쟁",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "strife"
+   ]
+  },
+  "stubbornness": {
+   "ko": "고집",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "stubbornness"
+   ]
+  },
+  "studio": {
+   "ko": "스튜디오, 제작사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "studios"
+   ]
+  },
+  "subject to": {
+   "ko": "~의 대상이 되는",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "subject"
+   ]
+  },
+  "subjective": {
+   "ko": "주관적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "subjective"
+   ]
+  },
+  "substance": {
+   "ko": "물질",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "substances"
+   ]
+  },
+  "subtle": {
+   "ko": "미묘한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "subtle"
+   ]
+  },
+  "subtlety": {
+   "ko": "미묘함",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "subtlety"
+   ]
+  },
+  "subversion": {
+   "ko": "전복",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "subversion"
+   ]
+  },
+  "subversive": {
+   "ko": "전복적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "subversive"
+   ]
+  },
+  "succumb": {
+   "ko": "굴복하다, 무너지다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "succumb"
+   ]
+  },
+  "superior": {
+   "ko": "윗사람, 상관",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "superiors"
+   ]
+  },
+  "superstition": {
+   "ko": "미신",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "superstition"
+   ]
+  },
+  "supervise": {
+   "ko": "감독하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "supervises"
+   ]
+  },
+  "supposedly": {
+   "ko": "아마, 소위",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "supposedly"
+   ]
+  },
+  "suppress": {
+   "ko": "억제하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "suppress"
+   ]
+  },
+  "surely": {
+   "ko": "확실히",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "surely"
+   ]
+  },
+  "survival": {
+   "ko": "생존",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "survival"
+   ]
+  },
+  "susceptibility": {
+   "ko": "민감성, 걸리기 쉬움",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "susceptibility"
+   ]
+  },
+  "suspicious": {
+   "ko": "의심하는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "suspicious"
+   ]
+  },
+  "sustainable": {
+   "ko": "지속 가능한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "sustainable"
+   ]
+  },
+  "sweat": {
+   "ko": "땀; v. 땀을 흘리다",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "sweat"
+   ]
+  },
+  "sympathy": {
+   "ko": "동정, 공감",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "sympathy"
+   ]
+  },
+  "tapestry": {
+   "ko": "태피스트리, 복잡하게 얽힌 것",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "tapestry"
+   ]
+  },
+  "technically": {
+   "ko": "기술적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "technically"
+   ]
+  },
+  "temperature": {
+   "ko": "온도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "temperatures"
+   ]
+  },
+  "tenet": {
+   "ko": "교리, 신조",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "tenet"
+   ]
+  },
+  "term": {
+   "ko": "용어",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "term",
+    "terms"
+   ]
+  },
+  "terrifying": {
+   "ko": "무시무시한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "terrifying"
+   ]
+  },
+  "terse": {
+   "ko": "간결한, 퉁명스러운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "terse"
+   ]
+  },
+  "texture": {
+   "ko": "결을 더하다; n. 질감",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "texture"
+   ]
+  },
+  "theoretical": {
+   "ko": "이론적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "theoretical"
+   ]
+  },
+  "thereby": {
+   "ko": "그로 인해",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "thereby"
+   ]
+  },
+  "threat": {
+   "ko": "위협",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "threat",
+    "threats"
+   ]
+  },
+  "timorous": {
+   "ko": "소심한, 겁 많은",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "timorous"
+   ]
+  },
+  "tiresome": {
+   "ko": "지겨운, 성가신",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "tiresome"
+   ]
+  },
+  "tolerate": {
+   "ko": "용인하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "tolerated"
+   ]
+  },
+  "tony": {
+   "ko": "고급의, 세련된",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "tony"
+   ]
+  },
+  "topos": {
+   "ko": "장소, (문학적) 상투적 주제",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "topos"
+   ]
+  },
+  "torch": {
+   "ko": "횃불",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "torches"
+   ]
+  },
+  "trace": {
+   "ko": "추적하다, 거슬러 올라가다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "trace"
+   ]
+  },
+  "trait": {
+   "ko": "특성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "trait"
+   ]
+  },
+  "transcend": {
+   "ko": "초월하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "transcend",
+    "transcended"
+   ]
+  },
+  "transferal": {
+   "ko": "이전, 양도",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "transferal"
+   ]
+  },
+  "transformation": {
+   "ko": "변형",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "transformation"
+   ]
+  },
+  "transparent": {
+   "ko": "투명한, 명백한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "transparent"
+   ]
+  },
+  "transpose": {
+   "ko": "옮기다, 바꾸어 놓다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "transposed"
+   ]
+  },
+  "trap": {
+   "ko": "가두다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "trapped"
+   ]
+  },
+  "treat": {
+   "ko": "대하다, 다루다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "treat",
+    "treats"
+   ]
+  },
+  "trek": {
+   "ko": "(힘들게) 오래 걷다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "trekking"
+   ]
+  },
+  "trial": {
+   "ko": "시련, 시험",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "trial"
+   ]
+  },
+  "trivial": {
+   "ko": "사소한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "trivial"
+   ]
+  },
+  "turbulence": {
+   "ko": "격동, 난기류",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "turbulence"
+   ]
+  },
+  "twitch": {
+   "ko": "씰룩거리다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "twitching"
+   ]
+  },
+  "typically": {
+   "ko": "전형적으로, 보통",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "typically"
+   ]
+  },
+  "ultimate": {
+   "ko": "궁극적인, 최고의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "ultimate"
+   ]
+  },
+  "unapologetically": {
+   "ko": "거리낌 없이, 당당하게",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "unapologetically"
+   ]
+  },
+  "unattainable": {
+   "ko": "도달할 수 없는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "unattainable"
+   ]
+  },
+  "unceasingly": {
+   "ko": "끊임없이",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "unceasingly"
+   ]
+  },
+  "uncertainty": {
+   "ko": "불확실성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "uncertainty"
+   ]
+  },
+  "underground": {
+   "ko": "땅속에서",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "underground"
+   ]
+  },
+  "underlying": {
+   "ko": "근본적인, 기저의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "underlying"
+   ]
+  },
+  "undermine": {
+   "ko": "약화시키다, 훼손하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "undermine"
+   ]
+  },
+  "underpin": {
+   "ko": "뒷받침하다, 근거가 되다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "underpinning"
+   ]
+  },
+  "underscore": {
+   "ko": "강조하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "underscore",
+    "underscores"
+   ]
+  },
+  "undergo": {
+   "ko": "겪다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "underwent"
+   ]
+  },
+  "uninformative": {
+   "ko": "정보가 없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "uninformative"
+   ]
+  },
+  "unpredictable": {
+   "ko": "예측할 수 없는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "unpredictable"
+   ]
+  },
+  "unsightly": {
+   "ko": "보기 흉한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "unsightly"
+   ]
+  },
+  "unwavering": {
+   "ko": "흔들림 없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "unwavering"
+   ]
+  },
+  "unworkable": {
+   "ko": "실행 불가능한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "unworkable"
+   ]
+  },
+  "unyielding": {
+   "ko": "굽히지 않는, 확고한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "unyielding"
+   ]
+  },
+  "uphold": {
+   "ko": "지지하다, 유지하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "uphold"
+   ]
+  },
+  "urban": {
+   "ko": "도시의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "urban"
+   ]
+  },
+  "utility": {
+   "ko": "효용, 유용성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "utility"
+   ]
+  },
+  "utopia": {
+   "ko": "유토피아, 이상향",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "utopia"
+   ]
+  },
+  "utopian": {
+   "ko": "유토피아적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "utopian",
+    "utopians"
+   ]
+  },
+  "validity": {
+   "ko": "타당성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "validity"
+   ]
+  },
+  "variant": {
+   "ko": "변이(형)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "variants"
+   ]
+  },
+  "variation": {
+   "ko": "변이, 변화",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "variation",
+    "variations"
+   ]
+  },
+  "varicolored": {
+   "ko": "여러 색의, 얼룩덜룩한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "varicolored"
+   ]
+  },
+  "vehicle": {
+   "ko": "수단, 매개체, 탈것",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "vehicle",
+    "vehicles"
+   ]
+  },
+  "venture": {
+   "ko": "(모험적) 사업",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "venture"
+   ]
+  },
+  "verge on": {
+   "ko": "~에 가깝다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "verge"
+   ]
+  },
+  "vertebrate": {
+   "ko": "척추동물",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "vertebrates"
+   ]
+  },
+  "via": {
+   "ko": "~을 통해",
+   "pos": "prep.",
+   "lv": 1,
+   "forms": [
+    "via"
+   ]
+  },
+  "vigilance": {
+   "ko": "경계, 조심",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "vigilance"
+   ]
+  },
+  "virtue": {
+   "ko": "미덕",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "virtue"
+   ]
+  },
+  "vision": {
+   "ko": "전망, 비전",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "vision"
+   ]
+  },
+  "vlogger": {
+   "ko": "브이로거",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "vloggers"
+   ]
+  },
+  "vulgarity": {
+   "ko": "천박함, 저속함",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "vulgarity"
+   ]
+  },
+  "vulnerability": {
+   "ko": "취약성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "vulnerability"
+   ]
+  },
+  "vulnerable": {
+   "ko": "취약한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "vulnerable"
+   ]
+  },
+  "warming": {
+   "ko": "온난화",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "warming"
+   ]
+  },
+  "weigh A against B": {
+   "ko": "A를 B와 비교 검토하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "weighed"
+   ]
+  },
+  "welfare": {
+   "ko": "복지",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "welfare"
+   ]
+  },
+  "whereas": {
+   "ko": "반면에",
+   "pos": "conj.",
+   "lv": 1,
+   "forms": [
+    "whereas"
+   ]
+  },
+  "whereby": {
+   "ko": "(그것에 의해) ~하는",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "whereby"
+   ]
+  },
+  "widespread": {
+   "ko": "널리 퍼진",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "widespread"
+   ]
+  },
+  "wield": {
+   "ko": "휘두르다, 사용하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "wielding"
+   ]
+  },
+  "wishland": {
+   "ko": "소망의 땅, 이상향",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "wishland"
+   ]
+  },
+  "wit": {
+   "ko": "재치",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "wit"
+   ]
+  },
+  "withstand": {
+   "ko": "견디다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "withstand"
+   ]
+  },
+  "wounding": {
+   "ko": "상처를 입음",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "wounding"
+   ]
+  },
+  "yield": {
+   "ko": "산출하다, 내다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "yields"
+   ]
+  },
+  "acceptance": {
+   "ko": "수용, 인정",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "acceptance"
+   ]
+  },
+  "in advance": {
+   "ko": "미리, 사전에",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "in advance"
+   ]
+  },
+  "aim": {
+   "ko": "목표, 목적",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "aim"
+   ]
+  },
+  "attempt": {
+   "ko": "시도; v. 시도하다",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "attempt"
+   ]
+  },
+  "behavioral": {
+   "ko": "행동의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "behavioral"
+   ]
+  },
+  "biology": {
+   "ko": "생물학, 생물학적 특성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "biology"
+   ]
+  },
+  "celebrate": {
+   "ko": "찬양하다, 기념하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "celebrating"
+   ]
+  },
+  "celebration": {
+   "ko": "찬양, 기념",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "celebration"
+   ]
+  },
+  "classic": {
+   "ko": "고전적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "classic"
+   ]
+  },
+  "compare": {
+   "ko": "비교하다, 비유하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "compared",
+    "comparing"
+   ]
+  },
+  "conflict": {
+   "ko": "갈등",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "conflict"
+   ]
+  },
+  "by contrast": {
+   "ko": "대조적으로",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "contrast"
+   ]
+  },
+  "creative": {
+   "ko": "창의적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "creative"
+   ]
+  },
+  "critic": {
+   "ko": "비평가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "critics"
+   ]
+  },
+  "critical": {
+   "ko": "비판적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "critical"
+   ]
+  },
+  "define": {
+   "ko": "정의하다, 규정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "defined",
+    "defining"
+   ]
+  },
+  "delight": {
+   "ko": "기쁨",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "delight"
+   ]
+  },
+  "demand": {
+   "ko": "요구; v. 요구하다",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "demand",
+    "demanding"
+   ]
+  },
+  "discovery": {
+   "ko": "발견",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "discoveries"
+   ]
+  },
+  "distant": {
+   "ko": "먼",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "distant"
+   ]
+  },
+  "drive": {
+   "ko": "욕구, 추진력",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "drive"
+   ]
+  },
+  "efficient": {
+   "ko": "효율적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "efficient"
+   ]
+  },
+  "ensure": {
+   "ko": "보장하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "ensure"
+   ]
+  },
+  "environmental": {
+   "ko": "환경의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "environmental"
+   ]
+  },
+  "equal": {
+   "ko": "평등한, 동등한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "equal"
+   ]
+  },
+  "establish": {
+   "ko": "수립하다, 확립하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "establishing"
+   ]
+  },
+  "evidence": {
+   "ko": "증거",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "evidence"
+   ]
+  },
+  "evolve": {
+   "ko": "진화하다, 발전하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "evolve",
+    "evolved",
+    "evolves",
+    "evolving"
+   ]
+  },
+  "exercise": {
+   "ko": "발휘하다, 행사하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "exercise"
+   ]
+  },
+  "expectation": {
+   "ko": "기대",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "expectations"
+   ]
+  },
+  "expression": {
+   "ko": "표현",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "expression"
+   ]
+  },
+  "external": {
+   "ko": "외부의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "external"
+   ]
+  },
+  "factor": {
+   "ko": "요인",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "factors"
+   ]
+  },
+  "failure": {
+   "ko": "실패",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "failure",
+    "failures"
+   ]
+  },
+  "feature": {
+   "ko": "특징",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "feature",
+    "features"
+   ]
+  },
+  "fiction": {
+   "ko": "소설, 허구",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "fiction"
+   ]
+  },
+  "financial": {
+   "ko": "재정의, 금융의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "financial"
+   ]
+  },
+  "flood": {
+   "ko": "홍수, 쇄도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "flood"
+   ]
+  },
+  "focus on": {
+   "ko": "~에 집중하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "focusing"
+   ]
+  },
+  "function": {
+   "ko": "기능; v. 기능하다",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "function",
+    "functions"
+   ]
+  },
+  "guide": {
+   "ko": "인도하다, 안내하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "guiding"
+   ]
+  },
+  "humanity": {
+   "ko": "인류",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "humanity"
+   ]
+  },
+  "identity": {
+   "ko": "정체성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "identity"
+   ]
+  },
+  "ignore": {
+   "ko": "무시하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "ignore"
+   ]
+  },
+  "imagination": {
+   "ko": "상상(력)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "imagination"
+   ]
+  },
+  "immediate": {
+   "ko": "즉각적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "immediate"
+   ]
+  },
+  "impact": {
+   "ko": "영향",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "impact"
+   ]
+  },
+  "individual": {
+   "ko": "개인; a. 개인의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "individual",
+    "individuals"
+   ]
+  },
+  "industry": {
+   "ko": "산업",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "industry",
+    "industries"
+   ]
+  },
+  "influence": {
+   "ko": "영향을 미치다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "influenced",
+    "influences"
+   ]
+  },
+  "intend": {
+   "ko": "의도하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "intended"
+   ]
+  },
+  "introduce": {
+   "ko": "도입하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "introduce"
+   ]
+  },
+  "judge": {
+   "ko": "판단하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "judge"
+   ]
+  },
+  "knowledge": {
+   "ko": "지식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "knowledge"
+   ]
+  },
+  "lecture": {
+   "ko": "강의, 강연",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "lecture"
+   ]
+  },
+  "manage": {
+   "ko": "관리하다, 다루다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "manage",
+    "managing"
+   ]
+  },
+  "measure": {
+   "ko": "척도, 측정",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "measure"
+   ]
+  },
+  "mental": {
+   "ko": "정신의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "mental"
+   ]
+  },
+  "military": {
+   "ko": "군대의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "military"
+   ]
+  },
+  "motion": {
+   "ko": "움직임",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "motion"
+   ]
+  },
+  "movement": {
+   "ko": "운동, 움직임",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "movement"
+   ]
+  },
+  "occur": {
+   "ko": "일어나다, 발생하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "occur",
+    "occurs"
+   ]
+  },
+  "operate": {
+   "ko": "운영하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "operating"
+   ]
+  },
+  "opportunity": {
+   "ko": "기회",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "opportunity",
+    "opportunities"
+   ]
+  },
+  "original": {
+   "ko": "원래의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "original"
+   ]
+  },
+  "particular": {
+   "ko": "특정한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "particular"
+   ]
+  },
+  "pattern": {
+   "ko": "패턴, 무늬",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "pattern",
+    "patterns"
+   ]
+  },
+  "period": {
+   "ko": "시기, 기간",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "period",
+    "periods"
+   ]
+  },
+  "personal": {
+   "ko": "개인적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "personal"
+   ]
+  },
+  "physical": {
+   "ko": "물리적인, 신체의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "physical"
+   ]
+  },
+  "policy": {
+   "ko": "정책",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "policy",
+    "policies"
+   ]
+  },
+  "political": {
+   "ko": "정치적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "political"
+   ]
+  },
+  "popularize": {
+   "ko": "대중화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "popularized"
+   ]
+  },
+  "possibility": {
+   "ko": "가능성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "possibility",
+    "possibilities"
+   ]
+  },
+  "practice": {
+   "ko": "관행, 실천",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "practice",
+    "practices"
+   ]
+  },
+  "prince": {
+   "ko": "왕자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "prince"
+   ]
+  },
+  "private": {
+   "ko": "사적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "private"
+   ]
+  },
+  "process": {
+   "ko": "과정",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "processes"
+   ]
+  },
+  "production": {
+   "ko": "생산",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "production"
+   ]
+  },
+  "professional": {
+   "ko": "직업적인, 전문적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "professional"
+   ]
+  },
+  "protect": {
+   "ko": "보호하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "protect",
+    "protected"
+   ]
+  },
+  "protection": {
+   "ko": "보호",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "protection"
+   ]
+  },
+  "recognition": {
+   "ko": "인정, 인식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "recognition"
+   ]
+  },
+  "recognize": {
+   "ko": "인식하다, 알아보다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "recognize",
+    "recognise",
+    "recognized"
+   ]
+  },
+  "reject": {
+   "ko": "거부하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "rejects",
+    "rejecting"
+   ]
+  },
+  "relationship": {
+   "ko": "관계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "relationship"
+   ]
+  },
+  "represent": {
+   "ko": "나타내다, 해당하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "represent"
+   ]
+  },
+  "research": {
+   "ko": "연구",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "research"
+   ]
+  },
+  "respond": {
+   "ko": "대응하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "respond",
+    "responding"
+   ]
+  },
+  "responsibility": {
+   "ko": "책임",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "responsibilities"
+   ]
+  },
+  "responsible": {
+   "ko": "책임이 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "responsible"
+   ]
+  },
+  "reveal": {
+   "ko": "드러내다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "reveal",
+    "revealing"
+   ]
+  },
+  "rhythm": {
+   "ko": "리듬, 주기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "rhythm"
+   ]
+  },
+  "role": {
+   "ko": "역할",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "role"
+   ]
+  },
+  "scientific": {
+   "ko": "과학적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "scientific"
+   ]
+  },
+  "secret": {
+   "ko": "비밀의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "secret"
+   ]
+  },
+  "selection": {
+   "ko": "선발, 선택",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "selections"
+   ]
+  },
+  "self-expression": {
+   "ko": "자기표현",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "self-expression"
+   ]
+  },
+  "significant": {
+   "ko": "중요한, 상당한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "significant"
+   ]
+  },
+  "sincerity": {
+   "ko": "진심, 성실",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "sincerity"
+   ]
+  },
+  "specific": {
+   "ko": "특정한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "specific"
+   ]
+  },
+  "standard": {
+   "ko": "기준",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "standards"
+   ]
+  },
+  "strength": {
+   "ko": "강점",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "strengths"
+   ]
+  },
+  "structure": {
+   "ko": "구조",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "structures"
+   ]
+  },
+  "style": {
+   "ko": "스타일, 양식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "style",
+    "styles"
+   ]
+  },
+  "survive": {
+   "ko": "살아남다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "survive",
+    "surviving"
+   ]
+  },
+  "tendency": {
+   "ko": "경향",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "tendency",
+    "tendencies"
+   ]
+  },
+  "theory": {
+   "ko": "이론",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "theory"
+   ]
+  },
+  "tradition": {
+   "ko": "전통",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "traditions"
+   ]
+  },
+  "traditional": {
+   "ko": "전통적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "traditional"
+   ]
+  },
+  "traditionally": {
+   "ko": "전통적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "traditionally"
+   ]
+  },
+  "trend": {
+   "ko": "유행, 추세",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "trend"
+   ]
+  },
+  "take hold of": {
+   "ko": "~을 장악하다, 붙잡다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "take hold of"
+   ]
+  },
+  "at large": {
+   "ko": "전체적으로, 일반적으로",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "at large"
+   ]
+  },
+  "in turn": {
+   "ko": "결국, 차례로",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "in turn"
+   ]
+  },
+  "as such": {
+   "ko": "그러한 것으로서, 그 자체로",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "as such"
+   ]
+  },
+  "far from": {
+   "ko": "~이기는커녕, 전혀 ~이 아닌",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "far from"
+   ]
+  },
+  "little more than": {
+   "ko": "~에 불과한",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "little more than"
+   ]
+  },
+  "draw attention to": {
+   "ko": "~에 주의를 끌다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "drawing"
+   ]
+  },
+  "hold to": {
+   "ko": "~을 고수하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "hold"
+   ]
+  },
+  "at hand": {
+   "ko": "당면한, 가까이에 있는",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "at hand"
+   ]
+  },
+  "in no way": {
+   "ko": "결코 ~않다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "in no way"
+   ]
+  },
+  "rise to prominence": {
+   "ko": "유명해짐, 두각을 나타냄",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "rise"
+   ]
+  },
+  "outside": {
+   "ko": "~ 밖에",
+   "pos": "prep.",
+   "lv": 1,
+   "forms": [
+    "outside"
+   ]
+  },
+  "gaming": {
+   "ko": "게임(하기)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "gaming"
+   ]
+  },
+  "dopamine receptor": {
+   "ko": "도파민 수용체",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "dopamine receptor"
+   ]
+  }
+ }
+}

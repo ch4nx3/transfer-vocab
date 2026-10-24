@@ -1,0 +1,8450 @@
+{
+ "id": "skku-2024",
+ "school": "성균관대",
+ "year": 2024,
+ "title": "2024학년도 성균관대학교 편입영어 인문계열",
+ "minutes": 90,
+ "directions": [
+  {
+   "from": 1,
+   "to": 5,
+   "text": "Choose one that is closest in meaning to the underlined expression."
+  },
+  {
+   "from": 6,
+   "to": 10,
+   "text": "Choose one that is either ungrammatical or unacceptable."
+  },
+  {
+   "from": 11,
+   "to": 15,
+   "text": "Choose one that is most appropriate for the blank."
+  },
+  {
+   "from": 16,
+   "to": 20,
+   "text": "Choose one that is most appropriate for the blank."
+  },
+  {
+   "from": 21,
+   "to": 22,
+   "text": "Choose the one that is inappropriate for the whole context."
+  },
+  {
+   "from": 23,
+   "to": 27,
+   "text": "Read each passage and answer the question."
+  },
+  {
+   "from": 28,
+   "to": 30,
+   "text": "Read the following passage and answer the questions."
+  },
+  {
+   "from": 31,
+   "to": 33,
+   "text": "Read the following passage and answer the questions."
+  },
+  {
+   "from": 34,
+   "to": 35,
+   "text": "Read the following passage and answer the questions."
+  },
+  {
+   "from": 36,
+   "to": 38,
+   "text": "Read the following passage and answer the questions."
+  },
+  {
+   "from": 39,
+   "to": 40,
+   "text": "Read the following passage and answer the questions."
+  },
+  {
+   "from": 41,
+   "to": 42,
+   "text": "Read the following passage and answer the questions."
+  },
+  {
+   "from": 43,
+   "to": 45,
+   "text": "Read the following passage and answer the questions."
+  },
+  {
+   "from": 46,
+   "to": 48,
+   "text": "Read the following passage and answer the questions."
+  },
+  {
+   "from": 49,
+   "to": 50,
+   "text": "Read the following passage and answer the questions."
+  }
+ ],
+ "passages": [
+  {
+   "id": "p28",
+   "from": 28,
+   "to": 30,
+   "title": "",
+   "text": "Imagine that when you are very young, the map of the world you use to guide your immature self is correspondingly underdeveloped, like a child’s drawing of a house: always straight and centered, portraying only the front; always with a door and two windows; always with a square for the outside wall and a triangle for the roof; always with a chimney and smoke. This is a very low-resolution representation of a house. Ⓐ<u>It is more hieroglyph than drawing.</u> It is something that represents the idea of house, or perhaps home, generically, like the words “house” or “home” themselves. However, it is almost always enough: The child who drew the picture knows it is a house, and the other children and the adults who see the picture know it is a house. Ⓑ<u>It is a good-enough map.</u> But all too often appalling events occur within houses. These are not so easy to represent. A few squares, a triangle, a smattering of flowers, and a benevolent solar orb offer only an inadequate representation of the horrors characterizing such a dwelling place. Maybe what is happening inside the house is beyond understanding. But how can what is terrifying be beyond both tolerability and understanding? How can trauma even exist without comprehension? These are great mysteries. But everything is not experienced at the same level of conception. We have all been petrified by the unknown even though that seems a contradiction in terms. But the body knows what the mind does not yet grasp. And it remembers. And it demands that understanding be established. And there is simply no escaping that demand.",
+   "sents": [
+    {
+     "en": "Imagine that when you are very young, the map of the world you use to guide your immature self is correspondingly underdeveloped, like a child’s drawing of a house: always straight and centered, portraying only the front; always with a door and two windows; always with a square for the outside wall and a triangle for the roof; always with a chimney and smoke.",
+     "ko": "아주 어렸을 때 자신의 미성숙한 자아를 이끌기 위해 사용하는 세상의 지도가 그에 걸맞게 덜 발달해 있다고, 마치 아이가 그린 집 그림 같다고 상상해 보라. 그 그림은 언제나 똑바르고 중앙에 놓여 있으며 앞면만 묘사하고, 언제나 문 하나와 창문 두 개가 있으며, 언제나 바깥벽은 사각형이고 지붕은 삼각형이며, 언제나 굴뚝과 연기가 있다."
+    },
+    {
+     "en": "This is a very low-resolution representation of a house.",
+     "ko": "이것은 집에 대한 매우 낮은 해상도의 표현이다."
+    },
+    {
+     "en": "ⒶIt is more hieroglyph than drawing.",
+     "ko": "Ⓐ그것은 그림이라기보다 상형문자에 더 가깝다."
+    },
+    {
+     "en": "It is something that represents the idea of house, or perhaps home, generically, like the words “house” or “home” themselves.",
+     "ko": "그것은 '집'이나 '가정'이라는 단어 자체처럼 집, 혹은 어쩌면 가정이라는 개념을 포괄적으로 나타내는 어떤 것이다."
+    },
+    {
+     "en": "However, it is almost always enough: The child who drew the picture knows it is a house, and the other children and the adults who see the picture know it is a house.",
+     "ko": "그러나 그것으로도 거의 언제나 충분하다. 그림을 그린 아이는 그것이 집임을 알고, 그림을 보는 다른 아이들과 어른들도 그것이 집임을 안다."
+    },
+    {
+     "en": "ⒷIt is a good-enough map.",
+     "ko": "Ⓑ그것은 충분히 쓸 만한 지도이다."
+    },
+    {
+     "en": "But all too often appalling events occur within houses.",
+     "ko": "그러나 집 안에서 끔찍한 사건들이 벌어지는 일이 너무나 흔하다."
+    },
+    {
+     "en": "These are not so easy to represent.",
+     "ko": "이런 일들은 그리 쉽게 표현되지 않는다."
+    },
+    {
+     "en": "A few squares, a triangle, a smattering of flowers, and a benevolent solar orb offer only an inadequate representation of the horrors characterizing such a dwelling place.",
+     "ko": "몇 개의 사각형, 삼각형 하나, 군데군데 핀 꽃들, 그리고 자애로운 태양은 그런 거처를 특징짓는 공포를 표현하기에는 불충분할 뿐이다."
+    },
+    {
+     "en": "Maybe what is happening inside the house is beyond understanding.",
+     "ko": "어쩌면 집 안에서 벌어지는 일은 이해를 넘어서 있는지도 모른다."
+    },
+    {
+     "en": "But how can what is terrifying be beyond both tolerability and understanding?",
+     "ko": "그러나 끔찍한 것이 어떻게 견딜 수 있는 범위와 이해할 수 있는 범위 둘 다를 넘어설 수 있겠는가?"
+    },
+    {
+     "en": "How can trauma even exist without comprehension?",
+     "ko": "이해 없이 어떻게 트라우마가 존재할 수 있겠는가?"
+    },
+    {
+     "en": "These are great mysteries.",
+     "ko": "이것들은 커다란 수수께끼이다."
+    },
+    {
+     "en": "But everything is not experienced at the same level of conception.",
+     "ko": "그러나 모든 것이 같은 수준의 개념화로 경험되는 것은 아니다."
+    },
+    {
+     "en": "We have all been petrified by the unknown even though that seems a contradiction in terms.",
+     "ko": "모순어법처럼 보이긴 해도, 우리는 모두 알지 못하는 것 앞에서 공포에 얼어붙은 적이 있다."
+    },
+    {
+     "en": "But the body knows what the mind does not yet grasp.",
+     "ko": "그러나 몸은 마음이 아직 파악하지 못한 것을 안다."
+    },
+    {
+     "en": "And it remembers.",
+     "ko": "그리고 몸은 그것을 기억한다."
+    },
+    {
+     "en": "And it demands that understanding be established.",
+     "ko": "그리고 몸은 이해가 확립되기를 요구한다."
+    },
+    {
+     "en": "And there is simply no escaping that demand.",
+     "ko": "그리고 그 요구에서 벗어날 길은 도무지 없다."
+    }
+   ]
+  },
+  {
+   "id": "p31",
+   "from": 31,
+   "to": 33,
+   "title": "",
+   "text": "Mr. Diouf was among the lucky ones: He made it to the Canary Islands alive. But the whole experience was dreadful, he said. He was imprisoned and deported to Senegal. Upon his return, together with two other repatriates, he set up his nonprofit, known as AJRAP, or the Association of Young Repatriates, whose mission is persuading Senegal’s youth to stay. In his quest, Mr. Diouf has sought the help of some high-profile allies: He wrote a letter to the country’s president, Macky Sall, but never got an answer. He even tried to go to Brussels to speak with the authorities of the European Union but was denied a visa. But that has not held him back. When it has the funds, AJRAP organizes vocational training in baking, poultry breeding, electricity and entrepreneurship, to provide alternatives to embarking on a pirogue. Mr. Diouf also speaks to young people in local schools to rectify the overly rosy picture of Europe often painted by those who made it there. But <u>he is painfully aware of his limitations</u>. “We know that the European Union sent funds to Senegal to create jobs,” he said with quiet resignation in his voice. “But we have not seen any of this money.” After the initial peak of 2006-2007, the number of people trying to cross the Atlantic Ocean decreased in the following years. But recently, the route has seen a resurgence in popularity, especially among young people struggling to find jobs, and fishermen affected by their ever-shrinking catch.",
+   "sents": [
+    {
+     "en": "Mr. Diouf was among the lucky ones: He made it to the Canary Islands alive.",
+     "ko": "디우프 씨는 운 좋은 사람들 중 하나였다. 그는 살아서 카나리아 제도에 도착했다."
+    },
+    {
+     "en": "But the whole experience was dreadful, he said.",
+     "ko": "그러나 그 모든 경험은 끔찍했다고 그는 말했다."
+    },
+    {
+     "en": "He was imprisoned and deported to Senegal.",
+     "ko": "그는 수감되었다가 세네갈로 추방되었다."
+    },
+    {
+     "en": "Upon his return, together with two other repatriates, he set up his nonprofit, known as AJRAP, or the Association of Young Repatriates, whose mission is persuading Senegal’s youth to stay.",
+     "ko": "귀국 후 그는 다른 두 명의 송환자와 함께 비영리 단체를 설립했는데, 이 단체는 AJRAP, 즉 '젊은 송환자 협회'로 알려져 있으며 세네갈 젊은이들이 남도록 설득하는 것을 사명으로 한다."
+    },
+    {
+     "en": "In his quest, Mr. Diouf has sought the help of some high-profile allies: He wrote a letter to the country’s president, Macky Sall, but never got an answer.",
+     "ko": "이 노력 속에서 디우프 씨는 영향력 있는 몇몇 우군의 도움을 구했다. 그는 대통령 매키 살에게 편지를 썼지만 끝내 답을 받지 못했다."
+    },
+    {
+     "en": "He even tried to go to Brussels to speak with the authorities of the European Union but was denied a visa.",
+     "ko": "그는 유럽연합 당국자들과 이야기하기 위해 브뤼셀에 가려고까지 했으나 비자가 거부되었다."
+    },
+    {
+     "en": "But that has not held him back.",
+     "ko": "그러나 그것이 그를 주저앉히지는 못했다."
+    },
+    {
+     "en": "When it has the funds, AJRAP organizes vocational training in baking, poultry breeding, electricity and entrepreneurship, to provide alternatives to embarking on a pirogue.",
+     "ko": "자금이 있을 때 AJRAP은 제빵, 양계, 전기 기술, 창업 분야의 직업 훈련을 열어 피로그(작은 목선)에 올라타는 것 대신 택할 대안을 제공한다."
+    },
+    {
+     "en": "Mr. Diouf also speaks to young people in local schools to rectify the overly rosy picture of Europe often painted by those who made it there.",
+     "ko": "디우프 씨는 또한 현지 학교에서 젊은이들에게 이야기하여, 유럽에 도달한 사람들이 흔히 그려내는 지나치게 장밋빛인 유럽의 모습을 바로잡으려 한다."
+    },
+    {
+     "en": "But he is painfully aware of his limitations.",
+     "ko": "그러나 그는 자신의 한계를 뼈저리게 의식하고 있다."
+    },
+    {
+     "en": "“We know that the European Union sent funds to Senegal to create jobs,” he said with quiet resignation in his voice.",
+     "ko": "\"우리는 유럽연합이 일자리를 만들라고 세네갈에 자금을 보냈다는 것을 압니다.\"라고 그는 조용한 체념이 담긴 목소리로 말했다."
+    },
+    {
+     "en": "“But we have not seen any of this money.”",
+     "ko": "\"하지만 우리는 그 돈을 전혀 보지 못했습니다.\""
+    },
+    {
+     "en": "After the initial peak of 2006-2007, the number of people trying to cross the Atlantic Ocean decreased in the following years.",
+     "ko": "2006~2007년의 최초 정점 이후, 대서양을 건너려는 사람의 수는 이후 몇 년간 감소했다."
+    },
+    {
+     "en": "But recently, the route has seen a resurgence in popularity, especially among young people struggling to find jobs, and fishermen affected by their ever-shrinking catch.",
+     "ko": "그러나 최근 그 경로는 다시 인기를 얻고 있는데, 특히 일자리를 구하느라 애쓰는 젊은이들과 점점 줄어드는 어획량에 타격을 입은 어부들 사이에서 그렇다."
+    }
+   ]
+  },
+  {
+   "id": "p34",
+   "from": 34,
+   "to": 35,
+   "title": "",
+   "text": "All the many species of hominids that preceded us had prominent browridges, but we Homo sapience gave them up in favor of our small, active eyebrows. _______. One theory is that eyebrows are there to keep sweat out of the eyes, but what the eyebrows do really well is convey feelings. Think how many messages you can send with a single arched eyebrow, from “I find that hard to believe” to “Watch your step.” One of the reasons the Mona Lisa looks enigmatic is that she has no eyebrows. In one interesting experiment, subjects were shown two sets of digitally doctored photographs of well-known people: one with the eyebrows eliminated and the other with the eyes themselves taken away. Surprisingly, but overwhelmingly, volunteers found it harder to identify the celebrities without eyebrows than without eyes.",
+   "sents": [
+    {
+     "en": "All the many species of hominids that preceded us had prominent browridges, but we Homo sapience gave them up in favor of our small, active eyebrows. _______.",
+     "ko": "우리에 앞선 수많은 호미니드 종은 모두 두드러진 눈두덩뼈(눈썹뼈)를 가졌지만, 우리 호모 사피엔스는 그것을 버리고 작고 활발하게 움직이는 눈썹을 택했다. ( 빈칸: 왜 그런지 말하기는 쉽지 않다 )."
+    },
+    {
+     "en": "One theory is that eyebrows are there to keep sweat out of the eyes, but what the eyebrows do really well is convey feelings.",
+     "ko": "한 가지 이론은 눈썹이 땀이 눈에 들어가지 않게 막아 주기 위해 있다는 것이지만, 눈썹이 정말 잘하는 일은 감정을 전달하는 것이다."
+    },
+    {
+     "en": "Think how many messages you can send with a single arched eyebrow, from “I find that hard to believe” to “Watch your step.”",
+     "ko": "'그건 믿기 어렵군'에서 '조심해'에 이르기까지, 치켜 올린 눈썹 하나로 얼마나 많은 메시지를 보낼 수 있는지 생각해 보라."
+    },
+    {
+     "en": "One of the reasons the Mona Lisa looks enigmatic is that she has no eyebrows.",
+     "ko": "모나리자가 수수께끼처럼 보이는 이유 중 하나는 그녀에게 눈썹이 없다는 것이다."
+    },
+    {
+     "en": "In one interesting experiment, subjects were shown two sets of digitally doctored photographs of well-known people: one with the eyebrows eliminated and the other with the eyes themselves taken away.",
+     "ko": "흥미로운 한 실험에서 피실험자들은 유명인들의 디지털로 조작한 사진 두 세트를 보았는데, 하나는 눈썹을 없앤 것이고 다른 하나는 눈 자체를 없앤 것이었다."
+    },
+    {
+     "en": "Surprisingly, but overwhelmingly, volunteers found it harder to identify the celebrities without eyebrows than without eyes.",
+     "ko": "놀랍게도, 그리고 압도적으로, 지원자들은 눈이 없는 경우보다 눈썹이 없는 경우에 유명인을 알아보기가 더 어렵다는 것을 알게 되었다."
+    }
+   ]
+  },
+  {
+   "id": "p36",
+   "from": 36,
+   "to": 38,
+   "title": "",
+   "text": "The “invasion of privacy” is now a predictable dimension of social inequality, but it does not stand alone. It is the systematic result of a “pathological” division of learning in society in which surveillance capitalism knows, decides, and decides who decides. Demanding privacy from surveillance capitalists or lobbying for an end to commercial surveillance on the internet is like asking Henry Ford to make each Model T by hand. So here is what is at stake: Surveillance capitalism is profoundly antidemocratic, but its remarkable power does not originate in the state, as has historically been the case. Its effects cannot be reduced to or explained by technology or the bad intentions of bad people; they are the consistent and predictable consequences of an internally consistent and successful logic of accumulation. Surveillance capitalism rose to dominance in the US under conditions of relative lawlessness. From there it spread to Europe and it continues to make inroads in every region of the world.\n\nSurveillance capitalist firms, beginning with Google, dominate the accumulation and processing of information. They know a great deal about us, but our access to their knowledge is sparse: hidden in the shadow text and read only by the new priests, their bosses, and their machines. The unprecedented concentration of knowledge produces an equally unprecedented concentration of power: ______ that must be understood as the unauthorized privatization of the division of learning in society. This means that powerful private interests are in control of the definitive principle of social ordering in our time, just as Durkheim warned of the subversion of the division of labor by the powerful forces of industrial capital a century ago.",
+   "sents": [
+    {
+     "en": "The “invasion of privacy” is now a predictable dimension of social inequality, but it does not stand alone.",
+     "ko": "'사생활 침해'는 이제 사회적 불평등의 예측 가능한 한 측면이지만, 그것이 단독으로 존재하는 것은 아니다."
+    },
+    {
+     "en": "It is the systematic result of a “pathological” division of learning in society in which surveillance capitalism knows, decides, and decides who decides.",
+     "ko": "그것은 감시 자본주의가 알고, 결정하고, 누가 결정할지까지 결정하는, 사회 내 학습의 '병리적' 분업이 낳은 체계적 결과이다."
+    },
+    {
+     "en": "Demanding privacy from surveillance capitalists or lobbying for an end to commercial surveillance on the internet is like asking Henry Ford to make each Model T by hand.",
+     "ko": "감시 자본주의자들에게 사생활 보호를 요구하거나 인터넷상의 상업적 감시를 끝내라고 로비를 하는 것은 헨리 포드에게 모델 T를 한 대 한 대 손으로 만들어 달라고 요청하는 것과 같다."
+    },
+    {
+     "en": "So here is what is at stake: Surveillance capitalism is profoundly antidemocratic, but its remarkable power does not originate in the state, as has historically been the case.",
+     "ko": "따라서 걸려 있는 것은 이것이다. 감시 자본주의는 근본적으로 반민주적이지만, 역사적으로 그래 왔던 것과 달리 그 놀라운 힘은 국가에서 비롯되지 않는다."
+    },
+    {
+     "en": "Its effects cannot be reduced to or explained by technology or the bad intentions of bad people; they are the consistent and predictable consequences of an internally consistent and successful logic of accumulation.",
+     "ko": "그 영향은 기술이나 악한 사람들의 나쁜 의도로 환원되거나 설명될 수 없으며, 내적으로 일관되고 성공적인 축적 논리가 낳는 일관되고 예측 가능한 결과이다."
+    },
+    {
+     "en": "Surveillance capitalism rose to dominance in the US under conditions of relative lawlessness.",
+     "ko": "감시 자본주의는 비교적 무법에 가까운 조건 속에서 미국에서 지배적 위치로 올라섰다."
+    },
+    {
+     "en": "From there it spread to Europe and it continues to make inroads in every region of the world.",
+     "ko": "거기서부터 유럽으로 퍼졌고, 세계 모든 지역으로 계속 침투하고 있다."
+    },
+    {
+     "en": "Surveillance capitalist firms, beginning with Google, dominate the accumulation and processing of information.",
+     "ko": "구글을 필두로 한 감시 자본주의 기업들은 정보의 축적과 처리를 지배한다."
+    },
+    {
+     "en": "They know a great deal about us, but our access to their knowledge is sparse: hidden in the shadow text and read only by the new priests, their bosses, and their machines.",
+     "ko": "그들은 우리에 대해 매우 많은 것을 알지만, 우리가 그들의 지식에 접근할 수 있는 정도는 미미하다. 그 지식은 그림자 텍스트 속에 숨겨져 있으며 새로운 사제들, 곧 그들의 경영진과 기계들만이 읽는다."
+    },
+    {
+     "en": "The unprecedented concentration of knowledge produces an equally unprecedented concentration of power: ______ that must be understood as the unauthorized privatization of the division of learning in society.",
+     "ko": "전례 없는 지식의 집중은 그에 못지않게 전례 없는 권력의 집중을 낳는다. ( 빈칸: 곧 비대칭 ), 이는 사회 내 학습 분업의 무단 사유화로 이해되어야 한다."
+    },
+    {
+     "en": "This means that powerful private interests are in control of the definitive principle of social ordering in our time, just as Durkheim warned of the subversion of the division of labor by the powerful forces of industrial capital a century ago.",
+     "ko": "이는 뒤르켐이 한 세기 전 산업 자본이라는 강력한 세력이 분업을 전복하는 것을 경고했던 것과 마찬가지로, 강력한 사적 이익집단이 우리 시대 사회 질서를 규정하는 핵심 원리를 장악하고 있다는 뜻이다."
+    }
+   ]
+  },
+  {
+   "id": "p39",
+   "from": 39,
+   "to": 40,
+   "title": "",
+   "text": "The bear hug between capital and politics has had far-reaching implications for the credit market. The amount of credit in an economy is determined not only by purely economic factors such as the discovery of a new oil field or the invention of a new machine, but also by political events such as regime changes or more ambitious foreign policies. After the Battle of Navarino, British capitalists were more willing to invest their money in risky overseas deals. They had seen that if a foreign debtor refused to repay loans, the British army would get their money back. This is why today a country’s credit rating is far more important to its economic well-being than are its Ⓐ_________. Credit ratings indicate the probability that a country will pay its debts. In addition to purely economic data, they take into account political, social and even cultural factors. An oil rich country cursed with a despotic government, endemic warfare and a corrupt judicial system will usually receive a low credit rating. As a result, it is likely to remain relatively poor since it will not be able to raise the necessary capital to make the most of its oil bounty. A country devoid of natural resources, but which enjoys peace, a fair judicial system and a free government is likely to receive a high credit rating. Ⓑ________, it may be able to raise enough cheap capital to support a good education system and foster a flourishing high-tech industry.",
+   "sents": [
+    {
+     "en": "The bear hug between capital and politics has had far-reaching implications for the credit market.",
+     "ko": "자본과 정치 사이의 밀착(곰 포옹)은 신용 시장에 광범위한 영향을 미쳐 왔다."
+    },
+    {
+     "en": "The amount of credit in an economy is determined not only by purely economic factors such as the discovery of a new oil field or the invention of a new machine, but also by political events such as regime changes or more ambitious foreign policies.",
+     "ko": "한 경제의 신용 규모는 새로운 유전의 발견이나 새로운 기계의 발명 같은 순수한 경제적 요인만이 아니라 정권 교체나 더 야심 찬 대외 정책 같은 정치적 사건에 의해서도 결정된다."
+    },
+    {
+     "en": "After the Battle of Navarino, British capitalists were more willing to invest their money in risky overseas deals.",
+     "ko": "나바리노 해전 이후 영국 자본가들은 위험한 해외 거래에 기꺼이 돈을 투자하게 되었다."
+    },
+    {
+     "en": "They had seen that if a foreign debtor refused to repay loans, the British army would get their money back.",
+     "ko": "그들은 외국 채무자가 대출 상환을 거부하면 영국 군대가 돈을 되찾아 줄 것임을 보았던 것이다."
+    },
+    {
+     "en": "This is why today a country’s credit rating is far more important to its economic well-being than are its Ⓐ_________.",
+     "ko": "이것이 오늘날 한 나라의 신용 등급이 그 나라의 경제적 안녕에 있어 Ⓐ( 빈칸: 천연자원 )보다 훨씬 더 중요한 이유이다."
+    },
+    {
+     "en": "Credit ratings indicate the probability that a country will pay its debts.",
+     "ko": "신용 등급은 한 나라가 빚을 갚을 확률을 나타낸다."
+    },
+    {
+     "en": "In addition to purely economic data, they take into account political, social and even cultural factors.",
+     "ko": "순수한 경제 데이터 외에도 정치적, 사회적, 심지어 문화적 요소까지 고려한다."
+    },
+    {
+     "en": "An oil rich country cursed with a despotic government, endemic warfare and a corrupt judicial system will usually receive a low credit rating.",
+     "ko": "폭정, 만연한 전쟁, 부패한 사법 제도라는 저주를 받은 산유국은 대개 낮은 신용 등급을 받는다."
+    },
+    {
+     "en": "As a result, it is likely to remain relatively poor since it will not be able to raise the necessary capital to make the most of its oil bounty.",
+     "ko": "그 결과 그 나라는 석유 자원의 혜택을 최대한 누리는 데 필요한 자본을 조달할 수 없어서 비교적 가난한 채로 남을 가능성이 크다."
+    },
+    {
+     "en": "A country devoid of natural resources, but which enjoys peace, a fair judicial system and a free government is likely to receive a high credit rating.",
+     "ko": "천연자원은 없지만 평화와 공정한 사법 제도, 자유로운 정부를 누리는 나라는 높은 신용 등급을 받을 가능성이 크다."
+    },
+    {
+     "en": "Ⓑ________, it may be able to raise enough cheap capital to support a good education system and foster a flourishing high-tech industry.",
+     "ko": "Ⓑ( 빈칸: 그 결과 ), 그런 나라는 훌륭한 교육 제도를 뒷받침하고 번창하는 첨단 산업을 육성할 만큼 값싼 자본을 충분히 조달할 수 있을 것이다."
+    }
+   ]
+  },
+  {
+   "id": "p41",
+   "from": 41,
+   "to": 42,
+   "title": "",
+   "text": "The attraction of caves as art studios and galleries does not stem from the fact that they were convenient for the artists. In fact, there is no evidence of continuous human habitation in the decorated caves, and certainly none in the deepest, hardest-to-access crannies reserved for the most spectacular animal paintings. Cave artists are not to be confused with “cavemen.” Nor do we need to posit any special affinity for caves, since the art they contain came down to us through a simple process of ________: outdoor art, such as figurines and painted rocks, is exposed to the elements and unlikely to last for tens of thousands of years. Paleolithic people seem to have painted all kinds of surfaces, including leather derived from animals as well as their own bodies and faces, with the same kinds of ochre they used on cave walls. The difference is that the paintings on cave walls were well enough protected from rain and wind climate change to survive for tens of millennia. If there was something special about caves, it was that they are ideal storage lockers.",
+   "sents": [
+    {
+     "en": "The attraction of caves as art studios and galleries does not stem from the fact that they were convenient for the artists.",
+     "ko": "동굴이 미술 작업실이자 화랑으로서 매력을 갖는 것은 동굴이 예술가들에게 편리했기 때문이 아니다."
+    },
+    {
+     "en": "In fact, there is no evidence of continuous human habitation in the decorated caves, and certainly none in the deepest, hardest-to-access crannies reserved for the most spectacular animal paintings.",
+     "ko": "사실 장식된 동굴에서 인간이 계속 거주했다는 증거는 없으며, 가장 인상적인 동물 그림들을 위해 마련된 가장 깊고 접근하기 어려운 틈새에는 확실히 그런 증거가 전혀 없다."
+    },
+    {
+     "en": "Cave artists are not to be confused with “cavemen.”",
+     "ko": "동굴 예술가를 '동굴인'과 혼동해서는 안 된다."
+    },
+    {
+     "en": "Nor do we need to posit any special affinity for caves, since the art they contain came down to us through a simple process of ________: outdoor art, such as figurines and painted rocks, is exposed to the elements and unlikely to last for tens of thousands of years.",
+     "ko": "또한 동굴 속 예술이 우리에게 전해진 것은 단순한 ( 빈칸: 자연선택 ) 과정을 통해서이므로, 동굴에 대한 어떤 특별한 친밀감을 상정할 필요도 없다. 조각상이나 채색된 돌 같은 야외 예술은 비바람에 노출되어 수만 년 동안 남아 있기 어렵다."
+    },
+    {
+     "en": "Paleolithic people seem to have painted all kinds of surfaces, including leather derived from animals as well as their own bodies and faces, with the same kinds of ochre they used on cave walls.",
+     "ko": "구석기 사람들은 동물에서 얻은 가죽은 물론 자신의 몸과 얼굴을 포함해 온갖 표면에, 동굴 벽에 사용한 것과 같은 종류의 황토 안료로 그림을 그린 것으로 보인다."
+    },
+    {
+     "en": "The difference is that the paintings on cave walls were well enough protected from rain and wind climate change to survive for tens of millennia.",
+     "ko": "차이는 동굴 벽의 그림이 비와 바람, 기후 변화로부터 충분히 보호되어 수만 년 동안 살아남을 수 있었다는 점이다."
+    },
+    {
+     "en": "If there was something special about caves, it was that they are ideal storage lockers.",
+     "ko": "동굴에 특별한 점이 있었다면, 그것은 동굴이 이상적인 보관함이라는 것이었다."
+    }
+   ]
+  },
+  {
+   "id": "p43",
+   "from": 43,
+   "to": 45,
+   "title": "",
+   "text": "A light-footed doe peaked out of the edge of the woods and stopped to look at me. She was about fifteen feet away. I froze. Not because I had any conscious objection to killing, not even in the odd mutuality of that single beat, as we both stood there trying to figure out how to respond. I just did not know what to do. And then she was gone. I don’t remember how I explained it to my father. Just the silence as we drove home. Ⓐ As well as being a poor deer hunter, I was _______. There were a couple of years when, bored and cold, fiddling with my gun, I accidentally squeezed off a shot. Ⓑ If I had not later done the same thing in my parents’ basement while playing with a loaded handgun, I would say that the unanticipated sound of a high-powered rifle in the woods is the loudest sound that I have ever heard. Ⓒ I always lied about the reason. “My gun went off by accident” was not an acceptable hunting story. Nor, really, was “I saw a huge buck and took aim but missed.” Ⓓ And so I settled on wild dogs. Three different years, I came in from the woods with a tale of shooting at a dog. Ⓔ One year, I somehow found a tuft of hair, perhaps from a squirrel, which I passed around as evidence that I had managed to graze one. Another year, standing in a long line of hunters at the edge of a field as another group walked through the woods to drive the deer toward us, my gun went off when I was trying to catch a falling snowflake in my mouth.",
+   "sents": [
+    {
+     "en": "A light-footed doe peaked out of the edge of the woods and stopped to look at me.",
+     "ko": "발걸음이 가벼운 암사슴 한 마리가 숲 가장자리에서 빼꼼 내다보더니 멈춰 서서 나를 바라보았다."
+    },
+    {
+     "en": "She was about fifteen feet away. I froze.",
+     "ko": "사슴은 약 15피트(약 4.5미터) 떨어져 있었다. 나는 얼어붙었다."
+    },
+    {
+     "en": "Not because I had any conscious objection to killing, not even in the odd mutuality of that single beat, as we both stood there trying to figure out how to respond.",
+     "ko": "내가 죽이는 일에 의식적으로 반대해서가 아니었다. 우리 둘 다 거기 서서 어떻게 반응할지 가늠하던 그 한순간의 묘한 교감 속에서조차 그런 것이 아니었다."
+    },
+    {
+     "en": "I just did not know what to do.",
+     "ko": "그저 어찌해야 할지 몰랐을 뿐이다."
+    },
+    {
+     "en": "And then she was gone.",
+     "ko": "그러고는 사슴은 사라졌다."
+    },
+    {
+     "en": "I don’t remember how I explained it to my father.",
+     "ko": "아버지께 그것을 어떻게 설명했는지 기억나지 않는다."
+    },
+    {
+     "en": "Just the silence as we drove home.",
+     "ko": "집으로 차를 몰고 오는 동안의 침묵만 기억난다."
+    },
+    {
+     "en": "Ⓐ As well as being a poor deer hunter, I was _______.",
+     "ko": "Ⓐ사슴 사냥꾼으로서 서툴렀을 뿐 아니라, 나는 ( 빈칸: 위험한 사람이기도 했다 )."
+    },
+    {
+     "en": "There were a couple of years when, bored and cold, fiddling with my gun, I accidentally squeezed off a shot.",
+     "ko": "지루하고 추운 가운데 총을 만지작거리다가 실수로 방아쇠를 당겨 총알이 나간 해가 몇 해 있었다."
+    },
+    {
+     "en": "Ⓑ If I had not later done the same thing in my parents’ basement while playing with a loaded handgun, I would say that the unanticipated sound of a high-powered rifle in the woods is the loudest sound that I have ever heard.",
+     "ko": "Ⓑ만일 내가 나중에 부모님 집 지하실에서 장전된 권총을 가지고 놀다가 같은 일을 하지 않았더라면, 숲에서 예기치 않게 울린 고성능 소총 소리가 내가 들어 본 가장 큰 소리라고 말했을 것이다."
+    },
+    {
+     "en": "Ⓒ I always lied about the reason.",
+     "ko": "Ⓒ나는 그 이유에 대해 늘 거짓말을 했다."
+    },
+    {
+     "en": "“My gun went off by accident” was not an acceptable hunting story.",
+     "ko": "\"총이 실수로 발사됐어요\"는 받아들여질 만한 사냥 이야기가 아니었다."
+    },
+    {
+     "en": "Nor, really, was “I saw a huge buck and took aim but missed.”",
+     "ko": "\"커다란 수사슴을 보고 겨냥했는데 빗맞혔어요\"도 사실 마찬가지였다."
+    },
+    {
+     "en": "Ⓓ And so I settled on wild dogs.",
+     "ko": "Ⓓ그래서 나는 들개로 정했다."
+    },
+    {
+     "en": "Three different years, I came in from the woods with a tale of shooting at a dog.",
+     "ko": "세 해 동안 나는 개를 향해 쏘았다는 이야기를 들고 숲에서 돌아왔다."
+    },
+    {
+     "en": "Ⓔ One year, I somehow found a tuft of hair, perhaps from a squirrel, which I passed around as evidence that I had managed to graze one.",
+     "ko": "Ⓔ어느 해에는 어떻게 했는지 털 뭉치 하나를, 아마 다람쥐 것이었을 텐데, 찾아내어 내가 개 한 마리를 스치게 맞혔다는 증거로 돌려 보였다."
+    },
+    {
+     "en": "Another year, standing in a long line of hunters at the edge of a field as another group walked through the woods to drive the deer toward us, my gun went off when I was trying to catch a falling snowflake in my mouth.",
+     "ko": "또 다른 해에는 다른 무리가 사슴을 우리 쪽으로 몰기 위해 숲을 걸어 지나가는 동안 들판 가장자리에 사냥꾼들이 길게 줄지어 서 있었는데, 내가 떨어지는 눈송이를 입으로 받으려 하다가 총이 발사되었다."
+    }
+   ]
+  },
+  {
+   "id": "p46",
+   "from": 46,
+   "to": 48,
+   "title": "",
+   "text": "In 1929 astronomer Edwin Hubble was studying the light spectra of galaxies and announced that his observations showed that many galaxies were redshifting — they were in fact moving away from us. But what he’d actually discovered was the expansion of the universe. Those galaxies weren’t just speeding away on their own, the very fabric of space-time itself was ballooning outward. He didn’t believe this was evidence of expansion; it would take another seventy years before scientists realized that not only was the universe expanding — the expansion was speeding up.\n\nNearly a decade before Hubble took to the telescope, Albert Einstein proposed a theory called the cosmological constant in tandem with his theory of general relativity. The idea being that the universe was a static place and the density remained constant. When Einstein saw Hubble’s news about the redshifting galaxies he threw his theory away, except <u>Einstein was sort of right</u>, go figure. The universe is not a static place — we know it’s expanding rapidly, but the density in the universe still remains constant. Think of it like this, imagine you’re in your living room with a table and TV and some books and a cup of coffee. Now imagine if that room began to expand like a balloon and got bigger and bigger. The objects in your living room would not increase in density — they are what they are. This is the same with our universe, as it balloons out the density remains the same, hence, your cup of coffee is the cosmological constant.",
+   "sents": [
+    {
+     "en": "In 1929 astronomer Edwin Hubble was studying the light spectra of galaxies and announced that his observations showed that many galaxies were redshifting — they were in fact moving away from us.",
+     "ko": "1929년 천문학자 에드윈 허블은 은하들의 빛 스펙트럼을 연구하다가, 자신의 관측 결과 많은 은하가 적색편이를 보이고 있으며, 실제로 우리에게서 멀어지고 있음을 보여 준다고 발표했다."
+    },
+    {
+     "en": "But what he’d actually discovered was the expansion of the universe.",
+     "ko": "그러나 그가 실제로 발견한 것은 우주의 팽창이었다."
+    },
+    {
+     "en": "Those galaxies weren’t just speeding away on their own, the very fabric of space-time itself was ballooning outward.",
+     "ko": "그 은하들은 단지 스스로 멀어지고 있는 것이 아니었고, 시공간이라는 구조 자체가 바깥으로 부풀고 있었다."
+    },
+    {
+     "en": "He didn’t believe this was evidence of expansion; it would take another seventy years before scientists realized that not only was the universe expanding — the expansion was speeding up.",
+     "ko": "그는 이것이 팽창의 증거라고 믿지 않았다. 과학자들이 우주가 팽창하고 있을 뿐 아니라 그 팽창이 가속되고 있음을 깨닫기까지는 다시 70년이 걸린다."
+    },
+    {
+     "en": "Nearly a decade before Hubble took to the telescope, Albert Einstein proposed a theory called the cosmological constant in tandem with his theory of general relativity.",
+     "ko": "허블이 망원경을 들기 거의 10년 전에 알베르트 아인슈타인은 일반 상대성 이론과 함께 우주 상수라는 이론을 제안했다."
+    },
+    {
+     "en": "The idea being that the universe was a static place and the density remained constant.",
+     "ko": "그 생각은 우주가 정적인 곳이며 밀도가 일정하게 유지된다는 것이었다."
+    },
+    {
+     "en": "When Einstein saw Hubble’s news about the redshifting galaxies he threw his theory away, except Einstein was sort of right, go figure.",
+     "ko": "아인슈타인은 적색편이하는 은하에 관한 허블의 소식을 보고 자신의 이론을 내던졌는데, 그런데 아인슈타인이 어느 정도는 옳았으니 참 알 수 없는 일이다."
+    },
+    {
+     "en": "The universe is not a static place — we know it’s expanding rapidly, but the density in the universe still remains constant.",
+     "ko": "우주는 정적인 곳이 아니며, 우리는 그것이 빠르게 팽창하고 있음을 알지만 우주의 밀도는 여전히 일정하게 유지된다."
+    },
+    {
+     "en": "Think of it like this, imagine you’re in your living room with a table and TV and some books and a cup of coffee.",
+     "ko": "이렇게 생각해 보라. 거실에 탁자와 TV, 몇 권의 책, 커피 한 잔이 있다고 상상해 보라."
+    },
+    {
+     "en": "Now imagine if that room began to expand like a balloon and got bigger and bigger.",
+     "ko": "이제 그 방이 풍선처럼 팽창하여 점점 더 커지기 시작한다고 상상해 보라."
+    },
+    {
+     "en": "The objects in your living room would not increase in density — they are what they are.",
+     "ko": "거실 안의 물건들은 밀도가 높아지지 않는다. 그것들은 있는 그대로이다."
+    },
+    {
+     "en": "This is the same with our universe, as it balloons out the density remains the same, hence, your cup of coffee is the cosmological constant.",
+     "ko": "우리 우주도 마찬가지로, 우주가 부풀어 오르더라도 밀도는 그대로이다. 따라서 당신의 커피 한 잔이 바로 우주 상수이다."
+    }
+   ]
+  },
+  {
+   "id": "p49",
+   "from": 49,
+   "to": 50,
+   "title": "",
+   "text": "Analysts expect China’s growing thirst for coffee to be a key driver of future demand for the beans as coffee shops expand beyond Beijing and Shanghai to dozens of mid-sized cities where young professionals have warmed to the beverage. China’s rising coffee demand is an opportunity for international chains like Starbucks and Tim Hortons that are investing heavily in China, though they face a steep challenge from rapidly expanding local brands. Data from the International Coffee Organization sent to Reuters show coffee consumption in China grew 15% in the year-long season ended in September from the previous cycle to 3.08 million bags. “The Chinese consumer is increasingly adopting Western lifestyles and coffee is obviously one of the beverages that represent that,” said the managing director of market research firm.\n\nThe number of branded coffee shops in China grew a staggering 58% in the last 12 months to 49,691 outlets, according to Alegra Group, a company that tracks growth of coffee chains. There is harsh competition between the local chains and international chains, said Matthew Barry, a beverages analyst for Euromonitor. Each one is trying to grab as big a share as they can of the growing market, he said. Alegra Group estimates China’s Luckin Coffee added 5,059 stores in the last 12 months, while another Chinese chain, Cotti Coffee, opened 6,004 outlets in the period. “The scale of the opportunity is such that both (local and international chains) will have to be very aggressive in <u>facing off against the other</u> and I think that should ensure a very dynamic marketplace in the next few years,” Barry said. Chinese coffee consumption still pales when compared to top consumers, the United States and Brazil, that use more than 20 million bags per year. But the growing demand signals China is undergoing a cultural change similar to other tea-loving Asian countries including Japan and South Korea.",
+   "sents": [
+    {
+     "en": "Analysts expect China’s growing thirst for coffee to be a key driver of future demand for the beans as coffee shops expand beyond Beijing and Shanghai to dozens of mid-sized cities where young professionals have warmed to the beverage.",
+     "ko": "분석가들은 커피숍이 베이징과 상하이를 넘어 젊은 직장인들이 이 음료에 호감을 갖게 된 수십 개 중소 도시로 확산됨에 따라, 커피에 대한 중국의 커져 가는 갈증이 원두 미래 수요의 핵심 동력이 될 것으로 예상한다."
+    },
+    {
+     "en": "China’s rising coffee demand is an opportunity for international chains like Starbucks and Tim Hortons that are investing heavily in China, though they face a steep challenge from rapidly expanding local brands.",
+     "ko": "중국의 증가하는 커피 수요는 중국에 막대한 투자를 하고 있는 스타벅스나 팀 홀튼스 같은 국제 체인들에게 기회이지만, 이들은 빠르게 확장하는 현지 브랜드들의 거센 도전에 직면해 있다."
+    },
+    {
+     "en": "Data from the International Coffee Organization sent to Reuters show coffee consumption in China grew 15% in the year-long season ended in September from the previous cycle to 3.08 million bags.",
+     "ko": "로이터에 전달된 국제커피기구의 자료에 따르면, 9월에 끝난 1년간의 시즌에 중국의 커피 소비량은 이전 주기 대비 15% 증가한 308만 포대였다."
+    },
+    {
+     "en": "“The Chinese consumer is increasingly adopting Western lifestyles and coffee is obviously one of the beverages that represent that,” said the managing director of market research firm.",
+     "ko": "\"중국 소비자들은 서구식 생활방식을 점점 더 받아들이고 있으며, 커피는 분명 그것을 대표하는 음료 중 하나입니다\"라고 시장조사 회사의 상무이사는 말했다."
+    },
+    {
+     "en": "The number of branded coffee shops in China grew a staggering 58% in the last 12 months to 49,691 outlets, according to Alegra Group, a company that tracks growth of coffee chains.",
+     "ko": "커피 체인 성장을 추적하는 회사인 알레그라 그룹에 따르면, 중국의 브랜드 커피숍 수는 지난 12개월간 놀랄 만한 58% 증가하여 49,691개 점포에 이르렀다."
+    },
+    {
+     "en": "There is harsh competition between the local chains and international chains, said Matthew Barry, a beverages analyst for Euromonitor.",
+     "ko": "현지 체인과 국제 체인 사이에는 치열한 경쟁이 있다고 유로모니터의 음료 분석가 매튜 배리는 말했다."
+    },
+    {
+     "en": "Each one is trying to grab as big a share as they can of the growing market, he said.",
+     "ko": "각자 성장하는 시장에서 가능한 한 큰 몫을 차지하려 하고 있다고 그는 말했다."
+    },
+    {
+     "en": "Alegra Group estimates China’s Luckin Coffee added 5,059 stores in the last 12 months, while another Chinese chain, Cotti Coffee, opened 6,004 outlets in the period.",
+     "ko": "알레그라 그룹은 중국의 루이싱 커피가 지난 12개월간 5,059개 매장을 늘린 것으로 추정하며, 또 다른 중국 체인인 코티 커피는 같은 기간 6,004개 점포를 열었다."
+    },
+    {
+     "en": "“The scale of the opportunity is such that both (local and international chains) will have to be very aggressive in facing off against the other and I think that should ensure a very dynamic marketplace in the next few years,” Barry said.",
+     "ko": "\"기회의 규모가 워낙 커서 (현지 체인과 국제 체인) 양쪽 모두 서로에 맞서 매우 공격적으로 나서야 할 것이며, 그것이 앞으로 몇 년간 매우 역동적인 시장을 보장할 것이라고 생각합니다\"라고 배리는 말했다."
+    },
+    {
+     "en": "Chinese coffee consumption still pales when compared to top consumers, the United States and Brazil, that use more than 20 million bags per year.",
+     "ko": "중국의 커피 소비는 연간 2천만 포대 이상을 소비하는 최대 소비국인 미국과 브라질에 비하면 여전히 보잘것없다."
+    },
+    {
+     "en": "But the growing demand signals China is undergoing a cultural change similar to other tea-loving Asian countries including Japan and South Korea.",
+     "ko": "그러나 커져 가는 수요는 중국이 일본과 한국 등 차를 즐기던 다른 아시아 국가들과 비슷한 문화적 변화를 겪고 있음을 보여 준다."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "no": 1,
+   "passage": null,
+   "stem": "Making healthy lifestyle choices can help e-sports players stay fit and reduce the risk of developing a <u>sedentary</u> lifestyle.",
+   "choices": [
+    "desk-bound",
+    "lustful",
+    "innocent",
+    "hypnotizing",
+    "bewitching"
+   ],
+   "answer": 1,
+   "points": 1.9,
+   "explain": "sedentary는 '주로 앉아서 지내는'이라는 뜻으로 desk-bound(책상에 매인, 앉아서 일하는)와 같다. 'stay fit(건강을 유지하다)'과 대비되는 운동 부족 생활을 가리킨다.",
+   "trans": "건강한 생활 습관을 선택하면 e스포츠 선수들이 건강을 유지하고 주로 앉아서 지내는 생활 방식이 생길 위험을 줄이는 데 도움이 될 수 있다.",
+   "sents": [
+    {
+     "en": "Making healthy lifestyle choices can help e-sports players stay fit and reduce the risk of developing a sedentary lifestyle.",
+     "ko": "건강한 생활 습관을 선택하면 e스포츠 선수들이 건강을 유지하고 주로 앉아서 지내는(sedentary) 생활 방식이 생길 위험을 줄이는 데 도움이 될 수 있다."
+    }
+   ],
+   "choices_ko": [
+    "책상에 매인, 앉아서 일하는",
+    "음탕한, 호색의",
+    "순진한, 무고한",
+    "최면을 거는",
+    "마음을 홀리는, 매혹하는"
+   ]
+  },
+  {
+   "no": 2,
+   "passage": null,
+   "stem": "Some Uber drivers said they might <u>skimp on</u> the New Year feast to save money as they feared losing their livelihood in 2024.",
+   "choices": [
+    "reinforce",
+    "grumble",
+    "skip",
+    "cut back on",
+    "pile up"
+   ],
+   "answer": 4,
+   "points": 1.9,
+   "explain": "skimp on은 '~을 아끼다, 찔끔 쓰다'로 cut back on(~을 줄이다)과 같다. 'to save money'가 단서이며, skip(건너뛰다)은 완전히 생략한다는 뜻이라 함정이다.",
+   "trans": "일부 우버 기사들은 2024년에 생계를 잃을까 두려워 돈을 아끼려고 새해 잔치 비용을 줄일 수도 있다고 말했다.",
+   "sents": [
+    {
+     "en": "Some Uber drivers said they might skimp on the New Year feast to save money as they feared losing their livelihood in 2024.",
+     "ko": "일부 우버 운전기사들은 2024년에 생계를 잃을까 두려워 돈을 아끼기 위해 새해 잔치를 줄일(skimp on) 수도 있다고 말했다."
+    }
+   ],
+   "choices_ko": [
+    "강화하다",
+    "투덜대다, 불평하다",
+    "건너뛰다, 생략하다",
+    "줄이다, 절감하다",
+    "쌓아 올리다, 쌓이다"
+   ]
+  },
+  {
+   "no": 3,
+   "passage": null,
+   "stem": "Although the Nanaimo bunker was <u>decommissioned</u> in the 1990s, the Department of National Defence has not yet determined what it intends to do with the bunker structure itself following the soil remediation.",
+   "choices": [
+    "introduced",
+    "deactivated",
+    "free of charge",
+    "gratuitous",
+    "purposeless"
+   ],
+   "answer": 2,
+   "points": 1.9,
+   "explain": "decommission은 '(시설·무기 등을) 해체하다, 운용을 중단하다'로 deactivated(가동 중단된)와 같다.",
+   "trans": "나나이모 벙커는 1990년대에 운용이 중단되었지만, 국방부는 토양 정화 이후 벙커 구조물 자체를 어떻게 할지 아직 결정하지 않았다.",
+   "sents": [
+    {
+     "en": "Although the Nanaimo bunker was decommissioned in the 1990s, the Department of National Defence has not yet determined what it intends to do with the bunker structure itself following the soil remediation.",
+     "ko": "나나이모 벙커는 1990년대에 폐쇄되었지만(decommissioned), 국방부는 토양 정화 이후 벙커 구조물 자체를 어떻게 할 의도인지 아직 결정하지 않았다."
+    }
+   ],
+   "choices_ko": [
+    "도입된",
+    "가동이 중단된, 비활성화된",
+    "무료의",
+    "무상의, 근거 없는",
+    "목적 없는, 무의미한"
+   ]
+  },
+  {
+   "no": 4,
+   "passage": null,
+   "stem": "Germany’s environment minister once used Christmas as an opportunity to show off her housewifely <u>thriftiness</u> by being pictured ironing soon-to-be-reused sheets of wrapping paper.",
+   "choices": [
+    "rationality",
+    "image",
+    "frugality",
+    "indiscretion",
+    "generosity"
+   ],
+   "answer": 3,
+   "points": 1.9,
+   "explain": "thriftiness는 '검소함, 절약'으로 frugality와 같다. 포장지를 재사용하려고 다림질하는 모습이 단서이며, generosity(관대함)는 반대 방향이다.",
+   "trans": "독일 환경부 장관은 한때 곧 재사용될 포장지를 다림질하는 모습을 사진에 담아 크리스마스를 주부다운 검소함을 과시하는 기회로 삼았다.",
+   "sents": [
+    {
+     "en": "Germany’s environment minister once used Christmas as an opportunity to show off her housewifely thriftiness by being pictured ironing soon-to-be-reused sheets of wrapping paper.",
+     "ko": "독일의 환경부 장관은 한때 크리스마스를 가정주부다운 알뜰함(thriftiness)을 과시할 기회로 삼아, 곧 재사용될 포장지를 다림질하는 모습의 사진이 찍히도록 했다."
+    }
+   ],
+   "choices_ko": [
+    "합리성, 이성적임",
+    "이미지, 인상",
+    "절약, 검소함",
+    "무분별, 경솔한 언행",
+    "관대함, 너그러움"
+   ]
+  },
+  {
+   "no": 5,
+   "passage": null,
+   "stem": "For over four decades, the late Robert Heinecken was a <u>trenchant</u> observer of social politics.",
+   "choices": [
+    "dominant",
+    "dull",
+    "fallible",
+    "nebulous",
+    "incisive"
+   ],
+   "answer": 5,
+   "points": 1.9,
+   "explain": "trenchant는 '날카로운, 통렬한'으로 incisive(예리한, 날카로운)와 같다. dull(무딘)은 반의어로 함정이다. (원본 시험지에는 밑줄이 인쇄되지 않았으나 문제 대상 어휘는 trenchant이다.)",
+   "trans": "40년이 넘도록 고(故) 로버트 하이네켄은 사회 정치에 대한 예리한 관찰자였다.",
+   "sents": [
+    {
+     "en": "For over four decades, the late Robert Heinecken was a trenchant observer of social politics.",
+     "ko": "고(故) 로버트 하이네켄은 40년이 넘는 세월 동안 사회 정치에 대한 날카로운(trenchant) 관찰자였다."
+    }
+   ],
+   "choices_ko": [
+    "지배적인, 우세한",
+    "따분한, 둔한",
+    "틀리기 쉬운, 오류를 범할 수 있는",
+    "모호한, 흐릿한",
+    "예리한, 날카로운"
+   ]
+  },
+  {
+   "no": 6,
+   "passage": null,
+   "stem": "<u>①All</u> of this would <u>②have</u> been more tolerable had <u>③it</u> been <u>④applying</u> with <u>⑤some</u> degree of consistency.",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "answer": 4,
+   "points": 1.8,
+   "explain": "'it(이 모든 것)'은 '적용되는' 대상이므로 수동태 had it been applied가 되어야 한다. had it been은 if it had been에서 if가 생략된 도치 구문이다.",
+   "trans": "이 모든 것이 어느 정도 일관성 있게 적용되었더라면 더 견딜 만했을 것이다.",
+   "sents": [
+    {
+     "en": "①All of this would ②have been more tolerable had ③it been ④applying with ⑤some degree of consistency.",
+     "ko": "이 모든 것은 그것이 어느 정도의 일관성을 가지고 적용되었더라면 더 견딜 만했을 것이다. (④ applying은 수동의 의미이므로 applied가 되어야 함)"
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 7,
+   "passage": null,
+   "stem": "Robert Brown is one <u>①of</u> a small <u>②numbers</u> of social scientists <u>③who</u> can write effectively <u>④both</u> to specialists and to the general <u>⑤reading</u> public.",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "answer": 2,
+   "points": 1.8,
+   "explain": "'a small number of ~(소수의 ~)'가 올바른 표현이므로 관사 a 뒤의 numbers는 단수 number가 되어야 한다.",
+   "trans": "로버트 브라운은 전문가와 일반 독자층 모두를 대상으로 효과적으로 글을 쓸 수 있는 소수의 사회과학자 중 한 명이다.",
+   "sents": [
+    {
+     "en": "Robert Brown is one ①of a small ②numbers of social scientists ③who can write effectively ④both to specialists and to the general ⑤reading public.",
+     "ko": "로버트 브라운은 전문가와 일반 독자 모두를 대상으로 효과적으로 글을 쓸 수 있는 소수의 사회과학자 중 한 명이다. (② numbers는 단수 number여야 함)"
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 8,
+   "passage": null,
+   "stem": "<u>①That</u> happened in the second <u>②half</u> of the twentieth century has been <u>③described</u> <u>④rather</u> dismissively <u>⑤as</u> the cola-colonization of the world.",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "answer": 1,
+   "points": 1.8,
+   "explain": "주어 자리의 명사절에서 happened의 주어가 빠진 불완전한 절이므로 That이 아니라 선행사를 포함한 관계대명사 What이 와야 한다.",
+   "trans": "20세기 후반에 일어난 일은 다소 경멸적으로 세계의 '콜라 식민지화'라고 묘사되어 왔다.",
+   "sents": [
+    {
+     "en": "①That happened in the second ②half of the twentieth century has been ③described ④rather dismissively ⑤as the cola-colonization of the world.",
+     "ko": "20세기 후반에 일어난 일은 다소 경시하는 투로 세계의 '콜라 식민지화'라고 묘사되어 왔다. (① That은 명사절을 이끄는 What이어야 함)"
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 9,
+   "passage": null,
+   "stem": "<u>①During</u> the long period that baseball was <u>②developing</u> from a gentleman’s recreation to the national pastime, <u>③another</u> sport was <u>④shaping</u> up to challenge <u>⑤their</u> unquestioned preeminence.",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "answer": 5,
+   "points": 1.8,
+   "explain": "도전 대상인 '확고한 우위'는 단수 명사 baseball의 것이므로 their가 아니라 its가 되어야 한다.",
+   "trans": "야구가 신사의 여가 활동에서 국민 오락으로 발전하던 오랜 기간 동안, 또 다른 스포츠가 야구의 확고한 우위에 도전할 태세를 갖추고 있었다.",
+   "sents": [
+    {
+     "en": "①During the long period that baseball was ②developing from a gentleman’s recreation to the national pastime, ③another sport was ④shaping up to challenge ⑤their unquestioned preeminence.",
+     "ko": "야구가 신사들의 오락에서 국민적 스포츠로 발전하던 긴 기간 동안, 또 다른 스포츠가 야구의 확고부동한 우위에 도전하기 위해 모습을 갖추어 가고 있었다. (⑤ their는 단수 its여야 함)"
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 10,
+   "passage": null,
+   "stem": "<u>①Since</u> many odd languages were of military <u>②significant</u> during World War II, the anthropological linguist had a chance <u>③to</u> introduce his method of <u>④working</u> directly <u>⑤with</u> the native informant.",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "answer": 2,
+   "points": 1.8,
+   "explain": "'of + 추상명사 = 형용사' 구문이므로 of military significance(군사적으로 중요한)가 되어야 한다. 형용사 significant는 전치사 of의 목적어가 될 수 없다.",
+   "trans": "제2차 세계대전 중 많은 생소한 언어들이 군사적으로 중요했기 때문에, 인류언어학자는 원어민 제보자와 직접 작업하는 자신의 방법을 소개할 기회를 얻었다.",
+   "sents": [
+    {
+     "en": "①Since many odd languages were of military ②significant during World War II, the anthropological linguist had a chance ③to introduce his method of ④working directly ⑤with the native informant.",
+     "ko": "많은 특이한 언어가 제2차 세계대전 중 군사적으로 중요했기 때문에, 인류학적 언어학자는 현지인 정보 제공자와 직접 작업하는 자신의 방법을 도입할 기회를 얻었다. (② significant는 명사형 significance여야 함)"
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 11,
+   "passage": null,
+   "stem": "Over the last half century in much of East and Southeast Asia, national leaders have pursued a development strategy that has rescued hundreds of millions of people from poverty, _________ foreign investment to construct export-oriented industry. Farmers gained greater incomes through factory work, making basic goods like textiles and clothing before evolving into electronics, computer chips and cars.",
+   "choices": [
+    "obstructing",
+    "occluding",
+    "courting",
+    "arraigning for",
+    "denouncing for"
+   ],
+   "answer": 3,
+   "points": 1.9,
+   "explain": "수출 지향 산업을 건설하기 위해 해외 투자를 '유치한(courting)' 것이 문맥상 자연스럽다. obstructing(방해하는), occluding(막는), denouncing(비난하는)은 빈곤 탈출이라는 성공과 모순된다.",
+   "trans": "지난 반세기 동안 동아시아와 동남아시아 상당 지역에서 국가 지도자들은 수출 지향 산업을 건설하기 위해 해외 투자를 유치하며 수억 명을 빈곤에서 구해낸 발전 전략을 추구해 왔다.",
+   "sents": [
+    {
+     "en": "Over the last half century in much of East and Southeast Asia, national leaders have pursued a development strategy that has rescued hundreds of millions of people from poverty, _________ foreign investment to construct export-oriented industry.",
+     "ko": "지난 반세기 동안 동아시아와 동남아시아 대부분 지역에서 국가 지도자들은 수억 명의 사람들을 빈곤에서 구해 낸 발전 전략을 추구해 왔는데, 수출 지향 산업을 건설하기 위해 외국인 투자를 ( 빈칸: 구애하는(유치하려 애쓰는) ) 전략이었다."
+    },
+    {
+     "en": "Farmers gained greater incomes through factory work, making basic goods like textiles and clothing before evolving into electronics, computer chips and cars.",
+     "ko": "농민들은 공장 노동을 통해 더 많은 소득을 얻었으며, 섬유와 의류 같은 기본 상품을 만들다가 전자제품, 컴퓨터 칩, 자동차로 발전해 나갔다."
+    }
+   ],
+   "choices_ko": [
+    "방해하는, 가로막는",
+    "막는, 폐색하는",
+    "구애하는, 환심을 사려 애쓰는",
+    "~을 이유로 법정에 세우는, 고발하는",
+    "~을 이유로 비난하는"
+   ]
+  },
+  {
+   "no": 12,
+   "passage": null,
+   "stem": "Soviet engineers often found hydrogen not because they wanted it but because they had a different theory of how petroleum originates. They believed it was generated from inorganic matter rather than crunched-up dinosaur bones. On this view, carbon from the earth’s mantle would interact with hydrogen deep underground to produce hydrocarbons(the chief component of petroleum), so it made sense to look for hydrogen as a _______ sign of petroleum.",
+   "choices": [
+    "restricted",
+    "telltale",
+    "sensitive",
+    "spurious",
+    "underhand"
+   ],
+   "answer": 2,
+   "points": 1.9,
+   "explain": "수소가 석유 생성 과정에 관여한다고 보았으므로 수소는 석유의 존재를 '드러내 주는(telltale)' 징후이다. spurious(가짜의)는 반대 의미의 함정이다.",
+   "trans": "이 관점에 따르면 지구 맨틀의 탄소가 지하 깊은 곳에서 수소와 상호작용해 탄화수소를 만들어내므로, 수소를 석유의 존재를 알려주는 징후로 찾는 것이 타당했다.",
+   "sents": [
+    {
+     "en": "Soviet engineers often found hydrogen not because they wanted it but because they had a different theory of how petroleum originates.",
+     "ko": "소련의 엔지니어들은 수소를 원해서가 아니라 석유가 어떻게 생성되는지에 대해 다른 이론을 가지고 있었기 때문에 종종 수소를 발견했다."
+    },
+    {
+     "en": "They believed it was generated from inorganic matter rather than crunched-up dinosaur bones.",
+     "ko": "그들은 석유가 으깨진 공룡 뼈가 아니라 무기물로부터 생성된다고 믿었다."
+    },
+    {
+     "en": "On this view, carbon from the earth’s mantle would interact with hydrogen deep underground to produce hydrocarbons(the chief component of petroleum), so it made sense to look for hydrogen as a _______ sign of petroleum.",
+     "ko": "이 견해에 따르면 지구 맨틀의 탄소가 지하 깊은 곳에서 수소와 반응하여 탄화수소(석유의 주성분)를 만들어 내므로, 수소를 석유의 ( 빈칸: 틀림없는(드러내는) ) 징후로서 찾는 것이 타당했다."
+    }
+   ],
+   "choices_ko": [
+    "제한된",
+    "(숨은 사실을) 확연히 드러내는, 징후가 되는",
+    "민감한",
+    "그릇된, 가짜의",
+    "비밀스러운, 부정직한"
+   ]
+  },
+  {
+   "no": 13,
+   "passage": null,
+   "stem": "Jack pressed on, reached the railway and waited for a train. When it came, he hurled himself aboard and burrowed in among the empty coal bags. After he escaped, his fellow prisoners covered for him, stuffing a dummy under his blankets and pretending he was asleep. ______, Jack had booked a haircut and shave from a Boer barber for the next morning and forgotten to cancel it. His absence was noticed by the barber. Later, the barber was offered a hefty reward for Jack’s recapture.",
+   "choices": [
+    "Favorably",
+    "Thankfully",
+    "Unfortunately",
+    "Fortuitously",
+    "Gracefully"
+   ],
+   "answer": 3,
+   "points": 1.9,
+   "explain": "동료들이 탈출을 감춰 주었지만 이발 예약을 취소하지 않아 탈출이 발각되었으므로 '불행하게도(Unfortunately)'가 알맞다.",
+   "trans": "불행하게도 잭은 다음 날 아침 보어인 이발사에게 이발과 면도를 예약해 두고는 취소하는 것을 잊어버렸다.",
+   "sents": [
+    {
+     "en": "Jack pressed on, reached the railway and waited for a train.",
+     "ko": "잭은 계속 나아가 철로에 다다라 기차를 기다렸다."
+    },
+    {
+     "en": "When it came, he hurled himself aboard and burrowed in among the empty coal bags.",
+     "ko": "기차가 오자 그는 몸을 던져 올라타 빈 석탄 자루들 사이로 파고들었다."
+    },
+    {
+     "en": "After he escaped, his fellow prisoners covered for him, stuffing a dummy under his blankets and pretending he was asleep.",
+     "ko": "그가 탈출한 뒤, 동료 죄수들은 그를 감싸 주기 위해 담요 아래에 인형을 쑤셔 넣고 그가 자고 있는 것처럼 꾸몄다."
+    },
+    {
+     "en": "______, Jack had booked a haircut and shave from a Boer barber for the next morning and forgotten to cancel it.",
+     "ko": "( 빈칸: 불행하게도 ), 잭은 다음 날 아침 보어인 이발사에게 머리 손질과 면도를 예약해 두었다가 취소하는 것을 잊어버렸다."
+    },
+    {
+     "en": "His absence was noticed by the barber.",
+     "ko": "그의 부재는 이발사에게 들켰다."
+    },
+    {
+     "en": "Later, the barber was offered a hefty reward for Jack’s recapture.",
+     "ko": "나중에 그 이발사는 잭을 다시 붙잡는 데 대한 두둑한 현상금을 제의받았다."
+    }
+   ],
+   "choices_ko": [
+    "호의적으로, 유리하게",
+    "고맙게도, 다행히",
+    "불행하게도",
+    "우연히, 뜻밖에 운 좋게",
+    "우아하게, 품위 있게"
+   ]
+  },
+  {
+   "no": 14,
+   "passage": null,
+   "stem": "What’s more dubious about Pill’s story is that he attributes this zero-sum jockeying for position to an attempt to avoid an inevitable decline in real income, brought on largely by ______. Although he was careful to include price hikes by firms as well as wage demands in his discussion, this is still basically the classic wage-price-spiral story. In that story, workers see a rise in their cost of living, say, because of surging energy prices, and demand wage increases to offset these losses — but firms then raise prices to reflect higher labor costs, and off we go.",
+   "choices": [
+    "higher energy prices",
+    "prosperity of the company",
+    "protection of the private sector",
+    "uncompromising negotiation",
+    "cultural change"
+   ],
+   "answer": 1,
+   "points": 1.9,
+   "explain": "뒤에서 '에너지 가격 급등 때문에 생활비가 오르고' 임금 인상을 요구한다는 임금-물가 악순환을 설명하므로, 실질소득 감소의 원인은 higher energy prices이다.",
+   "trans": "더 의심스러운 점은 필이 이 제로섬식 자리다툼을, 주로 에너지 가격 상승으로 인한 피할 수 없는 실질소득 감소를 막으려는 시도 탓으로 돌린다는 것이다.",
+   "sents": [
+    {
+     "en": "What’s more dubious about Pill’s story is that he attributes this zero-sum jockeying for position to an attempt to avoid an inevitable decline in real income, brought on largely by ______.",
+     "ko": "필의 이야기에서 더 의심스러운 점은, 그가 이 제로섬적인 자리다툼을 주로 ( 빈칸: 에너지 가격 상승 )으로 인해 초래된 실질소득 감소라는 불가피한 하락을 피하려는 시도 탓으로 돌린다는 것이다."
+    },
+    {
+     "en": "Although he was careful to include price hikes by firms as well as wage demands in his discussion, this is still basically the classic wage-price-spiral story.",
+     "ko": "그는 논의에서 임금 요구뿐 아니라 기업들의 가격 인상도 포함하도록 신중을 기했지만, 이것은 여전히 기본적으로 전형적인 임금-물가 악순환 이야기이다."
+    },
+    {
+     "en": "In that story, workers see a rise in their cost of living, say, because of surging energy prices, and demand wage increases to offset these losses — but firms then raise prices to reflect higher labor costs, and off we go.",
+     "ko": "그 이야기에서 노동자들은 예컨대 급등하는 에너지 가격 때문에 생활비가 오르는 것을 보고 그 손실을 상쇄하려고 임금 인상을 요구하지만, 그러면 기업들이 더 높아진 인건비를 반영하여 가격을 올리고, 그렇게 악순환이 시작된다."
+    }
+   ],
+   "choices_ko": [
+    "더 높은 에너지 가격",
+    "회사의 번영",
+    "민간 부문의 보호",
+    "타협하지 않는 협상",
+    "문화적 변화"
+   ]
+  },
+  {
+   "no": 15,
+   "passage": null,
+   "stem": "Still, think how much grimmer the world would be if there were no prizewinners to announce, if we didn’t take a moment to celebrate those who have dedicated their lives to the pursuit of some noble or beautiful goal. But what about those who do not win prizes? This much larger group may not be all Mozarts, but they do suggest the essential meaning and tension in winning a prize: For every winner, there are many, many others who go unrecognized. We should take care to assign prizes their proper weight, to neither ________. A prize is a wonderful thing, but it is the work, and the artist’s commitment to it, that matters.",
+   "choices": [
+    "remember them momentarily nor permanently",
+    "celebrate them officially nor secretly",
+    "nominate them based on the dedication nor luck",
+    "mistake them for meaning too much nor too little",
+    "value them for the collaborative work nor fortune"
+   ],
+   "answer": 4,
+   "points": 1.9,
+   "explain": "'상에 적절한 무게를 부여하라'는 말과 이어지려면 상을 과대평가하지도 과소평가하지도 말라는 뜻, 즉 '너무 많은 의미로도 너무 적은 의미로도 오해하지 말라'가 알맞다.",
+   "trans": "우리는 상에 적절한 무게를 부여하도록, 즉 상이 너무 많은 것을 의미한다고도 너무 적은 것을 의미한다고도 오해하지 않도록 주의해야 한다.",
+   "sents": [
+    {
+     "en": "Still, think how much grimmer the world would be if there were no prizewinners to announce, if we didn’t take a moment to celebrate those who have dedicated their lives to the pursuit of some noble or beautiful goal.",
+     "ko": "그래도 발표할 수상자가 아무도 없다면, 고귀하거나 아름다운 어떤 목표를 추구하는 데 평생을 바친 사람들을 기리는 시간을 갖지 않는다면 세상이 얼마나 더 암울할지 생각해 보라."
+    },
+    {
+     "en": "But what about those who do not win prizes?",
+     "ko": "그러나 상을 받지 못하는 사람들은 어떠한가?"
+    },
+    {
+     "en": "This much larger group may not be all Mozarts, but they do suggest the essential meaning and tension in winning a prize: For every winner, there are many, many others who go unrecognized.",
+     "ko": "이 훨씬 더 큰 집단이 모두 모차르트는 아닐 수 있지만, 그들은 상을 받는 일의 본질적인 의미와 긴장을 시사한다. 수상자 한 명마다 인정받지 못하고 지나가는 사람이 아주 많다는 것이다."
+    },
+    {
+     "en": "We should take care to assign prizes their proper weight, to neither ________.",
+     "ko": "우리는 상에 합당한 비중을 부여하도록 주의해야 하며, ( 빈칸: 상이 의미하는 바를 지나치게 많게도 지나치게 적게도 오해하지 않도록 ) 해야 한다."
+    },
+    {
+     "en": "A prize is a wonderful thing, but it is the work, and the artist’s commitment to it, that matters.",
+     "ko": "상은 훌륭한 것이지만, 중요한 것은 작업 그리고 그것에 대한 예술가의 헌신이다."
+    }
+   ],
+   "choices_ko": [
+    "그것들을 순간적으로도 영구적으로도 기억하지 않다",
+    "그것들을 공식적으로도 은밀하게도 기념하지 않다",
+    "헌신에 근거해서도 운에 근거해서도 지명하지 않다",
+    "그것들이 지나치게 많은 것도 지나치게 적은 것도 의미한다고 착각하지 않다",
+    "협동 작업을 이유로도 행운을 이유로도 평가하지 않다"
+   ]
+  },
+  {
+   "no": 16,
+   "passage": null,
+   "stem": "For months it was rumored that the government might allow the members of BTS to skip the military service, on the basis they had already served their country by earning it billions of dollars, and it would be more beneficial to allow them to carry on doing so. But in October, the members of BTS announced they were all planning to enlist, with Jin, as the oldest, going first. _______, the reports he was being sent to the front line surprised some fans, who had assumed he would be given a less risky role.",
+   "choices": [
+    "Even so",
+    "As usual",
+    "Even now",
+    "And thus",
+    "In summary"
+   ],
+   "answer": 1,
+   "points": 2.1,
+   "explain": "멤버들이 입대를 발표한 사실을 알고 있었음에도 진이 최전방에 배치된다는 소식은 팬들을 놀라게 했으므로 양보의 연결어 Even so(그렇다 하더라도)가 알맞다.",
+   "trans": "그렇다 하더라도, 그가 최전방에 배치된다는 보도는 그가 덜 위험한 역할을 맡을 것이라 생각했던 일부 팬들을 놀라게 했다.",
+   "sents": [
+    {
+     "en": "For months it was rumored that the government might allow the members of BTS to skip the military service, on the basis they had already served their country by earning it billions of dollars, and it would be more beneficial to allow them to carry on doing so.",
+     "ko": "몇 달 동안 정부가 BTS 멤버들의 병역 면제를 허용할지 모른다는 소문이 돌았는데, 그들은 이미 나라에 수십억 달러를 벌어 주어 국가에 봉사했으며 계속 그렇게 하도록 허용하는 편이 더 이롭다는 근거에서였다."
+    },
+    {
+     "en": "But in October, the members of BTS announced they were all planning to enlist, with Jin, as the oldest, going first.",
+     "ko": "그러나 10월에 BTS 멤버들은 모두 입대할 계획이라고 발표했으며, 최연장자인 진이 먼저 간다고 했다."
+    },
+    {
+     "en": "_______, the reports he was being sent to the front line surprised some fans, who had assumed he would be given a less risky role.",
+     "ko": "( 빈칸: 그럼에도 ), 그가 최전방으로 보내진다는 보도는 덜 위험한 역할을 맡게 될 것이라고 짐작했던 일부 팬들을 놀라게 했다."
+    }
+   ],
+   "choices_ko": [
+    "그렇다 해도, 그럼에도",
+    "여느 때처럼",
+    "지금도",
+    "그리하여",
+    "요약하자면"
+   ]
+  },
+  {
+   "no": 17,
+   "passage": null,
+   "stem": "I have considerable admiration for scientists in general, and evolutionists and ethologists in particular, and though I think they have sometimes gone astray, it has not been purely through prejudice. Partly it is due to sheer semantic accident — the fact that “man” is a(n) _______ term. It means the species; it also means the male of the species. If you begin to write a book about man or conceive a theory about man you cannot avoid using this word. You cannot avoid using a pronoun “he” as a substitute for the word.",
+   "choices": [
+    "impartial",
+    "technical",
+    "traditional",
+    "ambiguous",
+    "admirable"
+   ],
+   "answer": 4,
+   "points": 2.1,
+   "explain": "'man'이 인류(종)와 그 종의 남성 둘 다를 뜻한다고 바로 뒤에서 설명하므로 '애매한, 중의적인(ambiguous)' 용어이다.",
+   "trans": "부분적으로 그것은 순전히 의미상의 우연, 즉 'man'이 중의적인 용어라는 사실 때문이다.",
+   "sents": [
+    {
+     "en": "I have considerable admiration for scientists in general, and evolutionists and ethologists in particular, and though I think they have sometimes gone astray, it has not been purely through prejudice.",
+     "ko": "나는 과학자 전반, 특히 진화론자와 동물행동학자들에게 상당한 존경심을 가지고 있으며, 그들이 때로 길을 잘못 들었다고 생각하긴 해도 그것이 순전히 편견 때문은 아니었다."
+    },
+    {
+     "en": "Partly it is due to sheer semantic accident — the fact that “man” is a(n) _______ term.",
+     "ko": "부분적으로는 순전한 의미상의 우연, 즉 'man'이 ( 빈칸: 애매한(모호한) ) 용어라는 사실 때문이다."
+    },
+    {
+     "en": "It means the species; it also means the male of the species.",
+     "ko": "그것은 인류라는 종을 의미하기도 하고, 그 종의 남성을 의미하기도 한다."
+    },
+    {
+     "en": "If you begin to write a book about man or conceive a theory about man you cannot avoid using this word.",
+     "ko": "man에 관한 책을 쓰기 시작하거나 man에 관한 이론을 구상한다면 이 단어를 사용하지 않을 수 없다."
+    },
+    {
+     "en": "You cannot avoid using a pronoun “he” as a substitute for the word.",
+     "ko": "그 단어를 대신하는 대명사 'he'를 사용하는 것도 피할 수 없다."
+    }
+   ],
+   "choices_ko": [
+    "공평한, 편파적이지 않은",
+    "전문적인, 기술적인",
+    "전통적인",
+    "애매한, 모호한",
+    "감탄할 만한, 훌륭한"
+   ]
+  },
+  {
+   "no": 18,
+   "passage": null,
+   "stem": "Today the secular world doesn’t need Satan. Good and evil, however, are in great demand. The old Iranian dualism of good versus evil is entirely an arbitrary one, but it’s effective for maintaining social order. In US history, the good/evil dualism was projected onto ______. The undiscovered countries of Africa and North America were cast in the role of evil, conveniently enough, as they were both un-Christian and ripe for exploration and exploitation in a way that much of seventeenth century Asia was not.",
+   "choices": [
+    "the continent itself",
+    "its mysterious history",
+    "the segregation of the society",
+    "its socioeconomic structure",
+    "the racial discrimination"
+   ],
+   "answer": 1,
+   "points": 2.1,
+   "explain": "뒤에서 아프리카와 북미의 미개척 지역이 '악'의 역할을 맡았다고 하므로, 선악 이원론이 대륙 그 자체(the continent itself)에 투사되었다는 것이 알맞다.",
+   "trans": "미국 역사에서 선악 이원론은 대륙 그 자체에 투사되었다.",
+   "sents": [
+    {
+     "en": "Today the secular world doesn’t need Satan.",
+     "ko": "오늘날 세속 세계는 사탄을 필요로 하지 않는다."
+    },
+    {
+     "en": "Good and evil, however, are in great demand.",
+     "ko": "그러나 선과 악은 수요가 매우 크다."
+    },
+    {
+     "en": "The old Iranian dualism of good versus evil is entirely an arbitrary one, but it’s effective for maintaining social order.",
+     "ko": "선 대 악이라는 오래된 이란식 이원론은 전적으로 임의적인 것이지만, 사회 질서를 유지하는 데는 효과적이다."
+    },
+    {
+     "en": "In US history, the good/evil dualism was projected onto ______.",
+     "ko": "미국 역사에서 선/악의 이원론은 ( 빈칸: 그 대륙 자체 )에 투영되었다."
+    },
+    {
+     "en": "The undiscovered countries of Africa and North America were cast in the role of evil, conveniently enough, as they were both un-Christian and ripe for exploration and exploitation in a way that much of seventeenth century Asia was not.",
+     "ko": "아프리카와 북아메리카의 미지의 땅은 편리하게도 악의 역할을 맡게 되었는데, 이는 두 곳 모두 기독교화되지 않았고, 17세기 아시아의 많은 부분과는 달리 탐험과 착취의 대상이 될 만큼 무르익어 있었기 때문이다."
+    }
+   ],
+   "choices_ko": [
+    "그 대륙 자체",
+    "그 신비로운 역사",
+    "사회의 분리(차별)",
+    "그 사회경제적 구조",
+    "인종 차별"
+   ]
+  },
+  {
+   "no": 19,
+   "passage": null,
+   "stem": "Lakshmi, an Indian-American immigrant, closed her speech by paying tribute to the participants of the conference, saying they “build a truer mosaic of what America looks like today. While our nation is far from perfect, full of contradictions and hypocrisy in its policies, it can still show the world, that a country needn’t consist of only people from the same ethnicity or religion,” she said. “It can be built, with all of us who see the best possible America, and help it lurch forward, stumbling often along the way, towards a future, where we will share the same rights and hopefully, ________.”",
+   "choices": [
+    "America comes first",
+    "nobody is perfect",
+    "we need more volunteers",
+    "no more foreign workers",
+    "all are welcome"
+   ],
+   "answer": 5,
+   "points": 2.1,
+   "explain": "한 나라가 같은 민족·종교의 사람들로만 이루어질 필요가 없다는 다양성과 포용의 메시지이므로 '모두가 환영받는(all are welcome)' 미래가 알맞다.",
+   "trans": "우리가 같은 권리를 누리고, 바라건대 모두가 환영받는 미래를 향해서요.",
+   "sents": [
+    {
+     "en": "Lakshmi, an Indian-American immigrant, closed her speech by paying tribute to the participants of the conference, saying they “build a truer mosaic of what America looks like today.",
+     "ko": "인도계 미국 이민자인 락슈미는 \"여러분은 오늘날 미국의 모습을 담은 더 진실한 모자이크를 만들어 갑니다\"라며 회의 참가자들에게 경의를 표하는 것으로 연설을 마무리했다."
+    },
+    {
+     "en": "While our nation is far from perfect, full of contradictions and hypocrisy in its policies, it can still show the world, that a country needn’t consist of only people from the same ethnicity or religion,” she said.",
+     "ko": "\"우리나라는 완벽과는 거리가 멀고 정책에 모순과 위선이 가득하지만, 한 나라가 같은 민족이나 같은 종교의 사람들로만 이루어질 필요는 없다는 것을 세계에 보여 줄 수 있습니다\"라고 그녀는 말했다."
+    },
+    {
+     "en": "“It can be built, with all of us who see the best possible America, and help it lurch forward, stumbling often along the way, towards a future, where we will share the same rights and hopefully, ________.”",
+     "ko": "\"그것은 가능한 최선의 미국을 보는 우리 모두와 함께, 도중에 자주 비틀거리면서도 앞으로 휘청이며 나아가도록 돕는 우리 모두와 함께, 우리가 같은 권리를 누리고 바라건대 ( 빈칸: 모든 이가 환영받는 ) 미래를 향해 만들어 갈 수 있습니다.\""
+    }
+   ],
+   "choices_ko": [
+    "미국이 최우선이다",
+    "누구도 완벽하지 않다",
+    "우리는 더 많은 자원봉사자가 필요하다",
+    "더 이상 외국인 노동자는 안 된다",
+    "모든 이가 환영받는다"
+   ]
+  },
+  {
+   "no": 20,
+   "passage": null,
+   "stem": "In the mid-1980s a collective fear — initiated and fueled by law enforcement and the media — gripped the world, and ______. If one were to believe all the hype, a monster was lurking at every turn, just waiting to destroy another life. The FBI even went so far as to state that their numbers showed 500 serial killers on the loose in the US at any given time (the actual number is probably much closer to 50). Supposed experts and authors came out of the woodstock and have ridden this wave of hysteria in the way of badly researched (and in many cases, fabricated) quickie true-crime books and dubious hypotheses and theories.",
+   "choices": [
+    "people started watching more thrillers",
+    "the story of apocalypse was spreading",
+    "superstition replaced the scientific beliefs",
+    "the myth of the serial killer was born",
+    "people wanted the more strict law enforcement"
+   ],
+   "answer": 4,
+   "points": 2.1,
+   "explain": "뒤에서 FBI가 연쇄살인범 500명이 활보한다고 과장했고 실제는 50명에 가깝다고 하므로, '연쇄살인범의 신화가 탄생했다'가 알맞다.",
+   "trans": "1980년대 중반, 사법 당국과 언론이 시작하고 부채질한 집단적 공포가 세상을 사로잡았고, 연쇄살인범의 신화가 탄생했다.",
+   "sents": [
+    {
+     "en": "In the mid-1980s a collective fear — initiated and fueled by law enforcement and the media — gripped the world, and ______.",
+     "ko": "1980년대 중반 법 집행 기관과 언론이 촉발하고 부채질한 집단적 공포가 세계를 사로잡았고, ( 빈칸: 연쇄살인범의 신화가 탄생했다 )."
+    },
+    {
+     "en": "If one were to believe all the hype, a monster was lurking at every turn, just waiting to destroy another life.",
+     "ko": "모든 과장된 선전을 믿는다면, 모퉁이마다 괴물이 도사리고 있다가 또 다른 생명을 파괴할 기회를 기다리고 있는 셈이었다."
+    },
+    {
+     "en": "The FBI even went so far as to state that their numbers showed 500 serial killers on the loose in the US at any given time (the actual number is probably much closer to 50).",
+     "ko": "FBI는 심지어 자신들의 수치로는 미국에서 어느 때든 500명의 연쇄살인범이 활보하고 있다고까지 주장했다(실제 수는 아마 50명에 훨씬 가까울 것이다)."
+    },
+    {
+     "en": "Supposed experts and authors came out of the woodstock and have ridden this wave of hysteria in the way of badly researched (and in many cases, fabricated) quickie true-crime books and dubious hypotheses and theories.",
+     "ko": "이른바 전문가와 작가들이 어디선가 불쑥 나타나 이 히스테리의 물결에 올라타, 조사가 부실한(많은 경우 조작된) 날림 실화 범죄 책과 미심쩍은 가설, 이론을 쏟아냈다."
+    }
+   ],
+   "choices_ko": [
+    "사람들이 스릴러물을 더 많이 보기 시작했다",
+    "종말의 이야기가 퍼지고 있었다",
+    "미신이 과학적 신념을 대체했다",
+    "연쇄살인범의 신화가 탄생했다",
+    "사람들이 더 엄격한 법 집행을 원했다"
+   ]
+  },
+  {
+   "no": 21,
+   "passage": null,
+   "stem": "Tax cuts for the wealthy have long drawn support from conservative lawmakers and economists who argue that such measures will Ⓐ“<u>trickle down</u>” and eventually boost jobs and incomes for everyone else. But a new study says 50 years of such tax cuts have only helped one group — the rich. The new paper examines 18 Ⓑ<u>developed</u> countries — from Australia to the United States — over a 50-year period from 1965 to 2015. The study compared countries that passed tax cuts in a specific year, such as the U.S. in 1982 when President Ronald Reagan ashed taxes on the wealthy, with those that didn’t, and then examined their economic outcomes. Per capita gross domestic product and unemployment rates were nearly identical after five years in countries that Ⓒ<u>slashed</u> taxes on the rich and in those that didn’t, the study found. But the analysis discovered one major change: The incomes of the rich grew much faster in countries where tax rates were Ⓓ<u>lowered</u>. Instead of trickling down to the middle class, tax cuts for the rich may not accomplish much more than help the rich keep more of their riches and Ⓔ<u>reduce</u> income inequality, the research indicates.",
+   "choices": [
+    "Ⓐ",
+    "Ⓑ",
+    "Ⓒ",
+    "Ⓓ",
+    "Ⓔ"
+   ],
+   "answer": 5,
+   "points": 2.1,
+   "explain": "부자 감세가 부자들의 소득만 더 빨리 늘렸다는 내용이므로 소득 불평등을 '줄이는(reduce)' 것이 아니라 '심화시키는(increase/widen)' 것이어야 한다.",
+   "trans": "부자 감세는 중산층으로 낙수 효과를 내기는커녕, 부자들이 재산을 더 많이 지키도록 돕고 소득 불평등을 심화시키는 것 이상을 이루지 못할 수도 있다.",
+   "sents": [
+    {
+     "en": "Tax cuts for the wealthy have long drawn support from conservative lawmakers and economists who argue that such measures will Ⓐ“trickle down” and eventually boost jobs and incomes for everyone else.",
+     "ko": "부유층에 대한 감세는 그러한 조치가 Ⓐ'낙수 효과'를 일으켜 결국 다른 모든 사람의 일자리와 소득을 증대시킬 것이라고 주장하는 보수 성향 의원들과 경제학자들의 지지를 오랫동안 받아 왔다."
+    },
+    {
+     "en": "But a new study says 50 years of such tax cuts have only helped one group — the rich.",
+     "ko": "그러나 새 연구는 50년간의 그러한 감세가 오직 한 집단, 곧 부유층에게만 도움이 되었다고 말한다."
+    },
+    {
+     "en": "The new paper examines 18 Ⓑdeveloped countries — from Australia to the United States — over a 50-year period from 1965 to 2015.",
+     "ko": "새 논문은 1965년부터 2015년까지 50년간 호주에서 미국에 이르는 Ⓑ선진국 18개국을 조사한다."
+    },
+    {
+     "en": "The study compared countries that passed tax cuts in a specific year, such as the U.S. in 1982 when President Ronald Reagan ashed taxes on the wealthy, with those that didn’t, and then examined their economic outcomes.",
+     "ko": "이 연구는 특정 연도에 감세를 통과시킨 나라들(예: 1982년 로널드 레이건 대통령이 부유층에 대한 세금을 깎은 미국)을 그러지 않은 나라들과 비교한 다음 경제적 결과를 조사했다."
+    },
+    {
+     "en": "Per capita gross domestic product and unemployment rates were nearly identical after five years in countries that Ⓒslashed taxes on the rich and in those that didn’t, the study found.",
+     "ko": "연구에 따르면 1인당 국내총생산과 실업률은 부유층 세금을 Ⓒ대폭 삭감한 나라와 그러지 않은 나라에서 5년 후 거의 똑같았다."
+    },
+    {
+     "en": "But the analysis discovered one major change: The incomes of the rich grew much faster in countries where tax rates were Ⓓlowered.",
+     "ko": "그러나 분석은 한 가지 중대한 변화를 발견했다. 세율이 Ⓓ낮아진 나라에서 부유층의 소득이 훨씬 더 빠르게 증가했다는 것이다."
+    },
+    {
+     "en": "Instead of trickling down to the middle class, tax cuts for the rich may not accomplish much more than help the rich keep more of their riches and Ⓔreduce income inequality, the research indicates.",
+     "ko": "연구에 따르면 부유층에 대한 감세는 중산층에게 흘러내리는 대신, 부유층이 더 많은 부를 지키도록 돕고 소득 불평등을 Ⓔ줄이는 것 이상의 성과를 내지 못할 수도 있다."
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 22,
+   "passage": null,
+   "stem": "For the immediate future and perhaps for longer, Ⓐ<u>by far</u> the most powerful influence on world English is likely to be the United States. But this influence may be Ⓑ<u>decreasingly</u> challenged in time. Sardonic rumors that the ‘native speaker is dead’ have circulated since a book of that title was published by Thomas Paikeday in Canada in 1985. But we must regard such reports as grossly Ⓒ<u>‘exaggerated’</u>. In view of the claim that native speaker ‘owns’ the language, a more appropriate heading might be ‘The Ⓓ<u>toppling</u> of the native speaker’. In the future, the native speaker may not automatically be regarded as the Ⓔ<u>authority</u> to whom non-native speakers defer in determining what is correct in the language.",
+   "choices": [
+    "Ⓐ",
+    "Ⓑ",
+    "Ⓒ",
+    "Ⓓ",
+    "Ⓔ"
+   ],
+   "answer": 2,
+   "points": 2.1,
+   "explain": "But으로 시작하며 미국의 영향력이 시간이 지나면 '점점 더(increasingly)' 도전받을 것이라는 흐름이고, 뒤에서 원어민 권위의 전복을 말하므로 decreasingly는 부적절하다.",
+   "trans": "그러나 이 영향력은 시간이 지나면서 점점 더 도전받게 될 수도 있다.",
+   "sents": [
+    {
+     "en": "For the immediate future and perhaps for longer, Ⓐby far the most powerful influence on world English is likely to be the United States.",
+     "ko": "가까운 미래, 어쩌면 그보다 더 오랫동안, 세계 영어에 가장 강력한 영향을 미치는 것은 Ⓐ단연 미국일 가능성이 크다."
+    },
+    {
+     "en": "But this influence may be Ⓑdecreasingly challenged in time.",
+     "ko": "그러나 이 영향력은 시간이 지나면서 Ⓑ점점 덜 도전받게 될지도 모른다. (increasingly challenged가 되어야 함)"
+    },
+    {
+     "en": "Sardonic rumors that the ‘native speaker is dead’ have circulated since a book of that title was published by Thomas Paikeday in Canada in 1985.",
+     "ko": "'원어민은 죽었다'는 냉소적인 소문은 1985년 캐나다에서 토머스 파이케데이가 같은 제목의 책을 출간한 이래 나돌아 왔다."
+    },
+    {
+     "en": "But we must regard such reports as grossly Ⓒ‘exaggerated’.",
+     "ko": "그러나 우리는 그러한 보도를 크게 Ⓒ'과장된' 것으로 보아야 한다."
+    },
+    {
+     "en": "In view of the claim that native speaker ‘owns’ the language, a more appropriate heading might be ‘The Ⓓtoppling of the native speaker’.",
+     "ko": "원어민이 언어를 '소유한다'는 주장에 비추어, 더 적절한 제목은 '원어민의 Ⓓ권좌 붕괴'일 수도 있다."
+    },
+    {
+     "en": "In the future, the native speaker may not automatically be regarded as the Ⓔauthority to whom non-native speakers defer in determining what is correct in the language.",
+     "ko": "앞으로는 원어민이 언어에서 무엇이 올바른지를 판단할 때 비원어민이 따르는 Ⓔ권위자로 자동적으로 간주되지 않을 수도 있다."
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 23,
+   "passage": null,
+   "stem": "The main point of the following passage would be '_______'.",
+   "box": "Many generative AI tools will be easier to access than previous technologies. This is not like the advent of personal computers or smartphones, where employers needed to buy lots of hardware, or even e-commerce, where retailers needed to set up physical infrastructure before they could open an online storefront. Yet not all businesses will be enthusiastic adopters. Although the technology promises to do away with drudgery, some people worry that it may ultimately replace them. A survey by a consultancy finds that frontline workers are more likely to be concerned, and less likely to be optimistic, about AI than managers or leaders are. In some cases, unions may act to slow the adoption of the technology; some may go as far as the writers’ guild in Hollywood, which was on strike for much of 2023, in part because of concerns about AI’s impact on jobs.",
+   "choices": [
+    "Managers in the public sector may feel no impulse to innovate.",
+    "Using AI is less valuable than previous approachable technologies.",
+    "AIs are prone to hallucinations or fake news.",
+    "Many of the companies are using AI to build a to help rich managers.",
+    "AI holds much promise for businesses but we should not expect the adoption overnight."
+   ],
+   "answer": 5,
+   "points": 2.1,
+   "explain": "생성형 AI는 접근이 쉽지만(Yet) 모든 기업이 열성적으로 도입하지는 않으며 노동자·노조의 우려로 도입이 늦어질 수 있다는 내용이므로 ⑤가 요지이다.",
+   "trans": "그러나 모든 기업이 열성적인 도입자가 되지는 않을 것이다.",
+   "sents": [
+    {
+     "en": "The main point of the following passage would be '_______'.",
+     "ko": "다음 글의 요지는 '( 빈칸: AI는 기업에 큰 가능성을 주지만 하루아침에 도입되기를 기대해서는 안 된다 )'일 것이다."
+    },
+    {
+     "en": "Many generative AI tools will be easier to access than previous technologies.",
+     "ko": "많은 생성형 AI 도구는 이전 기술보다 접근하기가 더 쉬울 것이다."
+    },
+    {
+     "en": "This is not like the advent of personal computers or smartphones, where employers needed to buy lots of hardware, or even e-commerce, where retailers needed to set up physical infrastructure before they could open an online storefront.",
+     "ko": "이것은 고용주가 많은 하드웨어를 구입해야 했던 개인용 컴퓨터나 스마트폰의 등장, 혹은 소매업자가 온라인 상점을 열기 전에 물리적 기반 시설을 갖추어야 했던 전자상거래와도 다르다."
+    },
+    {
+     "en": "Yet not all businesses will be enthusiastic adopters.",
+     "ko": "그러나 모든 기업이 열성적인 도입자가 되지는 않을 것이다."
+    },
+    {
+     "en": "Although the technology promises to do away with drudgery, some people worry that it may ultimately replace them.",
+     "ko": "이 기술은 힘든 허드렛일을 없애 줄 것을 약속하지만, 일부 사람들은 결국 그것이 자신들을 대체할지도 모른다고 우려한다."
+    },
+    {
+     "en": "A survey by a consultancy finds that frontline workers are more likely to be concerned, and less likely to be optimistic, about AI than managers or leaders are.",
+     "ko": "한 컨설팅 회사의 조사에 따르면 일선 근로자들이 관리자나 경영진보다 AI에 대해 우려할 가능성이 더 높고 낙관할 가능성은 더 낮다."
+    },
+    {
+     "en": "In some cases, unions may act to slow the adoption of the technology; some may go as far as the writers’ guild in Hollywood, which was on strike for much of 2023, in part because of concerns about AI’s impact on jobs.",
+     "ko": "경우에 따라 노조는 이 기술의 도입을 늦추려고 나설 수도 있으며, 일부는 2023년 대부분 동안 파업을 벌인 할리우드 작가 조합처럼 일자리에 대한 AI의 영향에 대한 우려 때문에 그 정도까지 나아갈 수도 있다."
+    }
+   ],
+   "choices_ko": [
+    "공공 부문의 관리자들은 혁신하려는 충동을 느끼지 못할 수 있다.",
+    "AI를 사용하는 것은 이전의 접근하기 쉬운 기술들보다 가치가 낮다.",
+    "AI는 환각이나 가짜 뉴스를 만들어 내기 쉽다.",
+    "많은 기업이 부유한 관리자들을 돕는 것을 만들기 위해 AI를 사용하고 있다.",
+    "AI는 기업에 큰 가능성을 주지만 우리는 하룻밤 사이의 도입을 기대해서는 안 된다."
+   ]
+  },
+  {
+   "no": 24,
+   "passage": null,
+   "stem": "The one which has the different opinion from others is______.",
+   "box": "Ⓐ When students type questions for an assignment on ChatGPT, the latter responds with explanations and examples. It provides students with an alternative way of answering assignment questions.\nⒷ ChatGPT can speak out the responses for students with sight impairments. It can also summarize the topics or concepts from a course for students with learning disabilities.\nⒸ ChatGPT can understand students’ learning styles, providing a personalized learning experience. It can analyze students’ academic performance and structure the course to meet their requirements.\nⒹ Using ChatGPT in higher education can assist professors in multiple ways. For example, it can develop a comprehensive lesson plan for a course. It can also provide access to links containing additional educational resources for a course.\nⒺ Using ChatGPT for writing assignments will only promote cheating and plagiarism. Since ChatGPT generates responses quickly, it will decrease students’ abilities to brainstorm, think critically, and be creative with their answers.",
+   "choices": [
+    "Ⓐ",
+    "Ⓑ",
+    "Ⓒ",
+    "Ⓓ",
+    "Ⓔ"
+   ],
+   "answer": 5,
+   "points": 2.1,
+   "explain": "Ⓐ~Ⓓ는 ChatGPT의 교육적 장점을 말하지만, Ⓔ만 부정행위와 표절을 조장하고 사고력을 떨어뜨린다는 부정적 견해이다.",
+   "trans": "글쓰기 과제에 ChatGPT를 사용하는 것은 부정행위와 표절만 조장할 것이다.",
+   "sents": [
+    {
+     "en": "The one which has the different opinion from others is______.",
+     "ko": "다른 것들과 의견이 다른 하나는 ( 빈칸: Ⓔ )이다."
+    },
+    {
+     "en": "Ⓐ When students type questions for an assignment on ChatGPT, the latter responds with explanations and examples.",
+     "ko": "Ⓐ 학생들이 과제 질문을 ChatGPT에 입력하면, ChatGPT는 설명과 예시로 응답한다."
+    },
+    {
+     "en": "It provides students with an alternative way of answering assignment questions.",
+     "ko": "그것은 학생들에게 과제 질문에 답하는 대안적 방법을 제공한다."
+    },
+    {
+     "en": "Ⓑ ChatGPT can speak out the responses for students with sight impairments.",
+     "ko": "Ⓑ ChatGPT는 시각 장애가 있는 학생들을 위해 응답을 소리 내어 읽어 줄 수 있다."
+    },
+    {
+     "en": "It can also summarize the topics or concepts from a course for students with learning disabilities.",
+     "ko": "또한 학습 장애가 있는 학생들을 위해 강의의 주제나 개념을 요약해 줄 수도 있다."
+    },
+    {
+     "en": "Ⓒ ChatGPT can understand students’ learning styles, providing a personalized learning experience.",
+     "ko": "Ⓒ ChatGPT는 학생들의 학습 방식을 이해하여 개인 맞춤형 학습 경험을 제공할 수 있다."
+    },
+    {
+     "en": "It can analyze students’ academic performance and structure the course to meet their requirements.",
+     "ko": "그것은 학생들의 학업 성취도를 분석하고 그들의 요구에 맞게 강의를 구성할 수 있다."
+    },
+    {
+     "en": "Ⓓ Using ChatGPT in higher education can assist professors in multiple ways.",
+     "ko": "Ⓓ 고등교육에서 ChatGPT를 사용하면 교수들을 여러 방식으로 도울 수 있다."
+    },
+    {
+     "en": "For example, it can develop a comprehensive lesson plan for a course.",
+     "ko": "예를 들어 강의를 위한 종합적인 수업 계획을 만들 수 있다."
+    },
+    {
+     "en": "It can also provide access to links containing additional educational resources for a course.",
+     "ko": "또한 강의를 위한 추가 교육 자료가 담긴 링크에 접근하게 해 줄 수도 있다."
+    },
+    {
+     "en": "Ⓔ Using ChatGPT for writing assignments will only promote cheating and plagiarism.",
+     "ko": "Ⓔ 글쓰기 과제에 ChatGPT를 사용하는 것은 부정행위와 표절만 조장할 것이다."
+    },
+    {
+     "en": "Since ChatGPT generates responses quickly, it will decrease students’ abilities to brainstorm, think critically, and be creative with their answers.",
+     "ko": "ChatGPT는 응답을 빠르게 생성하므로, 학생들이 아이디어를 짜내고 비판적으로 사고하며 답을 창의적으로 만들어 내는 능력을 떨어뜨릴 것이다."
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 25,
+   "passage": null,
+   "stem": "The underlined <u>“this evaluation”</u> would mean that.",
+   "box": "China disagrees with <u>this evaluation</u>. The Chinese are calling for an end to “hegemonism” — the Chinese and Russian codeword for domination of the world by a single power. Yet all the signs are that China is positioning itself to be the next great hegemon. China has been recruiting nations in South America, the Middle East, and Asia for what it has specifically told each of them will be the “new world order,” one that will put an end to the “gunboat diplomacy,” “neo-colonialism,” and the “hegemonism” of an unnamed rival power. That unnamed power is the United States.",
+   "choices": [
+    "China’s future is not bright",
+    "China will face technological challenges",
+    "China will be next super power",
+    "China will give up one-child policy",
+    "China would never be equal to the United States"
+   ],
+   "answer": 3,
+   "points": 2.1,
+   "explain": "중국은 '패권주의'의 종식을 외치며 그 평가에 동의하지 않지만, 모든 징후는 중국이 차기 패권국이 되려 한다는 것이므로 this evaluation은 '중국이 차기 초강대국이 될 것'이다.",
+   "trans": "그러나 모든 징후는 중국이 차기 거대 패권국이 되기 위한 입지를 다지고 있음을 보여준다.",
+   "sents": [
+    {
+     "en": "The underlined “this evaluation” would mean that.",
+     "ko": "밑줄 친 'this evaluation'이 의미하는 것은 ( 빈칸 )라는 것이다."
+    },
+    {
+     "en": "China disagrees with this evaluation.",
+     "ko": "중국은 이러한 평가에 동의하지 않는다."
+    },
+    {
+     "en": "The Chinese are calling for an end to “hegemonism” — the Chinese and Russian codeword for domination of the world by a single power.",
+     "ko": "중국인들은 '패권주의'의 종식을 요구하는데, 이는 한 강대국이 세계를 지배하는 것을 가리키는 중국과 러시아의 암호 같은 말이다."
+    },
+    {
+     "en": "Yet all the signs are that China is positioning itself to be the next great hegemon.",
+     "ko": "그러나 모든 징후는 중국이 차기 거대 패권국이 되려고 자리를 잡고 있음을 보여 준다."
+    },
+    {
+     "en": "China has been recruiting nations in South America, the Middle East, and Asia for what it has specifically told each of them will be the “new world order,” one that will put an end to the “gunboat diplomacy,” “neo-colonialism,” and the “hegemonism” of an unnamed rival power.",
+     "ko": "중국은 남미, 중동, 아시아의 나라들을 끌어들여 왔는데, 각 나라에 구체적으로 '새로운 세계 질서'가 될 것이라고 말해 왔으며, 그것은 이름을 밝히지 않은 경쟁 강대국의 '포함 외교', '신식민주의', '패권주의'를 끝낼 질서라고 했다."
+    },
+    {
+     "en": "That unnamed power is the United States.",
+     "ko": "그 이름 없는 강대국은 미국이다."
+    }
+   ],
+   "choices_ko": [
+    "중국의 미래는 밝지 않다",
+    "중국은 기술적 도전에 직면할 것이다",
+    "중국은 차기 초강대국이 될 것이다",
+    "중국은 한 자녀 정책을 포기할 것이다",
+    "중국은 결코 미국과 대등해지지 못할 것이다"
+   ]
+  },
+  {
+   "no": 26,
+   "passage": null,
+   "stem": "The best title of the following passage would be ______.",
+   "box": "Perhaps the most effective weapon in a hacker’s arsenal is “spear phishing” — using personal information gathered about an intended target to send them an individually tailored message. An email seemingly written by a friend, or a link related to the target’s hobbies, has a high chance of avoiding suspicion. This method is currently quite labor intensive, requiring the would-be hacker to manually conduct detailed research on each of their intended targets. However, an AI similar to chatbots could be used to automatically construct personalized messages for large numbers of people using data obtained from their browsing history, emails and tweets.",
+   "choices": [
+    "Enhancing Hacker Tactics with AI",
+    "How to Identify Spam Mails",
+    "Avoiding the Targets of Hackers",
+    "Emails Can Be Dangerous",
+    "Personalized Message Produced by AI"
+   ],
+   "answer": 1,
+   "points": 2.0,
+   "explain": "노동집약적인 스피어 피싱을 AI가 자동화해 대량으로 수행할 수 있다는 내용이므로 'AI로 강화되는 해커 전술'이 제목이다. ⑤는 해킹이라는 핵심이 빠져 있다.",
+   "trans": "그러나 챗봇과 유사한 AI가 검색 기록, 이메일, 트윗에서 얻은 데이터를 이용해 많은 사람에게 맞춤형 메시지를 자동으로 만드는 데 사용될 수 있다.",
+   "sents": [
+    {
+     "en": "The best title of the following passage would be ______.",
+     "ko": "다음 글의 가장 좋은 제목은 ( 빈칸 )일 것이다."
+    },
+    {
+     "en": "Perhaps the most effective weapon in a hacker’s arsenal is “spear phishing” — using personal information gathered about an intended target to send them an individually tailored message.",
+     "ko": "해커의 무기고에서 아마도 가장 효과적인 무기는 '스피어 피싱'일 것이다. 이는 표적으로 삼은 대상에 대해 수집한 개인 정보를 이용해 그 사람에게 개별 맞춤형 메시지를 보내는 것이다."
+    },
+    {
+     "en": "An email seemingly written by a friend, or a link related to the target’s hobbies, has a high chance of avoiding suspicion.",
+     "ko": "친구가 쓴 것처럼 보이는 이메일이나 표적의 취미와 관련된 링크는 의심을 피할 가능성이 높다."
+    },
+    {
+     "en": "This method is currently quite labor intensive, requiring the would-be hacker to manually conduct detailed research on each of their intended targets.",
+     "ko": "이 방법은 현재 상당히 노동 집약적이어서, 해커가 되려는 사람이 표적 하나하나에 대해 수작업으로 상세한 조사를 해야 한다."
+    },
+    {
+     "en": "However, an AI similar to chatbots could be used to automatically construct personalized messages for large numbers of people using data obtained from their browsing history, emails and tweets.",
+     "ko": "그러나 챗봇과 유사한 AI는 검색 기록, 이메일, 트윗에서 얻은 데이터를 이용해 많은 사람을 위한 맞춤형 메시지를 자동으로 만드는 데 쓰일 수 있다."
+    }
+   ],
+   "choices_ko": [
+    "AI로 해커의 전술을 강화하기",
+    "스팸 메일을 식별하는 방법",
+    "해커의 표적이 되는 것을 피하기",
+    "이메일은 위험할 수 있다",
+    "AI가 만들어 낸 맞춤형 메시지"
+   ]
+  },
+  {
+   "no": 27,
+   "passage": null,
+   "stem": "Which one is true of the passage?",
+   "box": "Most rabbits have, in their skill set, the ability to pretend that they’re healthy even when they’re quite sick. It’s sort of the inverse of playing possum, but done for the same purpose, namely, to deflect attention from predators, who would consider a sick rabbit easy pickings. As a result of this playacting, rabbits often die suddenly — or what appears to be suddenly — when, in fact, they’ve been sick for a while.",
+   "choices": [
+    "Rabbits may die without being sick.",
+    "It’s not easy to keep rabbits as a pet.",
+    "Rabbits pretend to be dead before the predators.",
+    "In fact, rabbits are smarter than the possums.",
+    "It’s not surprising for a rabbit to die all of a sudden."
+   ],
+   "answer": 5,
+   "points": 2.0,
+   "explain": "토끼는 아파도 건강한 척하기 때문에 갑자기 죽는 것처럼 보이는 일이 흔하다고 했으므로 ⑤가 맞다. ③은 죽은 척(playing possum)과 반대이고, ①은 실제로는 오래 아팠다는 내용과 어긋난다.",
+   "trans": "이런 연기의 결과로, 토끼는 사실 한동안 아팠는데도 종종 갑자기, 혹은 갑자기인 것처럼 보이게 죽는다.",
+   "sents": [
+    {
+     "en": "Which one is true of the passage?",
+     "ko": "다음 글에 대해 옳은 것은?"
+    },
+    {
+     "en": "Most rabbits have, in their skill set, the ability to pretend that they’re healthy even when they’re quite sick.",
+     "ko": "대부분의 토끼는 아주 아플 때조차 건강한 척할 수 있는 능력을 기술로 갖고 있다."
+    },
+    {
+     "en": "It’s sort of the inverse of playing possum, but done for the same purpose, namely, to deflect attention from predators, who would consider a sick rabbit easy pickings.",
+     "ko": "이것은 죽은 척하기(playing possum)의 반대 같은 것이지만 같은 목적, 즉 아픈 토끼를 쉬운 먹잇감으로 여길 포식자들의 주의를 돌리기 위해 하는 것이다."
+    },
+    {
+     "en": "As a result of this playacting, rabbits often die suddenly — or what appears to be suddenly — when, in fact, they’ve been sick for a while.",
+     "ko": "이런 연기의 결과로 토끼는 사실은 한동안 아팠으면서도 갑자기, 혹은 갑작스러워 보이게 죽는 일이 흔하다."
+    }
+   ],
+   "choices_ko": [
+    "토끼는 아프지 않아도 죽을 수 있다.",
+    "토끼를 애완동물로 기르기는 쉽지 않다.",
+    "토끼는 포식자 앞에서 죽은 척한다.",
+    "사실 토끼는 주머니쥐보다 영리하다.",
+    "토끼가 갑자기 죽는 것은 놀라운 일이 아니다."
+   ]
+  },
+  {
+   "no": 28,
+   "passage": "p28",
+   "stem": "The underlined Ⓐ“<u>It is more hieroglyph than drawing</u>” means that it is more '_________'.",
+   "choices": [
+    "contradictory than confirming",
+    "biased than impartial",
+    "conceptual than graphic",
+    "appalling than peaceful",
+    "established than temporary"
+   ],
+   "answer": 3,
+   "points": 2.0,
+   "explain": "아이의 집 그림은 실제 모습을 그린 것이 아니라 '집이라는 개념을 일반적으로 나타내는' 상징이므로, 그림이라기보다 상형문자라는 것은 '시각적 묘사보다 개념적'이라는 뜻이다.",
+   "trans": "그것은 그림이라기보다는 상형문자에 가깝다. 그것은 집, 혹은 가정이라는 관념을 일반적으로 나타내는 것이다.",
+   "sents": [
+    {
+     "en": "The underlined Ⓐ“It is more hieroglyph than drawing” means that it is more '_________'.",
+     "ko": "밑줄 친 Ⓐ'It is more hieroglyph than drawing'은 그것이 그림이라기보다 더 '_________'하다는 뜻이다."
+    }
+   ],
+   "choices_ko": [
+    "확증적이라기보다 모순적인",
+    "공평하다기보다 편향된",
+    "그래픽적이라기보다 개념적인",
+    "평화롭다기보다 끔찍한",
+    "일시적이라기보다 확립된"
+   ]
+  },
+  {
+   "no": 29,
+   "passage": "p28",
+   "stem": "The underlined Ⓑ“It is a good-enough map” may suggest that the drawing by children '________'.",
+   "choices": [
+    "locates the exact place",
+    "fulfills its purpose",
+    "characterizes a terrifying moment",
+    "is more vivid than the picture",
+    "is actually very creative yet controversial"
+   ],
+   "answer": 2,
+   "points": 2.0,
+   "explain": "그림을 그린 아이도 보는 사람들도 그것이 집이라는 것을 알기 때문에 '그 정도면 충분한 지도'라고 했으므로, 제 목적을 다한다(fulfills its purpose)는 뜻이다.",
+   "trans": "그러나 그것은 거의 언제나 충분하다. 그림을 그린 아이는 그것이 집이라는 것을 알고, 그림을 보는 다른 아이들과 어른들도 그것이 집이라는 것을 안다.",
+   "sents": [
+    {
+     "en": "The underlined Ⓑ“It is a good-enough map” may suggest that the drawing by children '________'.",
+     "ko": "밑줄 친 Ⓑ'It is a good-enough map'은 아이들의 그림이 '________'임을 시사할 수 있다."
+    }
+   ],
+   "choices_ko": [
+    "정확한 장소를 알려 준다",
+    "그 목적을 달성한다",
+    "끔찍한 순간을 특징짓는다",
+    "그림보다 더 생생하다",
+    "사실 매우 창의적이지만 논란의 여지가 있다"
+   ]
+  },
+  {
+   "no": 30,
+   "passage": "p28",
+   "stem": "According to the above passage, the author thinks that the understanding of old memories is, in some sense, '_______'.",
+   "choices": [
+    "an exaggeration of the reality",
+    "the unchanging fact",
+    "a prerequisite to experience itself",
+    "the contradiction of the reality",
+    "the benevolent solar orb"
+   ],
+   "answer": 3,
+   "points": 2.0,
+   "explain": "몸은 마음이 아직 이해하지 못한 것을 기억하며 이해가 확립되기를 요구하고 그 요구에서 벗어날 수 없다고 했으므로, 기억에 대한 이해는 경험 자체의 필수 전제 조건과 같다.",
+   "trans": "그러나 몸은 마음이 아직 이해하지 못하는 것을 안다. 그리고 그것을 기억한다. 그리고 이해가 확립되기를 요구한다.",
+   "sents": [
+    {
+     "en": "According to the above passage, the author thinks that the understanding of old memories is, in some sense, '_______'.",
+     "ko": "위 글에 따르면, 필자는 오래된 기억에 대한 이해가 어떤 의미에서 '_______'라고 생각한다."
+    }
+   ],
+   "choices_ko": [
+    "현실의 과장",
+    "변하지 않는 사실",
+    "경험 자체의 전제 조건",
+    "현실의 모순",
+    "자애로운 태양"
+   ]
+  },
+  {
+   "no": 31,
+   "passage": "p31",
+   "stem": "The underlined part “he is painfully aware of his limitations” may suggest that _________.",
+   "choices": [
+    "most people in Senegal choose to migrate anyway",
+    "Senegal is the safest country in Africa",
+    "Europe is too dangerous to live",
+    "only young authorities are aware of the danger",
+    "people with low incomes may pay higher tax than the rich"
+   ],
+   "answer": 1,
+   "points": 2.0,
+   "explain": "디우프의 노력에도 불구하고 최근 대서양 횡단 이주가 다시 늘고 있다고 했으므로, 그의 한계란 결국 많은 세네갈 사람들이 이주를 택한다는 것이다.",
+   "trans": "그러나 그는 자신의 한계를 뼈저리게 알고 있다.",
+   "sents": [
+    {
+     "en": "The underlined part “he is painfully aware of his limitations” may suggest that _________.",
+     "ko": "밑줄 친 부분 'he is painfully aware of his limitations'는 _________임을 시사할 수 있다."
+    }
+   ],
+   "choices_ko": [
+    "세네갈의 대부분 사람들은 어쨌든 이주하기로 선택한다",
+    "세네갈은 아프리카에서 가장 안전한 나라이다",
+    "유럽은 살기에 너무 위험하다",
+    "오직 젊은 당국자들만 위험을 알고 있다",
+    "저소득층이 부유층보다 더 높은 세금을 낼 수도 있다"
+   ]
+  },
+  {
+   "no": 32,
+   "passage": "p31",
+   "stem": "According to the passage, Mr. Diouf _______.",
+   "choices": [
+    "did not experience a disastrous voyage at sea",
+    "concedes that it is getting easier to make his case",
+    "is fighting an uphill battle against emigration",
+    "has become an accomplice in his colleagues’ deaths",
+    "thinks that Senegal has all different kinds of jobs which are scarce in Europe"
+   ],
+   "answer": 3,
+   "points": 2.0,
+   "explain": "대통령은 답장이 없고 EU 방문은 비자가 거부되었으며 이주는 다시 늘고 있으므로, 그는 이주를 막기 위해 힘겨운 싸움(uphill battle)을 하고 있다. ①은 경험이 끔찍했다는 내용과 어긋난다.",
+   "trans": "그러나 최근 그 경로는 특히 일자리를 구하기 힘든 젊은이들과 어획량이 계속 줄어드는 어부들 사이에서 다시 인기를 얻고 있다.",
+   "sents": [
+    {
+     "en": "According to the passage, Mr. Diouf _______.",
+     "ko": "위 글에 따르면 디우프 씨는 _______."
+    }
+   ],
+   "choices_ko": [
+    "바다에서 참담한 항해를 겪지 않았다",
+    "자신의 주장을 펴기가 점점 쉬워지고 있음을 인정한다",
+    "이주에 맞서 힘겨운 싸움을 하고 있다",
+    "동료들의 죽음에 공범이 되었다",
+    "세네갈에는 유럽에서 부족한 온갖 종류의 일자리가 있다고 생각한다"
+   ]
+  },
+  {
+   "no": 33,
+   "passage": "p31",
+   "stem": "What kind of attitude does Mr. Diouf have?",
+   "choices": [
+    "optimistic",
+    "buoyant",
+    "indifferent",
+    "adamant",
+    "pliable"
+   ],
+   "answer": 4,
+   "points": 2.0,
+   "explain": "대통령의 무응답, 비자 거부에도 '그것이 그를 막지 못했다(has not held him back)'고 하므로 확고하고 단호한(adamant) 태도이다. pliable(유연한, 휘기 쉬운)은 반대이다.",
+   "trans": "그러나 그것이 그를 주저앉히지는 못했다.",
+   "sents": [
+    {
+     "en": "What kind of attitude does Mr. Diouf have?",
+     "ko": "디우프 씨는 어떤 태도를 가지고 있는가?"
+    }
+   ],
+   "choices_ko": [
+    "낙관적인",
+    "쾌활한, 들뜬",
+    "무관심한",
+    "단호한, 완강한",
+    "유순한, 잘 휘는"
+   ]
+  },
+  {
+   "no": 34,
+   "passage": "p34",
+   "stem": "The best expression on for the blank would be ______.",
+   "choices": [
+    "It makes sense",
+    "It’s not easy to say why",
+    "It is out of the question",
+    "There is no rule without exception",
+    "A picture is worth a thousand words"
+   ],
+   "answer": 2,
+   "points": 2.2,
+   "explain": "빈칸 뒤에서 '한 가지 이론은 ~'이라며 눈썹이 있는 이유에 대한 여러 설을 소개하므로, 그 이유를 말하기 쉽지 않다는 ②가 알맞다.",
+   "trans": "그 이유를 말하기는 쉽지 않다. 한 가지 이론은 눈썹이 땀이 눈에 들어가지 않게 하려고 있다는 것이다.",
+   "sents": [
+    {
+     "en": "The best expression on for the blank would be ______.",
+     "ko": "빈칸에 들어갈 가장 좋은 표현은 ( 빈칸 )일 것이다."
+    }
+   ],
+   "choices_ko": [
+    "말이 된다",
+    "왜 그런지 말하기 쉽지 않다",
+    "불가능하다, 말도 안 된다",
+    "예외 없는 규칙은 없다",
+    "백문이 불여일견"
+   ]
+  },
+  {
+   "no": 35,
+   "passage": "p34",
+   "stem": "According to the experiment, the best way to disguise oneself would be _______.",
+   "choices": [
+    "to wear full make-up",
+    "to hide your mouth",
+    "to put on sunglasses",
+    "to dye one’s hair",
+    "to cover eyebrows"
+   ],
+   "answer": 5,
+   "points": 2.2,
+   "explain": "실험에서 사람들은 눈이 없는 사진보다 눈썹이 없는 사진에서 유명인을 알아보기 더 어려워했으므로, 변장하려면 눈썹을 가리는 것이 가장 좋다. 선글라스(눈 가리기)는 함정이다.",
+   "trans": "놀랍게도, 그러나 압도적으로, 지원자들은 눈이 없을 때보다 눈썹이 없을 때 유명인을 알아보기 더 어려워했다.",
+   "sents": [
+    {
+     "en": "According to the experiment, the best way to disguise oneself would be _______.",
+     "ko": "실험에 따르면 자신을 가장 잘 위장하는 방법은 _______일 것이다."
+    }
+   ],
+   "choices_ko": [
+    "화장을 완전히 하는 것",
+    "입을 가리는 것",
+    "선글라스를 쓰는 것",
+    "머리를 염색하는 것",
+    "눈썹을 가리는 것"
+   ]
+  },
+  {
+   "no": 36,
+   "passage": "p36",
+   "stem": "The author believes that _________.",
+   "choices": [
+    "surveillance capitalism cannot be explained by our knowledge itself",
+    "the division of learning in society has been hijacked by surveillance capitalism",
+    "the processing of information is detrimental to the surveillance capitalist corporations",
+    "the bosses of the company are not aware of the accumulation of information",
+    "people in the powerful forces of industrial capital are less likely to be affected by surveillance capitalism"
+   ],
+   "answer": 2,
+   "points": 2.0,
+   "explain": "지식의 집중이 '사회의 학습 분업의 무단 사유화'로 이해되어야 한다고 했으므로, 감시 자본주의가 사회의 학습 분업을 장악했다는 ②가 저자의 생각이다.",
+   "trans": "이는 사회의 학습 분업의 무단 사유화로 이해되어야 한다.",
+   "sents": [
+    {
+     "en": "The author believes that _________.",
+     "ko": "필자는 _________라고 믿는다."
+    }
+   ],
+   "choices_ko": [
+    "감시 자본주의는 우리의 지식 자체로는 설명될 수 없다",
+    "사회의 학습 분업이 감시 자본주의에 의해 탈취되어 왔다",
+    "정보 처리는 감시 자본주의 기업들에 해롭다",
+    "회사의 경영진은 정보 축적을 인식하지 못한다",
+    "산업 자본이라는 강력한 세력에 속한 사람들은 감시 자본주의의 영향을 덜 받는다"
+   ]
+  },
+  {
+   "no": 37,
+   "passage": "p36",
+   "stem": "According to the author, lobbying for an end to commercial surveillance on the internet is ________.",
+   "choices": [
+    "inconceivable",
+    "confidential",
+    "sequential",
+    "persuasive",
+    "attainable"
+   ],
+   "answer": 1,
+   "points": 2.0,
+   "explain": "상업적 감시의 종식을 위한 로비는 헨리 포드에게 모델 T를 하나하나 손으로 만들라고 요구하는 것과 같다고 했으므로, 상상할 수 없는(실현 불가능한) 일이다. attainable(달성 가능한)은 반대이다.",
+   "trans": "감시 자본가들에게 프라이버시를 요구하거나 인터넷 상업적 감시의 종식을 위해 로비하는 것은 헨리 포드에게 모델 T를 하나하나 손으로 만들라고 요구하는 것과 같다.",
+   "sents": [
+    {
+     "en": "According to the author, lobbying for an end to commercial surveillance on the internet is ________.",
+     "ko": "필자에 따르면 인터넷상의 상업적 감시를 끝내라고 로비하는 것은 ________이다."
+    }
+   ],
+   "choices_ko": [
+    "상상도 할 수 없는",
+    "기밀의, 은밀한",
+    "순차적인, 연속적인",
+    "설득력 있는",
+    "달성할 수 있는"
+   ]
+  },
+  {
+   "no": 38,
+   "passage": "p36",
+   "stem": "The most appropriate expression for the blank is ______.",
+   "choices": [
+    "asymmetries",
+    "equal rights",
+    "laws",
+    "requirements",
+    "illusions"
+   ],
+   "answer": 1,
+   "points": 2.0,
+   "explain": "기업은 우리에 대해 많이 알지만 우리는 그들의 지식에 거의 접근할 수 없다고 했으므로, 지식과 권력의 '비대칭(asymmetries)'이 알맞다.",
+   "trans": "전례 없는 지식의 집중은 그에 못지않게 전례 없는 권력의 집중, 즉 비대칭을 낳는다.",
+   "sents": [
+    {
+     "en": "The most appropriate expression for the blank is ______.",
+     "ko": "빈칸에 가장 적절한 표현은 ( 빈칸 )이다."
+    }
+   ],
+   "choices_ko": [
+    "비대칭",
+    "평등권",
+    "법",
+    "요건",
+    "환상"
+   ]
+  },
+  {
+   "no": 39,
+   "passage": "p39",
+   "stem": "According to the passage, which one is NOT relevant to others?",
+   "choices": [
+    "political instability",
+    "indigenous warfare",
+    "a dictatorial government",
+    "a dishonest judicial system",
+    "a harmonious society"
+   ],
+   "answer": 5,
+   "points": 2.0,
+   "explain": "①~④는 낮은 신용등급을 받는 요인(전제 정부, 고질적 전쟁, 부패한 사법 제도)과 관련되지만 ⑤ 조화로운 사회는 높은 신용등급의 요인이다.",
+   "trans": "전제적인 정부, 고질적인 전쟁, 부패한 사법 제도를 가진 석유 부국은 대개 낮은 신용등급을 받을 것이다.",
+   "sents": [
+    {
+     "en": "According to the passage, which one is NOT relevant to others?",
+     "ko": "위 글에 따르면 다른 것들과 관련이 없는 것은?"
+    }
+   ],
+   "choices_ko": [
+    "정치적 불안정",
+    "토착 전쟁(고유의 전쟁)",
+    "독재 정부",
+    "부정직한 사법 제도",
+    "조화로운 사회"
+   ]
+  },
+  {
+   "no": 40,
+   "passage": "p39",
+   "stem": "The most appropriate words for the blanks Ⓐ and Ⓑ are _______.",
+   "choices": [
+    "natural resources / As such",
+    "free government systems / Conversely",
+    "judicial systems / In the end",
+    "overseas deals / In conclusion",
+    "education systems / However"
+   ],
+   "answer": 1,
+   "points": 2.0,
+   "explain": "Ⓐ 석유 부국도 신용등급이 낮으면 가난하다는 예로 보아 신용등급이 천연자원보다 중요하다. Ⓑ 높은 신용등급을 받은 결과로 값싼 자본을 조달할 수 있으므로 As such(그러므로)가 알맞다.",
+   "trans": "오늘날 한 나라의 신용등급이 그 나라의 경제적 안녕에 천연자원보다 훨씬 더 중요한 이유가 바로 이것이다.",
+   "sents": [
+    {
+     "en": "The most appropriate words for the blanks Ⓐ and Ⓑ are _______.",
+     "ko": "빈칸 Ⓐ와 Ⓑ에 들어갈 가장 적절한 말은 _______이다."
+    }
+   ],
+   "choices_ko": [
+    "천연자원 / 따라서",
+    "자유로운 정부 체제 / 반대로",
+    "사법 제도 / 결국",
+    "해외 거래 / 결론적으로",
+    "교육 제도 / 그러나"
+   ]
+  },
+  {
+   "no": 41,
+   "passage": "p41",
+   "stem": "The most appropriate expression for the blank would be ______.",
+   "choices": [
+    "invisible hand",
+    "golden ratio",
+    "accident fallacy",
+    "vicious circle",
+    "natural selection"
+   ],
+   "answer": 5,
+   "points": 2.0,
+   "explain": "야외 예술은 비바람에 노출되어 사라지고 동굴 벽화만 보호받아 살아남았다는 설명이므로, 살아남은 것만 남는 '자연 선택(natural selection)' 과정이다.",
+   "trans": "동굴이 담고 있는 예술은 단순한 자연 선택의 과정을 통해 우리에게 전해졌으므로, 동굴에 대한 특별한 애착을 가정할 필요도 없다.",
+   "sents": [
+    {
+     "en": "The most appropriate expression for the blank would be ______.",
+     "ko": "빈칸에 들어갈 가장 적절한 표현은 ( 빈칸 )일 것이다."
+    }
+   ],
+   "choices_ko": [
+    "보이지 않는 손",
+    "황금비",
+    "우연의 오류",
+    "악순환",
+    "자연선택"
+   ]
+  },
+  {
+   "no": 42,
+   "passage": "p41",
+   "stem": "Which is true of the above passage?",
+   "choices": [
+    "Cavemen showed the great artistry.",
+    "Cavemen used caves for their art exhibition.",
+    "Paleolithic people drew pictures of animals they hunted.",
+    "Cave paintings are found even in the uninhabitable caves.",
+    "Paleolithic artists used the different kinds of colors on human bodies."
+   ],
+   "answer": 4,
+   "points": null,
+   "explain": "장식된 동굴에는 사람이 계속 거주한 증거가 없고 가장 깊고 접근하기 어려운 틈에도 그림이 있다고 했으므로 ④가 맞다. ⑤는 '같은 종류의 황토'를 썼다는 내용과 어긋난다.",
+   "trans": "사실 장식된 동굴들에는 사람이 지속적으로 거주한 증거가 없으며, 가장 깊고 접근하기 어려운 틈에는 더더욱 없다.",
+   "sents": [
+    {
+     "en": "Which is true of the above passage?",
+     "ko": "위 글에 대해 옳은 것은?"
+    }
+   ],
+   "choices_ko": [
+    "동굴인들은 위대한 예술성을 보여 주었다.",
+    "동굴인들은 동굴을 미술 전시에 사용했다.",
+    "구석기 사람들은 자신이 사냥한 동물의 그림을 그렸다.",
+    "동굴 벽화는 사람이 살 수 없는 동굴에서도 발견된다.",
+    "구석기 예술가들은 인체에 다른 종류의 색을 사용했다."
+   ]
+  },
+  {
+   "no": 43,
+   "passage": "p43",
+   "stem": "The most appropriate expression for the blank would be ______.",
+   "choices": [
+    "contagious",
+    "dangerous",
+    "immature",
+    "brave",
+    "curious"
+   ],
+   "answer": 2,
+   "points": 2.2,
+   "explain": "뒤에서 총을 만지작거리다 실수로 총을 쏜 일들이 이어지므로, 서툰 사냥꾼일 뿐 아니라 '위험한(dangerous)' 사냥꾼이었다는 것이 알맞다.",
+   "trans": "서툰 사슴 사냥꾼이었을 뿐 아니라, 나는 위험하기도 했다.",
+   "sents": [
+    {
+     "en": "The most appropriate expression for the blank would be ______.",
+     "ko": "빈칸에 들어갈 가장 적절한 표현은 ( 빈칸 )일 것이다."
+    }
+   ],
+   "choices_ko": [
+    "전염성이 있는",
+    "위험한",
+    "미숙한",
+    "용감한",
+    "호기심 많은"
+   ]
+  },
+  {
+   "no": 44,
+   "passage": "p43",
+   "stem": "If the given passage is divided into three paragraphs, the best boundary would be _______.",
+   "choices": [
+    "Ⓐ and Ⓒ",
+    "Ⓐ and Ⓓ",
+    "Ⓑ and Ⓓ",
+    "Ⓑ and Ⓔ",
+    "Ⓒ and Ⓔ"
+   ],
+   "answer": 1,
+   "points": 2.2,
+   "explain": "사슴 앞에서 얼어붙은 일화 → Ⓐ부터 실수로 총을 쏜 일(위험한 사냥꾼) → Ⓒ부터 그 이유에 대해 거짓말을 한 이야기로 화제가 바뀐다.",
+   "trans": "나는 항상 그 이유에 대해 거짓말을 했다.",
+   "sents": [
+    {
+     "en": "If the given passage is divided into three paragraphs, the best boundary would be _______.",
+     "ko": "주어진 글을 세 개의 단락으로 나눈다면 가장 좋은 경계는 _______이다."
+    }
+   ],
+   "choices_ko": [
+    "Ⓐ와 Ⓒ",
+    "Ⓐ와 Ⓓ",
+    "Ⓑ와 Ⓓ",
+    "Ⓑ와 Ⓔ",
+    "Ⓒ와 Ⓔ"
+   ]
+  },
+  {
+   "no": 45,
+   "passage": "p43",
+   "stem": "It appears that the author _______.",
+   "choices": [
+    "didn’t want to kill the animals",
+    "missed target on purpose",
+    "didn’t know how to tell a lie",
+    "was clumsy with firearms",
+    "never made the same mistake again"
+   ],
+   "answer": 4,
+   "points": 2.2,
+   "explain": "총을 만지작거리다 실수로 쏘거나 눈송이를 받아먹으려다 총이 발사되는 등 총기를 다루는 데 서툴렀다. ①은 '살생에 의식적인 반대가 있어서가 아니다'라는 말과 어긋나고, ⑤는 같은 실수를 반복했으므로 틀리다.",
+   "trans": "몇 년 동안은 지루하고 추워서 총을 만지작거리다가 실수로 총을 쏘기도 했다.",
+   "sents": [
+    {
+     "en": "It appears that the author _______.",
+     "ko": "필자는 _______인 것으로 보인다."
+    }
+   ],
+   "choices_ko": [
+    "동물을 죽이고 싶지 않았다",
+    "일부러 과녁을 빗맞혔다",
+    "거짓말하는 법을 몰랐다",
+    "총기를 다루는 데 서툴렀다",
+    "같은 실수를 다시는 하지 않았다"
+   ]
+  },
+  {
+   "no": 46,
+   "passage": "p46",
+   "stem": "Edwin Hubble ___________.",
+   "choices": [
+    "thought the universe was expanding",
+    "wanted to prove Albert Einstein’s theory",
+    "didn’t realize that his finding showed the expansion of the universe",
+    "inspired Einstein to think about the theory of the cosmological constant",
+    "found something that made Einstein give up his theory of general relativity"
+   ],
+   "answer": 3,
+   "points": 2.0,
+   "explain": "허블은 실제로는 우주의 팽창을 발견했지만 그것이 팽창의 증거라고 믿지 않았다. 아인슈타인이 버린 것은 일반상대성이론이 아니라 우주상수 이론이므로 ⑤는 틀리다.",
+   "trans": "하지만 그가 실제로 발견한 것은 우주의 팽창이었다. ... 그는 이것이 팽창의 증거라고 믿지 않았다.",
+   "sents": [
+    {
+     "en": "Edwin Hubble ___________.",
+     "ko": "에드윈 허블은 ___________."
+    }
+   ],
+   "choices_ko": [
+    "우주가 팽창하고 있다고 생각했다",
+    "알베르트 아인슈타인의 이론을 증명하고 싶어 했다",
+    "자신의 발견이 우주의 팽창을 보여 준다는 것을 깨닫지 못했다",
+    "아인슈타인이 우주 상수 이론을 생각하도록 영감을 주었다",
+    "아인슈타인이 일반 상대성 이론을 포기하게 만든 무언가를 발견했다"
+   ]
+  },
+  {
+   "no": 47,
+   "passage": "p46",
+   "stem": "What does the underlined <u>“Einstein was sort of right”</u> mean?",
+   "choices": [
+    "Even Einstein could be wrong",
+    "Einstein’s idea was partially correct",
+    "Einstein’s theory is too ambiguous",
+    "Einstein knew finally he could prove everything",
+    "It was wise for Einstein to admit that he was wrong"
+   ],
+   "answer": 2,
+   "points": 2.0,
+   "explain": "우주는 정적이지 않다는 점에서는 틀렸지만 밀도가 일정하다는 점은 맞았으므로 '부분적으로 옳았다'는 뜻이다.",
+   "trans": "우주는 정적인 곳이 아니지만(빠르게 팽창하고 있지만), 우주의 밀도는 여전히 일정하게 유지된다.",
+   "sents": [
+    {
+     "en": "What does the underlined “Einstein was sort of right” mean?",
+     "ko": "밑줄 친 'Einstein was sort of right'는 무엇을 의미하는가?"
+    }
+   ],
+   "choices_ko": [
+    "아인슈타인조차 틀릴 수 있었다",
+    "아인슈타인의 생각은 부분적으로 옳았다",
+    "아인슈타인의 이론은 너무 모호하다",
+    "아인슈타인은 마침내 자신이 모든 것을 증명할 수 있음을 알았다",
+    "아인슈타인이 자신이 틀렸음을 인정한 것은 현명했다"
+   ]
+  },
+  {
+   "no": 48,
+   "passage": "p46",
+   "stem": "In the above passage, the universe is compared to _______.",
+   "choices": [
+    "TV set",
+    "some books",
+    "a table",
+    "living room",
+    "a cup of coffee"
+   ],
+   "answer": 4,
+   "points": 2.0,
+   "explain": "풍선처럼 팽창하는 거실이 우주에 비유되고, 커피 한 잔은 우주상수(일정한 밀도)에 비유되므로 답은 living room이다. ⑤는 함정이다.",
+   "trans": "이제 그 방이 풍선처럼 팽창하기 시작해 점점 커진다고 상상해 보라. ... 우리 우주도 마찬가지다.",
+   "sents": [
+    {
+     "en": "In the above passage, the universe is compared to _______.",
+     "ko": "위 글에서 우주는 _______에 비유된다."
+    }
+   ],
+   "choices_ko": [
+    "TV 수상기",
+    "몇 권의 책",
+    "탁자",
+    "거실",
+    "커피 한 잔"
+   ]
+  },
+  {
+   "no": 49,
+   "passage": "p49",
+   "stem": "What is true of the above passage?",
+   "choices": [
+    "China’s coffee shops cannot eventually expand beyond Beijing.",
+    "There will be no more growing demand for coffee in China.",
+    "China’s new thirst for coffee spurs cut-throat cafe competition.",
+    "China’s coffee consumption surpasses that of Japan and South Korea.",
+    "There is no competition between local and international chains in terms of coffee shops."
+   ],
+   "answer": 3,
+   "points": 2.0,
+   "explain": "커피 수요 증가 속에 현지 체인과 국제 체인 간 치열한 경쟁(harsh competition)이 벌어지고 있다고 했으므로 ③이 맞다.",
+   "trans": "현지 체인과 국제 체인 사이에는 치열한 경쟁이 있다.",
+   "sents": [
+    {
+     "en": "What is true of the above passage?",
+     "ko": "위 글에 대해 옳은 것은?"
+    }
+   ],
+   "choices_ko": [
+    "중국의 커피숍은 결국 베이징 너머로 확장될 수 없다.",
+    "중국에서 커피 수요는 더 이상 증가하지 않을 것이다.",
+    "커피에 대한 중국의 새로운 갈증이 치열한(살벌한) 카페 경쟁을 낳고 있다.",
+    "중국의 커피 소비량은 일본과 한국을 능가한다.",
+    "커피숍 면에서 현지 체인과 국제 체인 사이에는 경쟁이 없다."
+   ]
+  },
+  {
+   "no": 50,
+   "passage": "p49",
+   "stem": "The underlined <u>“facing off against the other”</u> means that they are ‘________’.",
+   "choices": [
+    "encountering dynamic cultural change",
+    "competing with each other",
+    "deliberately purchasing the affordable coffee",
+    "moderately tracking the growth of new coffee chains",
+    "overweighing international chains like Starbucks over local ones"
+   ],
+   "answer": 2,
+   "points": 2.0,
+   "explain": "face off against는 '~와 맞서다, 대결하다'로, 현지 체인과 국제 체인이 서로 경쟁한다는 뜻이다.",
+   "trans": "기회의 규모가 커서 현지 체인과 국제 체인 모두 서로 맞서는 데 매우 공격적이어야 할 것이다.",
+   "sents": [
+    {
+     "en": "The underlined “facing off against the other” means that they are ‘________’.",
+     "ko": "밑줄 친 'facing off against the other'는 그들이 '________'하고 있다는 뜻이다."
+    }
+   ],
+   "choices_ko": [
+    "역동적인 문화적 변화에 직면하고",
+    "서로 경쟁하고",
+    "일부러 저렴한 커피를 구매하고",
+    "새 커피 체인의 성장을 적당히 추적하고",
+    "스타벅스 같은 국제 체인을 현지 체인보다 더 중시하고"
+   ]
+  }
+ ],
+ "glossary": {
+  "sedentary": {
+   "ko": "주로 앉아서 지내는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "sedentary"
+   ]
+  },
+  "desk-bound": {
+   "ko": "책상에 매인, 앉아서 일하는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "desk-bound"
+   ]
+  },
+  "lustful": {
+   "ko": "음탕한, 욕정에 찬",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "lustful"
+   ]
+  },
+  "innocent": {
+   "ko": "순진한, 무죄의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "innocent"
+   ]
+  },
+  "hypnotize": {
+   "ko": "최면을 걸다, 매혹하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "hypnotizing"
+   ]
+  },
+  "bewitching": {
+   "ko": "황홀하게 하는, 매혹적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "bewitching"
+   ]
+  },
+  "skimp on": {
+   "ko": "~을 아끼다, 찔끔 쓰다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "skimp on"
+   ]
+  },
+  "skimp": {
+   "ko": "(돈·노력을) 아끼다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "skimp"
+   ]
+  },
+  "feast": {
+   "ko": "잔치, 축제",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "feast"
+   ]
+  },
+  "livelihood": {
+   "ko": "생계, 생활 수단",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "livelihood"
+   ]
+  },
+  "reinforce": {
+   "ko": "강화하다, 보강하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "reinforce"
+   ]
+  },
+  "grumble": {
+   "ko": "투덜대다, 불평하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "grumble"
+   ]
+  },
+  "cut back on": {
+   "ko": "~을 줄이다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "cut back on"
+   ]
+  },
+  "pile up": {
+   "ko": "쌓이다, 축적되다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "pile up"
+   ]
+  },
+  "decommission": {
+   "ko": "(시설을) 해체하다, 운용 중단하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "decommissioned"
+   ]
+  },
+  "remediation": {
+   "ko": "(환경) 정화, 교정",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "remediation"
+   ]
+  },
+  "deactivate": {
+   "ko": "가동을 중지시키다, 비활성화하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "deactivated"
+   ]
+  },
+  "free of charge": {
+   "ko": "무료로",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "free of charge"
+   ]
+  },
+  "gratuitous": {
+   "ko": "불필요한, 무료의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "gratuitous"
+   ]
+  },
+  "purposeless": {
+   "ko": "목적 없는, 무의미한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "purposeless"
+   ]
+  },
+  "show off": {
+   "ko": "과시하다, 자랑하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "show off"
+   ]
+  },
+  "housewifely": {
+   "ko": "주부다운, 살림 잘하는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "housewifely"
+   ]
+  },
+  "thriftiness": {
+   "ko": "검소함, 절약",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "thriftiness"
+   ]
+  },
+  "rationality": {
+   "ko": "합리성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "rationality"
+   ]
+  },
+  "frugality": {
+   "ko": "검소함, 절약",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "frugality"
+   ]
+  },
+  "indiscretion": {
+   "ko": "무분별, 경솔한 행동",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "indiscretion"
+   ]
+  },
+  "generosity": {
+   "ko": "관대함, 너그러움",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "generosity"
+   ]
+  },
+  "decade": {
+   "ko": "10년",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "decade",
+    "decades"
+   ]
+  },
+  "the late": {
+   "ko": "고(故) ~, 작고한",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "the late"
+   ]
+  },
+  "trenchant": {
+   "ko": "날카로운, 통렬한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "trenchant"
+   ]
+  },
+  "observer": {
+   "ko": "관찰자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "observer"
+   ]
+  },
+  "dominant": {
+   "ko": "지배적인, 우세한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "dominant"
+   ]
+  },
+  "dull": {
+   "ko": "무딘, 따분한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "dull"
+   ]
+  },
+  "fallible": {
+   "ko": "오류를 범할 수 있는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "fallible"
+   ]
+  },
+  "nebulous": {
+   "ko": "모호한, 흐릿한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "nebulous"
+   ]
+  },
+  "incisive": {
+   "ko": "예리한, 날카로운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "incisive"
+   ]
+  },
+  "tolerable": {
+   "ko": "견딜 만한, 참을 수 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "tolerable"
+   ]
+  },
+  "consistency": {
+   "ko": "일관성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consistency"
+   ]
+  },
+  "specialist": {
+   "ko": "전문가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "specialists"
+   ]
+  },
+  "dismissively": {
+   "ko": "경멸적으로, 무시하듯",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "dismissively"
+   ]
+  },
+  "colonization": {
+   "ko": "식민지화",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "cola-colonization"
+   ]
+  },
+  "recreation": {
+   "ko": "오락, 레크리에이션",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "recreation"
+   ]
+  },
+  "pastime": {
+   "ko": "취미, 오락",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "pastime"
+   ]
+  },
+  "shape up": {
+   "ko": "태세를 갖추다, 구체화되다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "shaping up"
+   ]
+  },
+  "preeminence": {
+   "ko": "탁월함, 우위",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "preeminence"
+   ]
+  },
+  "unquestioned": {
+   "ko": "의심의 여지 없는, 확고한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "unquestioned"
+   ]
+  },
+  "significant": {
+   "ko": "중요한, 상당한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "significant"
+   ]
+  },
+  "anthropological": {
+   "ko": "인류학의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "anthropological"
+   ]
+  },
+  "linguist": {
+   "ko": "언어학자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "linguist"
+   ]
+  },
+  "informant": {
+   "ko": "(언어 조사의) 제보자, 정보원",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "informant"
+   ]
+  },
+  "pursue": {
+   "ko": "추구하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "pursued"
+   ]
+  },
+  "strategy": {
+   "ko": "전략",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "strategy"
+   ]
+  },
+  "rescue": {
+   "ko": "구하다, 구조하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "rescued"
+   ]
+  },
+  "poverty": {
+   "ko": "빈곤",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "poverty"
+   ]
+  },
+  "investment": {
+   "ko": "투자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "investment"
+   ]
+  },
+  "export-oriented": {
+   "ko": "수출 지향적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "export-oriented"
+   ]
+  },
+  "textile": {
+   "ko": "직물, 섬유",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "textiles"
+   ]
+  },
+  "evolve": {
+   "ko": "발전하다, 진화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "evolving"
+   ]
+  },
+  "obstruct": {
+   "ko": "방해하다, 막다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "obstructing"
+   ]
+  },
+  "occlude": {
+   "ko": "막다, 가리다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "occluding"
+   ]
+  },
+  "court": {
+   "ko": "(지지를) 얻으려 하다, 구애하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "courting"
+   ]
+  },
+  "arraign": {
+   "ko": "기소하다, 법정에 세우다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "arraigning"
+   ]
+  },
+  "denounce": {
+   "ko": "비난하다, 고발하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "denouncing"
+   ]
+  },
+  "hydrogen": {
+   "ko": "수소",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "hydrogen"
+   ]
+  },
+  "petroleum": {
+   "ko": "석유",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "petroleum"
+   ]
+  },
+  "originate": {
+   "ko": "비롯되다, 유래하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "originate",
+    "originates"
+   ]
+  },
+  "generate": {
+   "ko": "생성하다, 발생시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "generated",
+    "generates"
+   ]
+  },
+  "inorganic": {
+   "ko": "무기물의, 비유기적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "inorganic"
+   ]
+  },
+  "crunch": {
+   "ko": "으스러뜨리다, 우두둑 깨물다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "crunched-up"
+   ]
+  },
+  "mantle": {
+   "ko": "(지구의) 맨틀, 망토",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "mantle"
+   ]
+  },
+  "interact": {
+   "ko": "상호작용하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "interact"
+   ]
+  },
+  "hydrocarbon": {
+   "ko": "탄화수소",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "hydrocarbons"
+   ]
+  },
+  "component": {
+   "ko": "구성 요소, 성분",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "component"
+   ]
+  },
+  "make sense": {
+   "ko": "타당하다, 이치에 맞다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "made sense",
+    "makes sense"
+   ]
+  },
+  "restricted": {
+   "ko": "제한된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "restricted"
+   ]
+  },
+  "telltale": {
+   "ko": "숨길 수 없는, 드러내는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "telltale"
+   ]
+  },
+  "sensitive": {
+   "ko": "민감한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "sensitive"
+   ]
+  },
+  "spurious": {
+   "ko": "가짜의, 그럴듯한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "spurious"
+   ]
+  },
+  "underhand": {
+   "ko": "음흉한, 비밀의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "underhand"
+   ]
+  },
+  "press on": {
+   "ko": "계속 밀고 나아가다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "pressed on"
+   ]
+  },
+  "hurl": {
+   "ko": "내던지다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "hurled"
+   ]
+  },
+  "aboard": {
+   "ko": "(배·기차에) 탑승하여",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "aboard"
+   ]
+  },
+  "burrow": {
+   "ko": "파고들다, 굴을 파다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "burrowed"
+   ]
+  },
+  "escape": {
+   "ko": "탈출하다, 벗어나다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "escaped",
+    "escaping"
+   ]
+  },
+  "fellow": {
+   "ko": "동료의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "fellow"
+   ]
+  },
+  "prisoner": {
+   "ko": "죄수, 포로",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "prisoners"
+   ]
+  },
+  "cover for": {
+   "ko": "~을 감싸 주다, 대신 둘러대다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "covered for"
+   ]
+  },
+  "stuff": {
+   "ko": "채워 넣다, 쑤셔 넣다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "stuffing"
+   ]
+  },
+  "dummy": {
+   "ko": "인형, 모조품",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "dummy"
+   ]
+  },
+  "blanket": {
+   "ko": "담요",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "blankets"
+   ]
+  },
+  "absence": {
+   "ko": "부재, 결석",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "absence"
+   ]
+  },
+  "hefty": {
+   "ko": "두둑한, 상당한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "hefty"
+   ]
+  },
+  "reward": {
+   "ko": "보상, 보상금",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "reward"
+   ]
+  },
+  "recapture": {
+   "ko": "재체포, 탈환",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "recapture"
+   ]
+  },
+  "favorably": {
+   "ko": "호의적으로, 유리하게",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "favorably"
+   ]
+  },
+  "thankfully": {
+   "ko": "고맙게도, 다행히",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "thankfully"
+   ]
+  },
+  "unfortunately": {
+   "ko": "불행하게도",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "unfortunately"
+   ]
+  },
+  "fortuitously": {
+   "ko": "우연히, 운 좋게",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "fortuitously"
+   ]
+  },
+  "gracefully": {
+   "ko": "우아하게",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "gracefully"
+   ]
+  },
+  "dubious": {
+   "ko": "의심스러운, 수상한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "dubious"
+   ]
+  },
+  "attribute": {
+   "ko": "(~의) 탓으로 돌리다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "attributes"
+   ]
+  },
+  "zero-sum": {
+   "ko": "제로섬의(한쪽 이득이 다른 쪽 손실인)",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "zero-sum"
+   ]
+  },
+  "jockey": {
+   "ko": "(유리한 위치를) 다투다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "jockeying"
+   ]
+  },
+  "inevitable": {
+   "ko": "불가피한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "inevitable"
+   ]
+  },
+  "decline": {
+   "ko": "감소, 쇠퇴",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "decline"
+   ]
+  },
+  "bring on": {
+   "ko": "초래하다, 야기하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "brought on"
+   ]
+  },
+  "hike": {
+   "ko": "(가격) 인상",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "hikes"
+   ]
+  },
+  "wage": {
+   "ko": "임금",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "wage"
+   ]
+  },
+  "spiral": {
+   "ko": "(악순환적) 상승·하락",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "wage-price-spiral"
+   ]
+  },
+  "surge": {
+   "ko": "급증하다, 급등하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "surging"
+   ]
+  },
+  "offset": {
+   "ko": "상쇄하다, 벌충하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "offset"
+   ]
+  },
+  "prosperity": {
+   "ko": "번영",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "prosperity"
+   ]
+  },
+  "uncompromising": {
+   "ko": "타협하지 않는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "uncompromising"
+   ]
+  },
+  "negotiation": {
+   "ko": "협상",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "negotiation"
+   ]
+  },
+  "grim": {
+   "ko": "암울한, 엄숙한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "grimmer"
+   ]
+  },
+  "prizewinner": {
+   "ko": "수상자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "prizewinners"
+   ]
+  },
+  "dedicate": {
+   "ko": "바치다, 헌신하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "dedicated"
+   ]
+  },
+  "pursuit": {
+   "ko": "추구",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "pursuit"
+   ]
+  },
+  "noble": {
+   "ko": "고귀한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "noble"
+   ]
+  },
+  "tension": {
+   "ko": "긴장, 갈등",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "tension"
+   ]
+  },
+  "unrecognized": {
+   "ko": "인정받지 못한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "unrecognized"
+   ]
+  },
+  "assign": {
+   "ko": "부여하다, 할당하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "assign"
+   ]
+  },
+  "commitment": {
+   "ko": "헌신, 전념",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "commitment"
+   ]
+  },
+  "momentarily": {
+   "ko": "잠깐, 순간적으로",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "momentarily"
+   ]
+  },
+  "permanently": {
+   "ko": "영구적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "permanently"
+   ]
+  },
+  "officially": {
+   "ko": "공식적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "officially"
+   ]
+  },
+  "nominate": {
+   "ko": "(후보로) 지명하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "nominate"
+   ]
+  },
+  "dedication": {
+   "ko": "헌신",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "dedication"
+   ]
+  },
+  "collaborative": {
+   "ko": "협력적인, 공동의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "collaborative"
+   ]
+  },
+  "rumor": {
+   "ko": "소문내다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "rumored",
+    "rumors"
+   ]
+  },
+  "military service": {
+   "ko": "병역",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "military service"
+   ]
+  },
+  "beneficial": {
+   "ko": "이로운, 유익한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "beneficial"
+   ]
+  },
+  "carry on": {
+   "ko": "계속하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "carry on"
+   ]
+  },
+  "enlist": {
+   "ko": "입대하다, 협력을 얻다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "enlist"
+   ]
+  },
+  "front line": {
+   "ko": "최전방, 최전선",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "front line"
+   ]
+  },
+  "admiration": {
+   "ko": "감탄, 존경",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "admiration"
+   ]
+  },
+  "evolutionist": {
+   "ko": "진화론자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "evolutionists"
+   ]
+  },
+  "ethologist": {
+   "ko": "동물행동학자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "ethologists"
+   ]
+  },
+  "go astray": {
+   "ko": "길을 잃다, 잘못되다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "gone astray"
+   ]
+  },
+  "prejudice": {
+   "ko": "편견",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "prejudice"
+   ]
+  },
+  "sheer": {
+   "ko": "순전한, 완전한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "sheer"
+   ]
+  },
+  "semantic": {
+   "ko": "의미의, 의미론적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "semantic"
+   ]
+  },
+  "species": {
+   "ko": "(생물의) 종",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "species"
+   ]
+  },
+  "conceive": {
+   "ko": "생각해 내다, 상상하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "conceive"
+   ]
+  },
+  "pronoun": {
+   "ko": "대명사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "pronoun"
+   ]
+  },
+  "substitute": {
+   "ko": "대체물, 대용품",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "substitute"
+   ]
+  },
+  "impartial": {
+   "ko": "공정한, 편견 없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "impartial"
+   ]
+  },
+  "technical": {
+   "ko": "기술적인, 전문적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "technical"
+   ]
+  },
+  "ambiguous": {
+   "ko": "애매한, 중의적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "ambiguous"
+   ]
+  },
+  "admirable": {
+   "ko": "감탄할 만한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "admirable"
+   ]
+  },
+  "secular": {
+   "ko": "세속적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "secular"
+   ]
+  },
+  "in demand": {
+   "ko": "수요가 많은",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "in great demand"
+   ]
+  },
+  "dualism": {
+   "ko": "이원론",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "dualism"
+   ]
+  },
+  "arbitrary": {
+   "ko": "임의적인, 자의적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "arbitrary"
+   ]
+  },
+  "maintain": {
+   "ko": "유지하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "maintaining"
+   ]
+  },
+  "project": {
+   "ko": "투사하다, 계획하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "projected"
+   ]
+  },
+  "undiscovered": {
+   "ko": "발견되지 않은, 미개척의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "undiscovered"
+   ]
+  },
+  "cast": {
+   "ko": "(역을) 맡기다, 던지다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "cast"
+   ]
+  },
+  "conveniently": {
+   "ko": "편리하게, 형편 좋게",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "conveniently"
+   ]
+  },
+  "ripe": {
+   "ko": "(~할) 때가 무르익은, 익은",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "ripe"
+   ]
+  },
+  "exploration": {
+   "ko": "탐험, 탐사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "exploration"
+   ]
+  },
+  "exploitation": {
+   "ko": "착취, 개발",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "exploitation"
+   ]
+  },
+  "continent": {
+   "ko": "대륙",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "continent"
+   ]
+  },
+  "segregation": {
+   "ko": "분리, 차별",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "segregation"
+   ]
+  },
+  "socioeconomic": {
+   "ko": "사회경제적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "socioeconomic"
+   ]
+  },
+  "discrimination": {
+   "ko": "차별",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "discrimination"
+   ]
+  },
+  "immigrant": {
+   "ko": "이민자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "immigrant"
+   ]
+  },
+  "pay tribute to": {
+   "ko": "~에 경의를 표하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "paying tribute to"
+   ]
+  },
+  "tribute": {
+   "ko": "경의, 찬사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "tribute"
+   ]
+  },
+  "participant": {
+   "ko": "참가자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "participants"
+   ]
+  },
+  "conference": {
+   "ko": "회의, 학회",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "conference"
+   ]
+  },
+  "mosaic": {
+   "ko": "모자이크, 다양한 것의 조합",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "mosaic"
+   ]
+  },
+  "contradiction": {
+   "ko": "모순",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "contradiction",
+    "contradictions"
+   ]
+  },
+  "hypocrisy": {
+   "ko": "위선",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "hypocrisy"
+   ]
+  },
+  "consist of": {
+   "ko": "~으로 구성되다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "consist of"
+   ]
+  },
+  "ethnicity": {
+   "ko": "민족성, 인종",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "ethnicity"
+   ]
+  },
+  "religion": {
+   "ko": "종교",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "religion"
+   ]
+  },
+  "lurch": {
+   "ko": "비틀거리며 나아가다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "lurch"
+   ]
+  },
+  "stumble": {
+   "ko": "비틀거리다, 넘어지다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "stumbling"
+   ]
+  },
+  "volunteer": {
+   "ko": "자원봉사자, 지원자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "volunteers"
+   ]
+  },
+  "collective": {
+   "ko": "집단의, 공동의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "collective"
+   ]
+  },
+  "initiate": {
+   "ko": "시작하다, 착수하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "initiated"
+   ]
+  },
+  "fuel": {
+   "ko": "부채질하다, 연료를 공급하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "fueled"
+   ]
+  },
+  "law enforcement": {
+   "ko": "법 집행 (기관)",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "law enforcement"
+   ]
+  },
+  "grip": {
+   "ko": "사로잡다, 꽉 쥐다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "gripped"
+   ]
+  },
+  "hype": {
+   "ko": "과대광고, 과장된 선전",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "hype"
+   ]
+  },
+  "lurk": {
+   "ko": "잠복하다, 도사리다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "lurking"
+   ]
+  },
+  "serial killer": {
+   "ko": "연쇄 살인범",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "serial killer",
+    "serial killers"
+   ]
+  },
+  "on the loose": {
+   "ko": "잡히지 않은, 활보하는",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "on the loose"
+   ]
+  },
+  "supposed": {
+   "ko": "이른바, 소위",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "supposed"
+   ]
+  },
+  "hysteria": {
+   "ko": "히스테리, 광란",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "hysteria"
+   ]
+  },
+  "fabricate": {
+   "ko": "조작하다, 날조하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "fabricated"
+   ]
+  },
+  "quickie": {
+   "ko": "급조된, 날림의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "quickie"
+   ]
+  },
+  "hypothesis": {
+   "ko": "가설",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "hypotheses"
+   ]
+  },
+  "apocalypse": {
+   "ko": "종말, 대재앙",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "apocalypse"
+   ]
+  },
+  "superstition": {
+   "ko": "미신",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "superstition"
+   ]
+  },
+  "myth": {
+   "ko": "신화, 근거 없는 믿음",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "myth"
+   ]
+  },
+  "strict": {
+   "ko": "엄격한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "strict"
+   ]
+  },
+  "tax cut": {
+   "ko": "감세",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "tax cuts"
+   ]
+  },
+  "wealthy": {
+   "ko": "부유한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "wealthy"
+   ]
+  },
+  "conservative": {
+   "ko": "보수적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "conservative"
+   ]
+  },
+  "lawmaker": {
+   "ko": "입법자, 국회의원",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "lawmakers"
+   ]
+  },
+  "economist": {
+   "ko": "경제학자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "economists"
+   ]
+  },
+  "measure": {
+   "ko": "조치, 대책",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "measures"
+   ]
+  },
+  "trickle down": {
+   "ko": "(부가) 아래로 흘러내리다, 낙수 효과",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "trickle down",
+    "trickling down"
+   ]
+  },
+  "trickle": {
+   "ko": "조금씩 흐르다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "trickle",
+    "trickling"
+   ]
+  },
+  "boost": {
+   "ko": "북돋우다, 증가시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "boost"
+   ]
+  },
+  "examine": {
+   "ko": "조사하다, 검토하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "examined",
+    "examines"
+   ]
+  },
+  "per capita": {
+   "ko": "1인당",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "per capita"
+   ]
+  },
+  "gross domestic product": {
+   "ko": "국내총생산(GDP)",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "gross domestic product"
+   ]
+  },
+  "unemployment": {
+   "ko": "실업",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "unemployment"
+   ]
+  },
+  "identical": {
+   "ko": "동일한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "identical"
+   ]
+  },
+  "slash": {
+   "ko": "대폭 삭감하다, 베다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "slashed"
+   ]
+  },
+  "lower": {
+   "ko": "낮추다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "lowered"
+   ]
+  },
+  "accomplish": {
+   "ko": "성취하다, 이루다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "accomplish"
+   ]
+  },
+  "riches": {
+   "ko": "부, 재산",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "riches"
+   ]
+  },
+  "inequality": {
+   "ko": "불평등",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "inequality"
+   ]
+  },
+  "by far": {
+   "ko": "단연코, 훨씬",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "by far"
+   ]
+  },
+  "decreasingly": {
+   "ko": "점점 덜",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "decreasingly"
+   ]
+  },
+  "sardonic": {
+   "ko": "냉소적인, 조롱하는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "sardonic"
+   ]
+  },
+  "circulate": {
+   "ko": "퍼지다, 순환하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "circulated"
+   ]
+  },
+  "grossly": {
+   "ko": "크게, 지독히",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "grossly"
+   ]
+  },
+  "exaggerated": {
+   "ko": "과장된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "exaggerated"
+   ]
+  },
+  "in view of": {
+   "ko": "~을 고려하여",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "in view of"
+   ]
+  },
+  "heading": {
+   "ko": "제목, 표제",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "heading"
+   ]
+  },
+  "topple": {
+   "ko": "무너뜨리다, 전복시키다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "toppling"
+   ]
+  },
+  "authority": {
+   "ko": "권위(자), 당국",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "authorities",
+    "authority"
+   ]
+  },
+  "defer": {
+   "ko": "(존중하여) 따르다, 연기하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "defer"
+   ]
+  },
+  "generative": {
+   "ko": "생성하는, 생성형의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "generative"
+   ]
+  },
+  "advent": {
+   "ko": "출현, 도래",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "advent"
+   ]
+  },
+  "employer": {
+   "ko": "고용주",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "employers"
+   ]
+  },
+  "retailer": {
+   "ko": "소매업자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "retailers"
+   ]
+  },
+  "infrastructure": {
+   "ko": "기반 시설",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "infrastructure"
+   ]
+  },
+  "storefront": {
+   "ko": "매장 (전면)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "storefront"
+   ]
+  },
+  "enthusiastic": {
+   "ko": "열성적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "enthusiastic"
+   ]
+  },
+  "adopter": {
+   "ko": "채택자, 도입자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "adopters"
+   ]
+  },
+  "do away with": {
+   "ko": "~을 없애다, 폐지하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "do away with"
+   ]
+  },
+  "drudgery": {
+   "ko": "고된 일, 단조로운 일",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "drudgery"
+   ]
+  },
+  "ultimately": {
+   "ko": "결국, 궁극적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "ultimately"
+   ]
+  },
+  "consultancy": {
+   "ko": "컨설팅 회사",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "consultancy"
+   ]
+  },
+  "frontline": {
+   "ko": "최전선의, 현장의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "frontline"
+   ]
+  },
+  "optimistic": {
+   "ko": "낙관적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "optimistic"
+   ]
+  },
+  "union": {
+   "ko": "노동조합",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "union",
+    "unions"
+   ]
+  },
+  "adoption": {
+   "ko": "채택, 도입",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "adoption"
+   ]
+  },
+  "go as far as": {
+   "ko": "~까지 하다, ~할 정도로 나아가다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "go as far as",
+    "went so far as"
+   ]
+  },
+  "guild": {
+   "ko": "조합, 협회",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "guild"
+   ]
+  },
+  "strike": {
+   "ko": "파업",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "strike"
+   ]
+  },
+  "impulse": {
+   "ko": "충동, 자극",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "impulse"
+   ]
+  },
+  "innovate": {
+   "ko": "혁신하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "innovate"
+   ]
+  },
+  "approachable": {
+   "ko": "접근하기 쉬운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "approachable"
+   ]
+  },
+  "prone": {
+   "ko": "~하기 쉬운, ~의 경향이 있는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "prone"
+   ]
+  },
+  "hallucination": {
+   "ko": "환각, (AI의) 허위 정보 생성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "hallucinations"
+   ]
+  },
+  "promise": {
+   "ko": "가능성, 약속",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "promise",
+    "promises"
+   ]
+  },
+  "overnight": {
+   "ko": "하룻밤 사이에, 갑자기",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "overnight"
+   ]
+  },
+  "assignment": {
+   "ko": "과제",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "assignment",
+    "assignments"
+   ]
+  },
+  "latter": {
+   "ko": "후자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "latter"
+   ]
+  },
+  "alternative": {
+   "ko": "대안",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "alternative",
+    "alternatives"
+   ]
+  },
+  "impairment": {
+   "ko": "장애, 손상",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "impairments"
+   ]
+  },
+  "summarize": {
+   "ko": "요약하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "summarize"
+   ]
+  },
+  "disability": {
+   "ko": "장애",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "disabilities"
+   ]
+  },
+  "personalized": {
+   "ko": "개인 맞춤형의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "personalized"
+   ]
+  },
+  "academic": {
+   "ko": "학업의, 학문의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "academic"
+   ]
+  },
+  "structure": {
+   "ko": "구성하다, 조직하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "structure"
+   ]
+  },
+  "requirement": {
+   "ko": "요구 사항, 필요조건",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "requirements"
+   ]
+  },
+  "comprehensive": {
+   "ko": "포괄적인, 종합적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "comprehensive"
+   ]
+  },
+  "resource": {
+   "ko": "자원, 자료",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "resources"
+   ]
+  },
+  "cheating": {
+   "ko": "부정행위",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "cheating"
+   ]
+  },
+  "plagiarism": {
+   "ko": "표절",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "plagiarism"
+   ]
+  },
+  "brainstorm": {
+   "ko": "아이디어를 짜내다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "brainstorm"
+   ]
+  },
+  "critically": {
+   "ko": "비판적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "critically"
+   ]
+  },
+  "evaluation": {
+   "ko": "평가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "evaluation"
+   ]
+  },
+  "hegemonism": {
+   "ko": "패권주의",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "hegemonism"
+   ]
+  },
+  "codeword": {
+   "ko": "암호, 완곡한 표현",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "codeword"
+   ]
+  },
+  "domination": {
+   "ko": "지배",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "domination"
+   ]
+  },
+  "hegemon": {
+   "ko": "패권국",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "hegemon"
+   ]
+  },
+  "position": {
+   "ko": "자리 잡다, 입지를 다지다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "position",
+    "positioning"
+   ]
+  },
+  "recruit": {
+   "ko": "모집하다, 끌어들이다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "recruiting"
+   ]
+  },
+  "gunboat diplomacy": {
+   "ko": "포함(砲艦) 외교, 무력 외교",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "gunboat diplomacy"
+   ]
+  },
+  "colonialism": {
+   "ko": "식민주의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "neo-colonialism"
+   ]
+  },
+  "rival": {
+   "ko": "경쟁하는, 라이벌의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "rival"
+   ]
+  },
+  "technological": {
+   "ko": "기술적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "technological"
+   ]
+  },
+  "super power": {
+   "ko": "초강대국",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "super power"
+   ]
+  },
+  "arsenal": {
+   "ko": "무기고, (수단의) 보유",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "arsenal"
+   ]
+  },
+  "phishing": {
+   "ko": "피싱(사기)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "phishing"
+   ]
+  },
+  "intended": {
+   "ko": "의도된, 겨냥한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "intended"
+   ]
+  },
+  "target": {
+   "ko": "목표, 표적",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "target",
+    "targets"
+   ]
+  },
+  "tailored": {
+   "ko": "맞춤의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "tailored"
+   ]
+  },
+  "seemingly": {
+   "ko": "겉보기에는",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "seemingly"
+   ]
+  },
+  "suspicion": {
+   "ko": "의심",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "suspicion"
+   ]
+  },
+  "labor intensive": {
+   "ko": "노동 집약적인",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "labor intensive"
+   ]
+  },
+  "would-be": {
+   "ko": "~이 되려는, 자칭",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "would-be"
+   ]
+  },
+  "manually": {
+   "ko": "수동으로, 손으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "manually"
+   ]
+  },
+  "conduct": {
+   "ko": "수행하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "conduct"
+   ]
+  },
+  "chatbot": {
+   "ko": "챗봇",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "chatbots"
+   ]
+  },
+  "obtain": {
+   "ko": "얻다, 획득하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "obtained"
+   ]
+  },
+  "enhance": {
+   "ko": "향상시키다, 강화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "enhancing"
+   ]
+  },
+  "tactic": {
+   "ko": "전술, 전략",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "tactics"
+   ]
+  },
+  "identify": {
+   "ko": "식별하다, 확인하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "identify"
+   ]
+  },
+  "skill set": {
+   "ko": "(갖춘) 기술, 능력",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "skill set"
+   ]
+  },
+  "inverse": {
+   "ko": "정반대, 역",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "inverse"
+   ]
+  },
+  "play possum": {
+   "ko": "죽은 척하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "playing possum"
+   ]
+  },
+  "possum": {
+   "ko": "주머니쥐",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "possum",
+    "possums"
+   ]
+  },
+  "namely": {
+   "ko": "즉, 다시 말해",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "namely"
+   ]
+  },
+  "deflect": {
+   "ko": "(관심을) 딴 데로 돌리다, 빗나가게 하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "deflect"
+   ]
+  },
+  "predator": {
+   "ko": "포식자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "predators"
+   ]
+  },
+  "easy pickings": {
+   "ko": "손쉬운 먹잇감",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "easy pickings"
+   ]
+  },
+  "playacting": {
+   "ko": "연기, 가장",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "playacting"
+   ]
+  },
+  "all of a sudden": {
+   "ko": "갑자기",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "all of a sudden"
+   ]
+  },
+  "immature": {
+   "ko": "미숙한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "immature"
+   ]
+  },
+  "correspondingly": {
+   "ko": "그에 상응하여",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "correspondingly"
+   ]
+  },
+  "underdeveloped": {
+   "ko": "발달이 덜 된, 저개발의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "underdeveloped"
+   ]
+  },
+  "portray": {
+   "ko": "묘사하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "portraying"
+   ]
+  },
+  "chimney": {
+   "ko": "굴뚝",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "chimney"
+   ]
+  },
+  "low-resolution": {
+   "ko": "저해상도의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "low-resolution"
+   ]
+  },
+  "representation": {
+   "ko": "표현, 묘사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "representation"
+   ]
+  },
+  "hieroglyph": {
+   "ko": "상형문자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "hieroglyph"
+   ]
+  },
+  "represent": {
+   "ko": "나타내다, 대표하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "represent",
+    "represents"
+   ]
+  },
+  "generically": {
+   "ko": "일반적으로, 포괄적으로",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "generically"
+   ]
+  },
+  "appalling": {
+   "ko": "끔찍한, 소름 끼치는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "appalling"
+   ]
+  },
+  "smattering": {
+   "ko": "소량, 약간",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "smattering"
+   ]
+  },
+  "benevolent": {
+   "ko": "자비로운, 온화한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "benevolent"
+   ]
+  },
+  "solar": {
+   "ko": "태양의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "solar"
+   ]
+  },
+  "orb": {
+   "ko": "구(球), 천체",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "orb"
+   ]
+  },
+  "inadequate": {
+   "ko": "불충분한, 부적절한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "inadequate"
+   ]
+  },
+  "horror": {
+   "ko": "공포, 참상",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "horrors"
+   ]
+  },
+  "characterize": {
+   "ko": "특징짓다, 묘사하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "characterizes",
+    "characterizing"
+   ]
+  },
+  "dwelling": {
+   "ko": "주거, 거처",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "dwelling"
+   ]
+  },
+  "terrifying": {
+   "ko": "무서운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "terrifying"
+   ]
+  },
+  "tolerability": {
+   "ko": "견딜 수 있음, 참을성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "tolerability"
+   ]
+  },
+  "trauma": {
+   "ko": "정신적 외상, 트라우마",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "trauma"
+   ]
+  },
+  "comprehension": {
+   "ko": "이해",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "comprehension"
+   ]
+  },
+  "conception": {
+   "ko": "이해, 개념",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "conception"
+   ]
+  },
+  "petrify": {
+   "ko": "겁에 질리게 하다, 돌로 만들다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "petrified"
+   ]
+  },
+  "a contradiction in terms": {
+   "ko": "형용모순, 자가당착",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "contradiction in terms"
+   ]
+  },
+  "grasp": {
+   "ko": "이해하다, 붙잡다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "grasp"
+   ]
+  },
+  "contradictory": {
+   "ko": "모순되는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "contradictory"
+   ]
+  },
+  "confirm": {
+   "ko": "확인하다, 확증하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "confirming"
+   ]
+  },
+  "biased": {
+   "ko": "편향된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "biased"
+   ]
+  },
+  "conceptual": {
+   "ko": "개념적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "conceptual"
+   ]
+  },
+  "graphic": {
+   "ko": "시각적인, 생생한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "graphic"
+   ]
+  },
+  "established": {
+   "ko": "확립된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "established"
+   ]
+  },
+  "temporary": {
+   "ko": "일시적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "temporary"
+   ]
+  },
+  "locate": {
+   "ko": "위치를 찾다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "locates"
+   ]
+  },
+  "fulfill": {
+   "ko": "(목적을) 이루다, 이행하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "fulfills"
+   ]
+  },
+  "vivid": {
+   "ko": "생생한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "vivid"
+   ]
+  },
+  "controversial": {
+   "ko": "논란이 많은",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "controversial"
+   ]
+  },
+  "exaggeration": {
+   "ko": "과장",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "exaggeration"
+   ]
+  },
+  "prerequisite": {
+   "ko": "전제 조건",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "prerequisite"
+   ]
+  },
+  "dreadful": {
+   "ko": "끔찍한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "dreadful"
+   ]
+  },
+  "imprison": {
+   "ko": "투옥하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "imprisoned"
+   ]
+  },
+  "deport": {
+   "ko": "추방하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "deported"
+   ]
+  },
+  "repatriate": {
+   "ko": "본국 송환자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "repatriates"
+   ]
+  },
+  "nonprofit": {
+   "ko": "비영리 단체",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "nonprofit"
+   ]
+  },
+  "mission": {
+   "ko": "임무, 사명",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "mission"
+   ]
+  },
+  "persuade": {
+   "ko": "설득하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "persuading"
+   ]
+  },
+  "quest": {
+   "ko": "탐구, 추구",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "quest"
+   ]
+  },
+  "high-profile": {
+   "ko": "세간의 주목을 받는, 저명한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "high-profile"
+   ]
+  },
+  "ally": {
+   "ko": "협력자, 동맹",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "allies"
+   ]
+  },
+  "deny": {
+   "ko": "거부하다, 부인하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "denied"
+   ]
+  },
+  "hold back": {
+   "ko": "저지하다, 막다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "held him back"
+   ]
+  },
+  "vocational": {
+   "ko": "직업의, 직업 교육의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "vocational"
+   ]
+  },
+  "poultry": {
+   "ko": "가금류(닭·오리 등)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "poultry"
+   ]
+  },
+  "breeding": {
+   "ko": "사육, 번식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "breeding"
+   ]
+  },
+  "entrepreneurship": {
+   "ko": "기업가 정신, 창업",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "entrepreneurship"
+   ]
+  },
+  "embark on": {
+   "ko": "(배에) 오르다, 착수하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "embarking on"
+   ]
+  },
+  "pirogue": {
+   "ko": "통나무배",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "pirogue"
+   ]
+  },
+  "rectify": {
+   "ko": "바로잡다, 수정하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "rectify"
+   ]
+  },
+  "rosy": {
+   "ko": "장밋빛의, 낙관적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "rosy"
+   ]
+  },
+  "painfully": {
+   "ko": "뼈저리게, 고통스럽게",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "painfully"
+   ]
+  },
+  "limitation": {
+   "ko": "한계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "limitations"
+   ]
+  },
+  "resignation": {
+   "ko": "체념, 사직",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "resignation"
+   ]
+  },
+  "resurgence": {
+   "ko": "부활, 재기",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "resurgence"
+   ]
+  },
+  "popularity": {
+   "ko": "인기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "popularity"
+   ]
+  },
+  "struggle": {
+   "ko": "애쓰다, 고투하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "struggling"
+   ]
+  },
+  "ever-shrinking": {
+   "ko": "계속 줄어드는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "ever-shrinking"
+   ]
+  },
+  "catch": {
+   "ko": "어획량, 잡다",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "catch"
+   ]
+  },
+  "migrate": {
+   "ko": "이주하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "migrate"
+   ]
+  },
+  "authorities": {
+   "ko": "당국",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "authorities"
+   ]
+  },
+  "disastrous": {
+   "ko": "비참한, 재앙의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "disastrous"
+   ]
+  },
+  "voyage": {
+   "ko": "항해, 여행",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "voyage"
+   ]
+  },
+  "concede": {
+   "ko": "인정하다, 양보하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "concedes"
+   ]
+  },
+  "uphill battle": {
+   "ko": "힘겨운 싸움",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "uphill battle"
+   ]
+  },
+  "emigration": {
+   "ko": "(타국으로의) 이주, 이민",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "emigration"
+   ]
+  },
+  "accomplice": {
+   "ko": "공범",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "accomplice"
+   ]
+  },
+  "scarce": {
+   "ko": "부족한, 드문",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "scarce"
+   ]
+  },
+  "buoyant": {
+   "ko": "낙천적인, 부력이 있는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "buoyant"
+   ]
+  },
+  "indifferent": {
+   "ko": "무관심한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "indifferent"
+   ]
+  },
+  "adamant": {
+   "ko": "단호한, 요지부동의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "adamant"
+   ]
+  },
+  "pliable": {
+   "ko": "유연한, 순응적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "pliable"
+   ]
+  },
+  "hominid": {
+   "ko": "인류(의 조상), 사람과 동물",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "hominids"
+   ]
+  },
+  "precede": {
+   "ko": "~에 앞서다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "preceded"
+   ]
+  },
+  "prominent": {
+   "ko": "두드러진, 저명한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "prominent"
+   ]
+  },
+  "browridge": {
+   "ko": "눈두덩, 눈썹뼈",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "browridges"
+   ]
+  },
+  "sapience": {
+   "ko": "지혜, 슬기",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "sapience"
+   ]
+  },
+  "in favor of": {
+   "ko": "~을 위하여, ~을 택하여",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "in favor of"
+   ]
+  },
+  "eyebrow": {
+   "ko": "눈썹",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "eyebrow",
+    "eyebrows"
+   ]
+  },
+  "sweat": {
+   "ko": "땀",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "sweat"
+   ]
+  },
+  "convey": {
+   "ko": "전달하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "convey"
+   ]
+  },
+  "arched": {
+   "ko": "아치형의, 치켜 올린",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "arched"
+   ]
+  },
+  "enigmatic": {
+   "ko": "수수께끼 같은, 불가사의한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "enigmatic"
+   ]
+  },
+  "subject": {
+   "ko": "(실험) 대상자, 피험자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "subjects"
+   ]
+  },
+  "digitally": {
+   "ko": "디지털 방식으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "digitally"
+   ]
+  },
+  "doctor": {
+   "ko": "(사진·문서를) 조작하다, 손보다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "doctored"
+   ]
+  },
+  "eliminate": {
+   "ko": "제거하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "eliminated"
+   ]
+  },
+  "overwhelmingly": {
+   "ko": "압도적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "overwhelmingly"
+   ]
+  },
+  "celebrity": {
+   "ko": "유명인",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "celebrities"
+   ]
+  },
+  "out of the question": {
+   "ko": "불가능한, 논외인",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "out of the question"
+   ]
+  },
+  "disguise": {
+   "ko": "변장하다, 위장하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "disguise"
+   ]
+  },
+  "dye": {
+   "ko": "염색하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "dye"
+   ]
+  },
+  "invasion": {
+   "ko": "침해, 침략",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "invasion"
+   ]
+  },
+  "privacy": {
+   "ko": "사생활",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "privacy"
+   ]
+  },
+  "predictable": {
+   "ko": "예측 가능한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "predictable"
+   ]
+  },
+  "dimension": {
+   "ko": "차원, 측면",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "dimension"
+   ]
+  },
+  "systematic": {
+   "ko": "체계적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "systematic"
+   ]
+  },
+  "pathological": {
+   "ko": "병적인, 병리학의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "pathological"
+   ]
+  },
+  "surveillance": {
+   "ko": "감시",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "surveillance"
+   ]
+  },
+  "capitalism": {
+   "ko": "자본주의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "capitalism"
+   ]
+  },
+  "capitalist": {
+   "ko": "자본가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "capitalist",
+    "capitalists"
+   ]
+  },
+  "lobby": {
+   "ko": "로비하다, (정치적으로) 압력을 넣다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "lobbying"
+   ]
+  },
+  "commercial": {
+   "ko": "상업적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "commercial"
+   ]
+  },
+  "at stake": {
+   "ko": "걸려 있는, 위태로운",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "at stake"
+   ]
+  },
+  "profoundly": {
+   "ko": "깊이, 심오하게",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "profoundly"
+   ]
+  },
+  "antidemocratic": {
+   "ko": "반민주적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "antidemocratic"
+   ]
+  },
+  "remarkable": {
+   "ko": "놀라운, 주목할 만한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "remarkable"
+   ]
+  },
+  "historically": {
+   "ko": "역사적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "historically"
+   ]
+  },
+  "intention": {
+   "ko": "의도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "intentions"
+   ]
+  },
+  "consistent": {
+   "ko": "일관된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "consistent"
+   ]
+  },
+  "internally": {
+   "ko": "내부적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "internally"
+   ]
+  },
+  "accumulation": {
+   "ko": "축적",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "accumulation"
+   ]
+  },
+  "dominance": {
+   "ko": "지배, 우위",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "dominance"
+   ]
+  },
+  "lawlessness": {
+   "ko": "무법 상태",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "lawlessness"
+   ]
+  },
+  "make inroads": {
+   "ko": "잠식하다, 진출하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "make inroads"
+   ]
+  },
+  "dominate": {
+   "ko": "지배하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "dominate"
+   ]
+  },
+  "sparse": {
+   "ko": "희박한, 드문",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "sparse"
+   ]
+  },
+  "priest": {
+   "ko": "사제, 성직자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "priests"
+   ]
+  },
+  "unprecedented": {
+   "ko": "전례 없는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "unprecedented"
+   ]
+  },
+  "concentration": {
+   "ko": "집중",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "concentration"
+   ]
+  },
+  "unauthorized": {
+   "ko": "무단의, 허가받지 않은",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "unauthorized"
+   ]
+  },
+  "privatization": {
+   "ko": "사유화, 민영화",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "privatization"
+   ]
+  },
+  "definitive": {
+   "ko": "결정적인, 최종적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "definitive"
+   ]
+  },
+  "subversion": {
+   "ko": "전복, 파괴",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "subversion"
+   ]
+  },
+  "hijack": {
+   "ko": "장악하다, 납치하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "hijacked"
+   ]
+  },
+  "detrimental": {
+   "ko": "해로운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "detrimental"
+   ]
+  },
+  "corporation": {
+   "ko": "기업, 법인",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "corporations"
+   ]
+  },
+  "inconceivable": {
+   "ko": "상상할 수 없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "inconceivable"
+   ]
+  },
+  "confidential": {
+   "ko": "기밀의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "confidential"
+   ]
+  },
+  "sequential": {
+   "ko": "순차적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "sequential"
+   ]
+  },
+  "persuasive": {
+   "ko": "설득력 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "persuasive"
+   ]
+  },
+  "attainable": {
+   "ko": "달성 가능한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "attainable"
+   ]
+  },
+  "asymmetry": {
+   "ko": "비대칭, 불균형",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "asymmetries"
+   ]
+  },
+  "illusion": {
+   "ko": "환상, 착각",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "illusions"
+   ]
+  },
+  "bear hug": {
+   "ko": "힘찬 포옹, 밀착 관계",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "bear hug"
+   ]
+  },
+  "far-reaching": {
+   "ko": "광범위한, 지대한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "far-reaching"
+   ]
+  },
+  "implication": {
+   "ko": "영향, 함축",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "implications"
+   ]
+  },
+  "credit": {
+   "ko": "신용, 신용 거래",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "credit"
+   ]
+  },
+  "regime": {
+   "ko": "정권, 체제",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "regime"
+   ]
+  },
+  "ambitious": {
+   "ko": "야심찬",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "ambitious"
+   ]
+  },
+  "debtor": {
+   "ko": "채무자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "debtor"
+   ]
+  },
+  "repay": {
+   "ko": "갚다, 상환하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "repay"
+   ]
+  },
+  "loan": {
+   "ko": "대출",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "loans"
+   ]
+  },
+  "credit rating": {
+   "ko": "신용 등급",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "credit rating",
+    "credit ratings"
+   ]
+  },
+  "well-being": {
+   "ko": "안녕, 복지",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "well-being"
+   ]
+  },
+  "probability": {
+   "ko": "확률, 가능성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "probability"
+   ]
+  },
+  "take into account": {
+   "ko": "고려하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "take into account"
+   ]
+  },
+  "curse": {
+   "ko": "저주하다, 괴롭히다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "cursed"
+   ]
+  },
+  "despotic": {
+   "ko": "전제적인, 독재적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "despotic"
+   ]
+  },
+  "endemic": {
+   "ko": "고질적인, 풍토병의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "endemic"
+   ]
+  },
+  "warfare": {
+   "ko": "전쟁, 전투",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "warfare"
+   ]
+  },
+  "corrupt": {
+   "ko": "부패한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "corrupt"
+   ]
+  },
+  "judicial": {
+   "ko": "사법의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "judicial"
+   ]
+  },
+  "make the most of": {
+   "ko": "~을 최대한 활용하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "make the most of"
+   ]
+  },
+  "bounty": {
+   "ko": "풍요, 하사품",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "bounty"
+   ]
+  },
+  "devoid of": {
+   "ko": "~이 없는",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "devoid of"
+   ]
+  },
+  "foster": {
+   "ko": "육성하다, 촉진하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "foster"
+   ]
+  },
+  "flourishing": {
+   "ko": "번창하는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "flourishing"
+   ]
+  },
+  "instability": {
+   "ko": "불안정",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "instability"
+   ]
+  },
+  "indigenous": {
+   "ko": "토착의, 고유의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "indigenous"
+   ]
+  },
+  "dictatorial": {
+   "ko": "독재적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "dictatorial"
+   ]
+  },
+  "dishonest": {
+   "ko": "부정직한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "dishonest"
+   ]
+  },
+  "harmonious": {
+   "ko": "조화로운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "harmonious"
+   ]
+  },
+  "as such": {
+   "ko": "그러므로, 그 자체로",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "as such"
+   ]
+  },
+  "conversely": {
+   "ko": "반대로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "conversely"
+   ]
+  },
+  "attraction": {
+   "ko": "매력, 끌림",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "attraction"
+   ]
+  },
+  "stem from": {
+   "ko": "~에서 비롯되다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "stem from"
+   ]
+  },
+  "habitation": {
+   "ko": "거주",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "habitation"
+   ]
+  },
+  "decorate": {
+   "ko": "장식하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "decorated"
+   ]
+  },
+  "cranny": {
+   "ko": "(벽 등의) 틈",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "crannies"
+   ]
+  },
+  "reserve": {
+   "ko": "따로 남겨 두다, 예약하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "reserved"
+   ]
+  },
+  "spectacular": {
+   "ko": "장관을 이루는, 극적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "spectacular"
+   ]
+  },
+  "posit": {
+   "ko": "(사실로) 가정하다, 상정하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "posit"
+   ]
+  },
+  "affinity": {
+   "ko": "친밀감, 애착",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "affinity"
+   ]
+  },
+  "figurine": {
+   "ko": "작은 조각상",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "figurines"
+   ]
+  },
+  "the elements": {
+   "ko": "비바람, 자연의 힘",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "the elements"
+   ]
+  },
+  "paleolithic": {
+   "ko": "구석기 시대의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "paleolithic"
+   ]
+  },
+  "derive": {
+   "ko": "얻다, 유래하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "derived"
+   ]
+  },
+  "ochre": {
+   "ko": "황토(안료)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "ochre"
+   ]
+  },
+  "millennium": {
+   "ko": "천 년",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "millennia"
+   ]
+  },
+  "storage": {
+   "ko": "저장, 보관",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "storage"
+   ]
+  },
+  "locker": {
+   "ko": "사물함, 보관함",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "lockers"
+   ]
+  },
+  "invisible hand": {
+   "ko": "보이지 않는 손",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "invisible hand"
+   ]
+  },
+  "golden ratio": {
+   "ko": "황금비",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "golden ratio"
+   ]
+  },
+  "fallacy": {
+   "ko": "오류, 그릇된 생각",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "fallacy"
+   ]
+  },
+  "vicious circle": {
+   "ko": "악순환",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "vicious circle"
+   ]
+  },
+  "natural selection": {
+   "ko": "자연 선택",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "natural selection"
+   ]
+  },
+  "artistry": {
+   "ko": "예술성, 예술적 기교",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "artistry"
+   ]
+  },
+  "exhibition": {
+   "ko": "전시회",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "exhibition"
+   ]
+  },
+  "uninhabitable": {
+   "ko": "사람이 살 수 없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "uninhabitable"
+   ]
+  },
+  "doe": {
+   "ko": "암사슴",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "doe",
+    "does",
+    "doing"
+   ]
+  },
+  "light-footed": {
+   "ko": "발걸음이 가벼운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "light-footed"
+   ]
+  },
+  "peak": {
+   "ko": "(peek의 오기) 엿보다, 최고조에 달하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "peak",
+    "peaked"
+   ]
+  },
+  "conscious": {
+   "ko": "의식적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "conscious"
+   ]
+  },
+  "objection": {
+   "ko": "반대, 이의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "objection"
+   ]
+  },
+  "mutuality": {
+   "ko": "상호성, 상호 관계",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "mutuality"
+   ]
+  },
+  "fiddle": {
+   "ko": "만지작거리다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "fiddling"
+   ]
+  },
+  "squeeze off": {
+   "ko": "(총을) 발사하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "squeezed off"
+   ]
+  },
+  "basement": {
+   "ko": "지하실",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "basement"
+   ]
+  },
+  "handgun": {
+   "ko": "권총",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "handgun"
+   ]
+  },
+  "unanticipated": {
+   "ko": "예기치 않은",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "unanticipated"
+   ]
+  },
+  "rifle": {
+   "ko": "소총",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "rifle"
+   ]
+  },
+  "go off": {
+   "ko": "(총이) 발사되다, 폭발하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "went off"
+   ]
+  },
+  "buck": {
+   "ko": "수사슴",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "buck"
+   ]
+  },
+  "take aim": {
+   "ko": "겨냥하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "took aim"
+   ]
+  },
+  "settle on": {
+   "ko": "~으로 정하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "settled on"
+   ]
+  },
+  "tuft": {
+   "ko": "(털·풀의) 다발, 술",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "tuft"
+   ]
+  },
+  "squirrel": {
+   "ko": "다람쥐",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "squirrel"
+   ]
+  },
+  "graze": {
+   "ko": "스치다, 풀을 뜯다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "graze"
+   ]
+  },
+  "snowflake": {
+   "ko": "눈송이",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "snowflake"
+   ]
+  },
+  "contagious": {
+   "ko": "전염성의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "contagious"
+   ]
+  },
+  "clumsy": {
+   "ko": "서투른, 어설픈",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "clumsy"
+   ]
+  },
+  "firearm": {
+   "ko": "화기, 총기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "firearms"
+   ]
+  },
+  "on purpose": {
+   "ko": "고의로",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "on purpose"
+   ]
+  },
+  "astronomer": {
+   "ko": "천문학자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "astronomer"
+   ]
+  },
+  "spectrum": {
+   "ko": "스펙트럼",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "spectra"
+   ]
+  },
+  "galaxy": {
+   "ko": "은하",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "galaxies"
+   ]
+  },
+  "redshift": {
+   "ko": "적색 편이하다(멀어지다)",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "redshifting"
+   ]
+  },
+  "expansion": {
+   "ko": "팽창, 확장",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "expansion"
+   ]
+  },
+  "fabric": {
+   "ko": "구조, 직물",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "fabric"
+   ]
+  },
+  "balloon": {
+   "ko": "부풀다, 급증하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "balloon",
+    "ballooning",
+    "balloons"
+   ]
+  },
+  "in tandem with": {
+   "ko": "~와 동시에, 협력하여",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "in tandem with"
+   ]
+  },
+  "cosmological constant": {
+   "ko": "우주 상수",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "cosmological constant"
+   ]
+  },
+  "cosmological": {
+   "ko": "우주론의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "cosmological"
+   ]
+  },
+  "relativity": {
+   "ko": "상대성 (이론)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "relativity"
+   ]
+  },
+  "static": {
+   "ko": "정적인, 고정된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "static"
+   ]
+  },
+  "density": {
+   "ko": "밀도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "density"
+   ]
+  },
+  "go figure": {
+   "ko": "이상하기도 하지, 웬일이야",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "go figure"
+   ]
+  },
+  "hence": {
+   "ko": "그러므로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "hence"
+   ]
+  },
+  "inspire": {
+   "ko": "영감을 주다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "inspired"
+   ]
+  },
+  "partially": {
+   "ko": "부분적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "partially"
+   ]
+  },
+  "thirst": {
+   "ko": "갈망, 갈증",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "thirst"
+   ]
+  },
+  "driver": {
+   "ko": "동인, 운전기사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "driver",
+    "drivers"
+   ]
+  },
+  "beverage": {
+   "ko": "음료",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "beverage",
+    "beverages"
+   ]
+  },
+  "warm to": {
+   "ko": "~을 좋아하게 되다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "warmed to"
+   ]
+  },
+  "steep": {
+   "ko": "가파른, 힘든",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "steep"
+   ]
+  },
+  "consumption": {
+   "ko": "소비",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consumption"
+   ]
+  },
+  "adopt": {
+   "ko": "채택하다, 받아들이다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "adopting"
+   ]
+  },
+  "staggering": {
+   "ko": "엄청난, 믿기 어려운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "staggering"
+   ]
+  },
+  "outlet": {
+   "ko": "매장, 판매 대리점",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "outlets"
+   ]
+  },
+  "harsh": {
+   "ko": "가혹한, 치열한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "harsh"
+   ]
+  },
+  "aggressive": {
+   "ko": "공격적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "aggressive"
+   ]
+  },
+  "face off against": {
+   "ko": "~와 맞서다, 대결하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "facing off against"
+   ]
+  },
+  "dynamic": {
+   "ko": "역동적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "dynamic"
+   ]
+  },
+  "pale": {
+   "ko": "무색해지다, 창백해지다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "pales"
+   ]
+  },
+  "undergo": {
+   "ko": "겪다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "undergoing"
+   ]
+  },
+  "spur": {
+   "ko": "자극하다, 박차를 가하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "spurs"
+   ]
+  },
+  "cut-throat": {
+   "ko": "치열한, 살인적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "cut-throat"
+   ]
+  },
+  "surpass": {
+   "ko": "능가하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "surpasses"
+   ]
+  },
+  "deliberately": {
+   "ko": "의도적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "deliberately"
+   ]
+  },
+  "moderately": {
+   "ko": "적당히",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "moderately"
+   ]
+  },
+  "overweigh": {
+   "ko": "~보다 중시하다, 압도하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "overweighing"
+   ]
+  },
+  "encounter": {
+   "ko": "맞닥뜨리다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "encountering"
+   ]
+  },
+  "affordable": {
+   "ko": "(가격이) 알맞은",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "affordable"
+   ]
+  },
+  "estimate": {
+   "ko": "추정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "estimates"
+   ]
+  },
+  "analyst": {
+   "ko": "분석가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "analyst",
+    "analysts"
+   ]
+  },
+  "professional": {
+   "ko": "전문직 종사자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "professionals"
+   ]
+  },
+  "considerable": {
+   "ko": "상당한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "considerable"
+   ]
+  },
+  "assume": {
+   "ko": "가정하다, 추정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "assumed"
+   ]
+  },
+  "essential": {
+   "ko": "본질적인, 필수적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "essential"
+   ]
+  },
+  "evidence": {
+   "ko": "증거",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "evidence"
+   ]
+  },
+  "survive": {
+   "ko": "살아남다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "survive"
+   ]
+  },
+  "expose": {
+   "ko": "노출시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "exposed"
+   ]
+  },
+  "convenient": {
+   "ko": "편리한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "convenient",
+    "conveniently"
+   ]
+  },
+  "continuous": {
+   "ko": "지속적인, 연속적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "continuous"
+   ]
+  },
+  "accidentally": {
+   "ko": "우연히, 실수로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "accidentally"
+   ]
+  },
+  "acceptable": {
+   "ko": "받아들일 수 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "acceptable"
+   ]
+  },
+  "browse": {
+   "ko": "(인터넷을) 검색하다, 둘러보다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "browsing"
+   ]
+  },
+  "hobby": {
+   "ko": "취미",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "hobbies"
+   ]
+  },
+  "initial": {
+   "ko": "처음의, 초기의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "initial"
+   ]
+  },
+  "outcome": {
+   "ko": "결과",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "outcomes"
+   ]
+  },
+  "analysis": {
+   "ko": "분석",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "analysis"
+   ]
+  },
+  "analyze": {
+   "ko": "분석하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "analyze"
+   ]
+  },
+  "argue": {
+   "ko": "주장하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "argue"
+   ]
+  },
+  "eventually": {
+   "ko": "결국",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "eventually"
+   ]
+  },
+  "influence": {
+   "ko": "영향(력)",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "influence"
+   ]
+  },
+  "claim": {
+   "ko": "주장",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "claim"
+   ]
+  },
+  "regard": {
+   "ko": "여기다, 간주하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "regard",
+    "regarded"
+   ]
+  },
+  "automatically": {
+   "ko": "자동으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "automatically"
+   ]
+  },
+  "determine": {
+   "ko": "결정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "determined",
+    "determining"
+   ]
+  },
+  "immediate": {
+   "ko": "즉각적인, 당면한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "immediate"
+   ]
+  },
+  "physical": {
+   "ko": "물리적인, 신체의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "physical"
+   ]
+  },
+  "survey": {
+   "ko": "(설문) 조사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "survey"
+   ]
+  },
+  "concern": {
+   "ko": "우려, 관심사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "concerned",
+    "concerns"
+   ]
+  },
+  "concerned": {
+   "ko": "걱정하는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "concerned"
+   ]
+  },
+  "impact": {
+   "ko": "영향, 충격",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "impact"
+   ]
+  },
+  "explanation": {
+   "ko": "설명",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "explanations"
+   ]
+  },
+  "assist": {
+   "ko": "돕다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "assist"
+   ]
+  },
+  "additional": {
+   "ko": "추가적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "additional"
+   ]
+  },
+  "promote": {
+   "ko": "조장하다, 촉진하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "promote"
+   ]
+  },
+  "specifically": {
+   "ko": "구체적으로, 특별히",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "specifically"
+   ]
+  },
+  "specific": {
+   "ko": "특정한, 구체적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "specific"
+   ]
+  },
+  "weapon": {
+   "ko": "무기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "weapon"
+   ]
+  },
+  "gather": {
+   "ko": "모으다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "gathered"
+   ]
+  },
+  "individually": {
+   "ko": "개별적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "individually"
+   ]
+  },
+  "currently": {
+   "ko": "현재",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "currently"
+   ]
+  },
+  "intensive": {
+   "ko": "집중적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "intensive"
+   ]
+  },
+  "construct": {
+   "ko": "건설하다, 구성하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "construct"
+   ]
+  },
+  "pretend": {
+   "ko": "~인 척하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "pretend",
+    "pretending"
+   ]
+  },
+  "appear": {
+   "ko": "~인 것 같다, 나타나다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "appears"
+   ]
+  },
+  "triangle": {
+   "ko": "삼각형",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "triangle"
+   ]
+  },
+  "occur": {
+   "ko": "발생하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "occur"
+   ]
+  },
+  "mystery": {
+   "ko": "수수께끼, 신비",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "mysteries"
+   ]
+  },
+  "mysterious": {
+   "ko": "신비로운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "mysterious"
+   ]
+  },
+  "establish": {
+   "ko": "확립하다, 설립하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "established"
+   ]
+  },
+  "chief": {
+   "ko": "주된, 주요한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "chief"
+   ]
+  },
+  "theory": {
+   "ko": "이론",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "theories",
+    "theory"
+   ]
+  },
+  "engineer": {
+   "ko": "기술자, 엔지니어",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "engineers"
+   ]
+  },
+  "perfect": {
+   "ko": "완벽한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "perfect"
+   ]
+  },
+  "monster": {
+   "ko": "괴물",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "monster"
+   ]
+  },
+  "destroy": {
+   "ko": "파괴하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "destroy"
+   ]
+  },
+  "actual": {
+   "ko": "실제의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "actual",
+    "actually"
+   ]
+  },
+  "expert": {
+   "ko": "전문가",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "experts"
+   ]
+  },
+  "compare": {
+   "ko": "비교하다, 비유하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "compared"
+   ]
+  },
+  "discover": {
+   "ko": "발견하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "discovered"
+   ]
+  },
+  "discovery": {
+   "ko": "발견",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "discovery"
+   ]
+  },
+  "indicate": {
+   "ko": "나타내다, 시사하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "indicate",
+    "indicates"
+   ]
+  },
+  "publish": {
+   "ko": "출판하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "published"
+   ]
+  },
+  "appropriate": {
+   "ko": "적절한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "appropriate"
+   ]
+  },
+  "previous": {
+   "ko": "이전의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "previous"
+   ]
+  },
+  "technology": {
+   "ko": "기술",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "technologies",
+    "technology"
+   ]
+  },
+  "replace": {
+   "ko": "대체하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "replace",
+    "replaced"
+   ]
+  },
+  "concept": {
+   "ko": "개념",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "concepts"
+   ]
+  },
+  "performance": {
+   "ko": "성과, 성적",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "performance"
+   ]
+  },
+  "require": {
+   "ko": "요구하다, 필요로 하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "requiring"
+   ]
+  },
+  "multiple": {
+   "ko": "다수의, 다양한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "multiple"
+   ]
+  },
+  "access": {
+   "ko": "접근, 이용",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "access"
+   ]
+  },
+  "contain": {
+   "ko": "포함하다, 담다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "contain",
+    "containing"
+   ]
+  },
+  "educational": {
+   "ko": "교육의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "educational"
+   ]
+  },
+  "decrease": {
+   "ko": "감소하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "decrease",
+    "decreased"
+   ]
+  },
+  "creative": {
+   "ko": "창의적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "creative"
+   ]
+  },
+  "disagree": {
+   "ko": "동의하지 않다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "disagrees"
+   ]
+  },
+  "call for": {
+   "ko": "~을 요구하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "calling for"
+   ]
+  },
+  "individual": {
+   "ko": "개별적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "individually"
+   ]
+  },
+  "detailed": {
+   "ko": "상세한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "detailed"
+   ]
+  },
+  "purpose": {
+   "ko": "목적",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "purpose"
+   ]
+  },
+  "attention": {
+   "ko": "주의, 관심",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "attention"
+   ]
+  },
+  "consider": {
+   "ko": "여기다, 고려하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "consider"
+   ]
+  },
+  "organize": {
+   "ko": "조직하다, 준비하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "organizes"
+   ]
+  },
+  "overly": {
+   "ko": "지나치게",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "overly"
+   ]
+  },
+  "route": {
+   "ko": "경로",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "route"
+   ]
+  },
+  "affect": {
+   "ko": "영향을 미치다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "affected"
+   ]
+  },
+  "colleague": {
+   "ko": "동료",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "colleagues"
+   ]
+  },
+  "experiment": {
+   "ko": "실험",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "experiment"
+   ]
+  },
+  "consequence": {
+   "ko": "결과",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consequences"
+   ]
+  },
+  "logic": {
+   "ko": "논리",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "logic"
+   ]
+  },
+  "condition": {
+   "ko": "조건, 상황",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "conditions"
+   ]
+  },
+  "relative": {
+   "ko": "상대적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "relative",
+    "relatively"
+   ]
+  },
+  "relatively": {
+   "ko": "비교적",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "relatively"
+   ]
+  },
+  "region": {
+   "ko": "지역",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "region"
+   ]
+  },
+  "principle": {
+   "ko": "원리, 원칙",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "principle"
+   ]
+  },
+  "industrial": {
+   "ko": "산업의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "industrial"
+   ]
+  },
+  "invest": {
+   "ko": "투자하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "invest",
+    "investing"
+   ]
+  },
+  "risky": {
+   "ko": "위험한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "risky"
+   ]
+  },
+  "overseas": {
+   "ko": "해외의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "overseas"
+   ]
+  },
+  "refuse": {
+   "ko": "거부하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "refused"
+   ]
+  },
+  "policy": {
+   "ko": "정책",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "policies",
+    "policy"
+   ]
+  },
+  "invention": {
+   "ko": "발명",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "invention"
+   ]
+  },
+  "factor": {
+   "ko": "요인",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "factors"
+   ]
+  },
+  "purely": {
+   "ko": "순전히",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "purely"
+   ]
+  },
+  "debt": {
+   "ko": "빚, 부채",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "debts"
+   ]
+  },
+  "necessary": {
+   "ko": "필요한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "necessary"
+   ]
+  },
+  "natural resources": {
+   "ko": "천연자원",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "natural resources"
+   ]
+  },
+  "gallery": {
+   "ko": "미술관, 화랑",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "galleries"
+   ]
+  },
+  "confuse": {
+   "ko": "혼동하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "confused"
+   ]
+  },
+  "surface": {
+   "ko": "표면",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "surfaces"
+   ]
+  },
+  "leather": {
+   "ko": "가죽",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "leather"
+   ]
+  },
+  "protect": {
+   "ko": "보호하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "protected"
+   ]
+  },
+  "climate": {
+   "ko": "기후",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "climate"
+   ]
+  },
+  "ideal": {
+   "ko": "이상적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "ideal"
+   ]
+  },
+  "figure out": {
+   "ko": "알아내다, 이해하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "figure out"
+   ]
+  },
+  "respond": {
+   "ko": "반응하다, 응답하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "respond",
+    "responds"
+   ]
+  },
+  "response": {
+   "ko": "응답",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "responses"
+   ]
+  },
+  "miss": {
+   "ko": "놓치다, 빗맞히다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "missed"
+   ]
+  },
+  "manage to": {
+   "ko": "가까스로 ~하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "managed to"
+   ]
+  },
+  "curious": {
+   "ko": "호기심 많은",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "curious"
+   ]
+  },
+  "boundary": {
+   "ko": "경계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "boundary"
+   ]
+  },
+  "observation": {
+   "ko": "관찰",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "observations"
+   ]
+  },
+  "announce": {
+   "ko": "발표하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "announce",
+    "announced"
+   ]
+  },
+  "realize": {
+   "ko": "깨닫다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "realize",
+    "realized"
+   ]
+  },
+  "propose": {
+   "ko": "제안하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "proposed"
+   ]
+  },
+  "prove": {
+   "ko": "증명하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "prove"
+   ]
+  },
+  "admit": {
+   "ko": "인정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "admit"
+   ]
+  },
+  "opportunity": {
+   "ko": "기회",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "opportunity"
+   ]
+  },
+  "heavily": {
+   "ko": "크게, 심하게",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "heavily"
+   ]
+  },
+  "challenge": {
+   "ko": "도전, 난제",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "challenge",
+    "challenged",
+    "challenges"
+   ]
+  },
+  "rapidly": {
+   "ko": "빠르게",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "rapidly"
+   ]
+  },
+  "organization": {
+   "ko": "조직, 기구",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "organization"
+   ]
+  },
+  "cycle": {
+   "ko": "주기, 순환",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "cycle"
+   ]
+  },
+  "consumer": {
+   "ko": "소비자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consumer",
+    "consumers"
+   ]
+  },
+  "lifestyle": {
+   "ko": "생활 방식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "lifestyle",
+    "lifestyles"
+   ]
+  },
+  "obviously": {
+   "ko": "분명히",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "obviously"
+   ]
+  },
+  "track": {
+   "ko": "추적하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "tracking",
+    "tracks"
+   ]
+  },
+  "competition": {
+   "ko": "경쟁",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "competition"
+   ]
+  },
+  "compete": {
+   "ko": "경쟁하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "competing"
+   ]
+  },
+  "scale": {
+   "ko": "규모",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "scale"
+   ]
+  },
+  "ensure": {
+   "ko": "보장하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "ensure"
+   ]
+  },
+  "signal": {
+   "ko": "신호하다, 시사하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "signals"
+   ]
+  },
+  "similar": {
+   "ko": "비슷한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "similar"
+   ]
+  },
+  "purchase": {
+   "ko": "구매하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "purchasing"
+   ]
+  },
+  "environment": {
+   "ko": "환경",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "environment"
+   ]
+  },
+  "minister": {
+   "ko": "장관",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "minister"
+   ]
+  },
+  "intend": {
+   "ko": "의도하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "intended",
+    "intends"
+   ]
+  },
+  "degree": {
+   "ko": "정도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "degree"
+   ]
+  },
+  "describe": {
+   "ko": "묘사하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "described"
+   ]
+  },
+  "method": {
+   "ko": "방법",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "method"
+   ]
+  },
+  "native": {
+   "ko": "토박이의, 원어민의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "native"
+   ]
+  },
+  "reduce": {
+   "ko": "줄이다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "reduce",
+    "reduced"
+   ]
+  },
+  "risk": {
+   "ko": "위험",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "risk"
+   ]
+  },
+  "determined": {
+   "ko": "결정된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "determined"
+   ]
+  },
+  "recently": {
+   "ko": "최근에",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "recently"
+   ]
+  },
+  "fear": {
+   "ko": "두려워하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "fear",
+    "feared"
+   ]
+  },
+  "celebrate": {
+   "ko": "기념하다, 축하하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "celebrate"
+   ]
+  },
+  "basis": {
+   "ko": "기반, 근거",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "basis"
+   ]
+  },
+  "earn": {
+   "ko": "벌다, 얻다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "earning"
+   ]
+  },
+  "surprisingly": {
+   "ko": "놀랍게도",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "surprisingly"
+   ]
+  },
+  "critical": {
+   "ko": "비판적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "critically"
+   ]
+  },
+  "politics": {
+   "ko": "정치",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "politics"
+   ]
+  },
+  "political": {
+   "ko": "정치의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "political"
+   ]
+  },
+  "economic": {
+   "ko": "경제의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "economic"
+   ]
+  },
+  "economy": {
+   "ko": "경제",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "economy"
+   ]
+  },
+  "capital": {
+   "ko": "자본",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "capital"
+   ]
+  },
+  "foreign": {
+   "ko": "외국의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "foreign"
+   ]
+  },
+  "hardware": {
+   "ko": "하드웨어, 장비",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "hardware"
+   ]
+  },
+  "e-commerce": {
+   "ko": "전자상거래",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "e-commerce"
+   ]
+  },
+  "internet": {
+   "ko": "인터넷",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "internet"
+   ]
+  },
+  "private": {
+   "ko": "사적인, 민간의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "private"
+   ]
+  },
+  "sector": {
+   "ko": "부문",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "sector"
+   ]
+  },
+  "image": {
+   "ko": "이미지, 인상",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "image"
+   ]
+  },
+  "reality": {
+   "ko": "현실",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "reality"
+   ]
+  },
+  "reflect": {
+   "ko": "반영하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "reflect"
+   ]
+  },
+  "labor": {
+   "ko": "노동",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "labor"
+   ]
+  },
+  "income": {
+   "ko": "소득",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "income",
+    "incomes"
+   ]
+  },
+  "cost of living": {
+   "ko": "생활비",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "cost of living"
+   ]
+  },
+  "real income": {
+   "ko": "실질소득",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "real income"
+   ]
+  },
+  "fishermen": {
+   "ko": "어부들",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "fishermen"
+   ]
+  },
+  "conclusion": {
+   "ko": "결론",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "conclusion"
+   ]
+  },
+  "summary": {
+   "ko": "요약",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "summary"
+   ]
+  },
+  "exception": {
+   "ko": "예외",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "exception"
+   ]
+  },
+  "unchanging": {
+   "ko": "변하지 않는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "unchanging"
+   ]
+  }
+ }
+}

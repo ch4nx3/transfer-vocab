@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f6f3ea">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>서성한 기출 시험지</title>
+<meta name="description" content="서강대·성균관대·한양대 2023–2025 편입영어 기출을 한 문제씩 풀고, 모르는 단어를 바로 찾아 반복 학습하는 시험지 앱">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400&family=Nanum+Myeongjo:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#f6f3ea; --paper2:#efebdf; --ink:#1b1b1b; --ink2:#555; --ink3:#8a8780;
+  --rule:#d8d3c4; --pen:#b42318; --pencil:#6b6b6b; --fs:17px;
+  --en:"Tinos","Times New Roman",Times,serif;
+  --ko:"Nanum Myeongjo","AppleMyungjo","Noto Serif KR",serif;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;background:var(--paper);color:var(--ink)}
+body{font-family:var(--en),var(--ko);font-size:var(--fs);line-height:1.62;-webkit-text-size-adjust:100%;min-height:100vh}
+button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer}
+a{color:inherit}
+.wrap{max-width:640px;margin:0 auto;padding:0 16px}
+.ko{font-family:var(--ko)}
+.muted{color:var(--ink2)}
+.small{font-size:.82em}
+hr.r{border:0;border-top:1px solid var(--ink);margin:14px 0}
+hr.t{border:0;border-top:1px solid var(--rule);margin:14px 0}
+
+/* ---------- top / bottom bars ---------- */
+.top{position:sticky;top:0;z-index:20;background:var(--paper);border-bottom:1px solid var(--ink);padding-top:env(safe-area-inset-top)}
+.top .wrap{display:flex;align-items:center;gap:10px;height:46px}
+.top .ttl{flex:1;font-family:var(--ko);font-size:14px;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.top .btn{font-family:var(--ko);font-size:14px;padding:8px 2px;min-width:44px}
+.top .btn.r{text-align:right}
+.bot{position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--paper);border-top:1px solid var(--ink);padding-bottom:env(safe-area-inset-bottom)}
+.bot .wrap{display:flex;gap:8px;height:56px;align-items:center}
+.bot button{flex:1;height:40px;font-family:var(--ko);font-size:15px;border:1px solid var(--ink);border-radius:2px}
+.bot button.main{background:var(--ink);color:var(--paper)}
+.bot button:disabled{opacity:.35}
+.pad-b{height:calc(80px + env(safe-area-inset-bottom))}
+
+/* ---------- home (contents page) ---------- */
+.cover{text-align:center;padding:34px 0 10px}
+.cover h1{font-family:var(--ko);font-size:24px;margin:0;letter-spacing:.04em}
+.cover p{margin:6px 0 0;font-family:var(--ko);font-size:13px;color:var(--ink2)}
+.sec{font-family:var(--ko);font-weight:700;font-size:15px;margin:26px 0 6px;padding-bottom:4px;border-bottom:1px solid var(--ink)}
+.row{display:flex;align-items:center;gap:10px;width:100%;text-align:left;padding:13px 0;border-bottom:1px solid var(--rule);font-family:var(--ko)}
+.row .l{flex:1;min-width:0}
+.row .l b{font-weight:700;font-size:16px}
+.row .l .s{display:block;font-size:12.5px;color:var(--ink2);margin-top:2px}
+.row .r{font-size:13px;color:var(--ink2);white-space:nowrap}
+.row .arr{color:var(--ink3)}
+.bar{height:3px;background:var(--paper2);margin-top:6px}
+.bar i{display:block;height:100%;background:var(--ink)}
+.callout{border:1px solid var(--ink);padding:14px;margin-top:18px;font-family:var(--ko);display:flex;align-items:center;gap:12px;width:100%;text-align:left}
+.callout .big{font-size:28px;font-family:var(--en);font-weight:700;min-width:44px;text-align:center}
+.callout .l{flex:1}
+.callout .l b{display:block;font-size:15px}
+.callout .l span{font-size:12.5px;color:var(--ink2)}
+
+/* ---------- exam start sheet ---------- */
+.sheet{padding-top:30px;padding-bottom:30px}
+.sheet h2{font-family:var(--ko);font-size:21px;text-align:center;margin:0 0 4px}
+.sheet .meta{text-align:center;font-family:var(--ko);font-size:13px;color:var(--ink2)}
+.opt{display:flex;gap:12px;align-items:flex-start;padding:14px 0;border-bottom:1px solid var(--rule);font-family:var(--ko);width:100%;text-align:left}
+.opt .dot{width:18px;height:18px;border:1.5px solid var(--ink);border-radius:50%;flex:none;margin-top:3px;display:grid;place-items:center}
+.opt.on .dot::after{content:"";width:10px;height:10px;border-radius:50%;background:var(--ink)}
+.opt b{display:block;font-size:15px}
+.opt span{font-size:12.5px;color:var(--ink2)}
+.bigbtn{display:block;width:100%;margin-top:14px;height:48px;font-family:var(--ko);font-size:16px;border:1px solid var(--ink);border-radius:2px}
+.bigbtn.main{background:var(--ink);color:var(--paper)}
+
+/* ---------- question paper ---------- */
+.q{padding-top:16px}
+.dir{font-size:.86em;font-style:italic;color:var(--ink);margin-bottom:12px}
+.dir b{font-style:normal}
+.passage{margin:0 0 16px;padding:0 0 14px;border-bottom:1px solid var(--rule);text-align:justify;hyphens:auto;-webkit-hyphens:auto}
+.passage .ptitle{text-align:center;font-weight:700;margin-bottom:6px}
+.txt .para{display:block;height:.55em}
+.stemrow{display:flex;gap:6px}
+.qno{position:relative;font-weight:700;flex:none}
+.qno .mark{position:absolute;left:-10px;top:-12px;width:50px;height:50px;pointer-events:none}
+.stem{flex:1;min-width:0}
+.pts{color:var(--ink2);font-size:.8em;white-space:nowrap}
+.box{border:1px solid var(--ink);padding:10px 12px;margin:10px 0 0}
+u{text-decoration-thickness:1px;text-underline-offset:2px}
+.choices{list-style:none;margin:14px 0 0;padding:0}
+.ch{display:flex;gap:10px;align-items:flex-start;width:100%;text-align:left;padding:9px 4px;min-height:44px;border-radius:2px;position:relative;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}
+.ch .n{flex:none;width:1.45em;height:1.45em;display:grid;place-items:center;position:relative;font-size:1em;line-height:1}
+.ch .n .c{position:absolute;inset:0;border:1px solid var(--ink);border-radius:50%}
+.ch .n .d{position:relative;font-size:.8em}
+.ch.sel .n .c{background:var(--ink)}
+.ch.sel .n .d{color:var(--paper)}
+.ch .t{flex:1;min-width:0;padding-top:1px}
+.ch .ko2{display:block;font-family:var(--ko);font-size:.8em;color:var(--ink2);margin-top:1px}
+.ch svg.pen{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);pointer-events:none;overflow:visible}
+.ch.dim .t{color:var(--ink2)}
+
+/* tappable words */
+.w{border-radius:3px;cursor:pointer}
+.w.mk{box-shadow:0 0 0 1.2px var(--pencil);border-radius:42%/50%;}
+.w.kn{background-image:radial-gradient(circle,var(--ink3) 1.3px,transparent 1.6px);background-repeat:no-repeat;background-size:5px 5px;background-position:50% 0;padding-top:2px}
+.w.hit{background-color:rgba(0,0,0,.08)}
+
+/* popover */
+.pop{position:absolute;z-index:40;width:min(300px,calc(100vw - 32px));background:#fffdf7;border:1px solid var(--ink);box-shadow:3px 3px 0 rgba(0,0,0,.12);padding:10px 12px;font-family:var(--ko)}
+.pop .hw{font-family:var(--en);font-weight:700;font-size:18px}
+.pop .pos{font-size:12px;color:var(--ink2);margin-left:6px}
+.pop .m{font-size:15px;margin-top:4px}
+.pop .ft{display:flex;justify-content:space-between;align-items:center;margin-top:8px;font-size:12px;color:var(--ink2)}
+.pop .ft button{font-size:12px;border:1px solid var(--ink);padding:3px 8px;border-radius:2px;color:var(--ink)}
+.lv{font-size:10.5px;border:1px solid var(--ink2);color:var(--ink2);padding:0 4px;border-radius:2px;margin-left:6px;vertical-align:2px;font-family:var(--ko)}
+
+/* answer / explanation (해설지) */
+.ans{margin-top:18px;hyphens:manual;border-top:2px solid var(--ink);padding-top:12px;font-family:var(--ko)}
+.ans .res{font-size:15px;font-weight:700}
+.ans .res .pen{color:var(--pen)}
+.ans h4{font-size:13.5px;margin:18px 0 6px;font-weight:700;display:flex;justify-content:space-between;align-items:baseline}
+.ans h4 button{font-weight:400;font-size:12px;color:var(--ink2);text-decoration:underline}
+.ans .ex{font-size:14.5px;line-height:1.7}
+.ans details{margin:14px 0 0;border-top:1px dotted var(--rule)}
+.ans summary{font-size:13.5px;font-weight:700;padding:10px 0;cursor:pointer;list-style:none}
+.ans summary::-webkit-details-marker{display:none}
+.ans summary::before{content:'▸ ';color:var(--ink3)}
+.ans details[open] summary::before{content:'▾ '}
+.sent{padding:7px 0;border-bottom:1px dotted var(--rule)}
+.sent .e{font-family:var(--en);font-size:.9em;line-height:1.5}
+.sent .k{font-size:.86em;color:var(--ink);margin-top:2px;line-height:1.6}
+.sent .k::before{content:"→ ";color:var(--ink3)}
+.vrow{display:flex;align-items:center;gap:8px;padding:8px 0;border-bottom:1px dotted var(--rule);min-height:44px}
+.vrow .vw{font-family:var(--en);font-weight:700;font-size:16px;min-width:0}
+.vrow .vm{flex:1;font-size:14px;text-align:left;min-height:24px;padding:2px 6px;border-radius:2px}
+.vrow .vm.hide{background:repeating-linear-gradient(-45deg,var(--paper2),var(--paper2) 4px,#e6e1d2 4px,#e6e1d2 8px);color:transparent;user-select:none}
+.vrow .add{flex:none;font-size:12px;border:1px solid var(--ink);padding:3px 7px;border-radius:2px;white-space:nowrap}
+.vrow .add.on{background:var(--ink);color:var(--paper)}
+.occ{font-size:11px;color:var(--ink3);font-family:var(--ko);display:block;font-weight:400}
+
+/* OMR sheet */
+.omr{position:fixed;inset:0;z-index:50;background:var(--paper);overflow:auto;padding-top:env(safe-area-inset-top)}
+.omr .grid{display:grid;grid-template-columns:repeat(2,1fr);column-gap:18px;padding:8px 0 30px}
+.omr .orow{display:flex;align-items:center;gap:6px;padding:6px 0;border-bottom:1px solid var(--rule);font-size:14px;width:100%}
+.omr .orow .no{width:24px;font-weight:700;text-align:right;position:relative}
+.omr .orow.cur{background:var(--paper2)}
+.omr .bub{width:17px;height:17px;border:1px solid var(--ink);border-radius:50%;font-size:10px;display:grid;place-items:center;line-height:1}
+.omr .bub.f{background:var(--ink);color:var(--paper)}
+.omr .ox{font-family:var(--ko);font-size:13px;color:var(--pen);width:14px;text-align:center}
+
+/* review cards */
+.card{padding-top:26px;padding-bottom:26px}
+.card .ctx{font-size:1.02em;line-height:1.7;border-left:2px solid var(--ink);padding-left:12px}
+.card .ctx b{text-decoration:underline;text-underline-offset:3px}
+.card .src{font-family:var(--ko);font-size:12px;color:var(--ink2);margin-top:6px;padding-left:14px}
+.card .word{font-size:30px;font-weight:700;text-align:center;margin:28px 0 4px}
+.card .mean{text-align:center;font-family:var(--ko);font-size:19px;min-height:56px;margin-top:6px}
+.card .mean.hide{color:transparent;background:repeating-linear-gradient(-45deg,var(--paper2),var(--paper2) 4px,#e6e1d2 4px,#e6e1d2 8px);border-radius:2px}
+.grade3{display:flex;gap:8px}
+.grade3 button{flex:1;height:48px;border:1px solid var(--ink);font-family:var(--ko);font-size:14px;border-radius:2px}
+.grade3 button:last-child{background:var(--ink);color:var(--paper)}
+
+/* result */
+.score{text-align:center;padding:26px 0 8px}
+.score .big{font-size:56px;font-weight:700;line-height:1;color:var(--pen)}
+.score .sub{font-family:var(--ko);font-size:13px;color:var(--ink2);margin-top:6px}
+
+.toast{position:fixed;left:50%;bottom:calc(76px + env(safe-area-inset-bottom));transform:translateX(-50%);background:var(--ink);color:var(--paper);font-family:var(--ko);font-size:13px;padding:8px 14px;border-radius:2px;z-index:60;opacity:0;transition:opacity .2s;pointer-events:none}
+.toast.on{opacity:1}
+.set{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 0;border-bottom:1px solid var(--rule);font-family:var(--ko);font-size:15px;width:100%;text-align:left}
+.set span{font-size:12.5px;color:var(--ink2);display:block}
+.sw{flex:none;width:44px;height:24px;border:1.5px solid var(--ink);border-radius:12px;position:relative}
+.sw::after{content:"";position:absolute;top:2px;left:2px;width:17px;height:17px;border-radius:50%;background:var(--ink);transition:left .15s}
+.sw.on{background:var(--ink)}
+.sw.on::after{left:21px;background:var(--paper)}
+.fsbtn{border:1px solid var(--ink);width:40px;height:32px;border-radius:2px}
+.empty{font-family:var(--ko);text-align:center;color:var(--ink2);padding:50px 0}
+</style>
+</head>
+<body>
+<div id="app"></div>
+<div class="toast" id="toast"></div>
+<script id="DATA" type="application/json">__DATA__</script>
+<script>
+"use strict";
+const D = JSON.parse(document.getElementById('DATA').textContent);
+const EX = {}; D.exams.forEach(e => { EX[e.id] = e; e.qmap = {}; e.questions.forEach(q => e.qmap[q.no] = q); e.pmap = {}; e.passages.forEach(p => e.pmap[p.id] = p); });
+const SCHOOL_ORDER = ['서강대', '성균관대', '한양대'];
+const NUMS = ['①','②','③','④','⑤'];
+const DAY = 864e5;
+const BOX_DAYS = [0, 1, 2, 4, 7, 15, 30];
+
+/* ---------- glossary lookup ---------- */
+const GF = {};           // global: form -> {lemma, g}
+const EF = {};           // per exam: eid -> form -> {lemma, g}
+D.exams.forEach(e => {
+  EF[e.id] = {};
+  for (const [lemma, g] of Object.entries(e.glossary)) {
+    const forms = new Set([lemma, ...(g.forms || [])]);
+    forms.forEach(f => { const ent = { lemma, g }; EF[e.id][f] = ent; if (!GF[f]) GF[f] = ent; });
+  }
+});
+function stemVariants(w) {
+  const v = [w];
+  if (w.endsWith('ies')) v.push(w.slice(0, -3) + 'y');
+  if (w.endsWith('es')) v.push(w.slice(0, -2));
+  if (w.endsWith('s')) v.push(w.slice(0, -1));
+  if (w.endsWith('ied')) v.push(w.slice(0, -3) + 'y');
+  if (w.endsWith('ed')) { v.push(w.slice(0, -2)); v.push(w.slice(0, -1)); }
+  if (w.endsWith('ing')) { v.push(w.slice(0, -3)); v.push(w.slice(0, -3) + 'e'); }
+  if (w.endsWith('ly')) v.push(w.slice(0, -2));
+  if (/(.)\1(ed|ing)$/.test(w)) v.push(w.replace(/(.)\1(ed|ing)$/, '$1'));
+  return v;
+}
+function lookup(form, eid) {
+  form = form.toLowerCase().replace(/’/g, "'");
+  const tables = [EF[eid] || {}, GF];
+  for (const t of tables) if (t[form]) return t[form];
+  for (const v of stemVariants(form)) for (const t of tables) if (t[v]) return t[v];
+  return null;
+}
+function occText(lemma) {
+  const o = D.occ[lemma]; if (!o || !o.length) return '';
+  return `기출 ${o.length}회`;
+}
+
+/* ---------- storage ---------- */
+const LS = {
+  get(k, d) { try { const v = localStorage.getItem('ssh2:' + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem('ssh2:' + k, JSON.stringify(v)); } catch (e) {} }
+};
+let QS = LS.get('qs', {});        // "eid:no" -> {sel, ok, t}
+let VOC = LS.get('voc', {});      // lemma -> entry
+let SESS = LS.get('sess', {});    // sessionKey -> session
+let SET = Object.assign({ fs: 17, hideOnTap: false, showKnown: true, showKo: true }, LS.get('set', {}));
+const save = () => { LS.set('qs', QS); LS.set('voc', VOC); LS.set('sess', SESS); LS.set('set', SET); };
+document.documentElement.style.setProperty('--fs', SET.fs + 'px');
+
+/* ---------- helpers ---------- */
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const strip = s => String(s || '').replace(/<[^>]+>/g, '');
+const key = (eid, no) => eid + ':' + no;
+function toast(msg) { const t = $('#toast'); t.textContent = msg; t.classList.add('on'); clearTimeout(toast._t); toast._t = setTimeout(() => t.classList.remove('on'), 1500); }
+const WORD_RE = /[A-Za-z]+(?:[-'’][A-Za-z]+)*/g;
+// rich text: only <u>,<b>,<i> allowed in data; words become tappable spans
+function rich(text) {
+  const parts = String(text || '').split(/(<\/?[ubi]>)/);
+  return parts.map(p => {
+    if (/^<\/?[ubi]>$/.test(p)) return p;
+    return esc(p).replace(WORD_RE, m => {
+      let cls = 'w';
+      const ent = lookup(m, curEid()), lem = ent ? ent.lemma : m.toLowerCase();
+      if (rich.marked && rich.marked.has(lem)) cls += ' mk';
+      else if (SET.showKnown && ent && VOC[ent.lemma]) cls += ' kn';
+      return `<span class="${cls}">${m}</span>`;
+    }).replace(/\n\n+/g, '<span class="para"></span>').replace(/\n/g, '<br>');
+  }).join('');
+}
+function examLabel(e) { return `${e.year} ${e.school}`; }
+const dn = (e, no) => (e.qmap[no] && e.qmap[no].paper_no) || no;   // number as printed on the paper
+function shortSrc(eid, no) { const e = EX[eid]; return `${e.year} ${e.school.replace('대', '')} ${dn(e, no)}번`; }
+
+/* ---------- vocabulary (spaced repetition) ---------- */
+function addWord(lemma, g, ctx) {
+  let v = VOC[lemma];
+  if (!v) { v = VOC[lemma] = { lemma, ko: g ? g.ko : '', pos: g ? g.pos : '', lv: g ? g.lv : 0, box: 0, due: Date.now(), added: Date.now(), looks: 0, lapses: 0, ctx: [] }; }
+  if (ctx && ctx.s && !v.ctx.some(c => c.s === ctx.s)) { v.ctx.unshift(ctx); v.ctx = v.ctx.slice(0, 4); }
+  return v;
+}
+function removeWord(lemma) { delete VOC[lemma]; }
+function dueList() { const now = Date.now(); return Object.values(VOC).filter(v => v.box < 7 && v.due <= now).sort((a, b) => a.due - b.due); }
+function gradeWord(v, r) {   // r: 0 몰랐음, 1 헷갈림, 2 알았음
+  if (r === 0) { v.box = 0; v.lapses++; v.due = Date.now(); }
+  else if (r === 1) { v.box = Math.max(1, v.box); v.due = Date.now() + DAY; }
+  else { v.box = Math.min(7, v.box + 1); v.due = Date.now() + (v.box >= 7 ? 3650 : BOX_DAYS[v.box]) * DAY; }
+}
+
+/* ---------- sessions ---------- */
+// session: {key, title, refs:[[eid,no]], idx, mode:'practice'|'exam', draft:{}, start, limit, done}
+let S = null;                   // active session
+function curEid() { return S ? S.refs[S.idx][0] : null; }
+function curQ() { if (!S) return null; const [eid, no] = S.refs[S.idx]; return EX[eid].qmap[no]; }
+function qState(eid, no) { return QS[key(eid, no)]; }
+function isGraded(eid, no) {
+  if (S && S.mode === 'exam' && !S.done) return false;
+  const st = qState(eid, no); return !!(st && st.ok != null);
+}
+function selOf(eid, no) {
+  if (S && S.mode === 'exam' && !S.done) return S.draft[key(eid, no)];
+  const st = qState(eid, no); return st ? st.sel : undefined;
+}
+
+/* ---------- router ---------- */
+let VIEW = 'home';
+function go(view, arg) {
+  closePop();
+  VIEW = view;
+  if (view !== 'q' && view !== 'result') S = null;
+  window.scrollTo(0, 0);
+  ({ home: renderHome, start: renderStart, q: renderQ, result: renderResult, review: renderReview, words: renderWords, settings: renderSettings, mixes: renderHome })[view](arg);
+  history.replaceState(null, '', '#' + view);
+}
+
+/* ---------- HOME ---------- */
+function examStats(e) {
+  let done = 0, ok = 0;
+  e.questions.forEach(q => { const st = qState(e.id, q.no); if (st && st.ok != null) { done++; if (st.ok) ok++; } });
+  return { done, ok, n: e.questions.length };
+}
+function renderHome() {
+  const due = dueList().length, total = Object.keys(VOC).length;
+  const mastered = Object.values(VOC).filter(v => v.box >= 5).length;
+  let h = `<div class="wrap"><div class="cover"><h1>서·성·한 편입영어 기출</h1><p>2023–2025 · 한 문제씩 풀고, 모르는 단어는 바로 찾아 반복</p></div>`;
+  h += `<button class="callout" data-act="review"><div class="big">${due}</div><div class="l"><b>오늘 복습할 단어</b><span>${total ? `단어장 ${total}개 · 장기기억 ${mastered}개` : '문제를 풀며 단어를 탭하면 여기에 쌓입니다'}</span></div><div class="arr">›</div></button>`;
+  SCHOOL_ORDER.forEach(sc => {
+    const list = D.exams.filter(e => e.school === sc).sort((a, b) => b.year - a.year);
+    if (!list.length) return;
+    h += `<div class="sec">${sc}학교</div>`;
+    list.forEach(e => {
+      const st = examStats(e), pct = st.n ? Math.round(st.done / st.n * 100) : 0;
+      const sess = SESS[e.id];
+      const right = st.done ? `${st.ok}/${st.done} 정답` : (sess ? '풀이 중' : '');
+      h += `<button class="row" data-act="start" data-eid="${e.id}"><div class="l"><b>${e.year}학년도</b> <span class="small muted">${esc(e.title.replace(/^\d+학년도\s*/, '').replace(e.school + '학교', '').trim())}</span><span class="s">${st.n}문항${e.minutes ? ' · ' + e.minutes + '분' : ''}${sess && !sess.done ? ` · ${sess.idx + 1}번까지 진행` : ''}</span><div class="bar"><i style="width:${pct}%"></i></div></div><div class="r">${right}</div><div class="arr">›</div></button>`;
+    });
+  });
+  const wrongN = Object.entries(QS).filter(([k, v]) => v.ok === false && EX[k.split(':')[0]]).length;
+  const synN = synonymRefs().length;
+  h += `<div class="sec">모아 풀기</div>
+    <button class="row" data-act="mix" data-mix="wrong"><div class="l"><b>틀린 문제 다시 풀기</b><span class="s">전 시험 오답 ${wrongN}문항 · 섞어서</span></div><div class="arr">›</div></button>
+    <button class="row" data-act="mix" data-mix="syn"><div class="l"><b>어휘(동의어) 문제만</b><span class="s">밑줄 어휘 문항 ${synN}개 · 섞어서</span></div><div class="arr">›</div></button>
+    <div class="sec">도구</div>
+    <button class="row" data-act="words"><div class="l"><b>내 단어장</b><span class="s">${total}개 · 복사해서 Anki로 옮기기</span></div><div class="arr">›</div></button>
+    <button class="row" data-act="settings"><div class="l"><b>설정</b><span class="s">글자 크기 · 풀 때 뜻 숨기기 · 초기화</span></div><div class="arr">›</div></button>
+    <p class="small muted ko" style="text-align:center;margin:28px 0 40px">학습 기록은 이 기기의 브라우저에만 저장됩니다.</p></div>`;
+  $('#app').innerHTML = h;
+}
+function synonymRefs() {
+  const out = [];
+  D.exams.forEach(e => e.directions.forEach(d => {
+    if (/closest (in )?meaning|similar in meaning|nearest in meaning|synonym|same meaning|밑줄 친 (단어|부분)의 (뜻|의미)/i.test(strip(d.text)))
+      for (let n = d.from; n <= d.to; n++) if (e.qmap[n] && !e.qmap[n].passage) out.push([e.id, n]);
+  }));
+  return out;
+}
+function shuffle(a) { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+function startMix(kind) {
+  let refs = kind === 'wrong'
+    ? Object.entries(QS).filter(([k, v]) => v.ok === false).map(([k]) => { const [e, n] = k.split(':'); return [e, +n]; }).filter(([e]) => EX[e])
+    : synonymRefs();
+  if (!refs.length) { toast(kind === 'wrong' ? '아직 틀린 문제가 없어요' : '문항이 없어요'); return; }
+  refs = shuffle(refs.slice());
+  if (kind === 'wrong') refs.forEach(([e, n]) => { const st = QS[key(e, n)]; if (st) { delete st.ok; delete st.sel; } });
+  S = { key: 'mix', title: kind === 'wrong' ? '오답 다시 풀기' : '어휘 문제 모아풀기', refs, idx: 0, mode: 'practice', draft: {}, start: Date.now() };
+  SESS.mix = S; save(); VIEW = 'q'; renderQ();
+}
+
+/* ---------- START SHEET ---------- */
+let startMode = 'practice';
+function renderStart(eid) {
+  const e = EX[eid], st = examStats(e), sess = SESS[eid];
+  let h = `<div class="top"><div class="wrap"><button class="btn" data-act="home">‹ 목록</button><div class="ttl">${examLabel(e)}</div><span class="btn"></span></div></div><div class="wrap sheet">
+    <h2>${esc(e.title)}</h2><div class="meta">${e.questions.length}문항${e.minutes ? ' · ' + e.minutes + '분' : ''} · 지문 ${e.passages.length}개</div><hr class="r">`;
+  if (sess && !sess.done) {
+    h += `<button class="bigbtn main" data-act="resume" data-eid="${eid}">이어서 풀기 · ${sess.idx + 1}번부터</button>`;
+    h += `<p class="small muted ko" style="text-align:center">${sess.mode === 'exam' ? '실전 모드' : '연습 모드'}로 진행 중</p><hr class="t">`;
+  }
+  h += `<button class="opt ${startMode === 'practice' ? 'on' : ''}" data-act="mode" data-m="practice" data-eid="${eid}"><div class="dot"></div><div><b>연습 모드</b><span>한 문제 풀 때마다 바로 채점 · 문장별 해석 · 어려운 단어 확인</span></div></button>
+    <button class="opt ${startMode === 'exam' ? 'on' : ''}" data-act="mode" data-m="exam" data-eid="${eid}"><div class="dot"></div><div><b>실전 모드</b><span>${e.minutes ? e.minutes + '분 타이머' : '타이머'} · 끝까지 풀고 한 번에 채점, 이후 해설 열람</span></div></button>
+    <button class="bigbtn ${sess && !sess.done ? '' : 'main'}" data-act="begin" data-eid="${eid}">${st.done ? '처음부터 다시 풀기' : '시작'}</button>`;
+  if (st.done) h += `<button class="bigbtn" data-act="browse" data-eid="${eid}">채점한 문제 해설 보기 (${st.done}문항)</button>`;
+  h += `<p class="small muted ko" style="margin-top:22px;line-height:1.7">· 본문 단어를 탭하면 뜻이 뜨고 단어장에 저장돼요.<br>· 보기(선지) 단어는 꾹 누르면 뜻이 떠요.<br>· 채점 후엔 문장별 해석과, 숨겨둔 수능 이상 어휘가 나와요.<br>· 좌우로 밀어서 문제를 넘길 수 있어요.</p></div>`;
+  $('#app').innerHTML = h;
+}
+function beginExam(eid, mode, resume) {
+  const e = EX[eid];
+  if (resume && SESS[eid]) { S = SESS[eid]; }
+  else {
+    e.questions.forEach(q => delete QS[key(eid, q.no)]);
+    S = { key: eid, title: examLabel(e), refs: e.questions.map(q => [eid, q.no]), idx: 0, mode, draft: {}, start: Date.now(), limit: mode === 'exam' && e.minutes ? e.minutes * 60e3 : 0 };
+    SESS[eid] = S;
+  }
+  save(); VIEW = 'q'; window.scrollTo(0, 0); renderQ();
+}
+function browseExam(eid) {
+  const e = EX[eid];
+  const refs = e.questions.filter(q => { const st = qState(eid, q.no); return st && st.ok != null; }).map(q => [eid, q.no]);
+  S = { key: 'browse', title: examLabel(e) + ' 해설', refs, idx: 0, mode: 'practice', draft: {}, start: Date.now(), browse: true };
+  VIEW = 'q'; renderQ();
+}
+
+/* ---------- QUESTION ---------- */
+let timerT = null;
+function fmtLeft() {
+  if (!S || !S.limit || S.done) return '';
+  const left = Math.max(0, S.start + S.limit - Date.now());
+  const m = Math.floor(left / 60e3), s = Math.floor(left % 60e3 / 1e3);
+  return `${m}:${String(s).padStart(2, '0')}`;
+}
+function tick() { const el = $('#timer'); if (el) el.textContent = fmtLeft(); if (S && S.limit && !S.done && Date.now() > S.start + S.limit) { toast('시간 종료 · 자동 제출'); submitExam(); } }
+function directionFor(e, no) { return e.directions.find(d => no >= d.from && no <= d.to); }
+function pad2(n) { return String(n).padStart(2, '0'); }
+function penCircle(w, h) { return `<svg class="pen" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><path d="M${w * .5} ${h * .08} C ${w * .95} ${h * .02}, ${w * 1.02} ${h * .8}, ${w * .55} ${h * .94} C ${w * .1} ${h * 1.02}, ${w * -.04} ${h * .35}, ${w * .35} ${h * .12}" fill="none" stroke="#b42318" stroke-width="1.8" stroke-linecap="round"/></svg>`; }
+function penSlash(w, h) { return `<svg class="pen" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><path d="M${w * .85} ${h * .05} L ${w * .12} ${h * .95}" stroke="#b42318" stroke-width="2" stroke-linecap="round"/></svg>`; }
+function bigMark(ok) {
+  return ok
+    ? `<svg class="mark" viewBox="0 0 50 50"><path d="M26 6 C44 5,48 34,28 43 C10 50,2 26,14 12 C18 8,22 7,27 7" fill="none" stroke="#b42318" stroke-width="2.2" stroke-linecap="round"/></svg>`
+    : `<svg class="mark" viewBox="0 0 50 50"><path d="M40 6 L12 44" stroke="#b42318" stroke-width="2.4" stroke-linecap="round"/></svg>`;
+}
+function renderQ() {
+  if (!S) return go('home');
+  closePop();
+  const [eid, no] = S.refs[S.idx], e = EX[eid], q = e.qmap[no];
+  const graded = isGraded(eid, no), sel = selOf(eid, no), st = qState(eid, no);
+  const dir = directionFor(e, no), p = q.passage ? e.pmap[q.passage] : null;
+  const exam = S.mode === 'exam' && !S.done;
+  rich.marked = new Set((S.marked && S.marked[key(eid, no)]) || []);
+  let h = `<div class="top"><div class="wrap"><button class="btn" data-act="leave">‹ 목록</button><div class="ttl">${esc(S.key === eid ? examLabel(e) : S.title + ' · ' + shortSrc(eid, no))}<span class="muted"> · ${S.idx + 1}/${S.refs.length}</span></div><button class="btn r" data-act="omr">${exam && S.limit ? `<span id="timer">${fmtLeft()}</span>` : '답안지'}</button></div></div>`;
+  h += `<div class="wrap q" id="qwrap" lang="en">`;
+  if (dir) h += `<div class="dir txt"><b>[${pad2(dn(e, dir.from))}${dir.to !== dir.from ? '–' + pad2(dn(e, dir.to)) : ''}]</b> ${rich(dir.text.replace(/\s*\(시험지[^)]*\)\s*$/, ''))}</div>`;
+  if (p) h += `<div class="passage txt" id="psg">${p.title ? `<div class="ptitle">${rich(p.title)}</div>` : ''}${rich(p.text)}</div>`;
+  h += `<div class="stemrow" id="stem"><div class="qno">${pad2(dn(e, no))}.${graded ? bigMark(st.ok) : ''}</div><div class="stem txt">${rich(q.stem)}${q.points ? ` <span class="pts">[${q.points}점]</span>` : ''}${q.box ? `<div class="box txt">${rich(q.box)}</div>` : ''}</div></div>`;
+  h += `<ol class="choices">`;
+  q.choices.forEach((c, i) => {
+    const n = i + 1, isSel = sel === n;
+    let pen = '';
+    if (graded) { if (n === q.answer) pen = penCircle(34, 34); else if (isSel) pen = penSlash(28, 28); }
+    const ko = graded && SET.showKo && q.choices_ko && q.choices_ko[i] ? `<span class="ko2">${esc(q.choices_ko[i])}</span>` : '';
+    h += `<li><div class="ch ${isSel ? 'sel' : ''} ${graded && n !== q.answer && !isSel ? 'dim' : ''}" data-ch="${n}" role="button"><span class="n"><span class="c"></span><span class="d">${n}</span>${pen}</span><span class="t txt">${rich(c)}${ko}</span></div></li>`;
+  });
+  h += `</ol>`;
+  if (graded) h += renderAnswer(e, q, st);
+  h += `</div><div class="pad-b"></div>`;
+  // bottom bar
+  const last = S.idx === S.refs.length - 1;
+  let main;
+  if (exam) main = last ? `<button class="main" data-act="submit">제출</button>` : `<button class="main" data-act="next">다음 ›</button>`;
+  else if (!graded) main = `<button class="main" data-act="grade" ${sel ? '' : 'disabled'}>채점</button>`;
+  else main = last ? `<button class="main" data-act="finish">끝</button>` : `<button class="main" data-act="next">다음 ›</button>`;
+  h += `<div class="bot"><div class="wrap"><button data-act="prev" ${S.idx ? '' : 'disabled'}>‹ 이전</button>${main}</div></div>`;
+  $('#app').innerHTML = h;
+  rich.marked = null;
+  clearInterval(timerT); if (exam && S.limit) timerT = setInterval(tick, 1000);
+  // continuing the same passage → jump straight to the question
+  const prevRef = S.refs[S.idx - 1];
+  if (S._scroll === 'stem' && p && prevRef && prevRef[0] === eid && e.qmap[prevRef[1]] && e.qmap[prevRef[1]].passage === q.passage) {
+    const el = $('#stem'); window.scrollTo(0, el.getBoundingClientRect().top + window.scrollY - 70);
+  } else if (S._scroll === 'ans') { const el = $('#ans'); if (el) window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - 60, behavior: 'smooth' }); }
+  else if (S._scroll !== 'keep') window.scrollTo(0, 0);
+  S._scroll = null;
+}
+function sentList(sents) {
+  return (sents || []).map(s => `<div class="sent"><div class="e txt">${rich(s.en)}</div><div class="k">${esc(s.ko)}</div></div>`).join('');
+}
+function hiddenWords(e, q) {
+  const seen = new Map();
+  const scan = (text, where) => {
+    (strip(text).match(WORD_RE) || []).forEach(w => {
+      const ent = lookup(w, e.id);
+      if (ent && !seen.has(ent.lemma)) seen.set(ent.lemma, { ...ent, where, surface: w });
+    });
+  };
+  scan(q.stem, 'q'); scan(q.box || '', 'q'); q.choices.forEach(c => scan(c, 'c'));
+  if (q.passage) scan(e.pmap[q.passage].text, 'p');
+  const arr = [...seen.values()];
+  arr.sort((a, b) => (b.g.lv - a.g.lv) || 0);
+  return arr;
+}
+function vocabRows(list, revealAll) {
+  return list.map(x => {
+    const inV = !!VOC[x.lemma];
+    const reveal = revealAll || (S && S.revealed && S.revealed[x.lemma]);
+    return `<div class="vrow"><div class="vw">${esc(x.lemma)}<span class="lv">${x.g.lv === 2 ? '편입' : '수능'}</span><span class="occ">${esc(x.g.pos || '')} ${occText(x.lemma)}</span></div><button class="vm ${reveal ? '' : 'hide'}" data-act="reveal" data-l="${esc(x.lemma)}">${esc(x.g.ko)}</button><button class="add ${inV ? 'on' : ''}" data-act="toggleword" data-l="${esc(x.lemma)}">${inV ? '✓ 단어장' : '＋ 단어장'}</button></div>`;
+  }).join('');
+}
+function renderAnswer(e, q, st) {
+  const ok = st.ok;
+  let h = `<div class="ans" id="ans"><div class="res">${ok ? '<span class="pen">정답</span>' : `<span class="pen">오답</span> · 내 답 ${NUMS[st.sel - 1] || '-'}`} · 정답 ${NUMS[q.answer - 1]}</div>`;
+  if (q.explain) h += `<h4>해설</h4><div class="ex">${esc(q.explain)}</div>`;
+  const p = q.passage ? e.pmap[q.passage] : null;
+  // shared passage: full translation/vocab open on the group's first question, folded on the rest
+  const firstOfGroup = !p || q.no === p.from || !(S && S.refs.some(([e2, n2]) => e2 === e.id && n2 >= p.from && n2 < q.no));
+  const fold = (title, body, open) => open ? `<h4>${title}</h4>${body}` : `<details><summary>${title} <span class="small muted">펼치기</span></summary>${body}</details>`;
+  if (p && p.sents) h += fold(`지문 해석 <span class="small muted">${pad2(dn(e, p.from))}–${pad2(dn(e, p.to))}번 공통</span>`, sentList(p.sents), firstOfGroup);
+  if (q.sents) h += `<h4>${p ? '문항 해석' : '문장별 해석'}</h4>${sentList(q.sents)}`;
+  else if (q.trans) h += `<h4>해석</h4><div class="ex">${esc(q.trans)}</div>`;
+  // words the user circled while solving
+  const mine = (S && S.marked && S.marked[key(e.id, q.no)]) || [];
+  const all = hiddenWords(e, q);
+  const mineSet = new Set(mine);
+  const mineList = all.filter(x => mineSet.has(x.lemma));
+  if (mineList.length) h += `<h4>내가 체크한 단어</h4>${vocabRows(mineList, true)}`;
+  const rest = all.filter(x => !mineSet.has(x.lemma));
+  const qRest = rest.filter(x => x.where !== 'p'), pRest = rest.filter(x => x.where === 'p');
+  if (rest.length) h += `<h4>숨겨둔 어려운 단어 <button data-act="revealall">가림판 모두 열기</button></h4><p class="small muted" style="margin:0 0 4px">뜻을 먼저 떠올려 보고 가림판을 탭하세요. 몰랐던 건 ＋단어장.</p>`;
+  if (qRest.length) h += `<div class="small muted" style="margin-top:8px">문제·보기 ${qRest.length}개</div>${vocabRows(qRest)}`;
+  if (pRest.length) h += fold(`<span class="small">지문 ${pRest.length}개</span>`, vocabRows(pRest), firstOfGroup);
+  h += `</div>`;
+  return h;
+}
+function gradeCur() {
+  const [eid, no] = S.refs[S.idx], q = EX[eid].qmap[no];
+  const st = QS[key(eid, no)] || {};
+  if (!st.sel) return;
+  st.ok = st.sel === q.answer; st.t = Date.now(); QS[key(eid, no)] = st;
+  // words looked up in a question you got wrong come back sooner
+  save(); S._scroll = 'ans'; renderQ();
+}
+function choose(n) {
+  const [eid, no] = S.refs[S.idx];
+  if (isGraded(eid, no)) return;
+  if (S.mode === 'exam' && !S.done) S.draft[key(eid, no)] = n;
+  else { const st = QS[key(eid, no)] || {}; st.sel = n; QS[key(eid, no)] = st; }
+  save();
+  document.querySelectorAll('.ch').forEach(el => el.classList.toggle('sel', +el.dataset.ch === n));
+  const g = document.querySelector('[data-act="grade"]'); if (g) g.disabled = false;
+}
+function move(d) {
+  if (!S) return;
+  const ni = S.idx + d; if (ni < 0 || ni >= S.refs.length) return;
+  S.idx = ni; S._scroll = d > 0 ? 'stem' : null; save(); renderQ();
+}
+function submitExam() {
+  if (!S) return;
+  clearInterval(timerT);
+  S.refs.forEach(([eid, no]) => {
+    const sel = S.draft[key(eid, no)], q = EX[eid].qmap[no];
+    QS[key(eid, no)] = { sel, ok: sel === q.answer, t: Date.now() };
+  });
+  S.done = true; S.used = Date.now() - S.start; save(); VIEW = 'result'; renderResult();
+}
+function finishSession() {
+  if (S && S.key && SESS[S.key] === S) { S.done = true; }
+  if (S && S.refs.every(([e, n]) => isGraded(e, n))) { save(); VIEW = 'result'; renderResult(); return; }
+  save(); go('home');
+}
+
+/* ---------- RESULT ---------- */
+function renderResult() {
+  if (!S) return go('home');
+  let ok = 0, pts = 0, tot = 0;
+  S.refs.forEach(([eid, no]) => { const q = EX[eid].qmap[no], st = qState(eid, no); tot += q.points || 0; if (st && st.ok) { ok++; pts += q.points || 0; } });
+  const n = S.refs.length;
+  let h = `<div class="top"><div class="wrap"><button class="btn" data-act="home">‹ 목록</button><div class="ttl">${esc(S.title)} 채점</div><span class="btn"></span></div></div><div class="wrap">
+    <div class="score"><div class="big">${ok}<span style="font-size:24px;color:var(--ink)"> / ${n}</span></div><div class="sub">${tot ? `${pts.toFixed(1)} / ${tot.toFixed(1)}점 · ` : ''}정답률 ${Math.round(ok / n * 100)}%${S.used ? ' · ' + Math.round(S.used / 60e3) + '분 사용' : ''}</div></div><hr class="r">
+    <div class="omr" style="position:static;padding:0">${omrGrid()}</div>
+    <button class="bigbtn main" data-act="wrongonly">틀린 문제만 해설 보기</button>
+    <button class="bigbtn" data-act="review">이번에 저장한 단어 복습</button>
+    <div class="pad-b"></div></div>`;
+  $('#app').innerHTML = h;
+}
+
+/* ---------- OMR (답안지) ---------- */
+function omrGrid() {
+  let h = '<div class="grid">';
+  S.refs.forEach(([eid, no], i) => {
+    const q = EX[eid].qmap[no], sel = selOf(eid, no), g = isGraded(eid, no), st = qState(eid, no);
+    h += `<button class="orow ${i === S.idx ? 'cur' : ''}" data-act="jump" data-i="${i}"><span class="no">${S.key === eid || S.key === 'browse' ? dn(EX[eid], no) : i + 1}</span>`;
+    q.choices.forEach((c, j) => { h += `<span class="bub ${sel === j + 1 ? 'f' : ''}">${j + 1}</span>`; });
+    h += `<span class="ox">${g ? (st.ok ? '○' : '✕') : ''}</span></button>`;
+  });
+  return h + '</div>';
+}
+function openOMR() {
+  const el = document.createElement('div'); el.className = 'omr'; el.id = 'omr';
+  const answered = S.refs.filter(([e, n]) => selOf(e, n)).length;
+  el.innerHTML = `<div class="top"><div class="wrap"><button class="btn" data-act="closeomr">닫기</button><div class="ttl">답안지 · ${answered}/${S.refs.length} 마킹</div><span class="btn"></span></div></div><div class="wrap">${omrGrid()}${S.mode === 'exam' && !S.done ? `<button class="bigbtn main" data-act="submit">답안 제출</button>` : ''}<div class="pad-b"></div></div>`;
+  document.body.appendChild(el);
+}
+function closeOMR() { const el = $('#omr'); if (el) el.remove(); }
+
+/* ---------- word tap / popover ---------- */
+let popEl = null;
+function closePop() { if (popEl) { popEl.remove(); popEl = null; } document.querySelectorAll('.w.hit').forEach(x => x.classList.remove('hit')); }
+function sentenceAround(span) {
+  const block = span.closest('.txt'); if (!block) return '';
+  const r = document.createRange(); r.setStart(block, 0); r.setEnd(span, 0);
+  const off = r.toString().length, text = block.textContent;
+  let a = off, b = off;
+  while (a > 0 && !/[.!?]["”’)]?\s$/.test(text.slice(Math.max(0, a - 3), a))) a--;
+  const m = text.slice(off).search(/[.!?]["”’)]?(\s|$)/);
+  b = m < 0 ? text.length : off + m + 1;
+  let s = text.slice(a, b).trim();
+  if (s.length > 260) { const i = off - a; s = '…' + s.slice(Math.max(0, i - 120), i + 140).trim() + '…'; }
+  return s.replace(/\s+/g, ' ');
+}
+function phraseAt(span) {
+  // try longest multi-word glossary form starting at this word (e.g. "cut back on")
+  const words = [span.textContent]; let n = span.nextSibling, spans = [span];
+  while (n && words.length < 4) {
+    if (n.nodeType === 3 && /^\s+$/.test(n.textContent)) { n = n.nextSibling; continue; }
+    if (n.nodeType === 1 && n.classList && n.classList.contains('w')) { words.push(n.textContent); spans.push(n); n = n.nextSibling; continue; }
+    break;
+  }
+  const eid = curEid();
+  for (let k = words.length; k >= 2; k--) {
+    const f = words.slice(0, k).join(' ').toLowerCase();
+    const ent = (EF[eid] || {})[f] || GF[f]; if (ent) return { ent, spans: spans.slice(0, k) };
+  }
+  return { ent: lookup(span.textContent, eid), spans: [span] };
+}
+function onWord(span) {
+  if (!S) return;
+  const { ent, spans } = phraseAt(span);
+  const [eid, no] = S.refs[S.idx];
+  const lemma = ent ? ent.lemma : span.textContent.toLowerCase();
+  const ctx = { s: sentenceAround(span), eid, no };
+  const v = addWord(lemma, ent && ent.g, ctx);
+  v.looks++;
+  // a word you look up again after studying it = forgotten → back to box 0
+  if (v.box > 0 && Date.now() - v.added > 6e5) { v.box = 0; v.due = Date.now(); v.lapses++; }
+  S.marked = S.marked || {}; const mk = S.marked[key(eid, no)] = S.marked[key(eid, no)] || [];
+  if (!mk.includes(lemma)) mk.push(lemma);
+  save();
+  spans.forEach(s => s.classList.add('mk'));
+  const graded = isGraded(eid, no);
+  if (SET.hideOnTap && !graded) { toast(`“${lemma}” 체크 · 채점 후 뜻 공개`); return; }
+  showPop(spans[0], lemma, ent, v);
+}
+function showPop(span, lemma, ent, v) {
+  closePop();
+  span.classList.add('hit');
+  const g = ent ? ent.g : null;
+  const el = document.createElement('div'); el.className = 'pop';
+  el.innerHTML = `<div><span class="hw">${esc(lemma)}</span>${g ? `<span class="pos">${esc(g.pos || '')}</span><span class="lv">${g.lv === 2 ? '편입' : '수능'}</span>` : ''}</div>
+    <div class="m">${g ? esc(g.ko) : '<span class="muted small">이 시험지 사전에 없는 단어예요 (기본 단어일 가능성이 높아요)</span>'}</div>
+    <div class="ft"><span>${g ? occText(lemma) : ''}${v.looks > 1 ? ` · ${v.looks}번째 찾음` : ''}</span><span><a href="https://en.dict.naver.com/#/search?query=${encodeURIComponent(lemma)}" target="_blank" rel="noopener">사전</a> &nbsp;<button data-act="popdel" data-l="${esc(lemma)}">단어장에서 빼기</button></span></div>`;
+  document.body.appendChild(el);
+  const r = span.getBoundingClientRect(), W = el.offsetWidth;
+  let left = Math.min(Math.max(16, r.left + window.scrollX + r.width / 2 - W / 2), window.scrollX + document.documentElement.clientWidth - W - 16);
+  let top = r.bottom + window.scrollY + 8;
+  if (r.bottom + el.offsetHeight + 80 > window.innerHeight) top = r.top + window.scrollY - el.offsetHeight - 8;
+  el.style.left = left + 'px'; el.style.top = top + 'px';
+  popEl = el;
+}
+
+/* ---------- REVIEW (spaced repetition) ---------- */
+let RQ = null;
+function renderReview() {
+  if (!RQ) { RQ = { list: dueList().map(v => v.lemma), i: 0, show: false, again: 0, done: 0 }; }
+  const top = `<div class="top"><div class="wrap"><button class="btn" data-act="endreview">‹ 목록</button><div class="ttl">단어 복습${RQ.list.length ? ` · ${Math.min(RQ.i + 1, RQ.list.length)}/${RQ.list.length}` : ''}</div><span class="btn"></span></div></div>`;
+  if (RQ.i >= RQ.list.length) {
+    const next = Object.values(VOC).filter(v => v.box < 7).sort((a, b) => a.due - b.due)[0];
+    $('#app').innerHTML = top + `<div class="wrap empty">${RQ.done ? `<b style="color:var(--ink)">${RQ.done}개 복습 완료</b><br><br>` : '지금 복습할 단어가 없어요.<br><br>'}${next ? `다음 복습: ${new Date(next.due).toLocaleDateString('ko-KR', { month: 'long', day: 'numeric' })}` : '문제를 풀며 모르는 단어를 탭해 보세요.'}<br><br><button class="bigbtn" data-act="endreview">목록으로</button></div>`;
+    return;
+  }
+  const v = VOC[RQ.list[RQ.i]];
+  if (!v) { RQ.i++; return renderReview(); }
+  const c = v.ctx[0];
+  let ctx = '';
+  if (c && c.s) {
+    const forms = new Set([v.lemma]); D.exams.forEach(e => { const g = e.glossary[v.lemma]; if (g) (g.forms || []).forEach(f => forms.add(f)); });
+    let s = esc(c.s); let done = false;
+    [...forms].sort((a, b) => b.length - a.length).forEach(f => {
+      if (done) return;
+      const re = new RegExp(`\\b(${f.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})\\b`, 'i');
+      if (re.test(s)) { s = s.replace(re, '<b>$1</b>'); done = true; }
+    });
+    ctx = `<div class="ctx">${s}</div><div class="src">${shortSrc(c.eid, c.no)}${v.looks > 1 ? ` · ${v.looks}번 찾아봄` : ''}${v.lapses ? ` · ${v.lapses}번 잊음` : ''}</div>`;
+  }
+  $('#app').innerHTML = top + `<div class="wrap card">${ctx}<div class="word">${esc(v.lemma)}</div><div class="small muted ko" style="text-align:center">${esc(v.pos || '')} ${v.lv === 2 ? '· 편입' : v.lv === 1 ? '· 수능' : ''} ${occText(v.lemma) ? '· ' + occText(v.lemma) : ''}</div>
+    <button class="mean ${RQ.show ? '' : 'hide'}" style="display:block;width:100%" data-act="flip">${esc(v.ko || '(뜻 미등록 — 사전 확인)')}</button>
+    <div style="height:18px"></div>
+    ${RQ.show ? `<div class="grade3"><button data-act="rg" data-r="0">몰랐음</button><button data-act="rg" data-r="1">헷갈림</button><button data-act="rg" data-r="2">알았음</button></div>`
+      : `<button class="bigbtn main" data-act="flip">뜻 확인</button>`}
+    <p class="small muted ko" style="text-align:center;margin-top:18px">문장 속에서 뜻을 먼저 떠올려 보세요. 몰랐던 단어는 이 세션 끝에 한 번 더 나와요.</p></div>`;
+}
+function gradeReview(r) {
+  const v = VOC[RQ.list[RQ.i]];
+  gradeWord(v, r);
+  if (r === 0) RQ.list.push(v.lemma); else RQ.done++;
+  RQ.i++; RQ.show = false; save(); renderReview();
+}
+
+/* ---------- WORDS ---------- */
+let wordFilter = 'all';
+function renderWords() {
+  let list = Object.values(VOC);
+  if (wordFilter === 'due') list = list.filter(v => v.due <= Date.now() && v.box < 7);
+  if (wordFilter === 'hard') list = list.filter(v => v.lapses > 0 || v.looks > 1);
+  list.sort((a, b) => b.added - a.added);
+  const tab = (k, l) => `<button class="add ${wordFilter === k ? 'on' : ''}" data-act="wf" data-k="${k}">${l}</button>`;
+  let h = `<div class="top"><div class="wrap"><button class="btn" data-act="home">‹ 목록</button><div class="ttl">내 단어장 · ${Object.keys(VOC).length}</div><button class="btn r" data-act="export">복사</button></div></div><div class="wrap">
+    <div style="display:flex;gap:6px;padding:12px 0">${tab('all', '전체')}${tab('due', '복습 대기')}${tab('hard', '자꾸 잊는 단어')}</div>`;
+  if (!list.length) h += `<div class="empty">아직 비어 있어요.</div>`;
+  list.forEach(v => {
+    const stage = v.box >= 5 ? '장기' : v.box >= 2 ? '중기' : '단기';
+    h += `<div class="vrow"><div class="vw">${esc(v.lemma)}<span class="occ">${stage}기억${v.lapses ? ' · ' + v.lapses + '번 잊음' : ''}${v.ctx[0] ? ' · ' + shortSrc(v.ctx[0].eid, v.ctx[0].no) : ''}</span></div><div class="vm ko">${esc(v.ko || '')}</div><button class="add on" data-act="delword" data-l="${esc(v.lemma)}">삭제</button></div>`;
+  });
+  h += `<div class="pad-b"></div></div>`;
+  $('#app').innerHTML = h;
+}
+function exportWords() {
+  const rows = Object.values(VOC).map(v => [v.lemma, v.ko, (v.ctx[0] && v.ctx[0].s) || ''].map(x => String(x).replace(/\t|\n/g, ' ')).join('\t')).join('\n');
+  (navigator.clipboard ? navigator.clipboard.writeText(rows) : Promise.reject()).then(() => toast('탭 구분 텍스트로 복사됨 (Anki 가져오기 가능)'), () => { prompt('복사하세요', rows); });
+}
+
+/* ---------- SETTINGS ---------- */
+function renderSettings() {
+  const sw = (k, t, s) => `<button class="set" data-act="sw" data-k="${k}"><div>${t}<span>${s}</span></div><div class="sw ${SET[k] ? 'on' : ''}"></div></button>`;
+  $('#app').innerHTML = `<div class="top"><div class="wrap"><button class="btn" data-act="home">‹ 목록</button><div class="ttl">설정</div><span class="btn"></span></div></div><div class="wrap">
+    <div class="set"><div>글자 크기<span>지금 ${SET.fs}px</span></div><div style="display:flex;gap:6px"><button class="fsbtn" data-act="fs" data-d="-1">가−</button><button class="fsbtn" data-act="fs" data-d="1">가+</button></div></div>
+    ${sw('hideOnTap', '풀 때는 뜻 숨기기', '단어를 탭하면 동그라미만 치고, 뜻은 채점 후에 공개')}
+    ${sw('showKnown', '단어장 단어 표시', '이미 저장한 단어가 다른 문제에 나오면 위에 작은 점 표시')}
+    ${sw('showKo', '채점 후 선지 해석', '채점하면 각 보기 아래에 한국어 뜻 표시')}
+    <button class="set" data-act="resetq"><div>풀이 기록 초기화<span>채점 기록만 지우고 단어장은 유지</span></div><span>›</span></button>
+    <button class="set" data-act="resetv"><div>단어장 초기화<span>저장한 단어와 복습 기록 삭제</span></div><span>›</span></button>
+    <p class="small muted ko" style="margin-top:24px;line-height:1.7">출처: 각 대학 편입학 영어 기출(2023–2025). 해설·해석·어휘 뜻은 학습용으로 작성된 것이라 오류가 있을 수 있어요.</p></div>`;
+}
+
+/* ---------- events ---------- */
+let lp = null;   // long-press state for choices
+document.addEventListener('click', ev => {
+  const t = ev.target;
+  if (lp && lp.fired) { lp = null; ev.preventDefault(); return; }
+  if (popEl && popEl.contains(t)) {
+    const b = t.closest('[data-act="popdel"]');
+    if (b) { removeWord(b.dataset.l); save(); closePop(); document.querySelectorAll('.w.mk').forEach(x => x.classList.remove('mk')); toast('단어장에서 뺐어요'); }
+    return;
+  }
+  const a = t.closest('[data-act]');
+  const w = t.closest('.w');
+  const ch = t.closest('.ch');
+  if (popEl && !a) { closePop(); if (!w) return; }
+  if (w && VIEW === 'q' && (!ch || isGraded(...S.refs[S.idx]))) { onWord(w); return; }
+  if (ch && VIEW === 'q') { choose(+ch.dataset.ch); return; }
+  if (!a) return;
+  const d = a.dataset;
+  switch (d.act) {
+    case 'home': go('home'); break;
+    case 'start': startMode = 'practice'; go('start', d.eid); break;
+    case 'mode': startMode = d.m; renderStart(d.eid); break;
+    case 'begin': beginExam(d.eid, startMode, false); break;
+    case 'resume': beginExam(d.eid, null, true); break;
+    case 'browse': browseExam(d.eid); break;
+    case 'mix': startMix(d.mix); break;
+    case 'leave': clearInterval(timerT); save(); { const k = S && S.key; go(k && EX[k] ? 'start' : 'home', k); } break;
+    case 'grade': gradeCur(); break;
+    case 'next': move(1); break;
+    case 'prev': move(-1); break;
+    case 'finish': finishSession(); break;
+    case 'submit': closeOMR(); if (confirm('답안을 제출하고 채점할까요?')) submitExam(); break;
+    case 'omr': openOMR(); break;
+    case 'closeomr': closeOMR(); break;
+    case 'jump': closeOMR(); if (VIEW === 'result') VIEW = 'q'; S.idx = +d.i; save(); renderQ(); break;
+    case 'wrongonly': {
+      const refs = S.refs.filter(([e, n]) => { const st = qState(e, n); return st && !st.ok; });
+      if (!refs.length) { toast('틀린 문제가 없어요!'); break; }
+      S = { key: 'browse', title: S.title + ' 오답', refs, idx: 0, mode: 'practice', draft: {}, start: Date.now(), browse: true, marked: S.marked };
+      VIEW = 'q'; renderQ(); break;
+    }
+    case 'reveal': S.revealed = S.revealed || {}; S.revealed[d.l] = 1; a.classList.remove('hide'); break;
+    case 'revealall': document.querySelectorAll('.vm.hide').forEach(x => { x.classList.remove('hide'); S.revealed = S.revealed || {}; S.revealed[x.dataset.l] = 1; }); break;
+    case 'toggleword': {
+      const l = d.l;
+      if (VOC[l]) { removeWord(l); a.classList.remove('on'); a.textContent = '＋ 단어장'; }
+      else {
+        const [eid, no] = S.refs[S.idx]; const e = EX[eid], q = e.qmap[no];
+        const ent = hiddenWords(e, q).find(x => x.lemma === l);
+        // context: the sentence (from translations) containing this word
+        const sents = [...((q.passage && e.pmap[q.passage].sents) || []), ...(q.sents || [])];
+        const re = new RegExp(`\\b${ent.surface.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
+        const hit = sents.find(s => re.test(s.en));
+        addWord(l, ent.g, { s: hit ? hit.en : '', eid, no });
+        a.classList.add('on'); a.textContent = '✓ 단어장';
+      }
+      save(); break;
+    }
+    case 'review': RQ = null; go('review'); break;
+    case 'endreview': RQ = null; go('home'); break;
+    case 'flip': RQ.show = true; renderReview(); break;
+    case 'rg': gradeReview(+d.r); break;
+    case 'words': go('words'); break;
+    case 'wf': wordFilter = d.k; renderWords(); break;
+    case 'delword': removeWord(d.l); save(); renderWords(); break;
+    case 'export': exportWords(); break;
+    case 'settings': go('settings'); break;
+    case 'sw': SET[d.k] = !SET[d.k]; save(); renderSettings(); break;
+    case 'fs': SET.fs = Math.min(22, Math.max(14, SET.fs + +d.d)); document.documentElement.style.setProperty('--fs', SET.fs + 'px'); save(); renderSettings(); break;
+    case 'resetq': if (confirm('모든 풀이·채점 기록을 지울까요?')) { QS = {}; SESS = {}; save(); toast('초기화했어요'); } break;
+    case 'resetv': if (confirm('단어장과 복습 기록을 모두 지울까요?')) { VOC = {}; save(); toast('초기화했어요'); } break;
+  }
+});
+// long-press a word inside a choice (before grading) → look it up
+document.addEventListener('touchstart', ev => {
+  const w = ev.target.closest && ev.target.closest('.ch .w');
+  if (!w || VIEW !== 'q') return;
+  lp = { w, fired: false, t: setTimeout(() => { lp.fired = true; onWord(w); }, 450) };
+}, { passive: true });
+['touchend', 'touchmove', 'touchcancel'].forEach(n => document.addEventListener(n, () => { if (lp && !lp.fired) { clearTimeout(lp.t); lp = null; } }, { passive: true }));
+document.addEventListener('contextmenu', ev => {   // desktop: right-click a choice word
+  const w = ev.target.closest('.ch .w'); if (w && VIEW === 'q') { ev.preventDefault(); onWord(w); }
+});
+// swipe left/right to move between questions
+let sw0 = null;
+document.addEventListener('touchstart', ev => { if (VIEW === 'q' && ev.touches.length === 1 && !$('#omr')) sw0 = { x: ev.touches[0].clientX, y: ev.touches[0].clientY, t: Date.now() }; }, { passive: true });
+document.addEventListener('touchend', ev => {
+  if (!sw0) return; const t = ev.changedTouches[0], dx = t.clientX - sw0.x, dy = t.clientY - sw0.y, dt = Date.now() - sw0.t; sw0 = null;
+  if (Math.abs(dx) > 70 && Math.abs(dy) < 45 && dt < 600 && !(window.getSelection() + '')) move(dx < 0 ? 1 : -1);
+}, { passive: true });
+window.addEventListener('scroll', () => { if (popEl) closePop(); }, { passive: true });
+window.addEventListener('pagehide', save);
+
+go('home');
+</script>
+</body>
+</html>
