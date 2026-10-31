@@ -574,7 +574,7 @@
    ],
    "answer": 2,
    "points": 3.0,
-   "explain": "포장을 최대한 매력 없게 만들고 병든 장기 사진을 넣은 목적은 젊은이들의 눈에 흡연을 '깎아내리는(disparage)' 것이다. disenthrall(속박에서 풀어주다), disincline(내키지 않게 하다)는 목적어·구조상 맞지 않는다.",
+   "explain": "빈칸의 목적어는 사람이 아니라 'smoking(흡연이라는 행위)'이고, in the eyes of the young은 '젊은이들 눈에'라는 부사구다. 따라서 '사물을 목적어로 받아 깎아내리다'인 ② disparage가 맞다(disparage smoking). 나머지는 모두 '사람'을 목적어로 받는 동사라 구조가 안 맞는다: disenthrall sb (from A) 환상에서 깨어나게 하다 / disinterest sb (in A) ~에 흥미를 잃게 하다(주로 명사 '무관심') / disincline sb (to A) 내키지 않게 하다 / disinherit sb 상속권을 박탈하다. 예: disinterest the young in smoking은 가능하지만 disinterest smoking은 불가.",
    "trans": "결국 젊은이들의 눈에 흡연을 깎아내리기 위해, 담배 회사들이 혐오감을 주는 색을 쓰고 병든 장기 사진을 곁들여 최대한 매력 없이 담배를 포장하도록 강제하는 법이 제정되었다.",
    "sents": [
     {
@@ -597,7 +597,7 @@
    "choices_ko": [
     "환상에서 깨어나게 하다",
     "폄하하다, 깎아내리다",
-    "무관심, (이해관계를) 없애다",
+    "(n.) 무관심 / (v.) ~의 흥미를 잃게 하다",
     "내키지 않게 하다",
     "상속권을 박탈하다"
    ]
