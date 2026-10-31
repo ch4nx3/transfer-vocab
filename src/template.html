@@ -72,6 +72,10 @@ hr.t{border:0;border-top:1px solid var(--rule);margin:14px 0}
 .opt span{font-size:12.5px;color:var(--ink2)}
 .bigbtn{display:block;width:100%;margin-top:14px;height:48px;font-family:var(--ko);font-size:16px;border:1px solid var(--ink);border-radius:2px}
 .bigbtn.main{background:var(--ink);color:var(--paper)}
+.pick{display:grid;grid-template-columns:repeat(6,1fr);gap:6px;padding:10px 0 4px}
+.pk{height:42px;border:1px solid var(--ink);border-radius:2px;font-size:15px;position:relative;font-family:var(--en)}
+.pk.done{background:var(--paper2)}
+.pk i{position:absolute;right:3px;top:0;font-style:normal;font-size:11px;color:var(--pen);font-family:var(--ko)}
 
 /* ---------- question paper ---------- */
 .q{padding-top:16px}
@@ -369,15 +373,29 @@ function renderStart(eid) {
   let h = `<div class="top"><div class="wrap"><button class="btn" data-act="home">‹ 목록</button><div class="ttl">${examLabel(e)}</div><span class="btn"></span></div></div><div class="wrap sheet">
     <h2>${esc(e.title)}</h2><div class="meta">${e.questions.length}문항${e.minutes ? ' · ' + e.minutes + '분' : ''} · 지문 ${e.passages.length}개</div><hr class="r">`;
   if (sess && !sess.done) {
-    h += `<button class="bigbtn main" data-act="resume" data-eid="${eid}">이어서 풀기 · ${sess.idx + 1}번부터</button>`;
+    h += `<button class="bigbtn main" data-act="resume" data-eid="${eid}">이어서 풀기 · ${dn(e, sess.refs[sess.idx][1])}번부터</button>`;
     h += `<p class="small muted ko" style="text-align:center">${sess.mode === 'exam' ? '실전 모드' : '연습 모드'}로 진행 중</p><hr class="t">`;
   }
   h += `<button class="opt ${startMode === 'practice' ? 'on' : ''}" data-act="mode" data-m="practice" data-eid="${eid}"><div class="dot"></div><div><b>연습 모드</b><span>한 문제 풀 때마다 바로 채점 · 문장별 해석 · 어려운 단어 확인</span></div></button>
     <button class="opt ${startMode === 'exam' ? 'on' : ''}" data-act="mode" data-m="exam" data-eid="${eid}"><div class="dot"></div><div><b>실전 모드</b><span>${e.minutes ? e.minutes + '분 타이머' : '타이머'} · 끝까지 풀고 한 번에 채점, 이후 해설 열람</span></div></button>
-    <button class="bigbtn ${sess && !sess.done ? '' : 'main'}" data-act="begin" data-eid="${eid}">${st.done ? '처음부터 다시 풀기' : '시작'}</button>`;
+    <button class="bigbtn ${sess && !sess.done ? '' : 'main'}" data-act="begin" data-eid="${eid}">${st.done ? '처음부터 다시 풀기' : '1번부터 시작'}</button>`;
+  if (startMode === 'practice') {
+    h += `<div class="sec" style="margin-top:22px">번호 골라서 풀기 <span class="small muted" style="font-weight:400">· 탭하면 그 문제로 이동</span></div><div class="pick">`;
+    e.questions.forEach((q, i) => {
+      const qs = qState(eid, q.no), mk = qs && qs.ok != null ? (qs.ok ? '○' : '✕') : '';
+      h += `<button class="pk ${qs && qs.ok != null ? 'done' : ''}" data-act="pick" data-eid="${eid}" data-i="${i}">${dn(e, q.no)}<i>${mk}</i></button>`;
+    });
+    h += `</div>`;
+  }
   if (st.done) h += `<button class="bigbtn" data-act="browse" data-eid="${eid}">채점한 문제 해설 보기 (${st.done}문항)</button>`;
   h += `<p class="small muted ko" style="margin-top:22px;line-height:1.7">· 본문 단어를 탭하면 뜻이 뜨고 단어장에 저장돼요.<br>· 보기(선지) 단어는 꾹 누르면 뜻이 떠요.<br>· 채점 후엔 문장별 해석과, 숨겨둔 수능 이상 어휘가 나와요.<br>· 좌우로 밀어서 문제를 넘길 수 있어요.</p></div>`;
   $('#app').innerHTML = h;
+}
+function practiceAt(eid, i) {
+  const e = EX[eid], cur = SESS[eid];
+  if (cur && !cur.done && cur.mode === 'practice') S = cur;
+  else { S = { key: eid, title: examLabel(e), refs: e.questions.map(q => [eid, q.no]), idx: 0, mode: 'practice', draft: {}, start: Date.now(), limit: 0 }; SESS[eid] = S; }
+  S.idx = i; save(); VIEW = 'q'; window.scrollTo(0, 0); renderQ();
 }
 function beginExam(eid, mode, resume) {
   const e = EX[eid];
@@ -441,10 +459,14 @@ function renderQ() {
   // bottom bar
   const last = S.idx === S.refs.length - 1;
   let main;
-  if (exam) main = last ? `<button class="main" data-act="submit">제출</button>` : `<button class="main" data-act="next">다음 ›</button>`;
+  if (exam) main = `<button data-act="omr">답안지</button>`;
   else if (!graded) main = `<button class="main" data-act="grade" ${sel ? '' : 'disabled'}>채점</button>`;
-  else main = last ? `<button class="main" data-act="finish">끝</button>` : `<button class="main" data-act="next">다음 ›</button>`;
-  h += `<div class="bot"><div class="wrap"><button data-act="prev" ${S.idx ? '' : 'disabled'}>‹ 이전</button>${main}</div></div>`;
+  else main = `<button data-act="retry">다시 풀기</button>`;
+  let next;
+  if (!last) next = `<button class="${!exam && graded ? 'main' : ''}" data-act="next">다음 ›</button>`;
+  else if (exam) next = `<button class="main" data-act="submit">제출</button>`;
+  else next = `<button class="${graded ? 'main' : ''}" data-act="finish">끝</button>`;
+  h += `<div class="bot"><div class="wrap"><button data-act="prev" ${S.idx ? '' : 'disabled'}>‹ 이전</button>${main}${next}</div></div>`;
   $('#app').innerHTML = h;
   rich.marked = null;
   clearInterval(timerT); if (exam && S.limit) timerT = setInterval(tick, 1000);
@@ -757,7 +779,13 @@ document.addEventListener('click', ev => {
     case 'home': go('home'); break;
     case 'start': startMode = 'practice'; go('start', d.eid); break;
     case 'mode': startMode = d.m; renderStart(d.eid); break;
-    case 'begin': beginExam(d.eid, startMode, false); break;
+    case 'begin':
+      if (examStats(EX[d.eid]).done && !confirm('이 시험의 채점 기록을 지우고 1번부터 다시 풀까요?')) break;
+      beginExam(d.eid, startMode, false); break;
+    case 'pick': practiceAt(d.eid, +d.i); break;
+    case 'retry': {   // clear just this question and solve it again
+      const k = key(...S.refs[S.idx]); delete QS[k]; save(); S._scroll = 'keep'; renderQ(); break;
+    }
     case 'resume': beginExam(d.eid, null, true); break;
     case 'browse': browseExam(d.eid); break;
     case 'mix': startMix(d.mix); break;
