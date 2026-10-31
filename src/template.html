@@ -77,7 +77,13 @@ hr.t{border:0;border-top:1px solid var(--rule);margin:14px 0}
 .q{padding-top:16px}
 .dir{font-size:.86em;font-style:italic;color:var(--ink);margin-bottom:12px}
 .dir b{font-style:normal}
-.passage{margin:0 0 16px;padding:0 0 14px;border-bottom:1px solid var(--rule);text-align:justify;hyphens:auto;-webkit-hyphens:auto}
+.passage{margin:0 0 16px;padding:0 0 14px;border-bottom:1px solid var(--rule)}
+/* like the printed paper: never split a word at the line end — move it down and widen the spacing of that line */
+.q,.card,.ans{hyphens:none;-webkit-hyphens:none;overflow-wrap:normal;word-break:keep-all}
+.passage,.stem,.box,.sent .e,.card .ctx{text-align:justify;text-justify:inter-word}
+.w{white-space:nowrap}
+.blank{display:inline-block;max-width:100%;overflow:hidden;vertical-align:-2px;color:transparent;border-bottom:1px solid var(--ink);line-height:1;height:1em}
+.ans .ex{overflow-wrap:break-word}
 .passage .ptitle{text-align:center;font-weight:700;margin-bottom:6px}
 .txt .para{display:block;height:.55em}
 .stemrow{display:flex;gap:6px}
@@ -115,7 +121,7 @@ u{text-decoration-thickness:1px;text-underline-offset:2px}
 .lv{font-size:10.5px;border:1px solid var(--ink2);color:var(--ink2);padding:0 4px;border-radius:2px;margin-left:6px;vertical-align:2px;font-family:var(--ko)}
 
 /* answer / explanation (해설지) */
-.ans{margin-top:18px;hyphens:manual;border-top:2px solid var(--ink);padding-top:12px;font-family:var(--ko)}
+.ans{margin-top:18px;border-top:2px solid var(--ink);padding-top:12px;font-family:var(--ko)}
 .ans .res{font-size:15px;font-weight:700}
 .ans .res .pen{color:var(--pen)}
 .ans h4{font-size:13.5px;margin:18px 0 6px;font-weight:700;display:flex;justify-content:space-between;align-items:baseline}
@@ -134,8 +140,8 @@ u{text-decoration-thickness:1px;text-underline-offset:2px}
 .vrow .vw{font-family:var(--en);font-weight:700;font-size:16px;min-width:0}
 .vrow .vm{flex:1;font-size:14px;text-align:left;min-height:24px;padding:2px 6px;border-radius:2px}
 .vrow .vm.hide{background:repeating-linear-gradient(-45deg,var(--paper2),var(--paper2) 4px,#e6e1d2 4px,#e6e1d2 8px);color:transparent;user-select:none}
-.vrow .add{flex:none;font-size:12px;border:1px solid var(--ink);padding:3px 7px;border-radius:2px;white-space:nowrap}
-.vrow .add.on{background:var(--ink);color:var(--paper)}
+.add{flex:none;font-size:12px;border:1px solid var(--ink);padding:3px 7px;border-radius:2px;white-space:nowrap}
+.add.on{background:var(--ink);color:var(--paper)}
 .occ{font-size:11px;color:var(--ink3);font-family:var(--ko);display:block;font-weight:400}
 
 /* OMR sheet */
@@ -201,6 +207,7 @@ D.exams.forEach(e => {
   }
 });
 function stemVariants(w) {
+  if (/'s$/.test(w)) w = w.slice(0, -2);   // possessive: ballet's -> ballet
   const v = [w];
   if (w.endsWith('ies')) v.push(w.slice(0, -3) + 'y');
   if (w.endsWith('es')) v.push(w.slice(0, -2));
@@ -254,7 +261,7 @@ function rich(text) {
       if (rich.marked && rich.marked.has(lem)) cls += ' mk';
       else if (SET.showKnown && ent && VOC[ent.lemma]) cls += ' kn';
       return `<span class="${cls}">${m}</span>`;
-    }).replace(/\n\n+/g, '<span class="para"></span>').replace(/\n/g, '<br>');
+    }).replace(/_{4,}/g, m => `<span class="blank" style="width:${Math.min(m.length * .45, 6).toFixed(1)}em">${m}</span>`).replace(/\n\n+/g, '<span class="para"></span>').replace(/\n/g, '<br>');
   }).join('');
 }
 function examLabel(e) { return `${e.year} ${e.school}`; }
@@ -330,7 +337,7 @@ function renderHome() {
     <button class="row" data-act="mix" data-mix="wrong"><div class="l"><b>틀린 문제 다시 풀기</b><span class="s">전 시험 오답 ${wrongN}문항 · 섞어서</span></div><div class="arr">›</div></button>
     <button class="row" data-act="mix" data-mix="syn"><div class="l"><b>어휘(동의어) 문제만</b><span class="s">밑줄 어휘 문항 ${synN}개 · 섞어서</span></div><div class="arr">›</div></button>
     <div class="sec">도구</div>
-    <button class="row" data-act="words"><div class="l"><b>내 단어장</b><span class="s">${total}개 · 복사해서 Anki로 옮기기</span></div><div class="arr">›</div></button>
+    <button class="row" data-act="words"><div class="l"><b>내 단어장</b><span class="s">${total}개 · 체크한 단어 전체 텍스트로 복사</span></div><div class="arr">›</div></button>
     <button class="row" data-act="settings"><div class="l"><b>설정</b><span class="s">글자 크기 · 풀 때 뜻 숨기기 · 초기화</span></div><div class="arr">›</div></button>
     <p class="small muted ko" style="text-align:center;margin:28px 0 40px">학습 기록은 이 기기의 브라우저에만 저장됩니다.</p></div>`;
   $('#app').innerHTML = h;
@@ -603,7 +610,7 @@ function onWord(span) {
   if (!S) return;
   const { ent, spans } = phraseAt(span);
   const [eid, no] = S.refs[S.idx];
-  const lemma = ent ? ent.lemma : span.textContent.toLowerCase();
+  const lemma = ent ? ent.lemma : span.textContent.toLowerCase().replace(/['’]s$/, '');
   const ctx = { s: sentenceAround(span), eid, no };
   const v = addWord(lemma, ent && ent.g, ctx);
   v.looks++;
@@ -680,7 +687,8 @@ function renderWords() {
   if (wordFilter === 'hard') list = list.filter(v => v.lapses > 0 || v.looks > 1);
   list.sort((a, b) => b.added - a.added);
   const tab = (k, l) => `<button class="add ${wordFilter === k ? 'on' : ''}" data-act="wf" data-k="${k}">${l}</button>`;
-  let h = `<div class="top"><div class="wrap"><button class="btn" data-act="home">‹ 목록</button><div class="ttl">내 단어장 · ${Object.keys(VOC).length}</div><button class="btn r" data-act="export">복사</button></div></div><div class="wrap">
+  let h = `<div class="top"><div class="wrap"><button class="btn" data-act="home">‹ 목록</button><div class="ttl">내 단어장 · ${Object.keys(VOC).length}</div><span class="btn"></span></div></div><div class="wrap">
+    ${Object.keys(VOC).length ? `<div style="display:flex;gap:8px;padding:14px 0 2px"><button class="bigbtn main" style="margin:0;height:44px;font-size:14px" data-act="export" data-k="plain">단어·뜻 전체 복사</button><button class="bigbtn" style="margin:0;height:44px;font-size:14px" data-act="export" data-k="ctx">예문 포함 복사</button></div>` : ''}
     <div style="display:flex;gap:6px;padding:12px 0">${tab('all', '전체')}${tab('due', '복습 대기')}${tab('hard', '자꾸 잊는 단어')}</div>`;
   if (!list.length) h += `<div class="empty">아직 비어 있어요.</div>`;
   list.forEach(v => {
@@ -690,9 +698,28 @@ function renderWords() {
   h += `<div class="pad-b"></div></div>`;
   $('#app').innerHTML = h;
 }
-function exportWords() {
-  const rows = Object.values(VOC).map(v => [v.lemma, v.ko, (v.ctx[0] && v.ctx[0].s) || ''].map(x => String(x).replace(/\t|\n/g, ' ')).join('\t')).join('\n');
-  (navigator.clipboard ? navigator.clipboard.writeText(rows) : Promise.reject()).then(() => toast('탭 구분 텍스트로 복사됨 (Anki 가져오기 가능)'), () => { prompt('복사하세요', rows); });
+// plain text (no markdown): "word (pos) 뜻" per line, optionally the exam sentence + source under it
+function exportWords(kind) {
+  const list = Object.values(VOC).sort((a, b) => a.added - b.added);
+  const one = s => String(s || '').replace(/\s+/g, ' ').trim();
+  const text = list.map(v => {
+    let line = v.lemma + (v.pos ? ` (${v.pos})` : '') + (v.ko ? ' ' + one(v.ko) : '');
+    const c = v.ctx[0];
+    if (kind === 'ctx' && c && c.s) line += `\n   ${one(c.s)} [${shortSrc(c.eid, c.no)}]`;
+    return line;
+  }).join(kind === 'ctx' ? '\n\n' : '\n');
+  copyText(text).then(ok => ok ? toast(`${list.length}개 단어를 복사했어요`) : prompt('길게 눌러 전체 선택 후 복사하세요', text));
+}
+function copyText(text) {
+  const legacy = () => {
+    const ta = document.createElement('textarea');
+    ta.value = text; ta.setAttribute('readonly', ''); ta.style.cssText = 'position:fixed;top:0;left:0;opacity:0;font-size:16px';
+    document.body.appendChild(ta); ta.focus(); ta.select(); ta.setSelectionRange(0, text.length);
+    let ok = false; try { ok = document.execCommand('copy'); } catch (e) {}
+    ta.remove(); return ok;
+  };
+  if (navigator.clipboard && window.isSecureContext) return navigator.clipboard.writeText(text).then(() => true, () => legacy());
+  return Promise.resolve(legacy());
 }
 
 /* ---------- SETTINGS ---------- */
@@ -778,7 +805,7 @@ document.addEventListener('click', ev => {
     case 'words': go('words'); break;
     case 'wf': wordFilter = d.k; renderWords(); break;
     case 'delword': removeWord(d.l); save(); renderWords(); break;
-    case 'export': exportWords(); break;
+    case 'export': exportWords(d.k); break;
     case 'settings': go('settings'); break;
     case 'sw': SET[d.k] = !SET[d.k]; save(); renderSettings(); break;
     case 'fs': SET.fs = Math.min(22, Math.max(14, SET.fs + +d.d)); document.documentElement.style.setProperty('--fs', SET.fs + 'px'); save(); renderSettings(); break;
