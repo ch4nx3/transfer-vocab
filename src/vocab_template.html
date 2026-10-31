@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f6f3ea">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>편입 단어 시험지</title>
+<meta name="description" content="서성한 기출 어휘와 GRE 고난도 어휘로 만든 편입 단어 학습·테스트 앱 (일차별 커리큘럼, 오답 누적 복습)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400&family=Nanum+Myeongjo:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#f6f3ea; --paper2:#efebdf; --paper3:#e6e1d2; --ink:#1b1b1b; --ink2:#555; --ink3:#8a8780;
+  --rule:#d8d3c4; --pen:#b42318; --fs:17px;
+  --en:"Tinos","Times New Roman",Times,serif;
+  --ko:"Nanum Myeongjo","AppleMyungjo","Noto Serif KR",serif;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;background:var(--paper);color:var(--ink)}
+body{font-family:var(--en),var(--ko);font-size:var(--fs);line-height:1.6;-webkit-text-size-adjust:100%;min-height:100vh}
+button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer}
+button:disabled{opacity:.35;cursor:default}
+a{color:inherit}
+.wrap{max-width:640px;margin:0 auto;padding:0 16px}
+.ko{font-family:var(--ko)}
+.en{font-family:var(--en)}
+.muted{color:var(--ink2)}
+.small{font-size:.82em}
+.pen{color:var(--pen)}
+hr.r{border:0;border-top:1px solid var(--ink);margin:14px 0}
+hr.t{border:0;border-top:1px solid var(--rule);margin:14px 0}
+.hyp{hyphens:none;-webkit-hyphens:none;word-break:keep-all;overflow-wrap:normal}
+
+.top{position:sticky;top:0;z-index:20;background:var(--paper);border-bottom:1px solid var(--ink);padding-top:env(safe-area-inset-top)}
+.top .wrap{display:flex;align-items:center;gap:10px;height:46px}
+.top .ttl{flex:1;font-family:var(--ko);font-size:14px;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.top .btn{font-family:var(--ko);font-size:14px;padding:8px 2px;min-width:44px;min-height:44px;text-align:left}
+.top .btn.r{text-align:right}
+.bot{position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--paper);border-top:1px solid var(--ink);padding-bottom:env(safe-area-inset-bottom)}
+.bot .wrap{display:flex;gap:8px;height:56px;align-items:center}
+.bot button{flex:1;height:40px;font-family:var(--ko);font-size:15px;border:1px solid var(--ink);border-radius:2px;min-width:0}
+.bot button.main{background:var(--ink);color:var(--paper)}
+.pad-b{height:calc(84px + env(safe-area-inset-bottom))}
+
+.cover{text-align:center;padding:30px 0 6px}
+.cover h1{font-family:var(--ko);font-size:24px;margin:0;letter-spacing:.04em}
+.cover p{margin:6px 0 0;font-family:var(--ko);font-size:13px;color:var(--ink2)}
+.sec{font-family:var(--ko);font-weight:700;font-size:15px;margin:24px 0 6px;padding-bottom:4px;border-bottom:1px solid var(--ink);display:flex;justify-content:space-between;align-items:baseline}
+.sec span{font-weight:400;font-size:12.5px;color:var(--ink2)}
+.row{display:flex;align-items:center;gap:10px;width:100%;text-align:left;padding:13px 0;border-bottom:1px solid var(--rule);font-family:var(--ko)}
+.row .l{flex:1;min-width:0}
+.row .l b{font-weight:700;font-size:16px}
+.row .l .s{display:block;font-size:12.5px;color:var(--ink2);margin-top:2px}
+.row .r{font-size:13px;color:var(--ink2);white-space:nowrap}
+.arr{color:var(--ink3)}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);border:1px solid var(--ink);margin-top:16px;font-family:var(--ko)}
+.stats div{padding:10px 4px;text-align:center;border-right:1px solid var(--rule)}
+.stats div:last-child{border-right:0}
+.stats b{display:block;font-family:var(--en);font-size:24px;line-height:1.1}
+.stats span{font-size:11.5px;color:var(--ink2)}
+
+/* day pills */
+.days{display:flex;gap:6px;overflow-x:auto;padding:10px 0 12px;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+.days::-webkit-scrollbar{display:none}
+.day{flex:none;scroll-snap-align:center;min-width:62px;border:1px solid var(--ink);border-radius:2px;padding:6px 8px 5px;text-align:center;font-family:var(--ko);font-size:12px;position:relative;background:var(--paper)}
+.day b{display:block;font-family:var(--en);font-size:16px;line-height:1.2}
+.day.on{background:var(--ink);color:var(--paper)}
+.day.done::after{content:"✓";position:absolute;top:1px;right:4px;font-size:11px;color:var(--pen)}
+.day.on.done::after{color:#ffb4ab}
+.day i{display:block;height:2px;background:var(--paper3);margin-top:4px}
+.day i em{display:block;height:100%;background:currentColor}
+.seg{display:flex;border:1px solid var(--ink);border-radius:2px;margin:4px 0 0}
+.seg button{flex:1;height:40px;font-family:var(--ko);font-size:14px}
+.seg button.on{background:var(--ink);color:var(--paper)}
+.daybox{border:1px solid var(--ink);padding:14px;margin-top:12px;font-family:var(--ko)}
+.daybox h3{margin:0;font-size:17px}
+.daybox p{margin:4px 0 0;font-size:13px;color:var(--ink2)}
+.bigbtn{display:block;width:100%;margin-top:12px;height:48px;font-family:var(--ko);font-size:16px;border:1px solid var(--ink);border-radius:2px}
+.bigbtn.main{background:var(--ink);color:var(--paper)}
+.bigbtn.sm{height:42px;font-size:14px}
+.btnrow{display:flex;gap:8px}
+.btnrow .bigbtn{flex:1;min-width:0}
+
+/* flashcard */
+.card{border:1px solid var(--ink);background:#fbf9f2;margin-top:14px;padding:18px 16px 16px;position:relative;box-shadow:3px 3px 0 rgba(0,0,0,.08);min-height:340px}
+.card .meta{display:flex;justify-content:space-between;align-items:center;font-family:var(--ko);font-size:12px;color:var(--ink2)}
+.badge{display:inline-block;border:1px solid var(--ink2);color:var(--ink2);font-size:11px;padding:0 5px;border-radius:2px;margin:0 4px 4px 0;font-family:var(--ko);line-height:18px}
+.badge.cum{border-color:var(--pen);color:var(--pen)}
+.card .hw{font-size:34px;font-weight:700;text-align:center;margin:18px 0 0;line-height:1.15;word-break:break-word}
+.card .ipa{text-align:center;color:var(--ink2);font-size:14px;margin-top:4px}
+.card .pos{text-align:center;font-family:var(--ko);font-size:13px;color:var(--ink2)}
+.cover-m{display:block;width:100%;text-align:center;font-family:var(--ko);font-size:20px;margin:14px 0 4px;padding:8px 6px;min-height:46px;border-radius:2px}
+.hide{color:transparent!important;background:repeating-linear-gradient(-45deg,var(--paper2),var(--paper2) 4px,var(--paper3) 4px,var(--paper3) 8px);user-select:none}
+.hide *{visibility:hidden}
+.ex{margin-top:12px;padding-top:10px;border-top:1px dotted var(--rule);font-size:15.5px;line-height:1.55;text-align:justify}
+.ex b{text-decoration:underline;text-underline-offset:3px}
+.exko{font-family:var(--ko);font-size:13.5px;color:var(--ink2);margin-top:4px;padding:2px 4px;border-radius:2px}
+.exref{font-family:var(--ko);font-size:11.5px;color:var(--ink3);margin-top:2px}
+.chips{margin-top:10px;font-size:14px}
+.chips .lab{font-family:var(--ko);font-size:12px;color:var(--ink2);margin-right:4px}
+.chip{display:inline-block;border:1px solid var(--rule);padding:1px 8px;border-radius:12px;margin:0 4px 4px 0;background:var(--paper)}
+.tip{margin-top:8px;border-left:2px solid var(--ink);padding:4px 10px;font-family:var(--ko);font-size:13px;background:var(--paper2)}
+.cardnav{display:flex;gap:6px;margin-top:12px}
+.cardnav button{flex:1;height:44px;border:1px solid var(--ink);border-radius:2px;font-family:var(--ko);font-size:14px;min-width:0}
+.cardnav button.on{background:var(--ink);color:var(--paper)}
+.counter{text-align:center;font-family:var(--ko);font-size:13px;color:var(--ink2);margin-top:10px}
+
+/* test */
+.qbox{padding:26px 0 10px;text-align:center}
+.qbox .qn{font-family:var(--ko);font-size:12.5px;color:var(--ink2)}
+.qbox .qw{font-size:36px;font-weight:700;margin:16px 0 2px;line-height:1.15;word-break:break-word}
+.qbox .qk{font-family:var(--ko);font-size:24px;font-weight:700;margin:16px 0 2px;line-height:1.35}
+.qbox .qs{font-family:var(--ko);font-size:13px;color:var(--ink2)}
+.ans-in{display:block;width:100%;height:56px;border:0;border-bottom:2px solid var(--ink);background:transparent;font-family:var(--ko);font-size:20px;text-align:center;color:var(--ink);outline:none;border-radius:0;margin-top:22px}
+.ans-in::placeholder{color:var(--ink3);font-size:15px}
+.opts{list-style:none;margin:18px 0 0;padding:0}
+.opt{display:flex;gap:10px;align-items:flex-start;width:100%;text-align:left;padding:12px 6px;border-bottom:1px solid var(--rule);font-family:var(--ko);font-size:16px;min-height:50px}
+.opt .n{flex:none;width:24px;height:24px;border:1px solid var(--ink);border-radius:50%;display:grid;place-items:center;font-family:var(--en);font-size:13px}
+.opt.right .n{border-color:var(--pen);box-shadow:0 0 0 2px var(--pen)}
+.opt.wrong .n{background:var(--ink);color:var(--paper)}
+.opt.wrong{text-decoration:line-through;text-decoration-color:var(--pen)}
+.fb{margin-top:16px;border-top:2px solid var(--ink);padding-top:10px;font-family:var(--ko)}
+.fb .v{font-size:18px;font-weight:700}
+.fb .m{font-size:16px;margin-top:4px}
+.fb .y{font-size:13px;color:var(--ink2);margin-top:2px}
+.fb .ov{font-size:12.5px;text-decoration:underline;color:var(--ink2);margin-top:4px;min-height:40px}
+.progress{height:3px;background:var(--paper3)}
+.progress i{display:block;height:100%;background:var(--ink)}
+
+/* results */
+.score{text-align:center;padding:24px 0 6px}
+.score .big{font-size:58px;font-weight:700;line-height:1;color:var(--pen)}
+.score .grade{display:inline-block;border:2px solid var(--pen);color:var(--pen);font-family:var(--ko);font-weight:700;padding:2px 10px;margin-top:8px;transform:rotate(-4deg)}
+.score .sub{font-family:var(--ko);font-size:13px;color:var(--ink2);margin-top:8px}
+.casc{border:1px solid var(--ink);padding:12px 14px;font-family:var(--ko);font-size:13.5px;margin-top:12px;line-height:1.75}
+.tabs{display:flex;gap:6px;margin:16px 0 4px;flex-wrap:wrap}
+.tab{border:1px solid var(--ink);padding:4px 10px;border-radius:2px;font-family:var(--ko);font-size:13px;min-height:40px}
+.tab.on{background:var(--ink);color:var(--paper)}
+.rrow{display:flex;gap:10px;align-items:flex-start;padding:10px 0;border-bottom:1px dotted var(--rule)}
+.rrow .ox{flex:none;width:20px;font-family:var(--ko);color:var(--pen);font-size:16px;text-align:center}
+.rrow .b{flex:1;min-width:0}
+.rrow .w{font-weight:700;font-size:16px}
+.rrow .k{font-family:var(--ko);font-size:14px}
+.rrow .y{font-family:var(--ko);font-size:12.5px;color:var(--ink2)}
+.rrow .fix{flex:none;font-family:var(--ko);font-size:12px;border:1px solid var(--ink);padding:3px 7px;border-radius:2px;min-height:40px}
+
+/* list / search */
+.search{display:block;width:100%;height:46px;border:1px solid var(--ink);background:#fbf9f2;padding:0 12px;font-size:16px;font-family:var(--ko);border-radius:2px;margin-top:12px;outline:none}
+.lrow{display:flex;gap:10px;align-items:baseline;width:100%;text-align:left;padding:10px 0;border-bottom:1px dotted var(--rule)}
+.lrow .w{font-weight:700;font-size:16px;min-width:0;flex:none;max-width:48%;overflow-wrap:anywhere}
+.lrow .k{flex:1;font-family:var(--ko);font-size:14px;color:var(--ink);min-width:0}
+.lrow .st{flex:none;font-size:13px;color:var(--pen)}
+.modal{position:fixed;inset:0;z-index:50;background:var(--paper);overflow:auto;padding-top:env(safe-area-inset-top)}
+
+.set{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 0;border-bottom:1px solid var(--rule);font-family:var(--ko);font-size:15px;width:100%;text-align:left}
+.set span{font-size:12.5px;color:var(--ink2);display:block}
+.sw{flex:none;width:44px;height:24px;border:1.5px solid var(--ink);border-radius:12px;position:relative}
+.sw::after{content:"";position:absolute;top:2px;left:2px;width:17px;height:17px;border-radius:50%;background:var(--ink);transition:left .15s}
+.sw.on{background:var(--ink)}
+.sw.on::after{left:21px;background:var(--paper)}
+.pick{display:flex;gap:4px;flex-wrap:wrap;justify-content:flex-end}
+.pick button{border:1px solid var(--ink);border-radius:2px;padding:4px 8px;font-size:13px;font-family:var(--ko);min-height:40px;min-width:40px}
+.pick button.on{background:var(--ink);color:var(--paper)}
+.empty{font-family:var(--ko);text-align:center;color:var(--ink2);padding:50px 0}
+.toast{position:fixed;left:50%;bottom:calc(76px + env(safe-area-inset-bottom));transform:translateX(-50%);background:var(--ink);color:var(--paper);font-family:var(--ko);font-size:13px;padding:8px 14px;border-radius:2px;z-index:60;opacity:0;transition:opacity .2s;pointer-events:none;max-width:90vw;text-align:center}
+.toast.on{opacity:1}
+
+@media print{
+  .top,.bot,.tabs,.noprint,.toast{display:none!important}
+  body{background:#fff;font-size:12pt}
+  .rrow{break-inside:avoid}
+  .pad-b{display:none}
+}
+</style>
+</head>
+<body>
+<div id="app"></div>
+<div class="toast" id="toast"></div>
+<script id="DATA" type="application/json">__DATA__</script>
+<script>
+"use strict";
+/* ============ data ============ */
+const RAW = JSON.parse(document.getElementById('DATA').textContent);
+const W = RAW.words;                              // ordered curriculum: imp 1 → 3, exam words first
+W.forEach((w, i) => { w.i = i; });
+const BYW = {}; W.forEach(w => { BYW[w.w] = w; });
+const EXAM_IDX = W.filter(w => w.src && w.src.length).map(w => w.i);
+
+/* ============ storage ============ */
+const LS = {
+  get(k, d) { try { const v = localStorage.getItem('sshv:' + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem('sshv:' + k, JSON.stringify(v)); } catch (e) {} },
+  raw(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+};
+let SET = Object.assign({ size: 40, cur: 'all', type: 'type', dir: 'en2ko', sound: true, tts: false, hideM: true, unknownOnly: false }, LS.get('set', {}));
+let ST = Object.assign({ days: {}, pool: [], words: {}, day: 1 }, LS.get('st', {}));
+// ST.words[w] = {r: right, x: wrong, star, last, m: mastered}
+// ST.days[curKey][day] = {done, best, last, n}
+// ST.pool = cascading unmastered words (by headword) carried to the next day
+const save = () => { LS.set('st', ST); LS.set('set', SET); };
+document.documentElement.style.setProperty('--fs', '17px');
+
+/* ============ helpers ============ */
+const $ = s => document.querySelector(s);
+const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+function toast(m) { const t = $('#toast'); t.textContent = m; t.classList.add('on'); clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove('on'), 1700); }
+function shuffle(a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+const ws = w => ST.words[w] || (ST.words[w] = { r: 0, x: 0 });
+function curList() { return SET.cur === 'exam' ? EXAM_IDX : W.map(w => w.i); }
+function curKey() { return SET.cur + ':' + SET.size; }   // day N means different words for each size
+function dayCount() { return Math.max(1, Math.ceil(curList().length / SET.size)); }
+function dayWords(d) { const L = curList(); return L.slice((d - 1) * SET.size, d * SET.size).map(i => W[i]); }
+function dayState(d) { const k = curKey(); ST.days[k] = ST.days[k] || {}; return ST.days[k][d] || (ST.days[k][d] = {}); }
+function srcLabel(s) { const [y, sc] = String(s).split(' '); return `${(sc || '').slice(0, 2)} ${String(y).slice(2)}`; }   // "2024 성균관대" -> "성균 24"
+function highlight(ex, w) {
+  const e = esc(ex);
+  const stemOf = x => x.length > 5 ? x.slice(0, Math.max(4, x.length - 3)) : x.replace(/e$/, '');   // ooze -> ooz(ing)
+  const reOf = st => new RegExp('\\b(' + st.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '[a-z]*)', 'i');
+  const whole = reOf(stemOf(w));
+  if (whole.test(e)) return e.replace(whole, '<b>$1</b>');
+  // phrases / irregular forms: mark each content word that appears (lay the groundwork for -> laid ... groundwork)
+  let out = e;
+  w.split(/[\s-]+/).filter(p => p.length > 3 && !/^(with|from|into|onto|upon|one's|oneself|someone|something)$/i.test(p)).forEach(p => { const r = reOf(stemOf(p)); out = out.replace(r, '<b>$1</b>'); });
+  return out;
+}
+function wordsFromExamApp() {
+  // words saved in the exam app (exam.html) — same origin, so we can read its storage
+  let voc = {}; try { voc = JSON.parse(LS.raw('ssh2:voc') || '{}') || {}; } catch (e) {}
+  const seen = new Set();
+  return Object.values(typeof voc === 'object' ? voc : {}).map(v => {
+    if (!v || typeof v.lemma !== 'string' || !v.lemma.trim() || seen.has(v.lemma)) return null;
+    seen.add(v.lemma);
+    if (BYW[v.lemma]) return BYW[v.lemma];
+    if (BYW[v.lemma.toLowerCase()]) return BYW[v.lemma.toLowerCase()];
+    if (!v.ko) return null;
+    return { w: v.lemma, pos: v.pos || '', ko: v.ko, acc: [], syn: [], ant: [], ex: (v.ctx && v.ctx[0] && v.ctx[0].s) || '', exKo: '', src: [], tip: '', imp: 2, i: -1, adhoc: true };
+  }).filter(Boolean);
+}
+
+/* ============ sound & speech ============ */
+let AC = null;
+function beep(ok) {
+  if (!SET.sound) return;
+  try {
+    AC = AC || new (window.AudioContext || window.webkitAudioContext)();
+    const o = AC.createOscillator(), g = AC.createGain(), t = AC.currentTime;
+    o.type = 'sine'; o.connect(g); g.connect(AC.destination);
+    if (ok) { o.frequency.setValueAtTime(660, t); o.frequency.setValueAtTime(880, t + .09); }
+    else { o.frequency.setValueAtTime(220, t); o.frequency.setValueAtTime(180, t + .12); }
+    g.gain.setValueAtTime(.0001, t); g.gain.exponentialRampToValueAtTime(.12, t + .02); g.gain.exponentialRampToValueAtTime(.0001, t + .25);
+    o.start(t); o.stop(t + .26);
+  } catch (e) {}
+}
+function speak(text) {
+  try { if (!window.speechSynthesis) return toast('이 브라우저는 발음 듣기를 지원하지 않아요'); speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text); u.lang = 'en-US'; u.rate = .9; speechSynthesis.speak(u); } catch (e) {}
+}
+
+/* ============ smart Korean grading ============ */
+const SKIP = new Set(['', '모름', '모르겠음', '모르겠다', '몰라', '패스', 'pass', 'skip', '?', '??', 'x', '-', '...']);
+const SUFFIX = ['스러운', '스럽다', '시키다', '적으로', '하다', '되다', '하게', '하는', '되는', '적인', '이다', '받다', '당하다', '해지다', '지다', '스런', '한', '된', '적', '함', '히', '의', '을', '를', '은', '는', '이', '가', '게', '다', '기', '음', '것'];
+// suffixes allowed to shrink a core down to one syllable (강하다 → 강); particles like 이/가/기/적 must leave ≥ 2 syllables (평이 ≠ 평가)
+const VERB_SFX = new Set(['하다', '되다', '하게', '하는', '되는', '시키다', '받다', '당하다', '해지다', '한', '된', '히', '함']);
+const NEG = /없|않|못|아니/;
+function normKo(s) { return String(s || '').toLowerCase().replace(/\([^)]*\)|\[[^\]]*\]/g, '').replace(/~\s*(에게서|에게|에서|으로|에|을|를|이|가|와|과|로|의|은|는)?/g, '').replace(/[^0-9a-z가-힣]/g, ''); }
+function coreKo(s) {
+  let c = normKo(s), changed = true;
+  while (changed && c.length > 1) { changed = false; for (const x of SUFFIX) if (c.length > x.length && c.endsWith(x) && (c.length - x.length >= 2 || VERB_SFX.has(x))) { c = c.slice(0, -x.length); changed = true; break; } }
+  return c;
+}
+function candidates(w) {
+  const base = String(w.ko || '').split(/[,;/·]|\s또는\s/).map(s => s.trim()).filter(Boolean);
+  const withParen = base.map(s => s.replace(/[()]/g, ''));
+  return [...new Set([...base, ...withParen, ...(w.acc || [])])].map(coreKo).filter(c => c.length);
+}
+function gradeKo(ans, w) {
+  const raw = String(ans || '').trim();
+  if (SKIP.has(raw.toLowerCase()) || SKIP.has(normKo(raw))) return { ok: false, skip: true };
+  const a = coreKo(raw);
+  if (!a) return { ok: false, skip: true };
+  if (normKo(raw) === normKo(w.w)) return { ok: false, echo: true };       // typed the English word back
+  // the answer may list several meanings: any one hit counts
+  const parts = raw.split(/[,;/]/).map(s => s.trim()).filter(Boolean), cands = candidates(w);
+  for (const part of parts) {
+    const p = coreKo(part); if (!p) continue;
+    const toks = [p, ...part.split(/\s+/).map(coreKo).filter(Boolean)], neg = NEG.test(normKo(part));
+    const p1 = /^[가-힣][을를은는이가의]$/.test(p) ? p[0] : null;           // 폭을 → 폭 (one-syllable noun + particle)
+    for (const c of cands) {
+      if (p === c || p1 === c) return { ok: true };
+      if (neg !== NEG.test(c)) continue;                                     // 필요 없는 ≠ 필요한
+      // partial matches only from the start of a word, so 불필요/무관심/주인공 don't match 필요/관심/인공
+      if (p.length >= 2 && c.startsWith(p) && p.length >= Math.ceil(c.length * .6)) return { ok: true };
+      if (c.length >= 2 && toks.some(t => t.startsWith(c))) return { ok: true };
+    }
+  }
+  return { ok: false };
+}
+const normEn = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[’‘`']/g, '').replace(/[^a-z -]/g, '').replace(/[\s-]+/g, ' ').trim();
+function gradeEn(ans, w) {
+  const a = normEn(ans);
+  if (!a || SKIP.has(a)) return { ok: false, skip: true };
+  // "lay the foundation(s) for" → accept with and without the optional part
+  const forms = [w.w, w.w.replace(/\([^)]*\)/g, ''), w.w.replace(/[()]/g, '')].map(normEn);
+  if (forms.includes(a)) return { ok: true };
+  // another headword with exactly the same Korean meaning is also right
+  const o = W.find(x => normEn(x.w) === a);
+  return { ok: !!(o && o.ko === w.ko) };
+}
+
+/* ============ router ============ */
+let VIEW = 'home', mode = 'card';
+function go(v, arg) { VIEW = v; window.scrollTo(0, 0); stopKeys(); ({ home: renderHome, cards: renderCards, test: renderTest, result: renderResult, list: renderList, settings: renderSettings })[v](arg); }
+
+/* ============ HOME ============ */
+function totals() {
+  const L = curList(); let mastered = 0, seen = 0, star = 0;
+  L.forEach(i => { const s = ST.words[W[i].w]; if (!s) return; if (s.r || s.x) seen++; if (s.m) mastered++; if (s.star) star++; });
+  return { n: L.length, mastered, seen, star };
+}
+function renderHome() {
+  const t = totals(), D = dayCount();
+  ST.day = Math.min(Math.max(1, ST.day || 1), D);
+  const d = ST.day, ds = dayState(d), dw = dayWords(d);
+  const pool = ST.pool.filter(w => BYW[w]), dset = new Set(dw.map(w => w.w)), cumN = pool.filter(w => !dset.has(w)).length;
+  let h = `<div class="wrap"><div class="cover"><h1>편입 단어 시험지</h1><p>서성한 기출 어휘 + GRE 고난도 어휘 · 총 ${W.length.toLocaleString()}단어</p></div>
+    <div class="stats"><div><b>${t.mastered}</b><span>마스터</span></div><div><b>${pool.length}</b><span>누적 복습 대기</span></div><div><b>${t.seen}</b><span>학습한 단어</span></div></div>
+    <div class="sec">일차별 커리큘럼 <span>${SET.cur === 'exam' ? '기출 단어만' : '전체'} · 하루 ${SET.size}단어 · ${D}일</span></div>
+    <div class="days" id="days">`;
+  for (let i = 1; i <= D; i++) {
+    const s = (ST.days[curKey()] || {})[i] || {};
+    h += `<button class="day ${i === d ? 'on' : ''} ${s.done ? 'done' : ''}" data-act="day" data-d="${i}">Day<b>${i}</b><i><em style="width:${s.best != null ? Math.round(s.best * 100) : 0}%"></em></i></button>`;
+  }
+  h += `</div>
+    <div class="seg"><button class="${mode === 'card' ? 'on' : ''}" data-act="mode" data-m="card">플래시카드 학습</button><button class="${mode === 'test' ? 'on' : ''}" data-act="mode" data-m="test">실전 일차 테스트</button></div>
+    <div class="daybox"><h3>Day ${d} ${ds.done ? '<span class="pen small">✓ 완료</span>' : ''}</h3>
+      <p>오늘 진도 ${dw.length}단어${cumN ? ` + 누적 복습 ${cumN}단어` : ''}${ds.best != null ? ` · 최고 ${Math.round(ds.best * 100)}%` : ''}</p>
+      <p>${SET.type === 'type' ? '뜻 직접 입력' : '4지선다'} · ${SET.dir === 'en2ko' ? '영어 → 뜻' : '뜻 → 영어'} <button class="small" style="text-decoration:underline;padding:10px 6px;margin:-10px 0" data-act="settings">바꾸기</button></p>
+      ${mode === 'card'
+        ? `<button class="bigbtn main" data-act="cards" data-k="day">Day ${d} 플래시카드 시작</button><button class="bigbtn sm" data-act="test">바로 Day ${d} 단어 테스트 시작</button>`
+        : `<button class="bigbtn main" data-act="test">Day ${d} 단어 테스트 시작</button><button class="bigbtn sm" data-act="cards" data-k="day">먼저 플래시카드로 보기</button>`}
+    </div>
+    <div class="sec">따로 모아 공부하기</div>
+    <button class="row" data-act="deck" data-k="pool"><div class="l"><b>누적 오답 단어</b><span class="s">틀린 단어가 맞힐 때까지 다음 날로 넘어와요 · ${pool.length}개</span></div><div class="arr">›</div></button>
+    <button class="row" data-act="deck" data-k="exam"><div class="l"><b>시험지 앱에서 체크한 단어</b><span class="s">기출 풀면서 탭한 단어 · ${wordsFromExamApp().length}개</span></div><div class="arr">›</div></button>
+    <button class="row" data-act="deck" data-k="star"><div class="l"><b>별표 단어</b><span class="s">★ 표시한 단어 · ${t.star}개</span></div><div class="arr">›</div></button>
+    <button class="row" data-act="deck" data-k="weak"><div class="l"><b>자꾸 틀리는 단어</b><span class="s">2번 이상 틀린 단어</span></div><div class="arr">›</div></button>
+    <div class="sec">도구</div>
+    <button class="row" data-act="list"><div class="l"><b>단어 찾기 · 전체 목록</b><span class="s">검색, 일차별 보기, 뜻 가리고 훑기</span></div><div class="arr">›</div></button>
+    <button class="row" data-act="settings"><div class="l"><b>설정</b><span class="s">하루 단어 수 · 시험 방식 · 소리 · 초기화</span></div><div class="arr">›</div></button>
+    <a class="row" href="exam.html" style="text-decoration:none"><div class="l"><b>기출 시험지 풀기 →</b><span class="s">서성한 2023–2025 기출을 한 문제씩</span></div><div class="arr">›</div></a>
+    <p class="small muted ko" style="text-align:center;margin:26px 0 40px">학습 기록은 이 기기의 브라우저에만 저장됩니다.</p></div>`;
+  $('#app').innerHTML = h;
+  const on = document.querySelector('.day.on'); if (on) on.scrollIntoView({ inline: 'center', block: 'nearest' });
+}
+
+/* ============ deck building ============ */
+function deckFor(kind) {
+  if (kind === 'day') {
+    const d = ST.day, today = dayWords(d), set = new Set(today.map(w => w.w));
+    const cum = ST.pool.filter(w => BYW[w] && !set.has(w)).map(w => BYW[w]);
+    return { title: `Day ${d}`, words: [...today.map(w => ({ w, cum: false })), ...cum.map(w => ({ w, cum: true }))], day: d };
+  }
+  let ws_ = [], title = '';
+  if (kind === 'pool') { title = '누적 오답 단어'; ws_ = ST.pool.map(w => BYW[w]).filter(Boolean); }
+  if (kind === 'exam') { title = '시험지 체크 단어'; ws_ = wordsFromExamApp(); }
+  if (kind === 'star') { title = '별표 단어'; ws_ = W.filter(w => ST.words[w.w] && ST.words[w.w].star); }
+  if (kind === 'weak') { title = '자꾸 틀리는 단어'; ws_ = W.filter(w => ST.words[w.w] && ST.words[w.w].x >= 2); }
+  if (kind === 'retest') { title = '오답 재시험'; ws_ = RS.wrongWords; }
+  return { title, words: ws_.map(w => ({ w, cum: false })), day: 0, kind };
+}
+
+/* ============ FLASHCARDS ============ */
+let CS = null;   // {deck, order, idx, shown, back}
+function startCards(kind) {
+  const deck = deckFor(kind);
+  if (!deck.words.length) return toast('단어가 없어요');
+  let order = deck.words.map((_, i) => i);
+  if (SET.unknownOnly) { const f = order.filter(i => { const s = ST.words[deck.words[i].w.w]; return !(s && (s.m || s.star)); }); if (f.length) order = f; }
+  CS = { deck, order, idx: 0, shown: !SET.hideM, kind };
+  go('cards');
+}
+function renderCards() {
+  if (!CS) return go('home');
+  const it = CS.deck.words[CS.order[CS.idx]], w = it.w, s = ST.words[w.w] || {};
+  let h = `<div class="top"><div class="wrap"><button class="btn" data-act="${CS.back === 'list' ? 'list' : 'home'}">‹ ${CS.back === 'list' ? '검색' : '목록'}</button><div class="ttl">${esc(CS.deck.title)} 플래시카드</div><button class="btn r" data-act="speak" aria-label="발음 듣기">발음</button></div></div><div class="progress"><i style="width:${(CS.idx + 1) / CS.order.length * 100}%"></i></div><div class="wrap">`;
+  h += `<div class="card" id="card"><div class="meta"><div>${it.cum ? '<span class="badge cum">누적 복습</span>' : ''}${(w.src || []).slice(0, 4).map(x => `<span class="badge">${esc(srcLabel(x))}</span>`).join('')}${w.origin === 'gre' && !(w.src || []).length ? '<span class="badge">고난도</span>' : ''}${w.imp === 1 ? '<span class="badge">빈출</span>' : ''}</div><button data-act="star" style="font-size:20px;line-height:1;min-width:44px;min-height:44px;margin:-10px -10px -10px 0" aria-label="별표">${s.star ? '★' : '☆'}</button></div>
+    <div class="hw en">${esc(w.w)}</div>${w.ipa ? `<div class="ipa">${esc(w.ipa)}</div>` : ''}<div class="pos">${esc(w.pos || '')}</div>
+    <button class="cover-m ${CS.shown ? '' : 'hide'}" data-act="flip">${esc(w.ko)}</button>
+    ${w.ex ? `<div class="ex en hyp">${highlight(w.ex, w.w)}</div>${w.exKo ? `<div class="exko ${CS.shown ? '' : 'hide'}">${esc(w.exKo)}</div>` : ''}${w.exRef ? `<div class="exref">${esc(w.exRef)} 기출</div>` : ''}` : ''}
+    ${(w.syn && w.syn.length) ? `<div class="chips"><span class="lab">동의어</span>${w.syn.map(x => `<span class="chip">${esc(x)}</span>`).join('')}</div>` : ''}
+    ${(w.ant && w.ant.length) ? `<div class="chips"><span class="lab">반의어</span>${w.ant.map(x => `<span class="chip">${esc(x)}</span>`).join('')}</div>` : ''}
+    ${w.tip ? `<div class="tip">${esc(w.tip)}</div>` : ''}
+  </div>
+  <div class="cardnav"><button data-act="cprev" ${CS.idx ? '' : 'disabled'}>◀︎ 이전</button><button data-act="shuffle">셔플</button><button class="${CS.shown ? 'on' : ''}" data-act="flip">${CS.shown ? '뜻 가리기' : '뜻 보기'}</button><button data-act="cnext">${CS.idx < CS.order.length - 1 ? '다음 ▶︎' : '처음으로'}</button></div>
+  <div class="counter">${CS.idx + 1} / ${CS.order.length}${SET.unknownOnly ? ' · 미암기만' : ''}</div>
+  ${CS.deck.day ? `<button class="bigbtn main" data-act="test">Day ${CS.deck.day} 단어 테스트 시작</button>` : `<button class="bigbtn main" data-act="decktest">이 단어들로 테스트</button>`}
+  <div class="pad-b"></div></div>`;
+  $('#app').innerHTML = h;
+  const key = CS.order[CS.idx] + ':' + CS.idx; if (SET.tts && CS.spoken !== key) { CS.spoken = key; speak(w.w); }
+  keys(e => { if (e.repeat && e.key === ' ') return; if (e.key === 'ArrowRight') cardMove(1); else if (e.key === 'ArrowLeft') cardMove(-1); else if (e.key === ' ') { e.preventDefault(); flip(); } });
+}
+function cardMove(d) { if (!CS) return; const n = CS.idx + d; if (n < 0) return; CS.idx = n >= CS.order.length ? 0 : n; CS.shown = !SET.hideM; renderCards(); }
+function flip() { CS.shown = !CS.shown; renderCards(); }
+
+/* ============ TEST ============ */
+let TS = null;   // {deck, items:[{w,cum,ans,res,choices}], idx, kind, day, retest}
+function startTest(kind) {
+  const deck = deckFor(kind);
+  if (!deck.words.length) return toast('단어가 없어요');
+  const items = (kind === 'day' ? deck.words : shuffle(deck.words)).map(x => ({ w: x.w, cum: x.cum }));
+  if (kind === 'day') items.splice(0, items.length, ...shuffle(items));
+  TS = { deck, items, idx: 0, kind, day: deck.day, type: SET.type, start: Date.now() };
+  go('test');
+}
+function choicesFor(w) {
+  const field = SET.dir === 'en2ko' ? 'ko' : 'w';
+  const pool = W.filter(x => x.w !== w.w && x[field] && x[field] !== w[field]);
+  const same = pool.filter(x => (x.pos || '').slice(0, 2) === (w.pos || '').slice(0, 2));
+  const seen = new Set([w[field]]), pick = [];
+  for (const x of shuffle(same.length >= 12 ? same : pool)) { if (!seen.has(x[field])) { seen.add(x[field]); pick.push(x); } if (pick.length === 3) break; }
+  return shuffle([w, ...pick]).map(x => x[field]);
+}
+function renderTest() {
+  if (!TS) return go('home');
+  const it = TS.items[TS.idx], w = it.w, done = it.res != null, en = SET.dir === 'en2ko';
+  let h = `<div class="top"><div class="wrap"><button class="btn" data-act="quittest">‹ 그만</button><div class="ttl">${esc(TS.deck.title)} 테스트 · ${TS.idx + 1}/${TS.items.length}</div>${en || done ? '<button class="btn r" data-act="speak" aria-label="발음 듣기">발음</button>' : '<span class="btn"></span>'}</div></div><div class="progress"><i style="width:${(TS.idx + 1) / TS.items.length * 100}%"></i></div><div class="wrap">
+    <div class="qbox"><div class="qn">${it.cum ? '<span class="badge cum">누적 복습</span>' : ''}${TS.idx + 1}번</div>
+    ${en ? `<div class="qw en">${esc(w.w)}</div><div class="qs">${esc(w.pos || '')}${w.ipa ? ' · ' + esc(w.ipa) : ''}</div>` : `<div class="qk">${esc(w.ko)}</div><div class="qs">${esc(w.pos || '')} · 영어 단어를 쓰세요</div>`}</div>`;
+  if (SET.type === 'type') {
+    h += `<input class="ans-in" id="ans" type="text" ${en ? 'lang="ko"' : 'lang="en"'} inputmode="text" enterkeyhint="done" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="${en ? '뜻을 입력 (모르면 비워 두고 모름)' : 'English word'}" value="${esc(it.ans || '')}" ${done ? 'readonly' : ''}>`;
+  } else {
+    it.choices = it.choices || choicesFor(w);
+    const right = en ? w.ko : w.w;
+    h += `<ol class="opts">` + it.choices.map((c, i) => {
+      let cls = '';
+      if (done) { if (c === right) cls = 'right'; else if (c === it.ans) cls = 'wrong'; }
+      return `<li><button class="opt ${cls} ${en ? 'ko' : 'en'}" data-act="pickopt" data-i="${i}" ${done ? 'disabled style="opacity:1"' : ''}><span class="n">${i + 1}</span><span>${esc(c)}</span></button></li>`;
+    }).join('') + `</ol>`;
+  }
+  if (done) {
+    h += `<div class="fb"><div class="v ${it.res ? '' : 'pen'}">${it.res ? '○ 정답' : (it.skip ? '모름' : '✕ 오답')}</div>
+      <div class="m">${en ? `<b class="en">${esc(w.w)}</b> ${esc(w.ko)}` : `<b class="en">${esc(w.w)}</b> ${esc(w.ko)}`}</div>
+      ${it.ans && !it.res ? `<div class="y">내 답: ${esc(it.ans)}</div>` : ''}
+      ${w.ex ? `<div class="ex en hyp" style="font-size:14.5px">${highlight(w.ex, w.w)}</div>${w.exKo ? `<div class="exko">${esc(w.exKo)}</div>` : ''}` : ''}
+      ${!it.res && SET.type === 'type' && !it.skip ? `<button class="ov" data-act="override">내 답도 맞아요 → 정답 처리</button>` : ''}
+      ${it.res && it.overridden ? `<button class="ov" data-act="unoverride">정답 처리 취소</button>` : ''}</div>`;
+  }
+  h += `<div class="pad-b"></div></div>`;
+  const last = TS.idx === TS.items.length - 1;
+  h += `<div class="bot"><div class="wrap"><button data-act="tprev" ${TS.idx ? '' : 'disabled'}>◀︎ 이전</button>`;
+  if (!done) h += `<button data-act="skip">모름</button>${SET.type === 'type' ? `<button class="main" data-act="submit">제출 ↵</button>` : ''}`;
+  else h += `<button class="main" data-act="tnext">${last ? '결과 보기' : '다음 ▶︎'}</button>`;
+  h += `</div></div>`;
+  $('#app').innerHTML = h;
+  const inp = $('#ans');
+  if (inp && !done) { setTimeout(() => inp.focus(), 30); inp.addEventListener('keydown', e => { if (e.key === 'Enter' && !e.isComposing && e.keyCode !== 229 && !e.repeat) { e.preventDefault(); submitAns(inp.value); } }); }
+  keys(e => {
+    if (e.repeat || (e.target && e.target.id === 'ans' && !e.target.readOnly)) return;   // the Enter that just submitted bubbles here after the re-render
+    if (done && (e.key === 'Enter' || e.key === 'ArrowRight')) { e.preventDefault(); tnext(); }
+    else if (!done && SET.type === 'choice' && /^[1-4]$/.test(e.key)) pickOpt(+e.key - 1);
+    else if (e.key === 'ArrowLeft' && TS.idx) { TS.idx--; renderTest(); }
+  });
+  if (SET.tts && en && !done) speak(w.w);
+}
+function record(it) {
+  const s = ws(it.w.w); s.last = Date.now();
+  if (it.counted) { if (it.counted === 'r') s.r--; else s.x--; }
+  if (it.res) s.r++; else s.x++;
+  it.counted = it.res ? 'r' : 'x';
+  save();
+}
+function submitAns(val) {
+  const it = TS.items[TS.idx]; if (it.res != null) return;
+  const r = SET.dir === 'en2ko' ? gradeKo(val, it.w) : gradeEn(val, it.w);
+  if (r.echo) { toast('영어 단어를 그대로 쓰면 오답이에요 · 뜻을 써 주세요'); return; }
+  it.ans = r.skip ? '' : String(val || '').trim(); it.res = r.ok; it.skip = !!r.skip;
+  record(it); beep(r.ok); renderTest();
+}
+function pickOpt(i) {
+  const it = TS.items[TS.idx]; if (it.res != null) return;
+  const c = it.choices[i], right = SET.dir === 'en2ko' ? it.w.ko : it.w.w;
+  it.ans = c; it.res = c === right; it.skip = false;
+  record(it); beep(it.res); renderTest();
+}
+function tnext() { if (TS.idx < TS.items.length - 1) { TS.idx++; renderTest(); } else finishTest(); }
+
+/* ============ RESULT (1:1 오답 클리닉) ============ */
+let RS = null;
+function finishTest() {
+  const items = TS.items;
+  items.forEach(it => { if (it.res == null) { it.res = false; it.skip = true; record(it); } });
+  const ok = items.filter(i => i.res).length, n = items.length;
+  const casc = { newN: 0, newOk: 0, cumN: 0, cumOk: 0, added: 0 };
+  // it.added marks words this test put into the pool, so a later override can take exactly those back out
+  if (TS.kind === 'day' || TS.kind === 'partial') {
+    // a quit day test ('partial') cascades the answered items too, but the day is not marked done
+    const pool = new Set(ST.pool);
+    items.forEach(it => {
+      const w = it.w.w;
+      if (it.cum) { casc.cumN++; if (it.res) { casc.cumOk++; pool.delete(w); ws(w).m = true; } }
+      else { casc.newN++; if (it.res) { casc.newOk++; if (!pool.has(w)) ws(w).m = true; } else { if (!pool.has(w)) { casc.added++; it.added = true; } pool.add(w); ws(w).m = false; } }
+    });
+    // a cumulative word that is also today's word: wrong keeps it in the pool
+    ST.pool = [...pool];
+    if (TS.kind === 'day') { const ds = dayState(TS.day); ds.done = true; ds.last = Date.now(); ds.best = Math.max(ds.best || 0, ok / n); ds.n = (ds.n || 0) + 1; }
+  } else if (TS.kind === 'pool') {
+    // reviewing the pool directly: correct answers leave the pool
+    const pool = new Set(ST.pool); items.forEach(it => { if (it.res) { pool.delete(it.w.w); ws(it.w.w).m = true; } }); ST.pool = [...pool];
+  } else {
+    items.forEach(it => { if (!it.res && BYW[it.w.w] && !ST.pool.includes(it.w.w)) { ST.pool.push(it.w.w); it.added = true; ws(it.w.w).m = false; } });
+  }
+  save();
+  RS = { title: TS.deck.title, kind: TS.kind, type: TS.type, day: TS.day, items, ok, n, casc, tab: 'all', wrongWords: items.filter(i => !i.res).map(i => i.w), time: Date.now() - TS.start };
+  TS = null; go('result');
+}
+function gradeOf(p) { return p >= .95 ? 'A+' : p >= .85 ? 'A' : p >= .7 ? 'B' : p >= .5 ? 'C' : 'D'; }
+function renderResult() {
+  if (!RS) return go('home');
+  const p = RS.n ? RS.ok / RS.n : 0, c = RS.casc;
+  const list = RS.items.filter(it => RS.tab === 'all' || (RS.tab === 'wrong' ? !it.res : it.res));
+  let h = `<div class="top"><div class="wrap"><button class="btn" data-act="home">‹ 목록</button><div class="ttl">${esc(RS.title)} 결과</div><button class="btn r" data-act="print">인쇄</button></div></div><div class="wrap">
+    <div class="score"><div class="big">${RS.ok}<span style="font-size:24px;color:var(--ink)"> / ${RS.n}</span></div><div class="grade">${gradeOf(p)}</div>
+    <div class="sub">정답 ${RS.ok} · 오답 ${RS.n - RS.ok} · 정답률 ${Math.round(p * 100)}% · ${Math.max(1, Math.round(RS.time / 60e3))}분</div></div>`;
+  if (RS.kind === 'day' || RS.kind === 'partial') h += `<div class="casc"><b>누적 복습 분석</b><br>· 오늘 새 단어 ${c.newN}개 중 ${c.newOk}개 정답${c.added ? ` → 틀린 ${c.added}개는 다음 날로 이월` : ''}<br>${c.cumN ? `· 이월된 누적 단어 ${c.cumN}개 중 <b>${c.cumOk}개 마스터</b>, ${c.cumN - c.cumOk}개는 다시 이월<br>` : ''}· 현재 누적 복습 대기 <b>${ST.pool.length}개</b></div>`;
+  h += `<div class="btnrow noprint"><button class="bigbtn main" data-act="retest" ${RS.wrongWords.length ? '' : 'disabled'}>오답 ${RS.wrongWords.length}개 즉시 재시험</button></div>
+    <div class="btnrow noprint"><button class="bigbtn sm" data-act="copywrong">오답노트 복사</button><button class="bigbtn sm" data-act="cards" data-k="${RS.kind === 'day' ? 'day' : 'retest'}">플래시카드로 복습</button></div>
+    ${RS.kind === 'day' && RS.day < dayCount() ? `<button class="bigbtn sm noprint" data-act="nextday">다음 Day ${RS.day + 1}로 이동 ›</button>` : ''}
+    <div class="tabs"><button class="tab ${RS.tab === 'all' ? 'on' : ''}" data-act="rtab" data-t="all">전체 (${RS.n})</button><button class="tab ${RS.tab === 'wrong' ? 'on' : ''}" data-act="rtab" data-t="wrong">오답 (${RS.n - RS.ok})</button><button class="tab ${RS.tab === 'right' ? 'on' : ''}" data-act="rtab" data-t="right">정답 (${RS.ok})</button></div>`;
+  list.forEach(it => {
+    const i = RS.items.indexOf(it);
+    h += `<div class="rrow"><div class="ox">${it.res ? '○' : '✕'}</div><div class="b"><div class="w en">${esc(it.w.w)} <span class="small muted ko" style="font-weight:400">${esc(it.w.pos || '')}</span>${it.cum ? ' <span class="badge cum">누적</span>' : ''}</div><div class="k">${esc(it.w.ko)}</div>${!it.res ? `<div class="y">내 답: ${esc(it.ans || '(모름)')}</div>` : ''}</div>${!it.res && RS.type === 'type' && it.ans ? `<button class="fix noprint" data-act="rfix" data-i="${i}">정답 처리</button>` : ''}</div>`;
+  });
+  h += `<div class="pad-b"></div></div>`;
+  $('#app').innerHTML = h;
+}
+function overrideResult(i) {
+  const it = RS.items[i]; it.res = true; it.overridden = true; record(it);
+  RS.ok++; RS.wrongWords = RS.items.filter(x => !x.res).map(x => x.w);
+  // undo the carry-over for a word that was actually right
+  const drop = () => { ST.pool = ST.pool.filter(x => x !== it.w.w); ws(it.w.w).m = true; };
+  if (RS.kind === 'day' || RS.kind === 'partial') {
+    if (it.cum) { drop(); RS.casc.cumOk++; }
+    else { RS.casc.newOk++; if (it.added) { drop(); RS.casc.added--; it.added = false; } }   // a word already in the pool before this test stays there
+  } else if (RS.kind === 'pool') drop();
+  else if (it.added) { ST.pool = ST.pool.filter(x => x !== it.w.w); it.added = false; }
+  save(); renderResult();
+}
+function copyWrong() {
+  const wr = RS.items.filter(i => !i.res);
+  if (!wr.length) return toast('오답이 없어요!');
+  const text = `${RS.title} 오답 (${wr.length}개)\n` + wr.map(it => `${it.w.w}${it.w.pos ? ' (' + it.w.pos + ')' : ''} ${it.w.ko}${it.ans ? '  / 내 답: ' + it.ans : ''}`).join('\n');
+  copyText(text).then(ok => ok ? toast('오답노트를 복사했어요') : prompt('길게 눌러 복사하세요', text));
+}
+function copyText(text) {
+  const legacy = () => { const ta = document.createElement('textarea'); ta.value = text; ta.setAttribute('readonly', ''); ta.style.cssText = 'position:fixed;top:0;left:0;opacity:0;font-size:16px'; document.body.appendChild(ta); ta.focus(); ta.select(); ta.setSelectionRange(0, text.length); let ok = false; try { ok = document.execCommand('copy'); } catch (e) {} ta.remove(); return ok; };
+  if (navigator.clipboard && window.isSecureContext) return navigator.clipboard.writeText(text).then(() => true, () => legacy());
+  return Promise.resolve(legacy());
+}
+
+/* ============ LIST / SEARCH ============ */
+let LQ = { q: '', f: 'all', hide: false, lim: 100 };
+function listFiltered() {
+  const q = LQ.q.trim().toLowerCase();
+  let L = W;
+  if (LQ.f === 'exam') L = L.filter(w => w.src && w.src.length);
+  if (LQ.f === 'star') L = L.filter(w => ST.words[w.w] && ST.words[w.w].star);
+  if (LQ.f === 'm') L = L.filter(w => ST.words[w.w] && ST.words[w.w].m);
+  if (LQ.f === 'day') L = dayWords(ST.day);
+  if (q) L = L.filter(w => w.w.toLowerCase().includes(q) || (w.ko || '').includes(q) || (w.syn || []).some(s => s.toLowerCase().includes(q)));
+  return L;
+}
+function renderList() {
+  const L = listFiltered();
+  const f = (k, l) => `<button class="tab ${LQ.f === k ? 'on' : ''}" data-act="lf" data-k="${k}">${l}</button>`;
+  let h = `<div class="top"><div class="wrap"><button class="btn" data-act="home">‹ 목록</button><div class="ttl" id="lttl">단어 찾기 · ${L.length.toLocaleString()}</div><button class="btn r" data-act="lhide">${LQ.hide ? '뜻 보기' : '뜻 가리기'}</button></div></div><div class="wrap">
+    <input class="search" id="q" type="search" placeholder="영어 · 뜻 · 동의어 검색" value="${esc(LQ.q)}" autocomplete="off" autocapitalize="off" spellcheck="false">
+    <div class="tabs">${f('all', '전체')}${f('day', 'Day ' + ST.day)}${f('exam', '기출')}${f('star', '별표')}${f('m', '마스터')}</div><div id="lbody">`;
+  h += listBody(L);
+  h += `</div><div class="pad-b"></div></div>`;
+  $('#app').innerHTML = h;
+  const inp = $('#q');
+  // update only the results so the input (and an in-progress Korean IME composition) is left alone
+  inp.addEventListener('input', () => { LQ.q = inp.value; LQ.lim = 100; const L2 = listFiltered(); $('#lbody').innerHTML = listBody(L2); $('#lttl').textContent = '단어 찾기 · ' + L2.length.toLocaleString(); });
+}
+function listBody(L) {
+  let h = L.slice(0, LQ.lim).map(w => { const s = ST.words[w.w] || {}; return `<button class="lrow" data-act="open" data-w="${esc(w.w)}"><span class="w en">${esc(w.w)}</span><span class="k ${LQ.hide ? 'hide' : ''}">${esc(w.ko)}</span><span class="st">${s.star ? '★' : ''}${s.m ? '✓' : ''}</span></button>`; }).join('');
+  if (L.length > LQ.lim) h += `<button class="bigbtn sm" data-act="more">더 보기 (${(L.length - LQ.lim).toLocaleString()}개 남음)</button>`;
+  if (!L.length) h = `<div class="empty">찾는 단어가 없어요.</div>`;
+  return h;
+}
+function openWord(word) {
+  const w = BYW[word]; if (!w) return;
+  CS = { deck: { title: '단어', words: [{ w, cum: false }], day: 0, kind: 'one' }, order: [0], idx: 0, shown: true, kind: 'one', back: 'list' };
+  go('cards');
+}
+
+/* ============ SETTINGS ============ */
+function renderSettings() {
+  const sw = (k, t, s) => `<button class="set" data-act="sw" data-k="${k}"><div>${t}<span>${s}</span></div><div class="sw ${SET[k] ? 'on' : ''}"></div></button>`;
+  const pick = (k, opts) => `<div class="pick">${opts.map(([v, l]) => `<button class="${SET[k] === v ? 'on' : ''}" data-act="pick" data-k="${k}" data-v="${v}">${l}</button>`).join('')}</div>`;
+  $('#app').innerHTML = `<div class="top"><div class="wrap"><button class="btn" data-act="home">‹ 목록</button><div class="ttl">설정</div><span class="btn"></span></div></div><div class="wrap">
+    <div class="set"><div>하루 단어 수<span>일차 수가 다시 나뉘어요 (기록은 단어별로 유지)</span></div>${pick('size', [[20, '20'], [30, '30'], [40, '40'], [50, '50'], [60, '60']])}</div>
+    <div class="set"><div>커리큘럼 범위<span>전체 ${W.length.toLocaleString()} / 서성한 기출 ${EXAM_IDX.length.toLocaleString()}</span></div>${pick('cur', [['all', '전체'], ['exam', '기출만']])}</div>
+    <div class="set"><div>시험 방식</div>${pick('type', [['type', '직접 입력'], ['choice', '4지선다']])}</div>
+    <div class="set"><div>출제 방향</div>${pick('dir', [['en2ko', '영→한'], ['ko2en', '한→영']])}</div>
+    ${sw('hideM', '카드에서 뜻 먼저 가리기', '카드를 넘기면 뜻과 예문 해석을 가려서 시작')}
+    ${sw('unknownOnly', '미암기 단어만 카드로', '마스터·별표 단어는 플래시카드에서 건너뛰기')}
+    ${sw('sound', '정답/오답 효과음', '')}
+    ${sw('tts', '자동 발음', '카드·문제가 나올 때 영어 발음 재생')}
+    <button class="set" data-act="resetall"><div>학습 기록 초기화<span>일차 진도, 누적 오답, 별표, 마스터 기록 삭제</span></div><span>›</span></button>
+    <p class="small muted ko" style="margin-top:22px;line-height:1.7">단어 출처: 서강대·성균관대·한양대 2023–2025 편입 기출 어휘, GRE 어휘 목록(gre-recall, MIT 라이선스). 뜻·예문 해석·팁은 학습용으로 작성되어 오류가 있을 수 있어요.</p></div>`;
+}
+
+/* ============ events ============ */
+let keyFn = null;
+function keys(fn) { keyFn = fn; }
+function stopKeys() { keyFn = null; }
+document.addEventListener('keydown', e => { if (keyFn) keyFn(e); });
+document.addEventListener('click', ev => {
+  const a = ev.target.closest('[data-act]'); if (!a) return;
+  const d = a.dataset;
+  switch (d.act) {
+    case 'home': CS = null; go('home'); break;
+    case 'day': ST.day = +d.d; save(); renderHome(); break;
+    case 'mode': mode = d.m; renderHome(); break;
+    case 'cards': startCards(d.k || (VIEW === 'test' ? 'day' : (CS && CS.kind) || 'day')); break;
+    case 'test': startTest('day'); break;
+    case 'deck': startCards(d.k); break;
+    case 'decktest': startTest(CS && CS.kind !== 'one' ? CS.kind : 'day'); break;
+    case 'flip': flip(); break;
+    case 'cnext': cardMove(1); break;
+    case 'cprev': cardMove(-1); break;
+    case 'shuffle': CS.order = shuffle(CS.order); CS.idx = 0; CS.shown = !SET.hideM; renderCards(); toast('섞었어요'); break;
+    case 'star': { const w = CS.deck.words[CS.order[CS.idx]].w.w; const s = ws(w); s.star = !s.star; save(); renderCards(); break; }
+    case 'speak': { const w = VIEW === 'cards' ? CS.deck.words[CS.order[CS.idx]].w : TS && TS.items[TS.idx].w; if (w) speak(w.w); break; }
+    case 'submit': submitAns(($('#ans') || {}).value); break;
+    case 'skip': { const it = TS.items[TS.idx]; if (it.res == null) { if (SET.type === 'type') submitAns(''); else { it.ans = ''; it.res = false; it.skip = true; record(it); beep(false); renderTest(); } } break; }
+    case 'pickopt': pickOpt(+d.i); break;
+    case 'tnext': tnext(); break;
+    case 'tprev': if (TS.idx) { TS.idx--; renderTest(); } break;
+    case 'override': { const it = TS.items[TS.idx]; it.res = true; it.overridden = true; record(it); renderTest(); break; }
+    case 'unoverride': { const it = TS.items[TS.idx]; it.res = false; it.overridden = false; record(it); renderTest(); break; }
+    case 'quittest': if (confirm('테스트를 그만두고 지금까지 푼 것만 채점할까요?')) { TS.items = TS.items.filter(i => i.res != null); if (!TS.items.length) { TS = null; go('home'); } else { TS.kind = TS.kind === 'day' ? 'partial' : TS.kind; finishTest(); } } break;
+    case 'retest': startTest('retest'); break;
+    case 'copywrong': copyWrong(); break;
+    case 'nextday': ST.day = RS.day + 1; save(); mode = 'card'; go('home'); break;
+    case 'rtab': RS.tab = d.t; renderResult(); break;
+    case 'rfix': overrideResult(+d.i); break;
+    case 'print': window.print(); break;
+    case 'list': CS = null; go('list'); break;
+    case 'lf': LQ.f = d.k; LQ.lim = 100; renderList(); break;
+    case 'lhide': LQ.hide = !LQ.hide; renderList(); break;
+    case 'more': LQ.lim += 200; renderList(); break;
+    case 'open': openWord(d.w); break;
+    case 'settings': go('settings'); break;
+    case 'sw': SET[d.k] = !SET[d.k]; save(); renderSettings(); break;
+    case 'pick': { const v = isNaN(+d.v) ? d.v : +d.v; if (d.k === 'size' && v !== SET.size) ST.day = Math.floor(((ST.day || 1) - 1) * SET.size / v) + 1; SET[d.k] = v; save(); renderSettings(); break; }   // keep the current word position when days are repartitioned
+    case 'resetall': if (confirm('모든 학습 기록을 지울까요?')) { ST = { days: {}, pool: [], words: {}, day: 1 }; save(); toast('초기화했어요'); } break;
+  }
+});
+// swipe on flashcards
+let sw0 = null;
+document.addEventListener('touchstart', e => { if (VIEW === 'cards' && e.touches.length === 1) sw0 = { x: e.touches[0].clientX, y: e.touches[0].clientY, t: Date.now() }; }, { passive: true });
+document.addEventListener('touchend', e => { if (!sw0) return; const t = e.changedTouches[0], dx = t.clientX - sw0.x, dy = t.clientY - sw0.y, dt = Date.now() - sw0.t; sw0 = null; if (Math.abs(dx) > 60 && Math.abs(dy) < 50 && dt < 600) cardMove(dx < 0 ? 1 : -1); }, { passive: true });
+window.addEventListener('pagehide', save);
+go('home');
+</script>
+</body>
+</html>

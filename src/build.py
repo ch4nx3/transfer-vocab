@@ -14,7 +14,7 @@ def strip(s):
 
 
 def main():
-    exams = [json.loads(p.read_text()) for p in sorted((ROOT / 'data').glob('*.json'))]
+    exams = [json.loads(p.read_text()) for p in sorted((ROOT / 'data').glob('*.json')) if p.name != 'vocab.json']
     exams.sort(key=lambda e: (SCHOOLS.get(e['school'], 9), -e['year']))
 
     # global form -> lemma (first exam wins, like the app's fallback table)

@@ -2,8 +2,17 @@
 
 서강대·성균관대·한양대 3개년 편입영어 기출을 **종이 시험지처럼 한 문제씩** 풀면서, 모르는 단어를 그 자리에서 찾아 **반복 복습**하는 모바일 학습 앱입니다.
 
-👉 **https://ch4nx3.github.io/transfer-vocab/exam.html**
-(기존 `trainer.html`, `sentence.html` 주소는 자동으로 이 페이지로 이동합니다. 예전 10일 보카 앱은 [index.html](https://ch4nx3.github.io/transfer-vocab/)에 그대로 있습니다.)
+- 👉 **기출 시험지: https://ch4nx3.github.io/transfer-vocab/exam.html**
+- 👉 **편입 단어 시험지: https://ch4nx3.github.io/transfer-vocab/vocab.html**
+- 시작 페이지: https://ch4nx3.github.io/transfer-vocab/ (기존 `trainer.html`, `sentence.html`은 기출 시험지로 이동)
+
+## 편입 단어 시험지 (vocab.html)
+- 4,400여 단어: 서성한 2023–2025 기출 어휘 + GRE 고난도 어휘([gre-recall](https://github.com/JiaL12/gre-recall), MIT) — 뜻·동의어·반의어·예문 해석·팁 포함, 빈출 순 커리큘럼
+- 일차별 커리큘럼(하루 20–60단어, 전체/기출만), 플래시카드(뜻 가림판, 예문 하이라이트, 발음, 별표, 셔플, 스와이프)
+- 일차 테스트: 뜻 직접 입력(조사·어미를 걸러내는 채점, 반대말 오답 방지, "정답 처리" 수동 인정) 또는 4지선다, 영→한/한→영
+- 폭포수 누적 복습: 틀린 단어는 맞힐 때까지 다음 날 테스트에 자동 이월
+- 결과 클리닉: 등급, 누적 분석, 오답 즉시 재시험, 오답노트 텍스트 복사, 인쇄/PDF
+- 기출 시험지 앱에서 탭한 단어를 따로 모아 테스트
 
 ## 학습 흐름
 1. **한 문제씩 풀기** — 종이 같은 배경에 검은 활자. 지문 → 문항 → 보기 순서. 좌우로 밀거나 아래 버튼으로 넘깁니다.
@@ -23,8 +32,9 @@
 | 한양대 | 2023 A형 (원본 PDF에 37문항까지만 있음) · 2024 A형 · 2025 A형 (각 35문항) |
 
 ## 구조
-- `exam.html` — 배포 파일 (데이터 내장, 단일 파일로 오프라인 동작)
-- `data/*.json` — 시험별 문항·지문·정답·해설·문장별 해석·어휘 사전
+- `exam.html`, `vocab.html` — 배포 파일 (데이터 내장, 단일 파일로 오프라인 동작), `index.html` — 시작 페이지
+- `data/*.json` — 시험별 문항·지문·정답·해설·문장별 해석·어휘 사전, `data/vocab.json` — 단어 시험지 데이터
 - `src/template.html`, `src/build.py` — `python3 src/build.py` 로 `exam.html` 재생성
+- `src/vocab_template.html`, `src/build_vocab.py` — `python3 src/build_vocab.py` 로 `vocab.html` 재생성
 
 해설·해석·어휘 뜻은 학습용으로 작성된 것이라 오류가 있을 수 있습니다.
