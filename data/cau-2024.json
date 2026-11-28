@@ -1,0 +1,6475 @@
+{
+ "id": "cau-2024",
+ "school": "중앙대",
+ "year": 2024,
+ "title": "2024학년도 중앙대학교 편입학 영어 A형",
+ "minutes": 60,
+ "answer_note": "공식 정답 미공개 · 풀이 기반 정답",
+ "directions": [
+  {
+   "from": 1,
+   "to": 7,
+   "text": "다음 문장의 밑줄 친 부분과 가장 가까운 의미를 지닌 것을 고르시오."
+  },
+  {
+   "from": 8,
+   "to": 9,
+   "text": "다음의 대화들 중 흐름이 가장 적절하지 <u>않은</u> 것을 고르시오."
+  },
+  {
+   "from": 10,
+   "to": 12,
+   "text": "다음 문장의 밑줄 친 부분 중 문법적으로 적절하지 <u>않은</u> 부분의 번호를 선택하시오. 문장의 밑줄 친 부분이 문법적으로 모두 옳다면 번호 ④를 선택하시오."
+  },
+  {
+   "from": 13,
+   "to": 20,
+   "text": "다음 빈 칸에 가장 적합한 단어 및 구문을 고르시오."
+  },
+  {
+   "from": 21,
+   "to": 26,
+   "text": "다음 빈 칸에 가장 적합한 단어 및 구문을 고르시오."
+  },
+  {
+   "from": 27,
+   "to": 28,
+   "text": "다음 글을 읽고 물음에 답하시오."
+  },
+  {
+   "from": 29,
+   "to": 30,
+   "text": "다음 글을 읽고 물음에 답하시오."
+  },
+  {
+   "from": 31,
+   "to": 32,
+   "text": "다음 글을 읽고 물음에 답하시오."
+  },
+  {
+   "from": 33,
+   "to": 34,
+   "text": "다음 글을 읽고 물음에 답하시오."
+  },
+  {
+   "from": 35,
+   "to": 36,
+   "text": "다음 글을 읽고 물음에 답하시오."
+  },
+  {
+   "from": 37,
+   "to": 38,
+   "text": "다음 글을 읽고 물음에 답하시오."
+  },
+  {
+   "from": 39,
+   "to": 40,
+   "text": "다음 글을 읽고 물음에 답하시오."
+  }
+ ],
+ "passages": [
+  {
+   "id": "p27",
+   "from": 27,
+   "to": 27,
+   "title": "",
+   "text": "To go into solitude, a man needs to retire as much from his chamber as from society. I am not solitary whilst I read and write, though nobody is with me. But if a man would be alone, let him look at the stars.\n\n(A) The stars awaken a certain reverence, because though always present, they are inaccessible; but all natural objects make a kindred impression, when the mind is open to their influence. Nature never wears a mean appearance. Neither does the wisest man extort her secret, and lose his curiosity by finding out all her perfection. Nature never became a toy to a wise spirit. The flowers, the animals, the mountains, reflected the wisdom of his best hour, as much as they had delighted the simplicity of his childhood.\n\n(B) When we speak of nature in this manner, we have a distinct but most poetical sense in the mind. We mean the integrity of impression made by manifold natural objects. It is this which distinguishes the stick of timber of the wood-cutter, from the tree of the poet. The charming landscape which I saw this morning, is indubitably made up of some twenty or thirty farms. Miller owns this field, Locke that, and Manning the woodland beyond. But none of them owns the landscape. There is a property in the horizon which no man has but he whose eye can integrate all the parts, that is, the poet. This is the best part of these men’s farms, yet to this their warranty-deeds give no title.\n\n(C) The rays that come from those heavenly worlds, will separate between him and what he touches. One might think the atmosphere was made transparent with this design, to give man, in the heavenly bodies, the perpetual presence of the sublime. Seen in the streets of cities, how great they are! If the stars should appear one night in a thousand years, how would men believe and adore; and preserve for many generations the remembrance of the city of God which had been shown! But every night come out these envoys of beauty, and light the universe with their admonishing smile.",
+   "sents": [
+    {
+     "en": "To go into solitude, a man needs to retire as much from his chamber as from society.",
+     "ko": "고독 속으로 들어가려면, 사람은 사회로부터뿐만 아니라 자기 방으로부터도 그만큼 물러나야 한다."
+    },
+    {
+     "en": "I am not solitary whilst I read and write, though nobody is with me.",
+     "ko": "나는 책을 읽고 글을 쓰는 동안에는, 곁에 아무도 없더라도 고독하지 않다."
+    },
+    {
+     "en": "But if a man would be alone, let him look at the stars.",
+     "ko": "그러나 혼자 있고 싶은 사람이라면, 별을 바라보게 하라."
+    },
+    {
+     "en": "(A) The stars awaken a certain reverence, because though always present, they are inaccessible; but all natural objects make a kindred impression, when the mind is open to their influence.",
+     "ko": "(A) 별은 일정한 경외감을 불러일으키는데, 항상 존재하면서도 닿을 수 없기 때문이다. 그러나 마음이 그 영향에 열려 있을 때에는 모든 자연물이 이와 비슷한 인상을 남긴다."
+    },
+    {
+     "en": "Nature never wears a mean appearance.",
+     "ko": "자연은 결코 비천한 모습을 하지 않는다."
+    },
+    {
+     "en": "Neither does the wisest man extort her secret, and lose his curiosity by finding out all her perfection.",
+     "ko": "또한 가장 현명한 사람도 자연의 비밀을 억지로 캐내어 그 모든 완벽함을 알아냄으로써 호기심을 잃어버리지는 않는다."
+    },
+    {
+     "en": "Nature never became a toy to a wise spirit.",
+     "ko": "자연은 현명한 정신에게 결코 장난감이 되지 않았다."
+    },
+    {
+     "en": "The flowers, the animals, the mountains, reflected the wisdom of his best hour, as much as they had delighted the simplicity of his childhood.",
+     "ko": "꽃과 동물과 산은 그가 어린 시절의 순수함으로 즐거워했던 만큼이나 그의 가장 좋은 시간의 지혜를 반영했다."
+    },
+    {
+     "en": "(B) When we speak of nature in this manner, we have a distinct but most poetical sense in the mind.",
+     "ko": "(B) 우리가 이런 식으로 자연을 말할 때, 우리는 마음속에 뚜렷하면서도 매우 시적인 감각을 지니고 있다."
+    },
+    {
+     "en": "We mean the integrity of impression made by manifold natural objects.",
+     "ko": "우리는 다양한 자연물이 만들어 내는 인상의 온전한 통일성을 의미한다."
+    },
+    {
+     "en": "It is this which distinguishes the stick of timber of the wood-cutter, from the tree of the poet.",
+     "ko": "나무꾼의 목재 한 토막과 시인의 나무를 구별해 주는 것이 바로 이것이다."
+    },
+    {
+     "en": "The charming landscape which I saw this morning, is indubitably made up of some twenty or thirty farms.",
+     "ko": "내가 오늘 아침에 본 매력적인 풍경은 분명 스무 곳 또는 서른 곳의 농장으로 이루어져 있다."
+    },
+    {
+     "en": "Miller owns this field, Locke that, and Manning the woodland beyond.",
+     "ko": "밀러는 이 밭을, 로크는 저 밭을, 매닝은 저 너머의 숲을 소유하고 있다."
+    },
+    {
+     "en": "But none of them owns the landscape.",
+     "ko": "그러나 그들 중 누구도 그 풍경을 소유하지는 않는다."
+    },
+    {
+     "en": "There is a property in the horizon which no man has but he whose eye can integrate all the parts, that is, the poet.",
+     "ko": "수평선에는 모든 부분을 하나로 통합할 수 있는 눈을 가진 사람, 곧 시인이 아니면 아무도 가지지 못하는 재산이 있다."
+    },
+    {
+     "en": "This is the best part of these men’s farms, yet to this their warranty-deeds give no title.",
+     "ko": "이것이야말로 이 사람들 농장의 가장 좋은 부분이지만, 그들의 양도 증서는 여기에 대해 아무런 권리도 부여하지 않는다."
+    },
+    {
+     "en": "(C) The rays that come from those heavenly worlds, will separate between him and what he touches.",
+     "ko": "(C) 저 천상의 세계에서 오는 빛줄기는 그와 그가 접하는 것 사이를 갈라놓을 것이다."
+    },
+    {
+     "en": "One might think the atmosphere was made transparent with this design, to give man, in the heavenly bodies, the perpetual presence of the sublime.",
+     "ko": "사람들은 대기가 투명하게 만들어진 것이 이런 의도에서, 즉 인간에게 천체 속에서 숭고함이 영원히 존재함을 보여 주기 위해서라고 생각할 수도 있다."
+    },
+    {
+     "en": "Seen in the streets of cities, how great they are!",
+     "ko": "도시의 거리에서 보면 별들이 얼마나 위대한가!"
+    },
+    {
+     "en": "If the stars should appear one night in a thousand years, how would men believe and adore; and preserve for many generations the remembrance of the city of God which had been shown!",
+     "ko": "만약 별이 천 년에 하룻밤만 나타난다면, 사람들은 얼마나 믿고 숭배하겠으며, 그렇게 드러난 신의 도시에 대한 기억을 여러 세대 동안 간직하겠는가!"
+    },
+    {
+     "en": "But every night come out these envoys of beauty, and light the universe with their admonishing smile.",
+     "ko": "그러나 매일 밤 이 아름다움의 사자(使者)들이 나타나 경고하듯 미소 지으며 우주를 밝힌다."
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "from": 28,
+   "to": 28,
+   "title": "",
+   "text": "The layer of air next to the earth, which extends toward for about 10 miles, is known as the troposphere. On the whole, the troposphere makes up about 75% of all the weight of atmosphere. It is the warmest part of the atmosphere because most of the solar radiation is absorbed by the earth’s surface, which warms the air immediately surrounding it. A steady decrease of temperature with increasing elevation is a most striking characteristic of this region, whose upper layers are colder because of their greater distance from the earth’s surface and because of the rapid radiation of heat into space. Temperatures within the troposphere decrease about 3.5° per 1,000-foot increase in altitude. Within the troposphere, winds and air currents distribute heat and moisture. Strong winds, called jet streams, are located at the upper levels of the troposphere. These jet streams are both complex and widespread in occurrence. They normally show a wave-shaped pattern and move from west to east at velocities of 150 mph, but velocities as high as 400 mph have been noted. The influences of changing locations and strengths of jet streams upon weather conditions and patterns are no doubt considerable. Current intensive research may eventually reveal their true significance.",
+   "sents": [
+    {
+     "en": "The layer of air next to the earth, which extends toward for about 10 miles, is known as the troposphere.",
+     "ko": "지표면에 맞닿은 공기층은 약 10마일까지 뻗어 있으며 대류권이라고 알려져 있다."
+    },
+    {
+     "en": "On the whole, the troposphere makes up about 75% of all the weight of atmosphere.",
+     "ko": "대체로 대류권은 대기 전체 무게의 약 75%를 차지한다."
+    },
+    {
+     "en": "It is the warmest part of the atmosphere because most of the solar radiation is absorbed by the earth’s surface, which warms the air immediately surrounding it.",
+     "ko": "이곳은 대기에서 가장 따뜻한 부분인데, 대부분의 태양 복사 에너지가 지표면에 흡수되고 그 지표면이 바로 둘러싼 공기를 데우기 때문이다."
+    },
+    {
+     "en": "A steady decrease of temperature with increasing elevation is a most striking characteristic of this region, whose upper layers are colder because of their greater distance from the earth’s surface and because of the rapid radiation of heat into space.",
+     "ko": "고도가 높아짐에 따라 기온이 꾸준히 낮아지는 것이 이 영역의 가장 두드러진 특징이며, 그 상층부는 지표면에서 더 멀리 떨어져 있고 열이 우주 공간으로 빠르게 복사되기 때문에 더 차갑다."
+    },
+    {
+     "en": "Temperatures within the troposphere decrease about 3.5° per 1,000-foot increase in altitude.",
+     "ko": "대류권 내의 기온은 고도가 1,000피트 높아질 때마다 약 3.5도씩 낮아진다."
+    },
+    {
+     "en": "Within the troposphere, winds and air currents distribute heat and moisture.",
+     "ko": "대류권 안에서는 바람과 기류가 열과 수분을 분배한다."
+    },
+    {
+     "en": "Strong winds, called jet streams, are located at the upper levels of the troposphere.",
+     "ko": "제트 기류라고 불리는 강한 바람은 대류권의 상층부에 위치한다."
+    },
+    {
+     "en": "These jet streams are both complex and widespread in occurrence.",
+     "ko": "이러한 제트 기류는 복잡하고 발생 범위도 넓다."
+    },
+    {
+     "en": "They normally show a wave-shaped pattern and move from west to east at velocities of 150 mph, but velocities as high as 400 mph have been noted.",
+     "ko": "그것들은 보통 파동 모양의 패턴을 보이며 시속 150마일의 속도로 서쪽에서 동쪽으로 이동하지만, 시속 400마일에 이르는 속도도 관측된 적이 있다."
+    },
+    {
+     "en": "The influences of changing locations and strengths of jet streams upon weather conditions and patterns are no doubt considerable.",
+     "ko": "제트 기류의 위치와 강도의 변화가 기상 상태와 패턴에 미치는 영향은 의심할 여지 없이 상당하다."
+    },
+    {
+     "en": "Current intensive research may eventually reveal their true significance.",
+     "ko": "현재 진행 중인 집중적인 연구가 언젠가 그 진정한 중요성을 밝혀낼지도 모른다."
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "from": 29,
+   "to": 30,
+   "title": "",
+   "text": "While the 20th century was the century of physics, electronics, and communication, the years to come are considered to be mainly dominated by the biological revolution that already started in the second half of the 20th century as well as nanotechnology. It is an exciting new front that deals with minuscule nanometer-scaled assemblies and devices. Traditionally, miniaturization was a process in which devices became smaller and smaller by continuous improvement of existing techniques. Yet, we rapidly approach the limits of miniaturization using the conventional top-down fabrication tools. One of the key futuristic ways of making tiny machines will be to scale them up from _______. For that purpose, many lessons could be learned about the arrangement of nano-scale machines as occurs in each and every biological system. The living cell is actually the only place in which genuine functional molecular machines, as often described in futuristic presentations of nanotechnology, could actually be found. Molecular motors, ultrasensitive nano-scale sensors, DNA replication machines, protein synthesis machines, and many other miniature devices exist even in the very simple early pre-bacterial cells that evolved more than 3 billion years ago. When we climb higher on the evolution tree, the nanomachines of course become more sophisticated and powerful. Yet, only billions of years after life emerged, we are beginning to utilize the concepts of recognition and assembly that lead to the formation of nano-scale machines for our technological needs. On the other hand many principles and applications of nano-technology that were developed for non-biological systems could be very useful for immediate biological applications such as advanced sensors and molecular scaffolds for tissue engineering as well as long-term prospects such as <i>in situ</i> modifications at the protein and DNA levels.\n\nWhile the fields of nanobiotechnology and bionanotechnology are very new, their prospects are immense. The marriage between biotechnology and nanotechnology could lead to a dramatic advancement in the medical sciences. It may well be a place in which many of the current diseases and human disorders will be eradicated. In a reasonable time-scale, cancer and AIDS may be regarded in the same way that polio and tuberculosis are being considered now. Genetic defects could be identified and corrected already even before birth. Nano-scale robots that may be inserted into our body could perform very complicated surgical tasks such as a brain surgery.",
+   "sents": [
+    {
+     "en": "While the 20th century was the century of physics, electronics, and communication, the years to come are considered to be mainly dominated by the biological revolution that already started in the second half of the 20th century as well as nanotechnology.",
+     "ko": "20세기가 물리학, 전자공학, 통신의 세기였던 반면, 앞으로의 시대는 20세기 후반에 이미 시작된 생물학 혁명과 나노기술에 의해 주로 지배될 것으로 여겨진다."
+    },
+    {
+     "en": "It is an exciting new front that deals with minuscule nanometer-scaled assemblies and devices.",
+     "ko": "그것은 초미세한 나노미터 규모의 조립체와 장치를 다루는 흥미로운 새로운 최전선이다."
+    },
+    {
+     "en": "Traditionally, miniaturization was a process in which devices became smaller and smaller by continuous improvement of existing techniques.",
+     "ko": "전통적으로 소형화는 기존 기술을 지속적으로 개선하여 장치가 점점 더 작아지는 과정이었다."
+    },
+    {
+     "en": "Yet, we rapidly approach the limits of miniaturization using the conventional top-down fabrication tools.",
+     "ko": "그러나 우리는 기존의 하향식 제작 도구를 이용한 소형화의 한계에 빠르게 다가가고 있다."
+    },
+    {
+     "en": "One of the key futuristic ways of making tiny machines will be to scale them up from _______.",
+     "ko": "미래에 초소형 기계를 만드는 핵심적인 방법 중 하나는 ( 빈칸 )에서부터 규모를 키워 올라가는 것이 될 것이다."
+    },
+    {
+     "en": "For that purpose, many lessons could be learned about the arrangement of nano-scale machines as occurs in each and every biological system.",
+     "ko": "그 목적을 위해, 모든 생물 체계에서 나타나는 나노 규모 기계의 배열 방식에서 많은 교훈을 얻을 수 있을 것이다."
+    },
+    {
+     "en": "The living cell is actually the only place in which genuine functional molecular machines, as often described in futuristic presentations of nanotechnology, could actually be found.",
+     "ko": "미래지향적인 나노기술 소개에서 흔히 묘사되는 진정으로 기능하는 분자 기계는 사실상 살아 있는 세포에서만 실제로 발견될 수 있다."
+    },
+    {
+     "en": "Molecular motors, ultrasensitive nano-scale sensors, DNA replication machines, protein synthesis machines, and many other miniature devices exist even in the very simple early pre-bacterial cells that evolved more than 3 billion years ago.",
+     "ko": "분자 모터, 초고감도 나노 규모 센서, DNA 복제 기계, 단백질 합성 기계 및 기타 많은 초소형 장치가 30억 년 이상 전에 진화한 아주 단순한 초기 전(前)세균 세포에조차 존재한다."
+    },
+    {
+     "en": "When we climb higher on the evolution tree, the nanomachines of course become more sophisticated and powerful.",
+     "ko": "우리가 진화의 나무에서 더 높이 올라갈수록 나노 기계는 당연히 더 정교하고 강력해진다."
+    },
+    {
+     "en": "Yet, only billions of years after life emerged, we are beginning to utilize the concepts of recognition and assembly that lead to the formation of nano-scale machines for our technological needs.",
+     "ko": "그러나 생명이 출현한 지 수십억 년이 지나서야 우리는 나노 규모 기계의 형성으로 이어지는 인식과 조립의 개념을 우리의 기술적 필요에 활용하기 시작하고 있다."
+    },
+    {
+     "en": "On the other hand many principles and applications of nano-technology that were developed for non-biological systems could be very useful for immediate biological applications such as advanced sensors and molecular scaffolds for tissue engineering as well as long-term prospects such as in situ modifications at the protein and DNA levels.",
+     "ko": "한편, 비생물학적 체계를 위해 개발된 나노기술의 많은 원리와 응용은 고급 센서와 조직공학용 분자 지지체와 같은 즉각적인 생물학적 응용은 물론, 단백질 및 DNA 수준에서의 현장 변형과 같은 장기적 전망에도 매우 유용할 수 있다."
+    },
+    {
+     "en": "While the fields of nanobiotechnology and bionanotechnology are very new, their prospects are immense.",
+     "ko": "나노생명공학과 생체나노기술 분야는 매우 새롭지만 그 전망은 막대하다."
+    },
+    {
+     "en": "The marriage between biotechnology and nanotechnology could lead to a dramatic advancement in the medical sciences.",
+     "ko": "생명공학과 나노기술의 결합은 의학의 극적인 발전으로 이어질 수 있다."
+    },
+    {
+     "en": "It may well be a place in which many of the current diseases and human disorders will be eradicated.",
+     "ko": "그것은 현재의 많은 질병과 인간의 장애가 근절될 곳이 될 수도 있다."
+    },
+    {
+     "en": "In a reasonable time-scale, cancer and AIDS may be regarded in the same way that polio and tuberculosis are being considered now.",
+     "ko": "합리적인 시간 안에, 암과 에이즈는 지금 소아마비와 결핵이 여겨지는 것과 같은 방식으로 여겨질지도 모른다."
+    },
+    {
+     "en": "Genetic defects could be identified and corrected already even before birth.",
+     "ko": "유전적 결함은 이미 출생 전에 확인되고 교정될 수 있을 것이다."
+    },
+    {
+     "en": "Nano-scale robots that may be inserted into our body could perform very complicated surgical tasks such as a brain surgery.",
+     "ko": "우리 몸속에 주입될 수 있는 나노 규모의 로봇은 뇌 수술과 같은 매우 복잡한 외과 시술을 수행할 수 있을 것이다."
+    }
+   ]
+  },
+  {
+   "id": "p31",
+   "from": 31,
+   "to": 32,
+   "title": "",
+   "text": "In Baltimore, as in many communities with a lot of drug addicts, the city sends out a van stocked with thousands of clean syringes to certain street corners in its inner-city neighborhoods at certain times in a week. The idea is that for every dirty, used needle that addicts hand over, they can get a free clean needle in return. <u>(A)In principle</u>, needle exchange sounds like a good way to fight AIDS, since the reuse of old HIV-infected needles is responsible for so much of the virus’s spread. But, at least on first examination, it seems to have some <u>(B)obvious limitations</u>. Addicts, for one, aren’t the most organized and reliable of people. So what guarantee is there that they are going to be able to regularly <u>(C)break into</u> the needle van? Second, most heroin addicts go through about one needle a day, shooting up at least five or six times—if not more—until the tip of the syringe becomes so blunt that it is _______. They need a lot of needles. How can a van, coming by once a week, serve the needs of addicts who are shooting up <u>(D)around the clock</u>? What if the van comes by on Tuesday, and by Saturday night an addict has run out? To analyze how well the needle program was working, researchers at Johns Hopkins University began to ride along with the vans in order to talk to the people handing in needles.",
+   "sents": [
+    {
+     "en": "In Baltimore, as in many communities with a lot of drug addicts, the city sends out a van stocked with thousands of clean syringes to certain street corners in its inner-city neighborhoods at certain times in a week.",
+     "ko": "볼티모어에서는, 약물 중독자가 많은 다른 많은 지역 사회와 마찬가지로, 시가 수천 개의 깨끗한 주사기를 실은 밴을 일주일 중 정해진 시간에 도심 지역의 특정 길모퉁이로 보낸다."
+    },
+    {
+     "en": "The idea is that for every dirty, used needle that addicts hand over, they can get a free clean needle in return.",
+     "ko": "그 발상은 중독자들이 더럽고 사용한 바늘을 하나 내놓을 때마다 그 대가로 깨끗한 바늘을 무료로 받을 수 있다는 것이다."
+    },
+    {
+     "en": "(A)In principle, needle exchange sounds like a good way to fight AIDS, since the reuse of old HIV-infected needles is responsible for so much of the virus’s spread.",
+     "ko": "(A) 원칙적으로 바늘 교환은 에이즈와 싸우는 좋은 방법처럼 들리는데, 바이러스 확산의 상당 부분이 HIV에 감염된 헌 바늘의 재사용 때문이기 때문이다."
+    },
+    {
+     "en": "But, at least on first examination, it seems to have some (B)obvious limitations.",
+     "ko": "그러나 적어도 처음 검토해 보면, 그것은 몇 가지 (B) 명백한 한계가 있는 것 같다."
+    },
+    {
+     "en": "Addicts, for one, aren’t the most organized and reliable of people.",
+     "ko": "우선, 중독자들은 가장 체계적이고 믿을 만한 사람들이 아니다."
+    },
+    {
+     "en": "So what guarantee is there that they are going to be able to regularly (C)break into the needle van?",
+     "ko": "그렇다면 그들이 정기적으로 바늘 밴에 (C) 들어올 수 있다는 어떤 보장이 있는가?"
+    },
+    {
+     "en": "Second, most heroin addicts go through about one needle a day, shooting up at least five or six times—if not more—until the tip of the syringe becomes so blunt that it is _______.",
+     "ko": "둘째, 대부분의 헤로인 중독자들은 하루에 바늘 하나 정도를 쓰며 주사를 적어도 대여섯 번, 어쩌면 그 이상 맞는데, 주사기 끝이 너무 무뎌져서 ( 빈칸 ) 때까지 그렇게 한다."
+    },
+    {
+     "en": "They need a lot of needles.",
+     "ko": "그들은 많은 바늘이 필요하다."
+    },
+    {
+     "en": "How can a van, coming by once a week, serve the needs of addicts who are shooting up (D)around the clock?",
+     "ko": "일주일에 한 번 들르는 밴이 (D) 하루 종일 주사를 맞는 중독자들의 필요를 어떻게 충족시킬 수 있겠는가?"
+    },
+    {
+     "en": "What if the van comes by on Tuesday, and by Saturday night an addict has run out?",
+     "ko": "만약 밴이 화요일에 왔다가 토요일 밤에 중독자가 바늘이 떨어지면 어떻게 되겠는가?"
+    },
+    {
+     "en": "To analyze how well the needle program was working, researchers at Johns Hopkins University began to ride along with the vans in order to talk to the people handing in needles.",
+     "ko": "바늘 프로그램이 얼마나 잘 운영되고 있는지 분석하기 위해, 존스 홉킨스 대학교의 연구자들은 바늘을 내놓는 사람들과 이야기를 나누려고 밴에 동승하기 시작했다."
+    }
+   ]
+  },
+  {
+   "id": "p33",
+   "from": 33,
+   "to": 34,
+   "title": "",
+   "text": "The mental health movement in the United States began with a period of considerable enlightenment. Dorothea Dix was shocked to find the mentally ill in jails and almshouses and crusaded for the establishment of asylums in which people could receive humane care in hospital-like environments and treatment which might help restore them to sanity. By the mid 1800s, 20 states had established asylums, but during the late 1800s and early 1900s, in the face of economic depression, legislatures were unable to appropriate sufficient funds for decent care. (A) Asylums became overcrowded and prison-like. Additionally, patients were more resistant to treatment than the pioneers in the mental health field had anticipated, and security and restraints were needed to protect patients and others. Mental institutions became frightening and depressing places in which the rights of patients were all but forgotten.\n\nThese conditions continued until after World War II. At that time, new treatments were discovered for some major mental illnesses theretofore considered untreatable (penicillin for syphilis of the brain and insulin treatment for schizophrenia and depressions), and a succession of books, motion pictures, and newspaper exposés called attention to the plight of the mentally ill. (B) Improvements were made, and Dr. David Vail’s Humane Practices Program became a beacon for today. But changes were slow in coming until the early 1960s. At that time, the Civil Rights movement led lawyers to investigate America’s prisons, which were disproportionately populated by blacks, and they in turn followed prisoners into the only institutions that were worse than the prisons—the hospitals for the criminally insane. The prisons were filled with angry young men who, encouraged by legal support, were quick to demand their rights. (C) The young cadre of public interest lawyers liked their role in the mental hospitals. The lawyers found a population that was both passive and easy to champion. These were, after all, people who, unlike criminals, had done nothing wrong. And in many states, they were being kept in horrendous institutions, an injustice, which once exposed, was bound to shock the public and, particularly, the judicial conscience. Patients’ rights groups successfully encouraged reform by lobbying in state legislatures.\n\nJudicial interventions have had some definite positive effects, but there is growing awareness that courts cannot provide the standards and the review mechanisms that assure good patient care. (D) The details of providing day-to-day care simply cannot be mandated by a court, so it is time to take from the courts the responsibility for delivery of mental health care and assurance of patients rights and return it to the state mental health administrators to whom the mandate was originally given.",
+   "sents": [
+    {
+     "en": "The mental health movement in the United States began with a period of considerable enlightenment.",
+     "ko": "미국의 정신 건강 운동은 상당한 계몽의 시기와 함께 시작되었다."
+    },
+    {
+     "en": "Dorothea Dix was shocked to find the mentally ill in jails and almshouses and crusaded for the establishment of asylums in which people could receive humane care in hospital-like environments and treatment which might help restore them to sanity.",
+     "ko": "도로시아 딕스는 정신질환자들이 감옥과 구빈원에 있는 것을 보고 충격을 받았고, 사람들이 병원과 같은 환경에서 인도적인 돌봄과 그들이 정신을 회복하도록 도울 수 있는 치료를 받을 수 있는 수용 시설의 설립을 위해 운동을 벌였다."
+    },
+    {
+     "en": "By the mid 1800s, 20 states had established asylums, but during the late 1800s and early 1900s, in the face of economic depression, legislatures were unable to appropriate sufficient funds for decent care.",
+     "ko": "1800년대 중반까지 20개 주가 수용 시설을 설립했지만, 1800년대 후반과 1900년대 초반에는 경제 불황에 직면하여 입법부가 제대로 된 돌봄을 위한 충분한 자금을 책정할 수 없었다."
+    },
+    {
+     "en": "(A) Asylums became overcrowded and prison-like.",
+     "ko": "(A) 수용 시설은 과밀해졌고 교도소 같아졌다."
+    },
+    {
+     "en": "Additionally, patients were more resistant to treatment than the pioneers in the mental health field had anticipated, and security and restraints were needed to protect patients and others.",
+     "ko": "게다가 환자들은 정신 건강 분야 개척자들이 예상했던 것보다 치료에 더 저항적이었고, 환자와 다른 사람들을 보호하기 위해 보안과 신체 구속이 필요했다."
+    },
+    {
+     "en": "Mental institutions became frightening and depressing places in which the rights of patients were all but forgotten.",
+     "ko": "정신 병원은 환자의 권리가 거의 모두 잊힌 무섭고 우울한 장소가 되었다."
+    },
+    {
+     "en": "These conditions continued until after World War II.",
+     "ko": "이러한 상태는 제2차 세계대전 이후까지 계속되었다."
+    },
+    {
+     "en": "At that time, new treatments were discovered for some major mental illnesses theretofore considered untreatable (penicillin for syphilis of the brain and insulin treatment for schizophrenia and depressions), and a succession of books, motion pictures, and newspaper exposés called attention to the plight of the mentally ill.",
+     "ko": "그때 이전에는 치료가 불가능하다고 여겨졌던 몇몇 주요 정신질환에 대한 새로운 치료법이 발견되었고(뇌매독에는 페니실린, 조현병과 우울증에는 인슐린 치료), 잇따른 책, 영화, 신문의 폭로 기사가 정신질환자들의 곤경에 대한 관심을 불러일으켰다."
+    },
+    {
+     "en": "(B) Improvements were made, and Dr. David Vail’s Humane Practices Program became a beacon for today.",
+     "ko": "(B) 개선이 이루어졌고, 데이비드 베일 박사의 인도적 실천 프로그램은 오늘날의 등대가 되었다."
+    },
+    {
+     "en": "But changes were slow in coming until the early 1960s.",
+     "ko": "그러나 변화는 1960년대 초까지는 더디게 찾아왔다."
+    },
+    {
+     "en": "At that time, the Civil Rights movement led lawyers to investigate America’s prisons, which were disproportionately populated by blacks, and they in turn followed prisoners into the only institutions that were worse than the prisons—the hospitals for the criminally insane.",
+     "ko": "그때 민권 운동은 변호사들이 흑인이 불균형적으로 많이 수감되어 있던 미국의 교도소를 조사하도록 이끌었고, 그들은 차례로 수감자들을 따라 교도소보다 더 열악한 유일한 시설, 즉 범죄를 저지른 정신질환자를 위한 병원으로 들어갔다."
+    },
+    {
+     "en": "The prisons were filled with angry young men who, encouraged by legal support, were quick to demand their rights.",
+     "ko": "교도소는 법률적 지원에 고무되어 자신의 권리를 재빨리 요구하는 화난 젊은이들로 가득 차 있었다."
+    },
+    {
+     "en": "(C) The young cadre of public interest lawyers liked their role in the mental hospitals.",
+     "ko": "(C) 공익 변호사로 이루어진 젊은 핵심 집단은 정신 병원에서의 자신들의 역할을 마음에 들어 했다."
+    },
+    {
+     "en": "The lawyers found a population that was both passive and easy to champion.",
+     "ko": "변호사들은 수동적이면서 옹호하기 쉬운 집단을 발견했다."
+    },
+    {
+     "en": "These were, after all, people who, unlike criminals, had done nothing wrong.",
+     "ko": "결국 이들은 범죄자들과 달리 아무 잘못도 하지 않은 사람들이었다."
+    },
+    {
+     "en": "And in many states, they were being kept in horrendous institutions, an injustice, which once exposed, was bound to shock the public and, particularly, the judicial conscience.",
+     "ko": "그리고 많은 주에서 그들은 끔찍한 시설에 수용되어 있었는데, 이는 일단 폭로되면 대중, 특히 사법적 양심에 충격을 주게 되어 있는 부당함이었다."
+    },
+    {
+     "en": "Patients’ rights groups successfully encouraged reform by lobbying in state legislatures.",
+     "ko": "환자 권리 단체들은 주 의회에 대한 로비를 통해 개혁을 성공적으로 촉진했다."
+    },
+    {
+     "en": "Judicial interventions have had some definite positive effects, but there is growing awareness that courts cannot provide the standards and the review mechanisms that assure good patient care.",
+     "ko": "사법적 개입은 분명한 긍정적 효과를 가져왔지만, 법원은 좋은 환자 돌봄을 보장하는 기준과 검토 체계를 제공할 수 없다는 인식이 커지고 있다."
+    },
+    {
+     "en": "(D) The details of providing day-to-day care simply cannot be mandated by a court, so it is time to take from the courts the responsibility for delivery of mental health care and assurance of patients rights and return it to the state mental health administrators to whom the mandate was originally given.",
+     "ko": "(D) 일상적인 돌봄을 제공하는 세부 사항은 법원이 단순히 강제할 수 없으므로, 이제 정신 건강 관리의 제공과 환자 권리 보장에 대한 책임을 법원에서 거두어, 원래 그 권한을 부여받았던 주 정신 건강 행정 당국에 되돌려 줄 때이다."
+    }
+   ]
+  },
+  {
+   "id": "p35",
+   "from": 35,
+   "to": 36,
+   "title": "",
+   "text": "By 1829 Lyell was beginning to formulate an idea that would occupy him all his life, namely that present day natural forces could explain all geological events and there was no need for catastrophes in the geologic past. Cuvier and Brongniart had published an important study of the sediments and fossils of the Paris basin in 1811. They saw that freshwater shells alternated with marine shells, and they interpreted this to be due to revolutions in Earth history, but Lyell thought the pattern could also be explained by slow alternation between freshwater and marine conditions. He saw a similarity between present-day Scottish lake sediments that he had studied earlier and the older Paris sediments, and saw no need to invoke Earth revolutions. His travels to volcanic areas in Italy led him to the same conclusion.\n\nLyell practiced law from 1825 to 1827 but poor eyesight suggested he needed a different career, and he chose geology. He was elected a fellow of the Geological Society in 1826. In 1828 he visited the Auvergne volcanic region in south-central France with Murchison. In 1831 he was appointed professor at King's College London where he lectured in geology, but did not remain there for long. His interests turned to publishing a book on geology, possibly for better financial gain compared to that of academia. He published the first edition of his most important work, <i>Principles of Geology</i>, in three volumes between 1830 and 1833; it was very popular among the general public and underwent twelve editions (the last edition being posthumous).\n\nFor Lyell, not only were presently operative causes able to explain past events, but _______. This made his book quite controversial, especially among catastrophists such as Sedgwick and Conybeare. Lyell also did not accept that the Earth was undergoing long-term cooling, which would have invalidated his uniformity of nature assumption. Lord Kelvin, the English physicist repeatedly pointed out that Lyell’s view violated the second law of thermodynamics.\n\nCharles Darwin and Lyell became good friends: “I saw more of Lyell than of any other man both before and after my marriage. His mind was characterized, as it appeared to me, by clearness, caution, sound judgment and a good deal of originality.” Lyell welcomed Darwin’s new theory on coral reefs but was much less enthusiastic about Darwin’s natural selection theory in <i>Origin of the Species</i> (1859). For Lyell, the evolution of the species implied a progressive path which was inconsistent with his repetitive cyclic approach and his concept of uniformity in nature.",
+   "sents": [
+    {
+     "en": "By 1829 Lyell was beginning to formulate an idea that would occupy him all his life, namely that present day natural forces could explain all geological events and there was no need for catastrophes in the geologic past.",
+     "ko": "1829년까지 라이엘은 평생 동안 그를 사로잡을 하나의 생각, 즉 현재의 자연력이 모든 지질학적 사건을 설명할 수 있으며 지질 시대의 과거에 격변이 필요하지 않았다는 생각을 구체화하기 시작하고 있었다."
+    },
+    {
+     "en": "Cuvier and Brongniart had published an important study of the sediments and fossils of the Paris basin in 1811.",
+     "ko": "퀴비에와 브롱니아르는 1811년에 파리 분지의 퇴적물과 화석에 대한 중요한 연구를 발표했다."
+    },
+    {
+     "en": "They saw that freshwater shells alternated with marine shells, and they interpreted this to be due to revolutions in Earth history, but Lyell thought the pattern could also be explained by slow alternation between freshwater and marine conditions.",
+     "ko": "그들은 담수 조개와 해양 조개가 번갈아 나타나는 것을 보았고, 이를 지구 역사에서의 변혁 때문이라고 해석했지만, 라이엘은 그 양상이 담수 환경과 해양 환경 사이의 느린 교대로도 설명될 수 있다고 생각했다."
+    },
+    {
+     "en": "He saw a similarity between present-day Scottish lake sediments that he had studied earlier and the older Paris sediments, and saw no need to invoke Earth revolutions.",
+     "ko": "그는 자신이 일찍이 연구했던 현재의 스코틀랜드 호수 퇴적물과 더 오래된 파리 퇴적물 사이의 유사성을 보았고, 지구의 변혁을 끌어들일 필요가 없다고 보았다."
+    },
+    {
+     "en": "His travels to volcanic areas in Italy led him to the same conclusion.",
+     "ko": "이탈리아의 화산 지역으로의 여행도 그를 같은 결론으로 이끌었다."
+    },
+    {
+     "en": "Lyell practiced law from 1825 to 1827 but poor eyesight suggested he needed a different career, and he chose geology.",
+     "ko": "라이엘은 1825년부터 1827년까지 변호사로 일했지만 나쁜 시력 때문에 다른 직업이 필요하다고 판단했고, 지질학을 택했다."
+    },
+    {
+     "en": "He was elected a fellow of the Geological Society in 1826.",
+     "ko": "그는 1826년에 지질학회 회원으로 선출되었다."
+    },
+    {
+     "en": "In 1828 he visited the Auvergne volcanic region in south-central France with Murchison.",
+     "ko": "1828년에는 머치슨과 함께 프랑스 중남부의 오베르뉴 화산 지역을 방문했다."
+    },
+    {
+     "en": "In 1831 he was appointed professor at King's College London where he lectured in geology, but did not remain there for long.",
+     "ko": "1831년에 그는 런던 킹스 칼리지의 교수로 임명되어 지질학을 강의했지만, 그곳에 오래 머물지는 않았다."
+    },
+    {
+     "en": "His interests turned to publishing a book on geology, possibly for better financial gain compared to that of academia.",
+     "ko": "그의 관심은 지질학 책을 출간하는 쪽으로 옮겨 갔는데, 아마도 학계에서보다 더 나은 금전적 이득을 얻기 위해서였을 것이다."
+    },
+    {
+     "en": "He published the first edition of his most important work, Principles of Geology, in three volumes between 1830 and 1833; it was very popular among the general public and underwent twelve editions (the last edition being posthumous).",
+     "ko": "그는 가장 중요한 저작인 《지질학 원리》의 초판을 1830년에서 1833년 사이에 세 권으로 출간했는데, 이 책은 일반 대중에게 매우 인기가 있었으며 12판을 거쳤다(마지막 판은 사후에 나왔다)."
+    },
+    {
+     "en": "For Lyell, not only were presently operative causes able to explain past events, but _______.",
+     "ko": "라이엘에게는 현재 작용하는 원인들이 과거의 사건을 설명할 수 있을 뿐만 아니라, ( 빈칸 )."
+    },
+    {
+     "en": "This made his book quite controversial, especially among catastrophists such as Sedgwick and Conybeare.",
+     "ko": "이 때문에 그의 책은 특히 세지윅과 코니비어 같은 격변론자들 사이에서 상당한 논란이 되었다."
+    },
+    {
+     "en": "Lyell also did not accept that the Earth was undergoing long-term cooling, which would have invalidated his uniformity of nature assumption.",
+     "ko": "라이엘은 또한 지구가 장기적인 냉각을 겪고 있다는 것을 받아들이지 않았는데, 그것은 그의 자연의 균일성 가정을 무효로 만들었을 것이기 때문이다."
+    },
+    {
+     "en": "Lord Kelvin, the English physicist repeatedly pointed out that Lyell’s view violated the second law of thermodynamics.",
+     "ko": "영국의 물리학자 켈빈 경은 라이엘의 견해가 열역학 제2법칙을 위반한다고 거듭 지적했다."
+    },
+    {
+     "en": "Charles Darwin and Lyell became good friends: “I saw more of Lyell than of any other man both before and after my marriage.",
+     "ko": "찰스 다윈과 라이엘은 좋은 친구가 되었다. “나는 결혼 전과 후 모두 다른 어떤 사람보다 라이엘을 더 많이 만났다."
+    },
+    {
+     "en": "His mind was characterized, as it appeared to me, by clearness, caution, sound judgment and a good deal of originality.”",
+     "ko": "내가 보기에 그의 정신은 명석함, 신중함, 건전한 판단력, 그리고 상당한 독창성이 특징이었다.”"
+    },
+    {
+     "en": "Lyell welcomed Darwin’s new theory on coral reefs but was much less enthusiastic about Darwin’s natural selection theory in Origin of the Species (1859).",
+     "ko": "라이엘은 다윈의 산호초에 관한 새로운 이론은 환영했지만, 《종의 기원》(1859)에 나온 다윈의 자연선택 이론에는 훨씬 덜 열광적이었다."
+    },
+    {
+     "en": "For Lyell, the evolution of the species implied a progressive path which was inconsistent with his repetitive cyclic approach and his concept of uniformity in nature.",
+     "ko": "라이엘에게 종의 진화는 점진적인 경로를 의미했는데, 이는 그의 반복적이고 순환적인 접근 및 자연의 균일성 개념과 일치하지 않았다."
+    }
+   ]
+  },
+  {
+   "id": "p37",
+   "from": 37,
+   "to": 38,
+   "title": "",
+   "text": "Let’s ask the deceptively simple question, What is artificial intelligence? If you ask someone in the street, they might mention Apple’s Siri, Amazon’s cloud service, Tesla’s cars, or Google’s search algorithm. If you ask experts in deep learning, they might give you a technical response about how neural nets are organized into dozens of layers that receive labeled data, are assigned weights and thresholds, and can classify data in ways that cannot yet be fully explained.\n\n(A) In 1978, when discussing expert systems, Professor Donald Michie described AI as knowledge refining, where “a reliability and competence of codification can be produced which far surpasses the highest level that the unaided human expert has ever, perhaps even could ever, attain.” In one of the most popular textbooks on the subject, Stuart Russell and Peter Norvig state that AI is the attempt to understand and build intelligent entities. “Intelligence is concerned mainly with rational action,“ they claim. “Ideally, an intelligent agent takes the best possible action in a situation.”\n\n(B) What are the social and material consequences of including AI and related algorithmic systems into the decision-making systems of social institutions like education and health care, finance, government operations, workplace interactions and hiring, communication systems, and the justice system? There are a lot of issues on code and algorithms or the latest thinking in computer vision or natural language processing or reinforcement learning.\n\n(C) Each way of defining artificial intelligence is doing work, setting a frame for how it will be understood, measured, valued, and governed. If AI is defined by consumer brands for corporate infrastructure, then marketing and advertising have predetermined the horizon. If AI systems are seen as more reliable or rational than any human expert, able to take the “best possible action,” then it suggests that they should be trusted to make high-stakes decisions in health, education, and criminal justice.\n\n(D) When specific algorithmic techniques are the sole focus, it suggests that only continual technical progress matters, with no consideration of the computational cost of those approaches and their far-reaching impacts on a planet under strain.",
+   "sents": [
+    {
+     "en": "Let’s ask the deceptively simple question, What is artificial intelligence?",
+     "ko": "인공지능이란 무엇인가라는, 겉보기에는 단순한 질문을 던져 보자."
+    },
+    {
+     "en": "If you ask someone in the street, they might mention Apple’s Siri, Amazon’s cloud service, Tesla’s cars, or Google’s search algorithm.",
+     "ko": "길거리에서 누군가에게 물으면, 그들은 애플의 시리, 아마존의 클라우드 서비스, 테슬라의 자동차, 또는 구글의 검색 알고리즘을 언급할 것이다."
+    },
+    {
+     "en": "If you ask experts in deep learning, they might give you a technical response about how neural nets are organized into dozens of layers that receive labeled data, are assigned weights and thresholds, and can classify data in ways that cannot yet be fully explained.",
+     "ko": "딥러닝 전문가들에게 물으면, 그들은 신경망이 수십 개의 층으로 어떻게 구성되어 있는지, 그 층들이 레이블이 붙은 데이터를 받아 가중치와 임계값이 부여되고, 아직 완전히 설명할 수 없는 방식으로 데이터를 분류할 수 있다는 기술적인 대답을 내놓을 것이다."
+    },
+    {
+     "en": "(A) In 1978, when discussing expert systems, Professor Donald Michie described AI as knowledge refining, where “a reliability and competence of codification can be produced which far surpasses the highest level that the unaided human expert has ever, perhaps even could ever, attain.”",
+     "ko": "(A) 1978년에 전문가 시스템을 논하면서, 도널드 미치 교수는 AI를 지식 정제로 설명했는데, 이를 통해 “가장 뛰어난 인간 전문가가 도움 없이 이제껏 도달했던, 어쩌면 앞으로도 도달할 수 있는 최고 수준을 훨씬 능가하는 신뢰성과 능숙한 체계화가 만들어질 수 있다”는 것이다."
+    },
+    {
+     "en": "In one of the most popular textbooks on the subject, Stuart Russell and Peter Norvig state that AI is the attempt to understand and build intelligent entities.",
+     "ko": "이 주제에 관한 가장 인기 있는 교재 중 하나에서, 스튜어트 러셀과 피터 노빅은 AI가 지능을 가진 존재를 이해하고 만들려는 시도라고 말한다."
+    },
+    {
+     "en": "“Intelligence is concerned mainly with rational action,“ they claim.",
+     "ko": "“지능은 주로 합리적인 행동과 관련이 있다”고 그들은 주장한다."
+    },
+    {
+     "en": "“Ideally, an intelligent agent takes the best possible action in a situation.”",
+     "ko": "“이상적으로 지능형 에이전트는 상황에서 가능한 최선의 행동을 취한다.”"
+    },
+    {
+     "en": "(B) What are the social and material consequences of including AI and related algorithmic systems into the decision-making systems of social institutions like education and health care, finance, government operations, workplace interactions and hiring, communication systems, and the justice system?",
+     "ko": "(B) AI와 관련 알고리즘 시스템을 교육과 의료, 금융, 정부 업무, 직장 내 상호작용과 채용, 통신 시스템, 사법 제도와 같은 사회 기관의 의사결정 시스템에 포함시키는 것의 사회적, 물질적 결과는 무엇인가?"
+    },
+    {
+     "en": "There are a lot of issues on code and algorithms or the latest thinking in computer vision or natural language processing or reinforcement learning.",
+     "ko": "코드와 알고리즘, 또는 컴퓨터 비전, 자연어 처리, 강화 학습에 관한 최신 사고방식에 대한 쟁점은 많다."
+    },
+    {
+     "en": "(C) Each way of defining artificial intelligence is doing work, setting a frame for how it will be understood, measured, valued, and governed.",
+     "ko": "(C) 인공지능을 정의하는 각각의 방식은 그것이 어떻게 이해되고, 측정되고, 평가되고, 통제될 것인지에 대한 틀을 설정하는 작용을 한다."
+    },
+    {
+     "en": "If AI is defined by consumer brands for corporate infrastructure, then marketing and advertising have predetermined the horizon.",
+     "ko": "만약 AI가 기업 기반 시설을 위한 소비자 브랜드에 의해 정의된다면, 마케팅과 광고가 그 지평을 미리 정해 놓은 셈이다."
+    },
+    {
+     "en": "If AI systems are seen as more reliable or rational than any human expert, able to take the “best possible action,” then it suggests that they should be trusted to make high-stakes decisions in health, education, and criminal justice.",
+     "ko": "만약 AI 시스템이 어떤 인간 전문가보다 더 믿을 만하거나 합리적이며 “가능한 최선의 행동”을 취할 수 있는 것으로 여겨진다면, 이는 그것들이 의료, 교육, 형사 사법 분야의 중대한 결정을 내리도록 신뢰받아야 한다는 것을 시사한다."
+    },
+    {
+     "en": "(D) When specific algorithmic techniques are the sole focus, it suggests that only continual technical progress matters, with no consideration of the computational cost of those approaches and their far-reaching impacts on a planet under strain.",
+     "ko": "(D) 특정한 알고리즘 기법이 유일한 초점일 때, 이는 그러한 접근법의 연산 비용과 부담을 안고 있는 지구에 미치는 광범위한 영향에 대한 고려 없이 오로지 지속적인 기술적 진보만이 중요하다는 것을 시사한다."
+    }
+   ]
+  },
+  {
+   "id": "p39",
+   "from": 39,
+   "to": 40,
+   "title": "",
+   "text": "It has been a long-held belief within the field of biology that our DNA is fixed and unchangeable. While environmental factors may cause us to gain weight, lose a limb, or contract a virus, our underlying genetic sequence will remain constant. <u>(A)However, this popular view among scientists is beginning to shift towards a more fluid definition of the human genome</u>; a new subfield within genetics, epigenetics, is exploring how environmental factors can actually change the expression of our genetic code throughout the course of our lives.\n\nEpigenetics is the study of heritable changes to the cellular phenotypes of the DNA sequence, changes that have occurred as a result of external environmental factors after conception. <u>(B)Environmental factors are able to stimulate a particular gene, switching it on or off or altering it in some way.</u> Through cellular division, the changes to the gene then have the potential to be passed on as heritable traits in subsequent generations.\n\nOne way that scientists are delving into epigenetic inquiry is by studying heritability in animals. <u>(C)Scientists have been able to show that when a rat is subjected to a stressful environment during pregnancy, epigenetic changes to the fetus can engender behavioral problems in the rat’s progeny as they mature and reach adulthood.</u>\n\nScientists are also using human twins to better understand epigenetics and a related process called DNA methylation. DNA methylation causes genes to be expressed either stronger or weaker. By testing DNA samples taken from identical twins, scientists are able to identify areas where DNA methylation has impacted the expression of a particular gene in the sequence. <u>(D)Since identical twins have identical DNA, creating a methylation profile for each twin allows scientists to account for any subtle to extreme differences in behavior, closing the window to understanding how epigenetic processes affect both our personalities and our genetic code.</u>\n\nEpigenetics is still in the nascent stages of its development as a field of biological study, but it is nonetheless an incredibly exciting and groundbreaking area. It throws a wrench into Darwin’s theory of evolution since it demonstrates how evolutionary changes can occur within one generation instead of spanning thousands of years. The possibility of such rapid evolutionary changes has major implications for how we think of not only life on earth but also the power we have to impact it, for better or worse.",
+   "sents": [
+    {
+     "en": "It has been a long-held belief within the field of biology that our DNA is fixed and unchangeable.",
+     "ko": "우리의 DNA는 고정되어 있어 변하지 않는다는 것이 생물학 분야에서 오랫동안 이어져 온 믿음이었다."
+    },
+    {
+     "en": "While environmental factors may cause us to gain weight, lose a limb, or contract a virus, our underlying genetic sequence will remain constant.",
+     "ko": "환경적 요인으로 인해 우리는 체중이 늘거나, 팔다리를 잃거나, 바이러스에 감염될 수 있지만, 근본적인 유전자 서열은 일정하게 유지된다는 것이다."
+    },
+    {
+     "en": "(A)However, this popular view among scientists is beginning to shift towards a more fluid definition of the human genome; a new subfield within genetics, epigenetics, is exploring how environmental factors can actually change the expression of our genetic code throughout the course of our lives.",
+     "ko": "(A) 그러나 과학자들 사이의 이러한 통념은 인간 게놈에 대한 더 유동적인 정의 쪽으로 바뀌기 시작하고 있다. 유전학의 새로운 하위 분야인 후성유전학은 환경적 요인이 우리 평생에 걸쳐 유전 암호의 발현을 실제로 어떻게 바꿀 수 있는지를 탐구하고 있다."
+    },
+    {
+     "en": "Epigenetics is the study of heritable changes to the cellular phenotypes of the DNA sequence, changes that have occurred as a result of external environmental factors after conception.",
+     "ko": "후성유전학은 DNA 서열의 세포 표현형에 일어나는 유전 가능한 변화, 즉 수정 이후 외부 환경 요인의 결과로 일어난 변화를 연구하는 학문이다."
+    },
+    {
+     "en": "(B)Environmental factors are able to stimulate a particular gene, switching it on or off or altering it in some way.",
+     "ko": "(B) 환경적 요인은 특정 유전자를 자극하여 그것을 켜거나 끄거나 어떤 식으로든 바꿀 수 있다."
+    },
+    {
+     "en": "Through cellular division, the changes to the gene then have the potential to be passed on as heritable traits in subsequent generations.",
+     "ko": "세포 분열을 통해, 그 유전자의 변화는 이후 세대에 유전 형질로 전달될 가능성을 갖는다."
+    },
+    {
+     "en": "One way that scientists are delving into epigenetic inquiry is by studying heritability in animals.",
+     "ko": "과학자들이 후성유전학적 탐구에 파고드는 한 가지 방법은 동물의 유전성을 연구하는 것이다."
+    },
+    {
+     "en": "(C)Scientists have been able to show that when a rat is subjected to a stressful environment during pregnancy, epigenetic changes to the fetus can engender behavioral problems in the rat’s progeny as they mature and reach adulthood.",
+     "ko": "(C) 과학자들은 쥐가 임신 중에 스트레스가 많은 환경에 놓이면, 태아에게 일어난 후성유전학적 변화가 그 쥐의 새끼가 성장하여 성체가 되었을 때 행동 문제를 일으킬 수 있음을 보여 줄 수 있었다."
+    },
+    {
+     "en": "Scientists are also using human twins to better understand epigenetics and a related process called DNA methylation.",
+     "ko": "과학자들은 또한 후성유전학과 DNA 메틸화라고 불리는 관련 과정을 더 잘 이해하기 위해 인간 쌍둥이를 이용하고 있다."
+    },
+    {
+     "en": "DNA methylation causes genes to be expressed either stronger or weaker.",
+     "ko": "DNA 메틸화는 유전자가 더 강하거나 더 약하게 발현되도록 만든다."
+    },
+    {
+     "en": "By testing DNA samples taken from identical twins, scientists are able to identify areas where DNA methylation has impacted the expression of a particular gene in the sequence.",
+     "ko": "일란성 쌍둥이에게서 채취한 DNA 샘플을 검사함으로써, 과학자들은 DNA 메틸화가 서열 속 특정 유전자의 발현에 영향을 미친 부분을 확인할 수 있다."
+    },
+    {
+     "en": "(D)Since identical twins have identical DNA, creating a methylation profile for each twin allows scientists to account for any subtle to extreme differences in behavior, closing the window to understanding how epigenetic processes affect both our personalities and our genetic code.",
+     "ko": "(D) 일란성 쌍둥이는 DNA가 동일하므로, 각 쌍둥이의 메틸화 프로필을 만들면 과학자들이 행동상의 미묘한 차이부터 극단적인 차이까지 설명할 수 있게 되어, 후성유전학적 과정이 우리의 성격과 유전 암호 모두에 어떤 영향을 미치는지 이해할 수 있는 창구를 닫아 버린다."
+    },
+    {
+     "en": "Epigenetics is still in the nascent stages of its development as a field of biological study, but it is nonetheless an incredibly exciting and groundbreaking area.",
+     "ko": "후성유전학은 생물학 연구 분야로서 아직 초기 발달 단계에 있지만, 그럼에도 매우 흥미롭고 획기적인 분야이다."
+    },
+    {
+     "en": "It throws a wrench into Darwin’s theory of evolution since it demonstrates how evolutionary changes can occur within one generation instead of spanning thousands of years.",
+     "ko": "그것은 진화적 변화가 수천 년에 걸치는 대신 한 세대 안에 일어날 수 있음을 보여 주므로 다윈의 진화론에 찬물을 끼얹는다."
+    },
+    {
+     "en": "The possibility of such rapid evolutionary changes has major implications for how we think of not only life on earth but also the power we have to impact it, for better or worse.",
+     "ko": "그러한 급속한 진화적 변화의 가능성은 우리가 지구상의 생명뿐만 아니라, 좋든 나쁘든 그것에 영향을 미칠 수 있는 우리의 힘에 대해 생각하는 방식에 중대한 함의를 지닌다."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "no": 1,
+   "passage": null,
+   "stem": "As we walked together, she’d now and then <u>lurch</u> into me.",
+   "choices": [
+    "stagger",
+    "jive",
+    "saunter",
+    "glide"
+   ],
+   "answer": 1,
+   "confidence": "high",
+   "points": 2,
+   "explain": "lurch는 '(갑자기) 휘청하다, 비틀거리다'라는 뜻으로 stagger(비틀거리다)와 같다. 'into me'와 함께 걷다가 휘청하며 부딪친다는 맥락이다. saunter(어슬렁거리다)나 glide(미끄러지듯 가다)는 '걷는 동작'이라 헷갈리지만 비틀거림의 의미가 없다.",
+   "trans": "우리가 함께 걸을 때, 그녀는 이따금 휘청하며 내 쪽으로 부딪치곤 했다.",
+   "sents": [
+    {
+     "en": "As we walked together, she’d now and then lurch into me.",
+     "ko": "우리가 함께 걸을 때, 그녀는 이따금 휘청하며 내 쪽으로 부딪치곤 했다."
+    }
+   ],
+   "choices_ko": [
+    "비틀거리다",
+    "(재즈에 맞춰) 춤추다, 속이다",
+    "느긋하게 거닐다",
+    "미끄러지듯 가다"
+   ]
+  },
+  {
+   "no": 2,
+   "passage": null,
+   "stem": "We manufacture in quality and, relatively speaking, in price the finest and best value <u>crockery</u> in the world.",
+   "choices": [
+    "cutlery",
+    "dish",
+    "glassware",
+    "silverware"
+   ],
+   "answer": 2,
+   "confidence": "high",
+   "points": 2,
+   "explain": "crockery는 '(도자기로 된) 그릇, 식기류'를 뜻하므로 dish(접시, 그릇)가 가장 가깝다. cutlery는 칼·포크 등 '날붙이 식기', silverware는 '은식기(수저류)', glassware는 '유리 제품'으로 재질·종류가 다르다.",
+   "trans": "우리는 품질 면에서, 그리고 상대적으로 말해 가격 면에서도 세계에서 가장 훌륭하고 가성비가 좋은 그릇을 생산한다.",
+   "sents": [
+    {
+     "en": "We manufacture in quality and, relatively speaking, in price the finest and best value crockery in the world.",
+     "ko": "우리는 품질 면에서나 상대적으로 가격 면에서나 세계 최고이며 가장 가치 있는 도자기류를 제조한다."
+    }
+   ],
+   "choices_ko": [
+    "칼붙이류",
+    "접시, 그릇",
+    "유리 제품",
+    "은식기류"
+   ]
+  },
+  {
+   "no": 3,
+   "passage": null,
+   "stem": "If citizens respond in a negative way to what we are saying, we should be the last people to <u>reprehend</u> them.",
+   "choices": [
+    "fulminate",
+    "approve",
+    "eulogize",
+    "override"
+   ],
+   "answer": 1,
+   "confidence": "medium",
+   "points": 2,
+   "explain": "reprehend는 '꾸짖다, 비난하다'이다. 보기 중 비난의 의미가 있는 것은 fulminate(맹렬히 비난하다)뿐이다. approve(승인하다)와 eulogize(칭송하다)는 반대 의미이고, override(무효로 하다, 기각하다)는 비난과 무관하다.",
+   "trans": "시민들이 우리가 하는 말에 부정적으로 반응하더라도, 우리는 결코 그들을 비난해서는 안 된다(그들을 비난할 마지막 사람이어야 한다).",
+   "sents": [
+    {
+     "en": "If citizens respond in a negative way to what we are saying, we should be the last people to reprehend them.",
+     "ko": "시민들이 우리가 하는 말에 부정적으로 반응한다면, 우리는 그들을 가장 마지막으로 질책해야 할 사람들이다."
+    }
+   ],
+   "choices_ko": [
+    "맹렬히 비난하다",
+    "찬성하다",
+    "칭송하다",
+    "뒤엎다, 무시하다"
+   ]
+  },
+  {
+   "no": 4,
+   "passage": null,
+   "stem": "Development programs have been <u>vitiated</u> by the rise in population.",
+   "choices": [
+    "vilified",
+    "accentuated",
+    "invalidated",
+    "correctified"
+   ],
+   "answer": 3,
+   "confidence": "high",
+   "points": 2,
+   "explain": "vitiate는 '손상시키다, 무효로 만들다, 효력을 약화시키다'로 invalidate(무효화하다)와 같다. 인구 증가로 개발 계획의 효과가 상쇄되었다는 맥락이다. 철자가 비슷한 vilify(비방하다)는 함정이다.",
+   "trans": "개발 계획들은 인구 증가로 인해 효과가 없어졌다.",
+   "sents": [
+    {
+     "en": "Development programs have been vitiated by the rise in population.",
+     "ko": "개발 프로그램은 인구 증가로 인해 효력을 잃었다."
+    }
+   ],
+   "choices_ko": [
+    "비방되었다",
+    "강조되었다",
+    "무효가 되었다",
+    "(존재하지 않는 단어)"
+   ]
+  },
+  {
+   "no": 5,
+   "passage": null,
+   "stem": "I am very happy to be able to provide you with this <u>victual</u>.",
+   "choices": [
+    "ticket",
+    "food",
+    "truce",
+    "freshet"
+   ],
+   "answer": 2,
+   "confidence": "high",
+   "points": 2,
+   "explain": "victual은 '음식, 식량(주로 복수형 victuals)'을 뜻하므로 food가 정답이다. truce(휴전)나 freshet(홍수, 민물 흐름)은 무관하다.",
+   "trans": "이 음식을 당신께 드릴 수 있어 매우 기쁩니다.",
+   "sents": [
+    {
+     "en": "I am very happy to be able to provide you with this victual.",
+     "ko": "이 음식을 당신께 제공해 드릴 수 있어 매우 기쁩니다."
+    }
+   ],
+   "choices_ko": [
+    "표, 티켓",
+    "음식, 식량",
+    "휴전",
+    "(강의) 급류, 홍수"
+   ]
+  },
+  {
+   "no": 6,
+   "passage": null,
+   "stem": "The centurion found the wells in this area were <u>brackish</u>.",
+   "choices": [
+    "gooey",
+    "palatable",
+    "saline",
+    "soporific"
+   ],
+   "answer": 3,
+   "confidence": "high",
+   "points": 2,
+   "explain": "brackish는 '(물이) 약간 짠, 소금기 있는'이라는 뜻으로 saline(염분이 있는)과 같다. palatable(맛있는, 마실 만한)은 오히려 반대에 가깝고, gooey(끈적끈적한), soporific(졸리게 하는)은 무관하다.",
+   "trans": "그 백인대장은 이 지역의 우물들이 소금기가 있다는 것을 알게 되었다.",
+   "sents": [
+    {
+     "en": "The centurion found the wells in this area were brackish.",
+     "ko": "백인대장은 이 지역의 우물물이 소금기가 있다는 것을 알게 되었다."
+    }
+   ],
+   "choices_ko": [
+    "끈적끈적한",
+    "맛 좋은",
+    "염분이 있는, 짠",
+    "졸음이 오게 하는"
+   ]
+  },
+  {
+   "no": 7,
+   "passage": null,
+   "stem": "The difficulties anticipated by the doctors at <u>parturition</u> did not materialize.",
+   "choices": [
+    "diagnosis",
+    "delivery",
+    "operation",
+    "postmortem"
+   ],
+   "answer": 2,
+   "confidence": "high",
+   "points": 2,
+   "explain": "parturition은 '분만, 출산'으로 delivery(분만)와 같다. operation(수술)은 의사가 등장하는 맥락 때문에 헷갈리지만 출산의 의미가 없고, postmortem은 '검시, 부검'이다.",
+   "trans": "의사들이 분만 시에 예상했던 어려움들은 실제로 일어나지 않았다.",
+   "sents": [
+    {
+     "en": "The difficulties anticipated by the doctors at parturition did not materialize.",
+     "ko": "분만 시 의사들이 예상했던 어려움은 현실로 나타나지 않았다."
+    }
+   ],
+   "choices_ko": [
+    "진단",
+    "분만, 출산",
+    "수술",
+    "부검"
+   ]
+  },
+  {
+   "no": 8,
+   "passage": null,
+   "stem": "다음 대화 중 흐름이 가장 적절하지 않은 것은?",
+   "choices": [
+    "A: No one is likely to buy it anymore.\nB: We’d better phase it out immediately.",
+    "A: When are we going to open?\nB: Christmas day. The schedule is tight, but we can pull this down.",
+    "A: Welcome to my office. How was the weather getting in?\nB: I am in a hurry. Let’s cut to the chase.",
+    "A: Is that pizza place legit?\nB: Do you doubt it?"
+   ],
+   "answer": 2,
+   "confidence": "medium",
+   "points": 2,
+   "explain": "②에서 일정이 빠듯하지만 '해낼 수 있다'고 하려면 pull this off(해내다)를 써야 한다. pull down은 '허물다, 끌어내리다'라서 개업 일정을 맞춘다는 흐름과 맞지 않는다. ③은 인사치레를 건너뛰고 '본론으로 들어가자(cut to the chase)'는 자연스러운 응답이다.",
+   "trans": "A: 우리는 언제 개업하나요? B: 크리스마스 날이요. 일정이 빠듯하지만 우리는 이것을 해낼 수 있어요(→ pull this off가 맞음).",
+   "sents": [
+    {
+     "en": "다음 대화 중 흐름이 가장 적절하지 않은 것은?",
+     "ko": "다음 대화 중 흐름이 가장 적절하지 않은 것은?"
+    }
+   ],
+   "choices_ko": [
+    "A: 이제 아무도 그것을 사지 않을 것 같아.\nB: 당장 그것을 단계적으로 중단하는 게 좋겠어.",
+    "A: 우리 언제 개업하죠?\nB: 크리스마스 날이요. 일정이 빠듯하지만 해낼 수 있어요.",
+    "A: 제 사무실에 오신 걸 환영합니다. 오시는 길에 날씨는 어땠나요?\nB: 저는 바빠요. 본론으로 들어갑시다.",
+    "A: 저 피자 가게 믿을 만해?\nB: 너는 그걸 의심하니?"
+   ]
+  },
+  {
+   "no": 9,
+   "passage": null,
+   "stem": "다음 대화 중 흐름이 가장 적절하지 않은 것은?",
+   "choices": [
+    "A: I have to wade through the hefty document.\nB: That is right. You need to skim the surface of the subject.",
+    "A: For her re-election, Sam must have pulled up her socks and decided to go the extra mile.\nB: You bet. Every dog has its day.",
+    "A: I am sure I will hit the jackpot this time.\nB: Wait. Don’t count your chickens before they hatch.",
+    "A: He’s fallen head over heel about her.\nB: No wonder. She is a knockout."
+   ],
+   "answer": 1,
+   "confidence": "medium",
+   "points": 2,
+   "explain": "①에서 A는 두꺼운 문서를 '힘들게 꼼꼼히 읽어 나가야 한다(wade through)'고 말하는데, B가 '맞아'라고 동의하면서 '겉핥기로 훑어봐야 한다(skim the surface)'고 하는 것은 모순이다. ②는 열심히 노력한 Sam에게 '누구에게나 좋은 날이 온다'고 맞장구치는 것이고, ③과 ④도 자연스럽다.",
+   "trans": "A: 나는 그 두꺼운 문서를 힘들게 읽어 나가야 해. B: 맞아. 너는 그 주제를 겉핥기로 훑어봐야 해.",
+   "sents": [
+    {
+     "en": "다음 대화 중 흐름이 가장 적절하지 않은 것은?",
+     "ko": "다음 대화 중 흐름이 가장 적절하지 않은 것은?"
+    }
+   ],
+   "choices_ko": [
+    "A: 이 방대한 문서를 힘들게 읽어 내야 해.\nB: 맞아. 그 주제는 겉핥기식으로 훑어봐야 해.",
+    "A: 재선을 위해 샘은 분발해서 더 많은 노력을 하기로 결심했음이 틀림없어.\nB: 맞아. 누구에게나 좋은 때는 오는 법이야.",
+    "A: 이번에는 틀림없이 대박을 칠 거야.\nB: 잠깐. 김칫국부터 마시지 마.",
+    "A: 그는 그녀에게 홀딱 반했어.\nB: 놀랄 일도 아니지. 그녀는 정말 매력적이니까."
+   ]
+  },
+  {
+   "no": 10,
+   "passage": null,
+   "stem": "For companies like FedEx, the <u>①optimization</u> problem of efficiently <u>②routing</u> holiday packages is so complicated that they often employ highly <u>③specializing</u> software to find a solution. <u>④No error</u>.",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "confidence": "high",
+   "points": 2,
+   "explain": "software는 '전문화된' 소프트웨어이므로 수동의 과거분사 specialized를 써야 한다(highly specialized software). ①optimization problem은 명사가 명사를 수식하는 복합명사로 옳고, ②routing은 전치사 of의 목적어인 동명사로 옳다.",
+   "trans": "FedEx 같은 회사들에게 휴일 소포들의 배송 경로를 효율적으로 짜는 최적화 문제는 매우 복잡해서, 그들은 해결책을 찾기 위해 고도로 전문화된 소프트웨어를 사용하곤 한다.",
+   "sents": [
+    {
+     "en": "For companies like FedEx, the ①optimization problem of efficiently ②routing holiday packages is so complicated that they often employ highly ③specializing software to find a solution.",
+     "ko": "FedEx와 같은 회사들에게 휴일 소포를 효율적으로 경로 지정하는 ①최적화 문제는 매우 복잡하여, 그들은 해결책을 찾기 위해 종종 고도로 ③특화하는 소프트웨어를 사용한다."
+    },
+    {
+     "en": "④No error.",
+     "ko": "④오류 없음."
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 11,
+   "passage": null,
+   "stem": "This concept was developed <u>①in the 1970</u> by a group of Dutch women dissatisfied with <u>②the increasing</u> importation of food and the decreasing number of farms and farmers in <u>③their communities</u>. <u>④No error</u>.",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "confidence": "high",
+   "points": 2,
+   "explain": "'1970년대에'는 in the 1970s로 써야 한다. 특정 연도라면 the 없이 in 1970이어야 하므로 in the 1970은 어느 쪽으로도 틀리다. ②the increasing importation은 뒤의 the decreasing number와 병렬을 이루어 옳고, ③their는 Dutch women을 가리켜 옳다.",
+   "trans": "이 개념은 식량 수입이 늘어나고 지역 사회의 농장과 농부의 수가 줄어드는 것에 불만을 품은 네덜란드 여성들의 한 모임에 의해 1970년대에 개발되었다.",
+   "sents": [
+    {
+     "en": "This concept was developed ①in the 1970 by a group of Dutch women dissatisfied with ②the increasing importation of food and the decreasing number of farms and farmers in ③their communities.",
+     "ko": "이 개념은 1970년대에 식품 수입의 증가와 ②자신들의 지역 사회에서 농장과 농부의 수가 감소하는 것에 불만을 품은 네덜란드 여성 집단에 의해 ①개발되었다."
+    },
+    {
+     "en": "④No error.",
+     "ko": "④오류 없음."
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 12,
+   "passage": null,
+   "stem": "Lewis Rutherford <u>①was educated</u> as a lawyer, and among his inventions <u>②was a micrometer</u> for <u>③the measure of</u> astronomical photographs. <u>④No error</u>.",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "confidence": "medium",
+   "points": 2,
+   "explain": "천체 사진을 '측정하는 일'이라는 행위를 나타내려면 measurement(측정)를 써야 한다(for the measurement of / for measuring). measure는 '조치, 척도, 단위'라는 뜻이라 어색하다. ②는 장소 부사구(among his inventions)가 문두에 나온 도치 구문으로, 주어 a micrometer가 단수이므로 was가 옳다.",
+   "trans": "Lewis Rutherford는 변호사 교육을 받았으며, 그의 발명품 중에는 천체 사진을 측정하기 위한 마이크로미터가 있었다.",
+   "sents": [
+    {
+     "en": "Lewis Rutherford ①was educated as a lawyer, and among his inventions ②was a micrometer for ③the measure of astronomical photographs.",
+     "ko": "루이스 러더퍼드는 ①법률가로서 교육받았으며, 그의 발명품 중에는 천체 사진을 ③측정하기 위한 ②마이크로미터가 있었다."
+    },
+    {
+     "en": "④No error.",
+     "ko": "④오류 없음."
+    }
+   ],
+   "choices_ko": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "no": 13,
+   "passage": null,
+   "stem": "He was sickened by _______ and panegyrics expressed by speakers who had previously been among the first to slander the man.",
+   "choices": [
+    "anecdotes",
+    "stipends",
+    "encomiums",
+    "homilies"
+   ],
+   "answer": 3,
+   "confidence": "high",
+   "points": 2,
+   "explain": "빈칸은 panegyrics(찬사)와 and로 연결되므로 비슷한 뜻인 encomiums(찬사)가 들어가야 한다. 예전에는 그 사람을 앞장서서 비방하던(slander) 연사들이 이제 칭찬을 늘어놓으니 역겨웠다는 내용이다. homilies(설교, 훈계)는 칭찬의 의미가 없다.",
+   "trans": "그는 이전에 그 사람을 앞장서서 비방하던 연사들이 늘어놓는 찬사와 칭송에 넌더리가 났다.",
+   "sents": [
+    {
+     "en": "He was sickened by _______ and panegyrics expressed by speakers who had previously been among the first to slander the man.",
+     "ko": "그는 이전에 그 사람을 가장 먼저 비방했던 연설자들이 늘어놓은 ( 빈칸 )과 찬사에 구역질이 났다."
+    }
+   ],
+   "choices_ko": [
+    "일화",
+    "수당, 급료",
+    "찬사, 칭송",
+    "설교, 훈계"
+   ]
+  },
+  {
+   "no": 14,
+   "passage": null,
+   "stem": "Even though the king was a(n) _______ man, the sudden attack took him by surprise, and his resistance was short-lived.",
+   "choices": [
+    "inane",
+    "germinal",
+    "congenial",
+    "redoubtable"
+   ],
+   "answer": 4,
+   "confidence": "high",
+   "points": 2,
+   "explain": "Even though(비록 ~이지만) 뒤에 '기습에 허를 찔려 저항이 금방 끝났다'는 내용이 오므로, 빈칸에는 그와 대조되는 '강하고 만만찮은'이라는 뜻의 redoubtable이 와야 한다. congenial(마음이 맞는, 친절한)이나 inane(어리석은)은 양보의 대조 관계를 만들지 못한다.",
+   "trans": "그 왕은 만만찮은 사람이었지만 갑작스러운 공격에 허를 찔렸고, 그의 저항은 오래가지 못했다.",
+   "sents": [
+    {
+     "en": "Even though the king was a(n) _______ man, the sudden attack took him by surprise, and his resistance was short-lived.",
+     "ko": "왕은 ( 빈칸 ) 인물이었음에도 불구하고 갑작스러운 공격에 기습을 당했고, 그의 저항은 오래가지 못했다."
+    }
+   ],
+   "choices_ko": [
+    "어리석은",
+    "싹트는, 초기의",
+    "마음이 맞는, 쾌적한",
+    "두려운, 만만치 않은"
+   ]
+  },
+  {
+   "no": 15,
+   "passage": null,
+   "stem": "In 1633, the inquisition of the Roman Catholic Church forced Galileo Galilei to _______ his theory that the Earth moves around the Sun.",
+   "choices": [
+    "recant",
+    "retard",
+    "beatify",
+    "buttress"
+   ],
+   "answer": 1,
+   "confidence": "high",
+   "points": 2,
+   "explain": "종교재판은 갈릴레오에게 지동설을 '철회하도록(recant)' 강요했다. buttress(지지하다, 강화하다)는 정반대이고, retard(지연시키다), beatify(시복하다)는 맥락에 맞지 않는다.",
+   "trans": "1633년, 로마 가톨릭 교회의 종교재판은 갈릴레오 갈릴레이에게 지구가 태양 주위를 돈다는 그의 이론을 철회하도록 강요했다.",
+   "sents": [
+    {
+     "en": "In 1633, the inquisition of the Roman Catholic Church forced Galileo Galilei to _______ his theory that the Earth moves around the Sun.",
+     "ko": "1633년 로마 가톨릭교회의 종교재판소는 갈릴레오 갈릴레이가 지구가 태양 주위를 돈다는 자신의 이론을 ( 빈칸 )하도록 강요했다."
+    }
+   ],
+   "choices_ko": [
+    "철회하다, 취소하다",
+    "지연시키다",
+    "시복하다",
+    "뒷받침하다, 강화하다"
+   ]
+  },
+  {
+   "no": 16,
+   "passage": null,
+   "stem": "The cycles include a wide variety of factors that cause the economy to go from recession to _______ to recession over a period of years.",
+   "choices": [
+    "anomaly",
+    "obloquy",
+    "expansion",
+    "depression"
+   ],
+   "answer": 3,
+   "confidence": "high",
+   "points": 2,
+   "explain": "경기 순환(cycles)은 경기 후퇴(recession)에서 '확장(expansion)'으로, 다시 경기 후퇴로 이어지는 흐름이다. depression(불황)은 recession과 같은 방향의 국면이라 순환의 반대 국면이 될 수 없다.",
+   "trans": "경기 순환에는 경제가 수년에 걸쳐 경기 후퇴에서 확장으로, 다시 경기 후퇴로 가게 만드는 매우 다양한 요인들이 포함된다.",
+   "sents": [
+    {
+     "en": "The cycles include a wide variety of factors that cause the economy to go from recession to _______ to recession over a period of years.",
+     "ko": "경기 순환에는 경제가 수년에 걸쳐 불황에서 ( 빈칸 )으로, 그리고 다시 불황으로 가게 만드는 매우 다양한 요인이 포함된다."
+    }
+   ],
+   "choices_ko": [
+    "이례, 변칙",
+    "욕설, 오명",
+    "확장, 팽창",
+    "불황, 우울"
+   ]
+  },
+  {
+   "no": 17,
+   "passage": null,
+   "stem": "The prominence of the independent filmmaker at this time underscores the fact that filmmaking largely remained an individual enterprise at the outset of the twentieth century, _______ the corporatist structure of film production that became synonymous with Hollywood and the studio system by the 1920s.",
+   "choices": [
+    "removed from",
+    "associated with",
+    "resulted from",
+    "collaborated with"
+   ],
+   "answer": 1,
+   "confidence": "high",
+   "points": 2,
+   "explain": "20세기 초에 영화 제작은 '개인 사업'이었다고 했으므로, 1920년대에 할리우드와 동의어가 된 기업적 구조와는 '거리가 먼(removed from)' 상태였다. associated with(~와 관련된)는 개인 사업이라는 앞의 내용과 모순된다.",
+   "trans": "이 시기 독립 영화 제작자들의 두드러진 활약은, 20세기 초에는 영화 제작이 대체로 개인 사업으로 남아 있었으며, 1920년대에 할리우드와 스튜디오 시스템의 동의어가 된 기업적 영화 제작 구조와는 거리가 멀었다는 사실을 강조한다.",
+   "sents": [
+    {
+     "en": "The prominence of the independent filmmaker at this time underscores the fact that filmmaking largely remained an individual enterprise at the outset of the twentieth century, _______ the corporatist structure of film production that became synonymous with Hollywood and the studio system by the 1920s.",
+     "ko": "이 시기에 독립 영화 제작자들이 두드러졌다는 점은 영화 제작이 20세기 초에 대체로 개인적인 사업으로 남아 있었음을 보여 주며, 이는 1920년대에 이르러 할리우드와 스튜디오 시스템의 동의어가 된 영화 제작의 기업 조직적 구조와 ( 빈칸 ) 것이었다."
+    }
+   ],
+   "choices_ko": [
+    "~와 동떨어진",
+    "~와 관련된",
+    "~의 결과로 생긴",
+    "~와 협력한"
+   ]
+  },
+  {
+   "no": 18,
+   "passage": null,
+   "stem": "Arriving in New Orleans days after Hurricane Katrina had passed and without an adequate number of vehicles of its own, the armed forces began to _______ any working form of transportation they could find.",
+   "choices": [
+    "abrogate",
+    "encumber",
+    "rehabilitate",
+    "commandeer"
+   ],
+   "answer": 4,
+   "confidence": "high",
+   "points": 2,
+   "explain": "자체 차량이 부족했던 군대가 찾을 수 있는 모든 운송 수단을 '징발했다(commandeer)'는 내용이다. abrogate(폐지하다), encumber(방해하다), rehabilitate(복구하다)는 '부족한 차량을 확보한다'는 맥락과 맞지 않는다.",
+   "trans": "허리케인 카트리나가 지나간 며칠 뒤 자체 차량도 충분하지 않은 채 뉴올리언스에 도착한 군대는 찾을 수 있는 모든 운행 가능한 운송 수단을 징발하기 시작했다.",
+   "sents": [
+    {
+     "en": "Arriving in New Orleans days after Hurricane Katrina had passed and without an adequate number of vehicles of its own, the armed forces began to _______ any working form of transportation they could find.",
+     "ko": "허리케인 카트리나가 지나간 며칠 후 뉴올리언스에 도착했고 자체 차량이 충분하지 않았던 군대는 찾을 수 있는 작동하는 모든 형태의 운송 수단을 ( 빈칸 )하기 시작했다."
+    }
+   ],
+   "choices_ko": [
+    "폐지하다",
+    "부담을 지우다",
+    "재활시키다",
+    "징발하다"
+   ]
+  },
+  {
+   "no": 19,
+   "passage": null,
+   "stem": "Some anthropologists contend that the ancient Egyptians switched from grain production to barley after excessive irrigation and salt accumulation made the soil _______ to grains.",
+   "choices": [
+    "inhospitable",
+    "acrimonious",
+    "evanescent",
+    "benignant"
+   ],
+   "answer": 1,
+   "confidence": "high",
+   "points": 2,
+   "explain": "과도한 관개와 염분 축적 때문에 토양이 곡물이 자라기에 '부적합하게(inhospitable)' 되어 보리로 바꾸었다는 인과 관계다. benignant(온화한, 유익한)는 반대이고, acrimonious(신랄한)와 evanescent(덧없는)는 토양에 어울리지 않는다.",
+   "trans": "일부 인류학자들은 과도한 관개와 염분 축적으로 토양이 곡물에 부적합해진 뒤 고대 이집트인들이 곡물 생산에서 보리로 바꾸었다고 주장한다.",
+   "sents": [
+    {
+     "en": "Some anthropologists contend that the ancient Egyptians switched from grain production to barley after excessive irrigation and salt accumulation made the soil _______ to grains.",
+     "ko": "일부 인류학자들은 과도한 관개와 염분 축적으로 토양이 곡물에 ( 빈칸 ) 되자 고대 이집트인들이 곡물 생산에서 보리 생산으로 바꾸었다고 주장한다."
+    }
+   ],
+   "choices_ko": [
+    "살기 힘든, 불모의",
+    "적대적인, 신랄한",
+    "덧없는, 사라지기 쉬운",
+    "인자한, 자비로운"
+   ]
+  },
+  {
+   "no": 20,
+   "passage": null,
+   "stem": "Because mercury has a variety of innocuous uses, including in thermometers and dental fillings, few people realize that it is one of the most _______ substances on the planet.",
+   "choices": [
+    "congenital",
+    "deleterious",
+    "antiquated",
+    "rudimentary"
+   ],
+   "answer": 2,
+   "confidence": "high",
+   "points": 2,
+   "explain": "수은이 온도계·치과 충전재 등 '무해한(innocuous)' 용도로 쓰이기 때문에, 그것이 가장 '해로운(deleterious)' 물질 중 하나라는 것을 사람들이 잘 모른다는 대조 구조다. congenital(선천적인), antiquated(구식의)는 대조를 만들지 못한다.",
+   "trans": "수은은 온도계와 치과 충전재를 포함해 다양한 무해한 용도로 쓰이기 때문에, 그것이 지구상에서 가장 해로운 물질 중 하나라는 사실을 아는 사람은 거의 없다.",
+   "sents": [
+    {
+     "en": "Because mercury has a variety of innocuous uses, including in thermometers and dental fillings, few people realize that it is one of the most _______ substances on the planet.",
+     "ko": "수은은 온도계와 치과용 충전재 등 다양한 무해한 용도로 쓰이기 때문에, 그것이 지구상에서 가장 ( 빈칸 ) 물질 중 하나라는 것을 아는 사람은 거의 없다."
+    }
+   ],
+   "choices_ko": [
+    "선천적인",
+    "해로운, 유해한",
+    "구식의, 낡은",
+    "기본적인, 초보적인"
+   ]
+  },
+  {
+   "no": 21,
+   "passage": null,
+   "stem": "The government of Madagascar has recently designated portions of the territory and the surrounding islands as protected reserves for wildlife. Madagascar is home to a vast array of unique, exotic creatures. One such animal is the aye-aye. Initially categorized as a member of the order Rodentia, the aye-aye is more closely related to the lemur, a member of the primate order. Since the aye-aye is so different from its fellow primates, however, it was given its own family: Daubento-niidae. The aye-aye is perhaps best known for its large, round eyes and long, extremely thin middle finger. These _______ are quite sensible, allowing the aye-aye to be awake at night and retrieve grubs, which are one of its primary food sources, from deep within hollow branches.",
+   "choices": [
+    "adaptations",
+    "similitudes",
+    "prototypes",
+    "nomenclatures"
+   ],
+   "answer": 1,
+   "confidence": "high",
+   "points": 2,
+   "explain": "커다란 눈과 가늘고 긴 가운뎃손가락 덕분에 밤에 깨어 활동하고 나뭇가지 깊은 곳의 유충을 꺼낼 수 있다고 했으므로, 이 신체 특징들은 환경에 대한 '적응 형질(adaptations)'이다. nomenclatures(명명법)는 앞의 분류·명칭 이야기에서 끌어온 함정이다.",
+   "trans": "이러한 적응 형질들은 매우 합리적이어서, 아이아이가 밤에 깨어 있으면서 주요 먹이 중 하나인 유충을 속이 빈 나뭇가지 깊은 곳에서 꺼낼 수 있게 해 준다.",
+   "sents": [
+    {
+     "en": "The government of Madagascar has recently designated portions of the territory and the surrounding islands as protected reserves for wildlife.",
+     "ko": "마다가스카르 정부는 최근 그 영토의 일부와 주변 섬들을 야생 동물 보호 구역으로 지정했다."
+    },
+    {
+     "en": "Madagascar is home to a vast array of unique, exotic creatures.",
+     "ko": "마다가스카르에는 독특하고 이국적인 생물이 매우 다양하게 서식한다."
+    },
+    {
+     "en": "One such animal is the aye-aye.",
+     "ko": "그러한 동물 중 하나가 아이아이이다."
+    },
+    {
+     "en": "Initially categorized as a member of the order Rodentia, the aye-aye is more closely related to the lemur, a member of the primate order.",
+     "ko": "처음에는 설치목의 일원으로 분류되었지만, 아이아이는 영장목의 일원인 여우원숭이와 더 가까운 관계에 있다."
+    },
+    {
+     "en": "Since the aye-aye is so different from its fellow primates, however, it was given its own family: Daubento-niidae.",
+     "ko": "그러나 아이아이는 다른 영장류와 매우 다르기 때문에 자체적인 과인 다우벤토니아과가 부여되었다."
+    },
+    {
+     "en": "The aye-aye is perhaps best known for its large, round eyes and long, extremely thin middle finger.",
+     "ko": "아이아이는 아마도 크고 둥근 눈과 길고 극도로 가느다란 가운뎃손가락으로 가장 잘 알려져 있다."
+    },
+    {
+     "en": "These _______ are quite sensible, allowing the aye-aye to be awake at night and retrieve grubs, which are one of its primary food sources, from deep within hollow branches.",
+     "ko": "이러한 ( 빈칸 )은 꽤 합리적인데, 아이아이가 밤에 깨어 있으면서 주요 먹이 중 하나인 애벌레를 속이 빈 나뭇가지 깊숙한 곳에서 꺼내게 해 주기 때문이다."
+    }
+   ],
+   "choices_ko": [
+    "적응(형질)",
+    "유사성",
+    "원형",
+    "명명법, 학술 용어"
+   ]
+  },
+  {
+   "no": 22,
+   "passage": null,
+   "stem": "By the late 1880s and early 1890s, Impressionism was a firmly established feature of the art landscape, familiar even outside France, and was continually attracting new followers. Its fate was that of every modern creative concept: on the one hand, traditionalists continued to combat the movement, accusing it of _______ aesthetic norms and, in the broadest of political terms, of undermining the existing order; on the other hand, Impressionism had itself become the target of newer movements with their own new scales of values. Any style is necessarily one-sided and will offer opponents a purchase if they choose to highlight its shortcomings. The Impressionists no longer saw any point in _______ with academic views in order to gain entry to the Salon. Indeed, certain aspects of the Impressionist programme had meanwhile _______ the art that was given official support.",
+   "choices": [
+    "adhering to — aligning — mirrored",
+    "embracing — opposing — contrasted",
+    "challenging — departing — superseded",
+    "abandoning — compromising — influenced"
+   ],
+   "answer": 4,
+   "confidence": "medium",
+   "points": 2,
+   "explain": "전통주의자들은 인상주의가 미적 규범을 '버렸다(abandoning)'고 비난했고, 인상주의자들은 살롱 입선을 위해 아카데미 관점과 '타협하는(compromising with)' 데 더 이상 의미를 두지 않았으며, 오히려 인상주의의 일부 요소가 공식 미술에 '영향을 주었다(influenced)'. ③은 첫 칸 challenging은 가능하지만 departing with는 어법상 어색하고(departing from), superseded(대체했다)는 지나치다.",
+   "trans": "인상주의자들은 살롱에 입선하기 위해 아카데미의 관점과 타협하는 데 더 이상 아무런 의미를 두지 않았다. 실제로 인상주의 강령의 일부 측면은 그사이 공식적 지원을 받는 미술에 영향을 주었다.",
+   "sents": [
+    {
+     "en": "By the late 1880s and early 1890s, Impressionism was a firmly established feature of the art landscape, familiar even outside France, and was continually attracting new followers.",
+     "ko": "1880년대 후반과 1890년대 초반에 이르러 인상주의는 예술계에서 확고히 자리 잡은 요소였고, 프랑스 밖에서도 친숙했으며, 계속해서 새로운 추종자들을 끌어들이고 있었다."
+    },
+    {
+     "en": "Its fate was that of every modern creative concept: on the one hand, traditionalists continued to combat the movement, accusing it of _______ aesthetic norms and, in the broadest of political terms, of undermining the existing order; on the other hand, Impressionism had itself become the target of newer movements with their own new scales of values.",
+     "ko": "그 운명은 모든 현대 창조적 개념의 운명과 같았다. 한편으로는 전통주의자들이 그 운동에 계속 맞서 싸우며, 그것이 미적 규범을 ( 빈칸 ) 있다고, 그리고 가장 넓은 정치적 의미에서는 기존 질서를 훼손하고 있다고 비난했고, 다른 한편으로 인상주의 자체가 새로운 가치 기준을 가진 더 새로운 운동들의 표적이 되었다."
+    },
+    {
+     "en": "Any style is necessarily one-sided and will offer opponents a purchase if they choose to highlight its shortcomings.",
+     "ko": "어떤 양식이든 필연적으로 일방적이며, 반대자들이 그 단점을 부각시키기로 하면 그들에게 공격의 빌미를 제공할 것이다."
+    },
+    {
+     "en": "The Impressionists no longer saw any point in _______ with academic views in order to gain entry to the Salon.",
+     "ko": "인상주의자들은 더 이상 살롱에 입성하기 위해 학술적 관점과 ( 빈칸 ) 것에 아무런 의미도 찾지 못했다."
+    },
+    {
+     "en": "Indeed, certain aspects of the Impressionist programme had meanwhile _______ the art that was given official support.",
+     "ko": "실제로 인상주의 프로그램의 어떤 측면들은 그 사이에 공식적인 지원을 받는 예술을 ( 빈칸 )."
+    }
+   ],
+   "choices_ko": [
+    "고수하는 — 일치시키는 — 반영했다",
+    "받아들이는 — 반대하는 — 대조되었다",
+    "도전하는 — 벗어나는 — 대체했다",
+    "버리는 — 타협하는 — 영향을 주었다"
+   ]
+  },
+  {
+   "no": 23,
+   "passage": null,
+   "stem": "Medical practice at the beginning of the 17th century was still largely based on the system of medicine introduced by Hippocrates. This had been consolidated as a comprehensive theoretical system of treatment by Galen in the 2nd century. It was believed that disease was caused by the _______ of the body's four humours. Physicians examined their patients to determine which humour was in excess and prescribed accordingly. Many of the treatments involved bleeding, purgatives, diaphoretics and clysters (enemas) to rid the body of these _______ influences. It was not unusual for heroic treatment to further weaken an already weak patient, although presumably those of a more robust constitution took such medicine in their stride.",
+   "choices": [
+    "proportion — neutral",
+    "composition — natural",
+    "imbalance — noxious",
+    "alignment — beneficial"
+   ],
+   "answer": 3,
+   "confidence": "high",
+   "points": 2,
+   "explain": "의사들이 어떤 체액이 '과다한지(in excess)' 살폈다고 했으므로 병의 원인은 네 체액의 '불균형(imbalance)'이다. 사혈·하제 등으로 몸에서 제거하려 한 것은 '해로운(noxious)' 영향이다. beneficial(유익한)은 제거 대상이 될 수 없다.",
+   "trans": "질병은 몸의 네 가지 체액의 불균형 때문에 생긴다고 여겨졌다. 많은 치료법이 이러한 해로운 영향을 몸에서 없애기 위해 사혈, 하제, 발한제, 관장을 포함했다.",
+   "sents": [
+    {
+     "en": "Medical practice at the beginning of the 17th century was still largely based on the system of medicine introduced by Hippocrates.",
+     "ko": "17세기 초의 의료 행위는 여전히 대체로 히포크라테스가 도입한 의학 체계에 기반하고 있었다."
+    },
+    {
+     "en": "This had been consolidated as a comprehensive theoretical system of treatment by Galen in the 2nd century.",
+     "ko": "이것은 2세기에 갈레노스에 의해 포괄적인 이론적 치료 체계로 통합되었다."
+    },
+    {
+     "en": "It was believed that disease was caused by the _______ of the body's four humours.",
+     "ko": "질병은 신체의 네 가지 체액의 ( 빈칸 )로 인해 생긴다고 믿어졌다."
+    },
+    {
+     "en": "Physicians examined their patients to determine which humour was in excess and prescribed accordingly.",
+     "ko": "의사들은 환자를 진찰하여 어떤 체액이 과다한지 판단하고 그에 따라 처방했다."
+    },
+    {
+     "en": "Many of the treatments involved bleeding, purgatives, diaphoretics and clysters (enemas) to rid the body of these _______ influences.",
+     "ko": "많은 치료법에는 신체에서 이러한 ( 빈칸 ) 영향을 제거하기 위한 사혈, 설사제, 발한제, 관장(관장약 주입)이 포함되었다."
+    },
+    {
+     "en": "It was not unusual for heroic treatment to further weaken an already weak patient, although presumably those of a more robust constitution took such medicine in their stride.",
+     "ko": "영웅적인 치료가 이미 허약한 환자를 더욱 쇠약하게 만드는 일은 드물지 않았지만, 아마도 더 튼튼한 체질을 가진 사람들은 그런 약을 대수롭지 않게 받아들였을 것이다."
+    }
+   ],
+   "choices_ko": [
+    "비율 — 중립적인",
+    "구성 — 자연적인",
+    "불균형 — 해로운",
+    "정렬 — 이로운"
+   ]
+  },
+  {
+   "no": 24,
+   "passage": null,
+   "stem": "Microbes probably took root on land early in Earth history, but it is plants that changed the world, providing both food and physical structure for complex terrestrial ecosystems. Today, some 400,000 species of land plant account for half of Earth’s photosynthesis and an estimated 80 percent of our planet’s total biomass. Indeed, Earth’s resplendent robe of green is such a _______ feature of our planet that it can be detected from space. In 1990, as NASA’s Galileo spacecraft winged toward Jupiter, it trained its mechanical eyes on the distant Earth, revealing in our planet’s reflected light a distinctive peak in the so-called Vegetation Red Edge. This signature arises because land vegetation strongly absorbs incoming visible radiation but reflects _______ wavelengths back to space. Visitors to the early Earth would have observed no such feature.",
+   "choices": [
+    "lugubrious — radioactive",
+    "clairvoyant — embellished",
+    "pervasive — infrared",
+    "indigenous — isotopic"
+   ],
+   "answer": 3,
+   "confidence": "high",
+   "points": 2,
+   "explain": "식물이 지구 생물량의 80%를 차지할 만큼 '널리 퍼진(pervasive)' 특징이어서 우주에서도 보인다는 흐름이다. 'Red Edge'는 식물이 가시광선은 흡수하고 '적외선(infrared)' 파장은 반사해서 생기는 신호다. indigenous(토착의)는 '우주에서 탐지될 만큼'이라는 결과와 연결되지 않는다.",
+   "trans": "실제로 지구의 찬란한 초록 옷은 우주에서도 탐지될 수 있을 만큼 지구에 널리 퍼진 특징이다. 이 신호는 육상 식물이 들어오는 가시광선은 강하게 흡수하지만 적외선 파장은 우주로 반사하기 때문에 생긴다.",
+   "sents": [
+    {
+     "en": "Microbes probably took root on land early in Earth history, but it is plants that changed the world, providing both food and physical structure for complex terrestrial ecosystems.",
+     "ko": "미생물은 아마도 지구 역사 초기에 육지에 뿌리를 내렸겠지만, 세상을 바꾼 것은 식물로, 복잡한 육상 생태계에 먹이와 물리적 구조를 모두 제공했다."
+    },
+    {
+     "en": "Today, some 400,000 species of land plant account for half of Earth’s photosynthesis and an estimated 80 percent of our planet’s total biomass.",
+     "ko": "오늘날 약 40만 종의 육상 식물이 지구 광합성의 절반과 지구 전체 생물량의 약 80퍼센트를 차지한다."
+    },
+    {
+     "en": "Indeed, Earth’s resplendent robe of green is such a _______ feature of our planet that it can be detected from space.",
+     "ko": "실제로 지구의 눈부신 녹색 옷은 우주에서도 감지될 수 있을 만큼 우리 행성의 ( 빈칸 ) 특징이다."
+    },
+    {
+     "en": "In 1990, as NASA’s Galileo spacecraft winged toward Jupiter, it trained its mechanical eyes on the distant Earth, revealing in our planet’s reflected light a distinctive peak in the so-called Vegetation Red Edge.",
+     "ko": "1990년 NASA의 갈릴레오 우주선이 목성을 향해 날아가면서 멀리 있는 지구에 기계의 눈을 맞췄고, 우리 행성이 반사한 빛에서 이른바 식생 적색 경계라는 독특한 봉우리를 드러냈다."
+    },
+    {
+     "en": "This signature arises because land vegetation strongly absorbs incoming visible radiation but reflects _______ wavelengths back to space.",
+     "ko": "이 특징은 육지 식생이 들어오는 가시광선 복사를 강하게 흡수하면서 ( 빈칸 ) 파장은 우주로 반사하기 때문에 생긴다."
+    },
+    {
+     "en": "Visitors to the early Earth would have observed no such feature.",
+     "ko": "초기 지구를 방문한 사람이라면 그러한 특징을 전혀 관찰하지 못했을 것이다."
+    }
+   ],
+   "choices_ko": [
+    "침울한 — 방사성의",
+    "천리안의 — 꾸며진",
+    "널리 퍼진, 어디에나 있는 — 적외선의",
+    "토착의 — 동위원소의"
+   ]
+  },
+  {
+   "no": 25,
+   "passage": null,
+   "stem": "The importance of language becomes evident when looking at names and terminology, which carry surprisingly strong meanings. For example, recent research shows that the language used to describe health threats can affect people’s memory and risk perceptions. Furthermore, the words we choose can influence how well our listeners _______ new information. The use of figurative speech and metaphors, for example, can make abstract concepts easier to grasp.",
+   "choices": [
+    "hand in",
+    "take in",
+    "give in",
+    "barge in"
+   ],
+   "answer": 2,
+   "confidence": "high",
+   "points": 2,
+   "explain": "비유와 은유가 추상적 개념을 이해하기(grasp) 쉽게 만든다는 예시가 뒤따르므로, 말의 선택이 듣는 사람이 새 정보를 얼마나 잘 '받아들이고 이해하는지(take in)'에 영향을 준다는 뜻이다. hand in은 '제출하다', give in은 '굴복하다', barge in은 '불쑥 끼어들다'이다.",
+   "trans": "게다가 우리가 고르는 단어는 청자가 새로운 정보를 얼마나 잘 받아들이는지에 영향을 줄 수 있다.",
+   "sents": [
+    {
+     "en": "The importance of language becomes evident when looking at names and terminology, which carry surprisingly strong meanings.",
+     "ko": "언어의 중요성은 놀라울 정도로 강한 의미를 담고 있는 이름과 용어를 살펴볼 때 분명해진다."
+    },
+    {
+     "en": "For example, recent research shows that the language used to describe health threats can affect people’s memory and risk perceptions.",
+     "ko": "예를 들어, 최근 연구에 따르면 건강상의 위협을 묘사하는 데 쓰이는 언어가 사람들의 기억과 위험 인식에 영향을 미칠 수 있다."
+    },
+    {
+     "en": "Furthermore, the words we choose can influence how well our listeners _______ new information.",
+     "ko": "더 나아가 우리가 선택하는 단어는 청자가 새로운 정보를 얼마나 잘 ( 빈칸 ) 있는지에 영향을 줄 수 있다."
+    },
+    {
+     "en": "The use of figurative speech and metaphors, for example, can make abstract concepts easier to grasp.",
+     "ko": "예를 들어 비유적 표현과 은유의 사용은 추상적 개념을 이해하기 더 쉽게 만들 수 있다."
+    }
+   ],
+   "choices_ko": [
+    "제출하다",
+    "받아들이다, 이해하다",
+    "굴복하다",
+    "불쑥 끼어들다"
+   ]
+  },
+  {
+   "no": 26,
+   "passage": null,
+   "stem": "Saltwater fish drink water through their gills, where it is _______ the bloodstream. Since seawater has a high level of salinity, saltwater fish are at risk of having too much salt in their system. This problem is overcome by using special cells in the gills and scales that excrete excess salt. The other main difficulty that saltwater fish face is that they dehydrate easily. The relative salinity of the seawater that surrounds them is much higher than the water inside their own body, so they are constantly _______ water through osmosis—the process by which water naturally goes from an area of low to high density. To make up for this, saltwater fish urinate infrequently, and in small and highly concentrated amounts.",
+   "choices": [
+    "passed through — ensuring",
+    "infiltrated in — inhaling",
+    "enlivened by — keeping",
+    "diffused into — losing"
+   ],
+   "answer": 4,
+   "confidence": "high",
+   "points": 2,
+   "explain": "아가미로 들어온 물은 혈류 '안으로 확산된다(diffused into)'. 바닷물의 염도가 몸 안보다 높아 쉽게 탈수된다고 했으므로, 삼투로 물을 계속 '잃는다(losing)'. 그래서 소변을 적게 본다는 마지막 문장과도 이어진다. ensuring/keeping은 탈수라는 앞의 내용과 모순된다.",
+   "trans": "바닷물고기는 아가미를 통해 물을 마시며, 그곳에서 물은 혈류로 확산된다. 주변 바닷물의 상대 염도가 몸속 물보다 훨씬 높아서 그들은 삼투를 통해 끊임없이 물을 잃는다.",
+   "sents": [
+    {
+     "en": "Saltwater fish drink water through their gills, where it is _______ the bloodstream.",
+     "ko": "바닷물고기는 아가미를 통해 물을 마시며, 그 물은 혈류 ( 빈칸 )."
+    },
+    {
+     "en": "Since seawater has a high level of salinity, saltwater fish are at risk of having too much salt in their system.",
+     "ko": "바닷물은 염분 농도가 높기 때문에, 바닷물고기는 체내에 소금이 너무 많아질 위험이 있다."
+    },
+    {
+     "en": "This problem is overcome by using special cells in the gills and scales that excrete excess salt.",
+     "ko": "이 문제는 아가미와 비늘에 있는 과도한 염분을 배출하는 특수한 세포를 사용함으로써 극복된다."
+    },
+    {
+     "en": "The other main difficulty that saltwater fish face is that they dehydrate easily.",
+     "ko": "바닷물고기가 직면하는 또 다른 주된 어려움은 쉽게 탈수된다는 것이다."
+    },
+    {
+     "en": "The relative salinity of the seawater that surrounds them is much higher than the water inside their own body, so they are constantly _______ water through osmosis—the process by which water naturally goes from an area of low to high density.",
+     "ko": "그들을 둘러싼 바닷물의 상대적 염도는 자기 몸속의 물보다 훨씬 높아서, 삼투 현상, 즉 물이 저농도 영역에서 고농도 영역으로 자연스럽게 이동하는 과정을 통해 그들은 계속해서 물을 ( 빈칸 )."
+    },
+    {
+     "en": "To make up for this, saltwater fish urinate infrequently, and in small and highly concentrated amounts.",
+     "ko": "이를 보충하기 위해 바닷물고기는 소변을 드물게, 그리고 소량의 매우 농축된 형태로 본다."
+    }
+   ],
+   "choices_ko": [
+    "통과해 — 보장하면서",
+    "~에 침투해 — 흡입하면서",
+    "~에 의해 활기를 얻어 — 유지하면서",
+    "~로 확산된다 — 잃고 있다"
+   ]
+  },
+  {
+   "no": 27,
+   "passage": "p27",
+   "stem": "위 글의 단락을 논리적 흐름에 맞게 순서대로 배열한 것으로 가장 적합한 것을 고르시오.",
+   "choices": [
+    "(B) → (A) → (C)",
+    "(B) → (C) → (A)",
+    "(C) → (B) → (A)",
+    "(C) → (A) → (B)"
+   ],
+   "answer": 4,
+   "confidence": "high",
+   "points": 3,
+   "explain": "도입부의 '혼자 있고 싶다면 별을 보라'에 이어, 그 '천상의 세계(those heavenly worlds)'에서 오는 빛을 말하는 (C)가 먼저 온다. (C) 끝의 별 이야기를 받아 '별은 경외감을 불러일으키며, 모든 자연물도 비슷한 인상을 준다'는 (A)가 이어지고, (A)의 자연 이야기를 'When we speak of nature in this manner'로 받는 (B)가 마지막이다.",
+   "trans": "하지만 사람이 혼자 있고 싶다면 별을 바라보게 하라. 저 천상의 세계에서 오는 빛은 그와 그가 만지는 것 사이를 갈라놓을 것이다.",
+   "sents": [
+    {
+     "en": "위 글의 단락을 논리적 흐름에 맞게 순서대로 배열한 것으로 가장 적합한 것을 고르시오.",
+     "ko": "위 글의 단락을 논리적 흐름에 맞게 순서대로 배열한 것으로 가장 적합한 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "(B) → (A) → (C)",
+    "(B) → (C) → (A)",
+    "(C) → (B) → (A)",
+    "(C) → (A) → (B)"
+   ]
+  },
+  {
+   "no": 28,
+   "passage": "p28",
+   "stem": "위 글을 통해 추론할 수 있는 것으로 가장 적합한 것을 고르시오.",
+   "choices": [
+    "On average, the velocities in the jet streams within the troposphere are around 275 mph.",
+    "The atmosphere is thicker than the remaining 25% of the troposphere for its proximity to the earth.",
+    "A jet plane will usually have its better rate of speed on its run from Seoul to Washington DC than the other way round.",
+    "At the top of Jungfrau, about 12,000 feet above the town of Interlaken in Switzerland, the temperature is usually 42° colder than on the ground."
+   ],
+   "answer": 3,
+   "confidence": "medium",
+   "points": 3,
+   "explain": "제트기류는 대개 서쪽에서 동쪽으로 분다고 했으므로, 동쪽으로 향하는 서울→워싱턴 비행이 반대 방향보다 보통 빠르다고 추론할 수 있다. ①의 275mph는 150과 400의 평균을 낸 함정이다(본문은 보통 150mph라고 함). ④는 1,000피트당 약 3.5° 감소라는 수치로 계산하면 42°가 나와 그럴듯하지만, 본문의 '약(about)'을 '보통 정확히 42°'로 단정한 것이라 ③보다 약한 선택지로 보았다. 출제 의도가 애매한 문항이다.",
+   "trans": "제트기류는 보통 파도 모양의 패턴을 보이며 시속 150마일의 속도로 서쪽에서 동쪽으로 움직이지만, 시속 400마일에 이르는 속도도 관측되었다.",
+   "sents": [
+    {
+     "en": "위 글을 통해 추론할 수 있는 것으로 가장 적합한 것을 고르시오.",
+     "ko": "위 글을 통해 추론할 수 있는 것으로 가장 적합한 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "평균적으로 대류권 내 제트 기류의 속도는 약 시속 275마일이다.",
+    "대기는 지표면에 가깝기 때문에 대류권의 나머지 25%보다 더 두껍다.",
+    "제트기는 보통 서울에서 워싱턴 DC로 가는 항로가 그 반대 방향보다 더 빠른 속도를 낸다.",
+    "스위스 인터라켄 마을 위 약 12,000피트에 있는 융프라우 정상은 보통 지상보다 기온이 42도 더 낮다."
+   ]
+  },
+  {
+   "no": 29,
+   "passage": "p29",
+   "stem": "빈 칸에 들어가기에 가장 적합한 것을 고르시오.",
+   "choices": [
+    "the bacterial level",
+    "the physical level",
+    "the molecular level",
+    "the atomic level"
+   ],
+   "answer": 3,
+   "confidence": "high",
+   "points": 3.5,
+   "explain": "기존의 하향식(top-down) 소형화는 한계에 다다랐으므로, 미래에는 반대로 아래에서부터 '분자 수준(the molecular level)'에서 쌓아 올리는 방식이 필요하다. 바로 뒤에서 생물 세포 속의 '분자 기계(molecular machines)'에서 배울 점을 이야기하는 것이 단서다. the atomic level은 본문에 근거가 없다.",
+   "trans": "작은 기계를 만드는 미래의 핵심 방법 중 하나는 분자 수준에서부터 그것들을 쌓아 올리는 것이 될 것이다.",
+   "sents": [
+    {
+     "en": "빈 칸에 들어가기에 가장 적합한 것을 고르시오.",
+     "ko": "빈 칸에 들어가기에 가장 적합한 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "세균 수준",
+    "물리적 수준",
+    "분자 수준",
+    "원자 수준"
+   ]
+  },
+  {
+   "no": 30,
+   "passage": "p29",
+   "stem": "위 글을 통해 추론할 수 <u>없는</u> 것을 고르시오.",
+   "choices": [
+    "The 21st century is dominated by biological revolution and nanotechnology, a shift from traditional sciences.",
+    "Nanobiotechnology barely promises treatments for diseases such as cancer and AIDS, similar to the way cures were found for polio and tuberculosis.",
+    "Miniaturization approaches its limits; future technology focuses on nano-scale machine development.",
+    "Nano-scale robots and machines could revolutionize the medical technologies, performing intricate surgeries and cellular-level manipulations."
+   ],
+   "answer": 2,
+   "confidence": "high",
+   "points": 3.5,
+   "explain": "본문은 나노생명공학의 전망이 '엄청나다(immense)'고 하며, 암과 에이즈가 지금의 소아마비·결핵처럼 여겨질 수 있다고 했다. 따라서 '거의 약속하지 않는다(barely promises)'는 ②는 본문과 반대다. ①, ③, ④는 각각 첫 문장, 소형화의 한계, 나노 로봇 수술 부분과 일치한다.",
+   "trans": "생명공학과 나노기술의 결합은 의학의 극적인 발전으로 이어질 수 있다. 적당한 기간 안에 암과 에이즈도 오늘날 소아마비와 결핵처럼 여겨지게 될 수 있다.",
+   "sents": [
+    {
+     "en": "위 글을 통해 추론할 수 없는 것을 고르시오.",
+     "ko": "위 글을 통해 추론할 수 없는 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "21세기는 생물학 혁명과 나노기술이 지배하며, 이는 전통적 과학으로부터의 전환이다.",
+    "나노생명공학은 소아마비와 결핵의 치료법이 발견된 것과 비슷하게 암과 에이즈 같은 질병의 치료를 거의 약속하지 않는다.",
+    "소형화는 한계에 다가가고 있으며, 미래 기술은 나노 규모 기계 개발에 초점을 맞춘다.",
+    "나노 규모의 로봇과 기계는 정교한 수술과 세포 수준의 조작을 수행하여 의료 기술에 혁명을 일으킬 수 있다."
+   ]
+  },
+  {
+   "no": 31,
+   "passage": "p31",
+   "stem": "빈 칸에 들어가기에 가장 적합한 것을 고르시오.",
+   "choices": [
+    "effective",
+    "useless",
+    "refined",
+    "weighty"
+   ],
+   "answer": 2,
+   "confidence": "high",
+   "points": 3.5,
+   "explain": "중독자들은 바늘 끝이 너무 무뎌져서 '쓸모없게(useless)' 될 때까지 하루 대여섯 번 주사한다. 바로 뒤의 '그들에게는 많은 바늘이 필요하다'가 단서다. effective(효과적인)는 정반대다.",
+   "trans": "대부분의 헤로인 중독자들은 하루에 바늘 하나 정도를 쓰는데, 주사기 끝이 너무 무뎌져 쓸모없게 될 때까지 적어도 대여섯 번, 혹은 그 이상 주사한다.",
+   "sents": [
+    {
+     "en": "빈 칸에 들어가기에 가장 적합한 것을 고르시오.",
+     "ko": "빈 칸에 들어가기에 가장 적합한 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "효과적인",
+    "쓸모없는",
+    "정제된, 세련된",
+    "중요한, 무게 있는"
+   ]
+  },
+  {
+   "no": 32,
+   "passage": "p31",
+   "stem": "위 글에서 논지의 흐름상 가장 적합하지 <u>않은</u> 것을 고르시오.",
+   "choices": [
+    "(A)",
+    "(B)",
+    "(C)",
+    "(D)"
+   ],
+   "answer": 3,
+   "confidence": "high",
+   "points": 3.5,
+   "explain": "중독자들이 정기적으로 주사 교환 차량에 '찾아올(get to / make it to)' 수 있을지를 묻는 맥락인데, break into는 '침입하다, 강도질하다'라는 뜻이라 흐름에 맞지 않는다. (A)In principle(원칙적으로는)은 뒤의 But과 대조를 이루고, (B)obvious limitations와 (D)around the clock(24시간 내내)도 자연스럽다.",
+   "trans": "그러니 그들이 주사 교환 차량에 정기적으로 찾아올 수 있으리라는 보장이 어디 있겠는가?",
+   "sents": [
+    {
+     "en": "위 글에서 논지의 흐름상 가장 적합하지 않은 것을 고르시오.",
+     "ko": "위 글에서 논지의 흐름상 가장 적합하지 않은 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "(A)",
+    "(B)",
+    "(C)",
+    "(D)"
+   ]
+  },
+  {
+   "no": 33,
+   "passage": "p33",
+   "stem": "아래의 문장이 들어갈 위치로 가장 적합한 곳을 고르시오.",
+   "box": "The hospitals for the criminally insane, by contrast, were populated with people who were considered “crazy” and who were often kept obediently in the place through the use of severe bodily restraints and large doses of major tranquilizers.",
+   "choices": [
+    "(A)",
+    "(B)",
+    "(C)",
+    "(D)"
+   ],
+   "answer": 3,
+   "confidence": "high",
+   "points": 3.5,
+   "explain": "제시문은 'by contrast'로 범죄성 정신이상자 병원의 수용자들을 앞 문장과 대조한다. (C) 바로 앞에서 교도소는 권리를 요구하는 '분노한 젊은이들'로 가득했다고 했으므로, 그와 대조되는 '순종적으로 묶여 있는' 환자 이야기가 이어져야 한다. 그 뒤 (C)의 '변호사들은 수동적이고 옹호하기 쉬운 집단을 발견했다'와도 자연스럽게 이어진다.",
+   "trans": "대조적으로, 범죄성 정신이상자를 위한 병원은 '미쳤다'고 여겨지는 사람들로 채워져 있었고, 그들은 심한 신체 구속과 다량의 강력 진정제 사용을 통해 그곳에 순종적으로 갇혀 있는 경우가 많았다.",
+   "sents": [
+    {
+     "en": "아래의 문장이 들어갈 위치로 가장 적합한 곳을 고르시오.",
+     "ko": "아래의 문장이 들어갈 위치로 가장 적합한 곳을 고르시오."
+    },
+    {
+     "en": "The hospitals for the criminally insane, by contrast, were populated with people who were considered “crazy” and who were often kept obediently in the place through the use of severe bodily restraints and large doses of major tranquilizers.",
+     "ko": "범죄를 저지른 정신질환자를 위한 병원은 이와 대조적으로, '미쳤다'고 여겨지는 사람들로 채워져 있었고, 이들은 종종 가혹한 신체 구속과 다량의 강력한 정신 안정제를 사용하여 얌전히 그곳에 수용되었다."
+    }
+   ],
+   "choices_ko": [
+    "(A)",
+    "(B)",
+    "(C)",
+    "(D)"
+   ]
+  },
+  {
+   "no": 34,
+   "passage": "p33",
+   "stem": "위 글의 제목으로 가장 적합한 것을 고르시오.",
+   "choices": [
+    "Development of Mental Health Treatment in Correctional Facilities",
+    "Reform of Asylums after the Civil Rights Movement",
+    "Long-term Care of the Mentally Ill for the Benefit of Community",
+    "Role of the Judicial Interventions in Improving the Mental Institutions"
+   ],
+   "answer": 4,
+   "confidence": "medium",
+   "points": 3.5,
+   "explain": "글은 정신병원의 열악한 상황에서 출발해, 민권 운동 이후 공익 변호사들과 법원의 개입이 개혁을 이끌었고, 이제 그 책임을 법원에서 주 정신보건 행정가들에게 돌려줘야 한다는 결론으로 끝난다. 따라서 '정신보건 기관 개선에서 사법적 개입의 역할'이 전체를 가장 잘 포괄한다. ②는 민권 운동 이후 부분만 다루고, 법원의 한계를 지적하는 결론을 담지 못한다.",
+   "trans": "사법적 개입은 분명 긍정적인 효과도 있었지만, 법원이 좋은 환자 치료를 보장하는 기준과 검토 체계를 제공할 수 없다는 인식이 커지고 있다.",
+   "sents": [
+    {
+     "en": "위 글의 제목으로 가장 적합한 것을 고르시오.",
+     "ko": "위 글의 제목으로 가장 적합한 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "교정 시설에서의 정신 건강 치료의 발전",
+    "민권 운동 이후 정신 수용 시설의 개혁",
+    "지역 사회의 이익을 위한 정신질환자의 장기 돌봄",
+    "정신 병원 개선에서 사법적 개입의 역할"
+   ]
+  },
+  {
+   "no": 35,
+   "passage": "p35",
+   "stem": "빈 칸에 들어가기에 가장 적합한 것을 고르시오.",
+   "choices": [
+    "he thought cataclysmic events played a significant role in the formation of the Earth’s surface.",
+    "he implausibly maintained their intensity was the same as today.",
+    "he firmly believed the laws that govern geologic processes had changed during Earth’s history.",
+    "he argued that the Earth had largely been shaped by sudden, short-lived, and violent events."
+   ],
+   "answer": 2,
+   "confidence": "high",
+   "points": 3.5,
+   "explain": "'not only A but B' 구문으로, 라이엘은 현재 작용하는 원인들이 과거를 설명할 수 있다고 했을 뿐 아니라 그 '강도까지 오늘날과 같았다'고 주장했다. 이 때문에 격변론자들 사이에서 논란이 되었다는 다음 문장이 단서다. ①과 ④는 격변론자들의 주장이고, ③은 라이엘의 '자연의 균일성' 가정과 반대된다.",
+   "trans": "라이엘에게는 현재 작용하는 원인들이 과거의 사건들을 설명할 수 있었을 뿐만 아니라, 그 강도 역시 오늘날과 같았다(라고 그는 다소 무리하게 주장했다).",
+   "sents": [
+    {
+     "en": "빈 칸에 들어가기에 가장 적합한 것을 고르시오.",
+     "ko": "빈 칸에 들어가기에 가장 적합한 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "그는 격변적 사건이 지구 표면의 형성에 중요한 역할을 했다고 생각했다.",
+    "그는 그것들의 강도가 오늘날과 같았다고 믿기 어려운 주장을 했다.",
+    "그는 지질 작용을 지배하는 법칙이 지구 역사 동안 변했다고 굳게 믿었다.",
+    "그는 지구가 대체로 갑작스럽고 짧으며 격렬한 사건에 의해 형성되었다고 주장했다."
+   ]
+  },
+  {
+   "no": 36,
+   "passage": "p35",
+   "stem": "위 글의 내용과 일치하지 <u>않는</u> 것을 고르시오.",
+   "choices": [
+    "Lyell’s view of constant past and present natural forces clashed with catastrophists and violated thermodynamics principles.",
+    "Lyell argued that slow and continuous natural forces could explain Earth’s geological history.",
+    "Lyell, initially a lawyer, became a renowned geologist and authored <i>Principles of Geology</i>.",
+    "Darwin and Lyell were close; Lyell admired Darwin’s coral reef theory, agreeing with his concept of natural selection."
+   ],
+   "answer": 4,
+   "confidence": "high",
+   "points": 3.5,
+   "explain": "라이엘은 다윈의 산호초 이론은 반겼지만, 자연선택설에는 '훨씬 덜 열광적(much less enthusiastic)'이었다. 진화가 자신의 순환적 관점과 맞지 않았기 때문이다. 따라서 자연선택설에 동의했다는 ④가 틀리다. ①은 켈빈 경이 열역학 제2법칙 위반을 지적했다는 부분과 일치한다.",
+   "trans": "라이엘은 다윈의 산호초에 관한 새 이론은 반겼지만, 『종의 기원』의 자연선택 이론에는 훨씬 덜 열광적이었다.",
+   "sents": [
+    {
+     "en": "위 글의 내용과 일치하지 않는 것을 고르시오.",
+     "ko": "위 글의 내용과 일치하지 않는 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "과거와 현재의 자연력이 일정하다는 라이엘의 견해는 격변론자들과 충돌했고 열역학 원리를 위반했다.",
+    "라이엘은 느리고 지속적인 자연력이 지구의 지질 역사를 설명할 수 있다고 주장했다.",
+    "라이엘은 처음에는 변호사였으나 저명한 지질학자가 되어 《지질학 원리》를 저술했다.",
+    "다윈과 라이엘은 가까운 사이였으며, 라이엘은 다윈의 산호초 이론을 높이 평가하고 그의 자연선택 개념에 동의했다."
+   ]
+  },
+  {
+   "no": 37,
+   "passage": "p37",
+   "stem": "위 글에서 논지의 흐름상 가장 적합하지 <u>않은</u> 것을 고르시오.",
+   "choices": [
+    "(A)",
+    "(B)",
+    "(C)",
+    "(D)"
+   ],
+   "answer": 2,
+   "confidence": "high",
+   "points": 3.5,
+   "explain": "글은 'AI란 무엇인가'에 대한 여러 정의(일반인·전문가·(A)의 학자들)를 소개하고, (C)와 (D)에서 각 정의 방식이 AI를 이해하고 평가하는 틀을 정한다고 설명한다. (B)는 AI를 사회 제도에 도입했을 때의 결과를 묻는 다른 화제라 흐름에서 벗어난다. (D)는 (C)의 '만약 ~라고 정의하면 …' 구조를 이어 전문가식 정의를 다루므로 자연스럽다.",
+   "trans": "AI와 관련 알고리즘 시스템을 교육, 의료, 금융 같은 사회 제도의 의사 결정 체계에 포함시키는 것의 사회적·물질적 결과는 무엇인가?",
+   "sents": [
+    {
+     "en": "위 글에서 논지의 흐름상 가장 적합하지 않은 것을 고르시오.",
+     "ko": "위 글에서 논지의 흐름상 가장 적합하지 않은 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "(A)",
+    "(B)",
+    "(C)",
+    "(D)"
+   ]
+  },
+  {
+   "no": 38,
+   "passage": "p37",
+   "stem": "위 글의 주제로 가장 적합한 것을 고르시오.",
+   "choices": [
+    "The primary reason for focusing on AI’s rational and intelligent action",
+    "The various ways of defining and understanding AI as an intelligent system",
+    "The importance of human experts in managing AI systems",
+    "The computational impacts on AI’s high-stakes decisions"
+   ],
+   "answer": 2,
+   "confidence": "high",
+   "points": 3.5,
+   "explain": "글은 '인공지능이란 무엇인가'라는 질문에 대해 일반인, 딥러닝 전문가, 학자들이 내리는 여러 정의를 소개하고, 각 정의가 AI를 이해하고 평가하는 틀을 만든다고 말한다. 따라서 'AI를 정의하고 이해하는 다양한 방식'이 주제다. ①은 (A)의 한 정의만, ④는 (D)의 세부 내용만 다룬다.",
+   "trans": "인공지능을 정의하는 각각의 방식은 그것이 어떻게 이해되고, 측정되고, 평가되고, 관리될지에 대한 틀을 정하는 역할을 한다.",
+   "sents": [
+    {
+     "en": "위 글의 주제로 가장 적합한 것을 고르시오.",
+     "ko": "위 글의 주제로 가장 적합한 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "AI의 합리적이고 지능적인 행동에 초점을 맞추는 주된 이유",
+    "지능형 시스템으로서 AI를 정의하고 이해하는 다양한 방식",
+    "AI 시스템을 관리하는 데 있어 인간 전문가의 중요성",
+    "AI의 중대한 결정에 미치는 연산상의 영향"
+   ]
+  },
+  {
+   "no": 39,
+   "passage": "p39",
+   "stem": "위 글의 흐름상 가장 적합하지 <u>않은</u> 것을 고르시오.",
+   "choices": [
+    "(A)",
+    "(B)",
+    "(C)",
+    "(D)"
+   ],
+   "answer": 4,
+   "confidence": "high",
+   "points": 3.5,
+   "explain": "일란성 쌍둥이는 DNA가 같으므로 각자의 메틸화 프로필을 비교하면 행동 차이를 설명할 수 있고, 이는 후성유전 과정을 이해하는 길을 '열어 준다'. 그런데 (D)는 'closing the window(창을 닫는다)'라고 해서 논리가 반대가 된다(opening the window가 맞다). (A), (B), (C)는 각각 통념의 전환, 후성유전의 정의, 쥐 실험 사례로 흐름에 맞다.",
+   "trans": "일란성 쌍둥이는 DNA가 동일하므로, 쌍둥이 각각의 메틸화 프로필을 만들면 과학자들이 행동상의 미묘하거나 극단적인 차이를 설명할 수 있게 되어, 후성유전 과정이 우리의 성격과 유전 암호에 어떻게 영향을 주는지 이해하는 창을 연다(→ closing은 부적절).",
+   "sents": [
+    {
+     "en": "위 글의 흐름상 가장 적합하지 않은 것을 고르시오.",
+     "ko": "위 글의 흐름상 가장 적합하지 않은 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "(A)",
+    "(B)",
+    "(C)",
+    "(D)"
+   ]
+  },
+  {
+   "no": 40,
+   "passage": "p39",
+   "stem": "위 글의 내용과 일치하는 것을 고르시오.",
+   "choices": [
+    "Epigenetics is a subfield of biological study focusing on the variability of heritability.",
+    "Darwin’s theory illustrates the way evolutionary changes go along with epigenetics.",
+    "DNA methylation profiles show where DNA structures have affected the environmental factors.",
+    "Biological changes are not determined by the function of DNA in both animals and humans."
+   ],
+   "answer": 1,
+   "confidence": "medium",
+   "points": 3.5,
+   "explain": "후성유전학은 고정불변으로 여겨지던 유전이 환경 요인에 따라 달라지고 그 변화가 유전될 수 있음을 연구하는 생물학의 신생 분야이므로 ①이 일치한다. ②는 후성유전학이 다윈의 이론을 '흔든다(throws a wrench into)'고 했으므로 틀리고, ③은 환경 요인이 DNA 발현에 영향을 준다는 인과 관계를 뒤집었다. ④는 DNA가 생물학적 변화를 결정하지 않는다고 지나치게 단정했다.",
+   "trans": "후성유전학은 DNA 서열의 세포 표현형에 일어나는 유전 가능한 변화, 즉 수정 이후 외부 환경 요인의 결과로 일어난 변화를 연구하는 학문이다.",
+   "sents": [
+    {
+     "en": "위 글의 내용과 일치하는 것을 고르시오.",
+     "ko": "위 글의 내용과 일치하는 것을 고르시오."
+    }
+   ],
+   "choices_ko": [
+    "후성유전학은 유전성의 가변성에 초점을 맞춘 생물학 연구의 하위 분야이다.",
+    "다윈의 이론은 진화적 변화가 후성유전학과 함께 일어나는 방식을 보여 준다.",
+    "DNA 메틸화 프로필은 DNA 구조가 환경적 요인에 어떤 영향을 주었는지를 보여 준다.",
+    "생물학적 변화는 동물과 인간 모두에서 DNA의 기능에 의해 결정되지 않는다."
+   ]
+  }
+ ],
+ "glossary": {
+  "lurch": {
+   "ko": "휘청하다, 비틀거리다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "lurch"
+   ]
+  },
+  "stagger": {
+   "ko": "비틀거리다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "stagger"
+   ]
+  },
+  "jive": {
+   "ko": "(재즈에 맞춰) 춤추다; 허튼소리",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "jive"
+   ]
+  },
+  "saunter": {
+   "ko": "어슬렁거리다, 산책하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "saunter"
+   ]
+  },
+  "glide": {
+   "ko": "미끄러지듯 가다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "glide"
+   ]
+  },
+  "now and then": {
+   "ko": "이따금, 때때로",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "now and then"
+   ]
+  },
+  "manufacture": {
+   "ko": "제조하다, 생산하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "manufacture"
+   ]
+  },
+  "relatively": {
+   "ko": "상대적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "relatively"
+   ]
+  },
+  "crockery": {
+   "ko": "(도자기) 그릇, 식기류",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "crockery"
+   ]
+  },
+  "cutlery": {
+   "ko": "칼·포크 등 식기류",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "cutlery"
+   ]
+  },
+  "glassware": {
+   "ko": "유리 그릇, 유리 제품",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "glassware"
+   ]
+  },
+  "silverware": {
+   "ko": "은식기, 수저류",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "silverware"
+   ]
+  },
+  "respond": {
+   "ko": "반응하다, 응답하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "respond"
+   ]
+  },
+  "negative": {
+   "ko": "부정적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "negative"
+   ]
+  },
+  "reprehend": {
+   "ko": "꾸짖다, 비난하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "reprehend"
+   ]
+  },
+  "fulminate": {
+   "ko": "맹렬히 비난하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "fulminate"
+   ]
+  },
+  "approve": {
+   "ko": "승인하다, 찬성하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "approve"
+   ]
+  },
+  "eulogize": {
+   "ko": "칭송하다, 찬양하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "eulogize"
+   ]
+  },
+  "override": {
+   "ko": "무효로 하다, 기각하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "override"
+   ]
+  },
+  "vitiate": {
+   "ko": "손상시키다, 무효화하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "vitiated"
+   ]
+  },
+  "vilify": {
+   "ko": "비방하다, 헐뜯다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "vilified"
+   ]
+  },
+  "accentuate": {
+   "ko": "강조하다, 두드러지게 하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "accentuated"
+   ]
+  },
+  "invalidate": {
+   "ko": "무효화하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "invalidated"
+   ]
+  },
+  "correctify": {
+   "ko": "바로잡다(비표준어)",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "correctified"
+   ]
+  },
+  "victual": {
+   "ko": "음식, 식량",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "victual"
+   ]
+  },
+  "truce": {
+   "ko": "휴전",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "truce"
+   ]
+  },
+  "freshet": {
+   "ko": "(눈 녹은 물의) 홍수, 민물 흐름",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "freshet"
+   ]
+  },
+  "centurion": {
+   "ko": "(고대 로마) 백인대장",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "centurion"
+   ]
+  },
+  "brackish": {
+   "ko": "약간 짠, 소금기 있는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "brackish"
+   ]
+  },
+  "gooey": {
+   "ko": "끈적끈적한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "gooey"
+   ]
+  },
+  "palatable": {
+   "ko": "맛있는, 마실 만한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "palatable"
+   ]
+  },
+  "saline": {
+   "ko": "염분이 있는, 짠",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "saline"
+   ]
+  },
+  "soporific": {
+   "ko": "졸리게 하는, 최면성의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "soporific"
+   ]
+  },
+  "anticipate": {
+   "ko": "예상하다, 기대하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "anticipated"
+   ]
+  },
+  "parturition": {
+   "ko": "분만, 출산",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "parturition"
+   ]
+  },
+  "materialize": {
+   "ko": "실현되다, 나타나다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "materialize"
+   ]
+  },
+  "diagnosis": {
+   "ko": "진단",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "diagnosis"
+   ]
+  },
+  "delivery": {
+   "ko": "분만; 배달; 제공",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "delivery"
+   ]
+  },
+  "postmortem": {
+   "ko": "부검, 검시",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "postmortem"
+   ]
+  },
+  "phase out": {
+   "ko": "단계적으로 폐지하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "phase it out"
+   ]
+  },
+  "tight": {
+   "ko": "빠듯한, 빡빡한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "tight"
+   ]
+  },
+  "pull down": {
+   "ko": "허물다, 끌어내리다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "pull this down"
+   ]
+  },
+  "cut to the chase": {
+   "ko": "본론으로 들어가다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "cut to the chase"
+   ]
+  },
+  "legit": {
+   "ko": "진짜의, 믿을 만한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "legit"
+   ]
+  },
+  "in a hurry": {
+   "ko": "서둘러, 바쁜",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "in a hurry"
+   ]
+  },
+  "wade through": {
+   "ko": "힘들게 헤쳐 나가다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "wade through"
+   ]
+  },
+  "hefty": {
+   "ko": "두툼한, 묵직한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "hefty"
+   ]
+  },
+  "skim": {
+   "ko": "대충 훑어보다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "skim"
+   ]
+  },
+  "skim the surface": {
+   "ko": "겉핥기로 다루다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "skim the surface"
+   ]
+  },
+  "pull up one's socks": {
+   "ko": "분발하다, 정신 차리다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "pulled up her socks"
+   ]
+  },
+  "go the extra mile": {
+   "ko": "한층 더 노력하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "go the extra mile"
+   ]
+  },
+  "you bet": {
+   "ko": "물론이지, 당연하지",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "you bet"
+   ]
+  },
+  "every dog has its day": {
+   "ko": "누구에게나 좋은 날이 있다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "every dog has its day"
+   ]
+  },
+  "re-election": {
+   "ko": "재선",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "re-election"
+   ]
+  },
+  "hit the jackpot": {
+   "ko": "대박이 나다, 큰 성공을 거두다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "hit the jackpot"
+   ]
+  },
+  "jackpot": {
+   "ko": "거액의 상금, 대성공",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "jackpot"
+   ]
+  },
+  "don't count your chickens before they hatch": {
+   "ko": "김칫국부터 마시지 마라",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "count your chickens before they hatch"
+   ]
+  },
+  "hatch": {
+   "ko": "부화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "hatch"
+   ]
+  },
+  "head over heels": {
+   "ko": "홀딱 반한",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "head over heel"
+   ]
+  },
+  "knockout": {
+   "ko": "굉장한 미인; 녹아웃",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "knockout"
+   ]
+  },
+  "no wonder": {
+   "ko": "당연하다, 놀랄 일도 아니다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "no wonder"
+   ]
+  },
+  "optimization": {
+   "ko": "최적화",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "optimization"
+   ]
+  },
+  "route": {
+   "ko": "경로를 정하다, 보내다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "routing"
+   ]
+  },
+  "efficiently": {
+   "ko": "효율적으로",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "efficiently"
+   ]
+  },
+  "specialize": {
+   "ko": "전문화하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "specializing"
+   ]
+  },
+  "employ": {
+   "ko": "사용하다, 고용하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "employ"
+   ]
+  },
+  "concept": {
+   "ko": "개념",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "concept",
+    "concepts"
+   ]
+  },
+  "dissatisfied": {
+   "ko": "불만스러운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "dissatisfied"
+   ]
+  },
+  "importation": {
+   "ko": "수입",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "importation"
+   ]
+  },
+  "educate": {
+   "ko": "교육하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "educated"
+   ]
+  },
+  "micrometer": {
+   "ko": "마이크로미터(정밀 측정기)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "micrometer"
+   ]
+  },
+  "astronomical": {
+   "ko": "천문학의; 천문학적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "astronomical"
+   ]
+  },
+  "sicken": {
+   "ko": "넌더리 나게 하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "sickened"
+   ]
+  },
+  "panegyric": {
+   "ko": "찬사, 칭송",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "panegyrics"
+   ]
+  },
+  "slander": {
+   "ko": "비방하다, 중상하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "slander"
+   ]
+  },
+  "anecdote": {
+   "ko": "일화",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "anecdotes"
+   ]
+  },
+  "stipend": {
+   "ko": "급료, 장학금",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "stipends"
+   ]
+  },
+  "encomium": {
+   "ko": "찬사, 찬양",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "encomiums"
+   ]
+  },
+  "homily": {
+   "ko": "설교, 훈계",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "homilies"
+   ]
+  },
+  "take ~ by surprise": {
+   "ko": "허를 찌르다, 기습하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "took him by surprise"
+   ]
+  },
+  "resistance": {
+   "ko": "저항",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "resistance"
+   ]
+  },
+  "short-lived": {
+   "ko": "오래가지 못하는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "short-lived"
+   ]
+  },
+  "inane": {
+   "ko": "어리석은, 공허한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "inane"
+   ]
+  },
+  "germinal": {
+   "ko": "초기의, 발생의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "germinal"
+   ]
+  },
+  "congenial": {
+   "ko": "마음이 맞는, 친절한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "congenial"
+   ]
+  },
+  "redoubtable": {
+   "ko": "만만찮은, 가공할",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "redoubtable"
+   ]
+  },
+  "inquisition": {
+   "ko": "종교재판; 심문",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "inquisition"
+   ]
+  },
+  "recant": {
+   "ko": "(주장을) 철회하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "recant"
+   ]
+  },
+  "retard": {
+   "ko": "지연시키다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "retard"
+   ]
+  },
+  "beatify": {
+   "ko": "시복하다, 축복하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "beatify"
+   ]
+  },
+  "buttress": {
+   "ko": "지지하다, 강화하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "buttress"
+   ]
+  },
+  "cycle": {
+   "ko": "순환, 주기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "cycles"
+   ]
+  },
+  "recession": {
+   "ko": "경기 후퇴",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "recession"
+   ]
+  },
+  "anomaly": {
+   "ko": "변칙, 이례",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "anomaly"
+   ]
+  },
+  "obloquy": {
+   "ko": "오명, 비난",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "obloquy"
+   ]
+  },
+  "expansion": {
+   "ko": "확장, 팽창",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "expansion"
+   ]
+  },
+  "depression": {
+   "ko": "불황; 우울증",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "depression",
+    "depressions"
+   ]
+  },
+  "prominence": {
+   "ko": "두드러짐, 명성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "prominence"
+   ]
+  },
+  "independent": {
+   "ko": "독립적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "independent"
+   ]
+  },
+  "underscore": {
+   "ko": "강조하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "underscores"
+   ]
+  },
+  "enterprise": {
+   "ko": "사업, 기업",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "enterprise"
+   ]
+  },
+  "at the outset": {
+   "ko": "처음에, 초기에",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "at the outset of"
+   ]
+  },
+  "corporatist": {
+   "ko": "기업주의적인, 조합주의의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "corporatist"
+   ]
+  },
+  "synonymous": {
+   "ko": "동의어의, 같은 뜻의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "synonymous"
+   ]
+  },
+  "removed from": {
+   "ko": "~와 동떨어진",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "removed from"
+   ]
+  },
+  "associated with": {
+   "ko": "~와 관련된",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "associated with"
+   ]
+  },
+  "result from": {
+   "ko": "~에서 비롯되다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "resulted from"
+   ]
+  },
+  "collaborate": {
+   "ko": "협력하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "collaborated"
+   ]
+  },
+  "adequate": {
+   "ko": "충분한, 적절한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "adequate"
+   ]
+  },
+  "armed forces": {
+   "ko": "군대",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "armed forces"
+   ]
+  },
+  "abrogate": {
+   "ko": "폐지하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "abrogate"
+   ]
+  },
+  "encumber": {
+   "ko": "방해하다, 짐을 지우다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "encumber"
+   ]
+  },
+  "rehabilitate": {
+   "ko": "복구하다, 재활시키다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "rehabilitate"
+   ]
+  },
+  "commandeer": {
+   "ko": "징발하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "commandeer"
+   ]
+  },
+  "anthropologist": {
+   "ko": "인류학자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "anthropologists"
+   ]
+  },
+  "contend": {
+   "ko": "주장하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "contend"
+   ]
+  },
+  "ancient": {
+   "ko": "고대의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "ancient"
+   ]
+  },
+  "barley": {
+   "ko": "보리",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "barley"
+   ]
+  },
+  "excessive": {
+   "ko": "과도한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "excessive"
+   ]
+  },
+  "irrigation": {
+   "ko": "관개",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "irrigation"
+   ]
+  },
+  "accumulation": {
+   "ko": "축적",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "accumulation"
+   ]
+  },
+  "inhospitable": {
+   "ko": "부적합한, 살기 힘든",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "inhospitable"
+   ]
+  },
+  "acrimonious": {
+   "ko": "신랄한, 험악한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "acrimonious"
+   ]
+  },
+  "evanescent": {
+   "ko": "덧없는, 사라지는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "evanescent"
+   ]
+  },
+  "benignant": {
+   "ko": "온화한, 유익한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "benignant"
+   ]
+  },
+  "mercury": {
+   "ko": "수은",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "mercury"
+   ]
+  },
+  "innocuous": {
+   "ko": "무해한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "innocuous"
+   ]
+  },
+  "thermometer": {
+   "ko": "온도계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "thermometers"
+   ]
+  },
+  "dental": {
+   "ko": "치아의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "dental"
+   ]
+  },
+  "filling": {
+   "ko": "(치아) 충전재",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "fillings"
+   ]
+  },
+  "deleterious": {
+   "ko": "해로운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "deleterious"
+   ]
+  },
+  "congenital": {
+   "ko": "선천적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "congenital"
+   ]
+  },
+  "antiquated": {
+   "ko": "구식의, 낡은",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "antiquated"
+   ]
+  },
+  "rudimentary": {
+   "ko": "기초적인, 원시적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "rudimentary"
+   ]
+  },
+  "substance": {
+   "ko": "물질",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "substances"
+   ]
+  },
+  "designate": {
+   "ko": "지정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "designated"
+   ]
+  },
+  "portion": {
+   "ko": "일부, 부분",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "portions"
+   ]
+  },
+  "territory": {
+   "ko": "영토, 지역",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "territory"
+   ]
+  },
+  "reserve": {
+   "ko": "보호구역",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "reserves"
+   ]
+  },
+  "array": {
+   "ko": "다수, 배열",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "array"
+   ]
+  },
+  "exotic": {
+   "ko": "이국적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "exotic"
+   ]
+  },
+  "categorize": {
+   "ko": "분류하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "categorized"
+   ]
+  },
+  "primate": {
+   "ko": "영장류",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "primate",
+    "primates"
+   ]
+  },
+  "retrieve": {
+   "ko": "꺼내다, 회수하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "retrieve"
+   ]
+  },
+  "grub": {
+   "ko": "굼벵이, 유충",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "grubs"
+   ]
+  },
+  "hollow": {
+   "ko": "속이 빈",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "hollow"
+   ]
+  },
+  "sensible": {
+   "ko": "합리적인, 분별 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "sensible"
+   ]
+  },
+  "adaptation": {
+   "ko": "적응; 적응 형질",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "adaptations"
+   ]
+  },
+  "similitude": {
+   "ko": "유사, 닮음",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "similitudes"
+   ]
+  },
+  "prototype": {
+   "ko": "원형, 시제품",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "prototypes"
+   ]
+  },
+  "nomenclature": {
+   "ko": "명명법, 학명",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "nomenclatures"
+   ]
+  },
+  "firmly": {
+   "ko": "확고하게",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "firmly"
+   ]
+  },
+  "landscape": {
+   "ko": "풍경; 판도, 상황",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "landscape"
+   ]
+  },
+  "continually": {
+   "ko": "계속해서",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "continually"
+   ]
+  },
+  "combat": {
+   "ko": "싸우다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "combat"
+   ]
+  },
+  "accuse": {
+   "ko": "비난하다, 고발하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "accusing"
+   ]
+  },
+  "aesthetic": {
+   "ko": "미적인, 미학의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "aesthetic"
+   ]
+  },
+  "norm": {
+   "ko": "규범",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "norms"
+   ]
+  },
+  "undermine": {
+   "ko": "약화시키다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "undermining"
+   ]
+  },
+  "one-sided": {
+   "ko": "편파적인, 일면적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "one-sided"
+   ]
+  },
+  "opponent": {
+   "ko": "반대자, 상대",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "opponents"
+   ]
+  },
+  "purchase": {
+   "ko": "발판, 꼬투리; 구입",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "purchase"
+   ]
+  },
+  "shortcoming": {
+   "ko": "결점",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "shortcomings"
+   ]
+  },
+  "academic": {
+   "ko": "학문적인, 학계의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "academic"
+   ]
+  },
+  "meanwhile": {
+   "ko": "그사이에",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "meanwhile"
+   ]
+  },
+  "adhere to": {
+   "ko": "고수하다, 지키다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "adhering to"
+   ]
+  },
+  "align": {
+   "ko": "맞추다, 정렬하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "aligning"
+   ]
+  },
+  "mirror": {
+   "ko": "반영하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "mirrored"
+   ]
+  },
+  "embrace": {
+   "ko": "수용하다, 포용하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "embracing"
+   ]
+  },
+  "contrast": {
+   "ko": "대조하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "contrast",
+    "contrasted"
+   ]
+  },
+  "challenge": {
+   "ko": "도전하다, 이의를 제기하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "challenging"
+   ]
+  },
+  "depart": {
+   "ko": "벗어나다, 떠나다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "departing"
+   ]
+  },
+  "supersede": {
+   "ko": "대체하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "superseded"
+   ]
+  },
+  "abandon": {
+   "ko": "버리다, 포기하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "abandoning"
+   ]
+  },
+  "compromise": {
+   "ko": "타협하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "compromising"
+   ]
+  },
+  "consolidate": {
+   "ko": "통합하다, 강화하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "consolidated"
+   ]
+  },
+  "comprehensive": {
+   "ko": "포괄적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "comprehensive"
+   ]
+  },
+  "humour": {
+   "ko": "체액(고대 의학)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "humour",
+    "humours"
+   ]
+  },
+  "excess": {
+   "ko": "과다, 초과",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "excess"
+   ]
+  },
+  "prescribe": {
+   "ko": "처방하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "prescribed"
+   ]
+  },
+  "accordingly": {
+   "ko": "그에 따라",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "accordingly"
+   ]
+  },
+  "bleeding": {
+   "ko": "사혈, 출혈",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "bleeding"
+   ]
+  },
+  "purgative": {
+   "ko": "하제, 설사약",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "purgatives"
+   ]
+  },
+  "diaphoretic": {
+   "ko": "발한제",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "diaphoretics"
+   ]
+  },
+  "clyster": {
+   "ko": "관장(제)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "clysters"
+   ]
+  },
+  "enema": {
+   "ko": "관장(제)",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "enemas"
+   ]
+  },
+  "rid A of B": {
+   "ko": "A에서 B를 제거하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "rid the body of"
+   ]
+  },
+  "heroic": {
+   "ko": "과감한, 영웅적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "heroic"
+   ]
+  },
+  "presumably": {
+   "ko": "아마도",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "presumably"
+   ]
+  },
+  "robust": {
+   "ko": "건강한, 튼튼한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "robust"
+   ]
+  },
+  "constitution": {
+   "ko": "체질, 체격",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "constitution"
+   ]
+  },
+  "take ~ in one's stride": {
+   "ko": "대수롭지 않게 받아들이다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "took such medicine in their stride"
+   ]
+  },
+  "proportion": {
+   "ko": "비율, 균형",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "proportion"
+   ]
+  },
+  "composition": {
+   "ko": "구성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "composition"
+   ]
+  },
+  "imbalance": {
+   "ko": "불균형",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "imbalance"
+   ]
+  },
+  "noxious": {
+   "ko": "해로운, 유독한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "noxious"
+   ]
+  },
+  "alignment": {
+   "ko": "정렬, 조정",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "alignment"
+   ]
+  },
+  "beneficial": {
+   "ko": "유익한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "beneficial"
+   ]
+  },
+  "neutral": {
+   "ko": "중립의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "neutral"
+   ]
+  },
+  "microbe": {
+   "ko": "미생물",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "microbes"
+   ]
+  },
+  "take root": {
+   "ko": "뿌리를 내리다, 정착하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "took root"
+   ]
+  },
+  "terrestrial": {
+   "ko": "육지의, 지구의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "terrestrial"
+   ]
+  },
+  "ecosystem": {
+   "ko": "생태계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "ecosystems"
+   ]
+  },
+  "photosynthesis": {
+   "ko": "광합성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "photosynthesis"
+   ]
+  },
+  "biomass": {
+   "ko": "생물량",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "biomass"
+   ]
+  },
+  "resplendent": {
+   "ko": "눈부신, 찬란한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "resplendent"
+   ]
+  },
+  "robe": {
+   "ko": "옷, 예복",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "robe"
+   ]
+  },
+  "spacecraft": {
+   "ko": "우주선",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "spacecraft"
+   ]
+  },
+  "wing": {
+   "ko": "날아가다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "winged"
+   ]
+  },
+  "train": {
+   "ko": "(시선 등을) 향하게 하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "trained"
+   ]
+  },
+  "distinctive": {
+   "ko": "독특한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "distinctive"
+   ]
+  },
+  "so-called": {
+   "ko": "이른바",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "so-called"
+   ]
+  },
+  "vegetation": {
+   "ko": "초목, 식물",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "vegetation"
+   ]
+  },
+  "absorb": {
+   "ko": "흡수하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "absorbed",
+    "absorbs"
+   ]
+  },
+  "radiation": {
+   "ko": "복사, 방사선",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "radiation"
+   ]
+  },
+  "wavelength": {
+   "ko": "파장",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "wavelengths"
+   ]
+  },
+  "lugubrious": {
+   "ko": "침울한, 애처로운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "lugubrious"
+   ]
+  },
+  "radioactive": {
+   "ko": "방사성의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "radioactive"
+   ]
+  },
+  "clairvoyant": {
+   "ko": "투시력이 있는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "clairvoyant"
+   ]
+  },
+  "embellish": {
+   "ko": "꾸미다, 장식하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "embellished"
+   ]
+  },
+  "pervasive": {
+   "ko": "널리 퍼진",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "pervasive"
+   ]
+  },
+  "infrared": {
+   "ko": "적외선의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "infrared"
+   ]
+  },
+  "indigenous": {
+   "ko": "토착의, 고유한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "indigenous"
+   ]
+  },
+  "isotopic": {
+   "ko": "동위원소의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "isotopic"
+   ]
+  },
+  "evident": {
+   "ko": "분명한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "evident"
+   ]
+  },
+  "terminology": {
+   "ko": "용어",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "terminology"
+   ]
+  },
+  "threat": {
+   "ko": "위협",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "threats"
+   ]
+  },
+  "perception": {
+   "ko": "인식",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "perceptions"
+   ]
+  },
+  "figurative": {
+   "ko": "비유적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "figurative"
+   ]
+  },
+  "metaphor": {
+   "ko": "은유",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "metaphors"
+   ]
+  },
+  "abstract": {
+   "ko": "추상적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "abstract"
+   ]
+  },
+  "grasp": {
+   "ko": "이해하다, 파악하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "grasp"
+   ]
+  },
+  "hand in": {
+   "ko": "제출하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "hand in"
+   ]
+  },
+  "take in": {
+   "ko": "받아들이다, 이해하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "take in"
+   ]
+  },
+  "give in": {
+   "ko": "굴복하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "give in"
+   ]
+  },
+  "barge in": {
+   "ko": "불쑥 끼어들다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "barge in"
+   ]
+  },
+  "gill": {
+   "ko": "아가미",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "gills"
+   ]
+  },
+  "bloodstream": {
+   "ko": "혈류",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "bloodstream"
+   ]
+  },
+  "salinity": {
+   "ko": "염도",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "salinity"
+   ]
+  },
+  "excrete": {
+   "ko": "배설하다, 분비하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "excrete"
+   ]
+  },
+  "dehydrate": {
+   "ko": "탈수되다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "dehydrate"
+   ]
+  },
+  "osmosis": {
+   "ko": "삼투",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "osmosis"
+   ]
+  },
+  "density": {
+   "ko": "밀도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "density"
+   ]
+  },
+  "make up for": {
+   "ko": "보충하다, 만회하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "make up for"
+   ]
+  },
+  "urinate": {
+   "ko": "소변을 보다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "urinate"
+   ]
+  },
+  "infrequently": {
+   "ko": "드물게",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "infrequently"
+   ]
+  },
+  "concentrated": {
+   "ko": "농축된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "concentrated"
+   ]
+  },
+  "infiltrate": {
+   "ko": "스며들다, 침투하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "infiltrated"
+   ]
+  },
+  "inhale": {
+   "ko": "들이마시다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "inhaling"
+   ]
+  },
+  "enliven": {
+   "ko": "활기를 띠게 하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "enlivened"
+   ]
+  },
+  "diffuse": {
+   "ko": "확산되다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "diffused"
+   ]
+  },
+  "solitude": {
+   "ko": "고독",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "solitude"
+   ]
+  },
+  "retire": {
+   "ko": "물러나다, 은둔하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "retire"
+   ]
+  },
+  "chamber": {
+   "ko": "방, 실",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "chamber"
+   ]
+  },
+  "solitary": {
+   "ko": "혼자의, 고독한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "solitary"
+   ]
+  },
+  "whilst": {
+   "ko": "~하는 동안(=while)",
+   "pos": "conj.",
+   "lv": 2,
+   "forms": [
+    "whilst"
+   ]
+  },
+  "reverence": {
+   "ko": "경외, 존경",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "reverence"
+   ]
+  },
+  "inaccessible": {
+   "ko": "접근할 수 없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "inaccessible"
+   ]
+  },
+  "kindred": {
+   "ko": "비슷한, 동족의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "kindred"
+   ]
+  },
+  "mean": {
+   "ko": "초라한, 비천한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "mean"
+   ]
+  },
+  "extort": {
+   "ko": "강탈하다, 억지로 얻어내다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "extort"
+   ]
+  },
+  "perfection": {
+   "ko": "완벽함",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "perfection"
+   ]
+  },
+  "poetical": {
+   "ko": "시적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "poetical"
+   ]
+  },
+  "integrity": {
+   "ko": "완전함, 온전함; 진실성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "integrity"
+   ]
+  },
+  "manifold": {
+   "ko": "다양한, 여러 가지의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "manifold"
+   ]
+  },
+  "timber": {
+   "ko": "목재",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "timber"
+   ]
+  },
+  "wood-cutter": {
+   "ko": "나무꾼",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "wood-cutter"
+   ]
+  },
+  "indubitably": {
+   "ko": "의심할 여지 없이",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "indubitably"
+   ]
+  },
+  "woodland": {
+   "ko": "삼림 지대",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "woodland"
+   ]
+  },
+  "integrate": {
+   "ko": "통합하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "integrate"
+   ]
+  },
+  "warranty-deed": {
+   "ko": "토지 양도 증서",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "warranty-deeds"
+   ]
+  },
+  "title": {
+   "ko": "소유권; 제목",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "title"
+   ]
+  },
+  "heavenly": {
+   "ko": "하늘의, 천상의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "heavenly"
+   ]
+  },
+  "transparent": {
+   "ko": "투명한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "transparent"
+   ]
+  },
+  "perpetual": {
+   "ko": "영원한, 끊임없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "perpetual"
+   ]
+  },
+  "sublime": {
+   "ko": "숭고한 것",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "sublime"
+   ]
+  },
+  "adore": {
+   "ko": "숭배하다, 흠모하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "adore"
+   ]
+  },
+  "remembrance": {
+   "ko": "기억, 추억",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "remembrance"
+   ]
+  },
+  "envoy": {
+   "ko": "사절, 사자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "envoys"
+   ]
+  },
+  "admonish": {
+   "ko": "훈계하다, 일깨우다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "admonishing"
+   ]
+  },
+  "troposphere": {
+   "ko": "대류권",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "troposphere"
+   ]
+  },
+  "atmosphere": {
+   "ko": "대기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "atmosphere"
+   ]
+  },
+  "elevation": {
+   "ko": "고도, 높이",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "elevation"
+   ]
+  },
+  "striking": {
+   "ko": "두드러진, 현저한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "striking"
+   ]
+  },
+  "altitude": {
+   "ko": "고도",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "altitude"
+   ]
+  },
+  "moisture": {
+   "ko": "습기, 수분",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "moisture"
+   ]
+  },
+  "jet stream": {
+   "ko": "제트기류",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "jet streams"
+   ]
+  },
+  "widespread": {
+   "ko": "널리 퍼진",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "widespread"
+   ]
+  },
+  "occurrence": {
+   "ko": "발생",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "occurrence"
+   ]
+  },
+  "velocity": {
+   "ko": "속도",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "velocities"
+   ]
+  },
+  "considerable": {
+   "ko": "상당한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "considerable"
+   ]
+  },
+  "intensive": {
+   "ko": "집중적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "intensive"
+   ]
+  },
+  "significance": {
+   "ko": "중요성, 의의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "significance"
+   ]
+  },
+  "proximity": {
+   "ko": "근접",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "proximity"
+   ]
+  },
+  "the other way round": {
+   "ko": "반대로",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "the other way round"
+   ]
+  },
+  "minuscule": {
+   "ko": "극히 작은",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "minuscule"
+   ]
+  },
+  "assembly": {
+   "ko": "조립(체), 집합",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "assemblies",
+    "assembly"
+   ]
+  },
+  "miniaturization": {
+   "ko": "소형화",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "miniaturization"
+   ]
+  },
+  "miniature": {
+   "ko": "소형의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "miniature"
+   ]
+  },
+  "conventional": {
+   "ko": "전통적인, 기존의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "conventional"
+   ]
+  },
+  "top-down": {
+   "ko": "하향식의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "top-down"
+   ]
+  },
+  "fabrication": {
+   "ko": "제작, 제조",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "fabrication"
+   ]
+  },
+  "futuristic": {
+   "ko": "미래의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "futuristic"
+   ]
+  },
+  "scale up": {
+   "ko": "규모를 키우다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "scale them up"
+   ]
+  },
+  "molecular": {
+   "ko": "분자의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "molecular"
+   ]
+  },
+  "genuine": {
+   "ko": "진짜의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "genuine"
+   ]
+  },
+  "ultrasensitive": {
+   "ko": "초고감도의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "ultrasensitive"
+   ]
+  },
+  "sensor": {
+   "ko": "감지기",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "sensors"
+   ]
+  },
+  "replication": {
+   "ko": "복제",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "replication"
+   ]
+  },
+  "protein": {
+   "ko": "단백질",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "protein"
+   ]
+  },
+  "synthesis": {
+   "ko": "합성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "synthesis"
+   ]
+  },
+  "sophisticated": {
+   "ko": "정교한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "sophisticated"
+   ]
+  },
+  "utilize": {
+   "ko": "활용하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "utilize"
+   ]
+  },
+  "recognition": {
+   "ko": "인식, 인지",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "recognition"
+   ]
+  },
+  "scaffold": {
+   "ko": "지지체, 비계",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "scaffolds"
+   ]
+  },
+  "tissue": {
+   "ko": "(생물) 조직",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "tissue"
+   ]
+  },
+  "prospect": {
+   "ko": "전망",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "prospects"
+   ]
+  },
+  "in situ": {
+   "ko": "원래 위치에서, 생체 내에서",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "in situ"
+   ]
+  },
+  "modification": {
+   "ko": "변형, 수정",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "modifications"
+   ]
+  },
+  "immense": {
+   "ko": "엄청난",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "immense"
+   ]
+  },
+  "eradicate": {
+   "ko": "근절하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "eradicated"
+   ]
+  },
+  "disorder": {
+   "ko": "장애, 질환",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "disorders"
+   ]
+  },
+  "polio": {
+   "ko": "소아마비",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "polio"
+   ]
+  },
+  "tuberculosis": {
+   "ko": "결핵",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "tuberculosis"
+   ]
+  },
+  "defect": {
+   "ko": "결함",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "defects"
+   ]
+  },
+  "surgical": {
+   "ko": "외과의, 수술의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "surgical"
+   ]
+  },
+  "surgery": {
+   "ko": "수술",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "surgeries",
+    "surgery"
+   ]
+  },
+  "barely": {
+   "ko": "거의 ~않다, 간신히",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "barely"
+   ]
+  },
+  "intricate": {
+   "ko": "복잡한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "intricate"
+   ]
+  },
+  "manipulation": {
+   "ko": "조작",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "manipulations"
+   ]
+  },
+  "revolutionize": {
+   "ko": "혁신하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "revolutionize"
+   ]
+  },
+  "bacterial": {
+   "ko": "세균의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "bacterial"
+   ]
+  },
+  "atomic": {
+   "ko": "원자의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "atomic"
+   ]
+  },
+  "addict": {
+   "ko": "중독자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "addict",
+    "addicts"
+   ]
+  },
+  "syringe": {
+   "ko": "주사기",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "syringe",
+    "syringes"
+   ]
+  },
+  "inner-city": {
+   "ko": "도심 빈민가의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "inner-city"
+   ]
+  },
+  "in principle": {
+   "ko": "원칙적으로는",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "in principle"
+   ]
+  },
+  "in return": {
+   "ko": "대신에, 보답으로",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "in return"
+   ]
+  },
+  "limitation": {
+   "ko": "한계",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "limitations"
+   ]
+  },
+  "break into": {
+   "ko": "침입하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "break into"
+   ]
+  },
+  "go through": {
+   "ko": "다 써 버리다; 겪다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "go through"
+   ]
+  },
+  "shoot up": {
+   "ko": "(마약을) 주사하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "shooting up"
+   ]
+  },
+  "blunt": {
+   "ko": "무딘",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "blunt"
+   ]
+  },
+  "around the clock": {
+   "ko": "24시간 내내",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "around the clock"
+   ]
+  },
+  "run out": {
+   "ko": "다 떨어지다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "run out"
+   ]
+  },
+  "weighty": {
+   "ko": "중대한, 무거운",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "weighty"
+   ]
+  },
+  "refined": {
+   "ko": "정제된, 세련된",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "refined"
+   ]
+  },
+  "enlightenment": {
+   "ko": "계몽",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "enlightenment"
+   ]
+  },
+  "almshouse": {
+   "ko": "구빈원",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "almshouses"
+   ]
+  },
+  "crusade": {
+   "ko": "운동을 벌이다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "crusaded"
+   ]
+  },
+  "asylum": {
+   "ko": "정신병원; 망명",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "asylums"
+   ]
+  },
+  "humane": {
+   "ko": "인도적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "humane"
+   ]
+  },
+  "sanity": {
+   "ko": "제정신",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "sanity"
+   ]
+  },
+  "in the face of": {
+   "ko": "~에 직면하여",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "in the face of"
+   ]
+  },
+  "legislature": {
+   "ko": "입법부, 의회",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "legislatures"
+   ]
+  },
+  "appropriate": {
+   "ko": "(예산을) 책정하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "appropriate"
+   ]
+  },
+  "decent": {
+   "ko": "괜찮은, 적절한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "decent"
+   ]
+  },
+  "overcrowded": {
+   "ko": "과밀한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "overcrowded"
+   ]
+  },
+  "restraint": {
+   "ko": "구속, 억제",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "restraints"
+   ]
+  },
+  "all but": {
+   "ko": "거의",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "all but"
+   ]
+  },
+  "theretofore": {
+   "ko": "그때까지",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "theretofore"
+   ]
+  },
+  "untreatable": {
+   "ko": "치료할 수 없는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "untreatable"
+   ]
+  },
+  "syphilis": {
+   "ko": "매독",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "syphilis"
+   ]
+  },
+  "schizophrenia": {
+   "ko": "조현병",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "schizophrenia"
+   ]
+  },
+  "succession": {
+   "ko": "연속",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "succession"
+   ]
+  },
+  "exposé": {
+   "ko": "폭로 기사",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "expos"
+   ]
+  },
+  "plight": {
+   "ko": "곤경",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "plight"
+   ]
+  },
+  "beacon": {
+   "ko": "등대, 지침",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "beacon"
+   ]
+  },
+  "disproportionately": {
+   "ko": "불균형적으로",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "disproportionately"
+   ]
+  },
+  "criminally insane": {
+   "ko": "범죄성 정신이상의",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "criminally insane"
+   ]
+  },
+  "cadre": {
+   "ko": "핵심 그룹, 간부단",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "cadre"
+   ]
+  },
+  "champion": {
+   "ko": "옹호하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "champion"
+   ]
+  },
+  "horrendous": {
+   "ko": "끔찍한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "horrendous"
+   ]
+  },
+  "injustice": {
+   "ko": "부당함, 불의",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "injustice"
+   ]
+  },
+  "be bound to": {
+   "ko": "반드시 ~하다",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "bound to"
+   ]
+  },
+  "judicial": {
+   "ko": "사법의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "judicial"
+   ]
+  },
+  "conscience": {
+   "ko": "양심",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "conscience"
+   ]
+  },
+  "lobby": {
+   "ko": "로비하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "lobbying"
+   ]
+  },
+  "intervention": {
+   "ko": "개입",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "interventions"
+   ]
+  },
+  "mandate": {
+   "ko": "명령하다; 권한",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "mandate",
+    "mandated"
+   ]
+  },
+  "obediently": {
+   "ko": "순종적으로",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "obediently"
+   ]
+  },
+  "bodily": {
+   "ko": "신체의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "bodily"
+   ]
+  },
+  "tranquilizer": {
+   "ko": "진정제",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "tranquilizers"
+   ]
+  },
+  "correctional": {
+   "ko": "교정의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "correctional"
+   ]
+  },
+  "formulate": {
+   "ko": "만들어 내다, 공식화하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "formulate"
+   ]
+  },
+  "occupy": {
+   "ko": "차지하다, 몰두시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "occupy"
+   ]
+  },
+  "namely": {
+   "ko": "즉",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "namely"
+   ]
+  },
+  "catastrophe": {
+   "ko": "대재앙",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "catastrophes"
+   ]
+  },
+  "geologic": {
+   "ko": "지질학의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "geologic"
+   ]
+  },
+  "sediment": {
+   "ko": "퇴적물",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "sediments"
+   ]
+  },
+  "fossil": {
+   "ko": "화석",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "fossils"
+   ]
+  },
+  "basin": {
+   "ko": "분지, 유역",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "basin"
+   ]
+  },
+  "alternate": {
+   "ko": "번갈아 나타나다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "alternated"
+   ]
+  },
+  "marine": {
+   "ko": "바다의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "marine"
+   ]
+  },
+  "alternation": {
+   "ko": "교대, 교체",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "alternation"
+   ]
+  },
+  "invoke": {
+   "ko": "들먹이다, 적용하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "invoke"
+   ]
+  },
+  "volcanic": {
+   "ko": "화산의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "volcanic"
+   ]
+  },
+  "eyesight": {
+   "ko": "시력",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "eyesight"
+   ]
+  },
+  "fellow": {
+   "ko": "회원, 동료",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "fellow"
+   ]
+  },
+  "academia": {
+   "ko": "학계",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "academia"
+   ]
+  },
+  "undergo": {
+   "ko": "겪다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "underwent",
+    "undergoing"
+   ]
+  },
+  "posthumous": {
+   "ko": "사후의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "posthumous"
+   ]
+  },
+  "operative": {
+   "ko": "작용하는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "operative"
+   ]
+  },
+  "controversial": {
+   "ko": "논란이 많은",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "controversial"
+   ]
+  },
+  "catastrophist": {
+   "ko": "격변론자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "catastrophists"
+   ]
+  },
+  "uniformity": {
+   "ko": "균일성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "uniformity"
+   ]
+  },
+  "thermodynamics": {
+   "ko": "열역학",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "thermodynamics"
+   ]
+  },
+  "originality": {
+   "ko": "독창성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "originality"
+   ]
+  },
+  "enthusiastic": {
+   "ko": "열광적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "enthusiastic"
+   ]
+  },
+  "coral reef": {
+   "ko": "산호초",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "coral reefs"
+   ]
+  },
+  "natural selection": {
+   "ko": "자연선택",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "natural selection"
+   ]
+  },
+  "progressive": {
+   "ko": "진보적인, 점진적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "progressive"
+   ]
+  },
+  "inconsistent": {
+   "ko": "일치하지 않는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "inconsistent"
+   ]
+  },
+  "repetitive": {
+   "ko": "반복적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "repetitive"
+   ]
+  },
+  "cyclic": {
+   "ko": "순환하는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "cyclic"
+   ]
+  },
+  "cataclysmic": {
+   "ko": "대격변의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "cataclysmic"
+   ]
+  },
+  "implausibly": {
+   "ko": "믿기 어렵게",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "implausibly"
+   ]
+  },
+  "intensity": {
+   "ko": "강도",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "intensity"
+   ]
+  },
+  "renowned": {
+   "ko": "유명한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "renowned"
+   ]
+  },
+  "clash": {
+   "ko": "충돌하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "clashed"
+   ]
+  },
+  "deceptively": {
+   "ko": "겉보기와 달리",
+   "pos": "ad.",
+   "lv": 2,
+   "forms": [
+    "deceptively"
+   ]
+  },
+  "algorithm": {
+   "ko": "알고리즘",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "algorithm",
+    "algorithms"
+   ]
+  },
+  "neural": {
+   "ko": "신경의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "neural"
+   ]
+  },
+  "threshold": {
+   "ko": "한계점, 문턱값",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "thresholds"
+   ]
+  },
+  "classify": {
+   "ko": "분류하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "classify"
+   ]
+  },
+  "codification": {
+   "ko": "체계화, 성문화",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "codification"
+   ]
+  },
+  "surpass": {
+   "ko": "능가하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "surpasses"
+   ]
+  },
+  "unaided": {
+   "ko": "도움을 받지 않는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "unaided"
+   ]
+  },
+  "attain": {
+   "ko": "도달하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "attain"
+   ]
+  },
+  "entity": {
+   "ko": "실체, 존재",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "entities"
+   ]
+  },
+  "rational": {
+   "ko": "합리적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "rational"
+   ]
+  },
+  "algorithmic": {
+   "ko": "알고리즘의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "algorithmic"
+   ]
+  },
+  "reinforcement": {
+   "ko": "강화",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "reinforcement"
+   ]
+  },
+  "infrastructure": {
+   "ko": "기반 시설",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "infrastructure"
+   ]
+  },
+  "predetermine": {
+   "ko": "미리 결정하다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "predetermined"
+   ]
+  },
+  "horizon": {
+   "ko": "지평, 범위",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "horizon"
+   ]
+  },
+  "high-stakes": {
+   "ko": "중대한, 위험 부담이 큰",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "high-stakes"
+   ]
+  },
+  "far-reaching": {
+   "ko": "광범위한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "far-reaching"
+   ]
+  },
+  "under strain": {
+   "ko": "부담에 시달리는",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "under strain"
+   ]
+  },
+  "genome": {
+   "ko": "게놈, 유전체",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "genome"
+   ]
+  },
+  "fluid": {
+   "ko": "유동적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "fluid"
+   ]
+  },
+  "epigenetics": {
+   "ko": "후성유전학",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "epigenetics"
+   ]
+  },
+  "heritable": {
+   "ko": "유전 가능한",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "heritable"
+   ]
+  },
+  "phenotype": {
+   "ko": "표현형",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "phenotypes"
+   ]
+  },
+  "conception": {
+   "ko": "수정, 임신; 개념",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "conception"
+   ]
+  },
+  "stimulate": {
+   "ko": "자극하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "stimulate"
+   ]
+  },
+  "delve into": {
+   "ko": "파고들다, 탐구하다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "delving into"
+   ]
+  },
+  "inquiry": {
+   "ko": "탐구, 조사",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "inquiry"
+   ]
+  },
+  "heritability": {
+   "ko": "유전 가능성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "heritability"
+   ]
+  },
+  "subject A to B": {
+   "ko": "A를 B에 노출시키다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "subjected to"
+   ]
+  },
+  "pregnancy": {
+   "ko": "임신",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "pregnancy"
+   ]
+  },
+  "fetus": {
+   "ko": "태아",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "fetus"
+   ]
+  },
+  "engender": {
+   "ko": "낳다, 불러일으키다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "engender"
+   ]
+  },
+  "progeny": {
+   "ko": "자손",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "progeny"
+   ]
+  },
+  "methylation": {
+   "ko": "메틸화",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "methylation"
+   ]
+  },
+  "nascent": {
+   "ko": "초기의, 발생기의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "nascent"
+   ]
+  },
+  "groundbreaking": {
+   "ko": "획기적인",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "groundbreaking"
+   ]
+  },
+  "throw a wrench into": {
+   "ko": "~을 방해하다, 흔들다",
+   "pos": "phr.",
+   "lv": 2,
+   "forms": [
+    "throws a wrench into"
+   ]
+  },
+  "span": {
+   "ko": "걸치다, 이어지다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "spanning"
+   ]
+  },
+  "implication": {
+   "ko": "영향, 함의",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "implications"
+   ]
+  },
+  "variability": {
+   "ko": "가변성",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "variability"
+   ]
+  },
+  "subfield": {
+   "ko": "하위 분야",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "subfield"
+   ]
+  },
+  "illustrate": {
+   "ko": "보여 주다, 설명하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "illustrates"
+   ]
+  },
+  "contract": {
+   "ko": "(병에) 걸리다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "contract"
+   ]
+  },
+  "limb": {
+   "ko": "팔다리",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "limb"
+   ]
+  },
+  "subsequent": {
+   "ko": "이후의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "subsequent"
+   ]
+  },
+  "external": {
+   "ko": "외부의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "external"
+   ]
+  },
+  "additionally": {
+   "ko": "게다가",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "additionally"
+   ]
+  },
+  "administrator": {
+   "ko": "행정가, 관리자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "administrators"
+   ]
+  },
+  "advancement": {
+   "ko": "발전, 진보",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "advancement"
+   ]
+  },
+  "appearance": {
+   "ko": "모습, 외관",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "appearance"
+   ]
+  },
+  "application": {
+   "ko": "응용, 적용",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "applications"
+   ]
+  },
+  "assign": {
+   "ko": "할당하다, 부여하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "assigned"
+   ]
+  },
+  "assumption": {
+   "ko": "가정, 전제",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "assumption"
+   ]
+  },
+  "assurance": {
+   "ko": "보장, 확언",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "assurance"
+   ]
+  },
+  "assure": {
+   "ko": "보장하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "assure"
+   ]
+  },
+  "awaken": {
+   "ko": "불러일으키다, 깨우다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "awaken"
+   ]
+  },
+  "awareness": {
+   "ko": "인식, 자각",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "awareness"
+   ]
+  },
+  "behavioral": {
+   "ko": "행동의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "behavioral"
+   ]
+  },
+  "biological": {
+   "ko": "생물학의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "biological"
+   ]
+  },
+  "characteristic": {
+   "ko": "특징",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "characteristic"
+   ]
+  },
+  "characterize": {
+   "ko": "특징짓다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "characterized"
+   ]
+  },
+  "complex": {
+   "ko": "복잡한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "complex"
+   ]
+  },
+  "computational": {
+   "ko": "계산의, 연산의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "computational"
+   ]
+  },
+  "consequence": {
+   "ko": "결과",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consequences"
+   ]
+  },
+  "consideration": {
+   "ko": "고려",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "consideration"
+   ]
+  },
+  "continuous": {
+   "ko": "지속적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "continuous"
+   ]
+  },
+  "criminal": {
+   "ko": "범죄자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "criminal",
+    "criminally",
+    "criminals"
+   ]
+  },
+  "curiosity": {
+   "ko": "호기심",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "curiosity"
+   ]
+  },
+  "definite": {
+   "ko": "분명한, 확실한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "definite"
+   ]
+  },
+  "demonstrate": {
+   "ko": "보여 주다, 입증하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "demonstrates"
+   ]
+  },
+  "disease": {
+   "ko": "질병",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "disease",
+    "diseases"
+   ]
+  },
+  "distinct": {
+   "ko": "뚜렷한, 별개의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "distinct"
+   ]
+  },
+  "distinguish": {
+   "ko": "구별하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "distinguishes"
+   ]
+  },
+  "distribute": {
+   "ko": "분배하다, 퍼뜨리다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "distribute"
+   ]
+  },
+  "division": {
+   "ko": "분열, 분할",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "division"
+   ]
+  },
+  "dominate": {
+   "ko": "지배하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "dominated"
+   ]
+  },
+  "dramatic": {
+   "ko": "극적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "dramatic"
+   ]
+  },
+  "emerge": {
+   "ko": "나타나다, 출현하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "emerged"
+   ]
+  },
+  "encourage": {
+   "ko": "장려하다, 격려하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "encouraged"
+   ]
+  },
+  "engineering": {
+   "ko": "공학",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "engineering"
+   ]
+  },
+  "environmental": {
+   "ko": "환경의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "environmental"
+   ]
+  },
+  "establishment": {
+   "ko": "설립",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "establishment"
+   ]
+  },
+  "estimate": {
+   "ko": "추정하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "estimated"
+   ]
+  },
+  "evolutionary": {
+   "ko": "진화의",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "evolutionary"
+   ]
+  },
+  "examination": {
+   "ko": "검토, 조사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "examination"
+   ]
+  },
+  "expose": {
+   "ko": "폭로하다, 노출시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "exposed"
+   ]
+  },
+  "expression": {
+   "ko": "(유전자) 발현; 표현",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "expression"
+   ]
+  },
+  "extend": {
+   "ko": "뻗다, 이어지다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "extends"
+   ]
+  },
+  "frightening": {
+   "ko": "무서운",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "frightening"
+   ]
+  },
+  "function": {
+   "ko": "기능",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "function"
+   ]
+  },
+  "generation": {
+   "ko": "세대",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "generation",
+    "generations"
+   ]
+  },
+  "geological": {
+   "ko": "지질학의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "geological"
+   ]
+  },
+  "guarantee": {
+   "ko": "보장",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "guarantee"
+   ]
+  },
+  "identical": {
+   "ko": "동일한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "identical"
+   ]
+  },
+  "identify": {
+   "ko": "확인하다, 찾아내다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "identified",
+    "identify"
+   ]
+  },
+  "illness": {
+   "ko": "질병",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "illnesses"
+   ]
+  },
+  "impact": {
+   "ko": "영향을 주다; 영향",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "impact",
+    "impacted",
+    "impacts"
+   ]
+  },
+  "imply": {
+   "ko": "암시하다, 함축하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "implied"
+   ]
+  },
+  "infected": {
+   "ko": "감염된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "hiv-infected"
+   ]
+  },
+  "initially": {
+   "ko": "처음에",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "initially"
+   ]
+  },
+  "institution": {
+   "ko": "기관, 제도; 시설",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "institutions"
+   ]
+  },
+  "interpret": {
+   "ko": "해석하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "interpreted"
+   ]
+  },
+  "investigate": {
+   "ko": "조사하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "investigate"
+   ]
+  },
+  "involve": {
+   "ko": "포함하다, 수반하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "involved"
+   ]
+  },
+  "mature": {
+   "ko": "성숙하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "mature"
+   ]
+  },
+  "mechanism": {
+   "ko": "체계, 메커니즘",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "mechanisms"
+   ]
+  },
+  "mentally ill": {
+   "ko": "정신 질환이 있는",
+   "pos": "phr.",
+   "lv": 1,
+   "forms": [
+    "mentally ill"
+   ]
+  },
+  "nonetheless": {
+   "ko": "그럼에도 불구하고",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "nonetheless"
+   ]
+  },
+  "observe": {
+   "ko": "관찰하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "observed"
+   ]
+  },
+  "occur": {
+   "ko": "일어나다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "occur",
+    "occurred",
+    "occurs"
+   ]
+  },
+  "organized": {
+   "ko": "체계적인, 정돈된",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "organized"
+   ]
+  },
+  "particularly": {
+   "ko": "특히",
+   "pos": "ad.",
+   "lv": 1,
+   "forms": [
+    "particularly"
+   ]
+  },
+  "passive": {
+   "ko": "수동적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "passive"
+   ]
+  },
+  "personality": {
+   "ko": "성격",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "personalities"
+   ]
+  },
+  "physician": {
+   "ko": "내과 의사",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "physicians"
+   ]
+  },
+  "pioneer": {
+   "ko": "선구자",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "pioneers"
+   ]
+  },
+  "populate": {
+   "ko": "거주하다, 채우다",
+   "pos": "v.",
+   "lv": 2,
+   "forms": [
+    "populated"
+   ]
+  },
+  "potential": {
+   "ko": "잠재력, 가능성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "potential"
+   ]
+  },
+  "practice": {
+   "ko": "관행; 진료, 개업하다",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "practice",
+    "practiced",
+    "practices"
+   ]
+  },
+  "presence": {
+   "ko": "존재",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "presence"
+   ]
+  },
+  "primary": {
+   "ko": "주요한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "primary"
+   ]
+  },
+  "principle": {
+   "ko": "원리",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "principle",
+    "principles"
+   ]
+  },
+  "reliability": {
+   "ko": "신뢰성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "reliability"
+   ]
+  },
+  "reliable": {
+   "ko": "믿을 수 있는",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "reliable"
+   ]
+  },
+  "resistant": {
+   "ko": "저항력 있는, 잘 듣지 않는",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "resistant"
+   ]
+  },
+  "responsibility": {
+   "ko": "책임",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "responsibility"
+   ]
+  },
+  "restore": {
+   "ko": "회복시키다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "restore"
+   ]
+  },
+  "reveal": {
+   "ko": "드러내다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "reveal",
+    "revealing"
+   ]
+  },
+  "severe": {
+   "ko": "심한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "severe"
+   ]
+  },
+  "signature": {
+   "ko": "신호, 특징",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "signature"
+   ]
+  },
+  "simplicity": {
+   "ko": "단순함, 순수함",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "simplicity"
+   ]
+  },
+  "spread": {
+   "ko": "확산, 전파",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "spread"
+   ]
+  },
+  "steady": {
+   "ko": "꾸준한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "steady"
+   ]
+  },
+  "strain": {
+   "ko": "부담, 압박",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "strain"
+   ]
+  },
+  "sufficient": {
+   "ko": "충분한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "sufficient"
+   ]
+  },
+  "surround": {
+   "ko": "둘러싸다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "surrounding",
+    "surrounds"
+   ]
+  },
+  "switch": {
+   "ko": "바꾸다, 전환하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "switched",
+    "switching"
+   ]
+  },
+  "theoretical": {
+   "ko": "이론적인",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "theoretical"
+   ]
+  },
+  "traditionalist": {
+   "ko": "전통주의자",
+   "pos": "n.",
+   "lv": 2,
+   "forms": [
+    "traditionalists"
+   ]
+  },
+  "trait": {
+   "ko": "특성, 형질",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "traits"
+   ]
+  },
+  "underlying": {
+   "ko": "근본적인, 기저의",
+   "pos": "a.",
+   "lv": 2,
+   "forms": [
+    "underlying"
+   ]
+  },
+  "value": {
+   "ko": "평가하다, 소중히 여기다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "value",
+    "valued",
+    "values"
+   ]
+  },
+  "variety": {
+   "ko": "다양성",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "variety"
+   ]
+  },
+  "vast": {
+   "ko": "방대한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "vast"
+   ]
+  },
+  "violate": {
+   "ko": "위반하다",
+   "pos": "v.",
+   "lv": 1,
+   "forms": [
+    "violated"
+   ]
+  },
+  "wisdom": {
+   "ko": "지혜",
+   "pos": "n.",
+   "lv": 1,
+   "forms": [
+    "wisdom"
+   ]
+  },
+  "unique": {
+   "ko": "독특한, 고유한",
+   "pos": "a.",
+   "lv": 1,
+   "forms": [
+    "unique"
+   ]
+  }
+ }
+}

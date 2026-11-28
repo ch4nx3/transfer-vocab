@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#f6f3ea">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <title>편입 단어 시험지</title>
-<meta name="description" content="서성한 기출 어휘와 GRE 고난도 어휘로 만든 편입 단어 학습·테스트 앱 (일차별 커리큘럼, 오답 누적 복습)">
+<meta name="description" content="서성한·중앙대 기출 어휘와 GRE 고난도 어휘로 만든 편입 단어 학습·테스트 앱 (일차별 커리큘럼, 오답 누적 복습)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400&family=Nanum+Myeongjo:wght@400;700&display=swap" rel="stylesheet">
@@ -103,9 +103,9 @@ hr.t{border:0;border-top:1px solid var(--rule);margin:14px 0}
 .chip{display:inline-block;border:1px solid var(--rule);padding:1px 8px;border-radius:12px;margin:0 4px 4px 0;background:var(--paper)}
 .tip{margin-top:8px;border-left:2px solid var(--ink);padding:4px 10px;font-family:var(--ko);font-size:13px;background:var(--paper2)}
 .typebox{border:1px solid var(--ink);border-top:0;background:var(--paper);padding:10px 12px 8px}
-.tb-head{display:flex;justify-content:space-between;align-items:center;gap:8px;font-family:var(--ko);font-size:13px}
+.tb-head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:6px 8px;font-family:var(--ko);font-size:13px}
 .tb-seg{display:flex;border:1px solid var(--ink);border-radius:2px}
-.tb-seg button{font-size:12px;padding:0 8px;min-height:32px;font-family:var(--ko)}
+.tb-seg button{font-size:12px;padding:0 8px;white-space:nowrap;min-height:32px;font-family:var(--ko)}
 .tb-seg button.on{background:var(--ink);color:var(--paper)}
 .tp-in{display:block;width:100%;height:48px;margin-top:8px;border:0;border-bottom:1.5px solid var(--ink);background:transparent;font-size:20px;text-align:center;color:var(--ink);outline:none;border-radius:0}
 .tp-in.en{font-family:var(--en)}
@@ -199,7 +199,10 @@ const RAW = JSON.parse(document.getElementById('DATA').textContent);
 const W = RAW.words;                              // ordered curriculum: imp 1 → 3, exam words first
 W.forEach((w, i) => { w.i = i; });
 const BYW = {}; W.forEach(w => { BYW[w.w] = w; });
-const EXAM_IDX = W.filter(w => w.src && w.src.length).map(w => w.i);
+// lvl: 0 기초 · 1 수능 기본 · 2 수능 고난도/편입 기본 · 3 편입 핵심 · 4 고급 (judged per word). 0–1 are left out of the curriculum by default.
+const isEasy = w => !!w.ez;
+const CORE_IDX = W.filter(w => !isEasy(w)).map(w => w.i);
+const EXAM_IDX = W.filter(w => w.src && w.src.length && !isEasy(w)).map(w => w.i);
 
 /* ============ storage ============ */
 const LS = {
@@ -207,7 +210,7 @@ const LS = {
   set(k, v) { try { localStorage.setItem('sshv:' + k, JSON.stringify(v)); } catch (e) {} },
   raw(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
 };
-let SET = Object.assign({ tmode: 'spell', size: 40, cur: 'all', type: 'type', dir: 'en2ko', sound: true, tts: false, hideM: true, unknownOnly: false }, LS.get('set', {}));
+let SET = Object.assign({ easy: false, easyChecked: false, tmode: 'spell', size: 40, cur: 'all', type: 'type', dir: 'en2ko', sound: true, tts: false, hideM: true, unknownOnly: false }, LS.get('set', {}));
 let ST = Object.assign({ days: {}, pool: [], words: {}, day: 1 }, LS.get('st', {}));
 // ST.words[w] = {r: right, x: wrong, star, last, m: mastered}
 // ST.days[curKey][day] = {done, best, last, n}
@@ -221,8 +224,8 @@ const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&am
 function toast(m) { const t = $('#toast'); t.textContent = m; t.classList.add('on'); clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove('on'), 1700); }
 function shuffle(a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
 const ws = w => ST.words[w] || (ST.words[w] = { r: 0, x: 0 });
-function curList() { return SET.cur === 'exam' ? EXAM_IDX : W.map(w => w.i); }
-function curKey() { return SET.cur + ':' + SET.size; }   // day N means different words for each size
+function curList() { return SET.cur === 'exam' ? EXAM_IDX : SET.easy ? W.map(w => w.i) : CORE_IDX; }
+function curKey() { return SET.cur + ':' + SET.size + (SET.easy && SET.cur !== 'exam' ? ':easy' : ''); }   // day N means different words for each size
 function dayCount() { return Math.max(1, Math.ceil(curList().length / SET.size)); }
 function dayWords(d) { const L = curList(); return L.slice((d - 1) * SET.size, d * SET.size).map(i => W[i]); }
 function dayState(d) { const k = curKey(); ST.days[k] = ST.days[k] || {}; return ST.days[k][d] || (ST.days[k][d] = {}); }
@@ -238,18 +241,34 @@ function highlight(ex, w) {
   w.split(/[\s-]+/).filter(p => p.length > 3 && !/^(with|from|into|onto|upon|one's|oneself|someone|something)$/i.test(p)).forEach(p => { const r = reOf(stemOf(p)); out = out.replace(r, '<b>$1</b>'); });
   return out;
 }
-function wordsFromExamApp() {
-  // words saved in the exam app (exam.html) — same origin, so we can read its storage
+// words saved in the exam app (exam.html) — same origin, so we can read its storage.
+// Mis-taps on easy words are filtered out: words judged 기초/수능 기본, and basic words the exam glossary has no meaning for.
+function scanExamApp() {
   let voc = {}; try { voc = JSON.parse(LS.raw('ssh2:voc') || '{}') || {}; } catch (e) {}
-  const seen = new Set();
-  return Object.values(typeof voc === 'object' ? voc : {}).map(v => {
-    if (!v || typeof v.lemma !== 'string' || !v.lemma.trim() || seen.has(v.lemma)) return null;
-    seen.add(v.lemma);
-    if (BYW[v.lemma]) return BYW[v.lemma];
-    if (BYW[v.lemma.toLowerCase()]) return BYW[v.lemma.toLowerCase()];
-    if (!v.ko) return null;
-    return { w: v.lemma, pos: v.pos || '', ko: v.ko, acc: [], syn: [], ant: [], ex: (v.ctx && v.ctx[0] && v.ctx[0].s) || '', exKo: '', src: [], tip: '', imp: 2, i: -1, adhoc: true };
-  }).filter(Boolean);
+  const seen = new Set(), keep = [], easy = [];
+  Object.values(typeof voc === 'object' ? voc : {}).forEach(v => {
+    if (!v || typeof v.lemma !== 'string' || !v.lemma.trim() || seen.has(v.lemma.toLowerCase())) return;
+    seen.add(v.lemma.toLowerCase());
+    const hit = BYW[v.lemma] || BYW[v.lemma.toLowerCase()];
+    if (hit) { (isEasy(hit) && !SET.easyChecked ? easy : keep).push(hit); return; }
+    const w = { w: v.lemma, pos: v.pos || '', ko: v.ko || '', acc: [], syn: [], ant: [], ex: (v.ctx && v.ctx[0] && v.ctx[0].s) || '', exKo: '', src: [], tip: '', imp: 2, i: -1, adhoc: true };
+    // not in the word list: keep only 편입-level glossary words (lv 2); 수능-level or meaningless taps count as easy
+    (v.ko && (v.lv === 2 || SET.easyChecked) ? keep : easy).push(w);
+  });
+  return { keep, easy };
+}
+function wordsFromExamApp() { return scanExamApp().keep; }
+// checked words join the cumulative review once, so they keep coming back in day tests until answered right
+function importChecked() {
+  ST.imp = ST.imp || {};
+  let n = 0;
+  scanExamApp().keep.forEach(w => {
+    if (w.adhoc || ST.imp[w.w]) return;
+    ST.imp[w.w] = 1;
+    const s = ST.words[w.w];
+    if (!(s && s.m) && !ST.pool.includes(w.w)) { ST.pool.push(w.w); n++; }
+  });
+  if (n) { save(); setTimeout(() => toast(`시험지에서 체크한 단어 ${n}개를 누적 복습에 넣었어요`), 300); }
 }
 
 /* ============ sound & speech ============ */
@@ -336,7 +355,7 @@ function renderHome() {
   ST.day = Math.min(Math.max(1, ST.day || 1), D);
   const d = ST.day, ds = dayState(d), dw = dayWords(d);
   const pool = ST.pool.filter(w => BYW[w]), dset = new Set(dw.map(w => w.w)), cumN = pool.filter(w => !dset.has(w)).length;
-  let h = `<div class="wrap"><div class="cover"><h1>편입 단어 시험지</h1><p>서성한 기출 어휘 + GRE 고난도 어휘 · 총 ${W.length.toLocaleString()}단어</p></div>
+  let h = `<div class="wrap"><div class="cover"><h1>편입 단어 시험지</h1><p>서성한·중앙대 기출 + GRE 어휘 · 시험·논문 빈출 순 · 핵심 ${CORE_IDX.length.toLocaleString()}단어</p></div>
     <div class="stats"><div><b>${t.mastered}</b><span>마스터</span></div><div><b>${pool.length}</b><span>누적 복습 대기</span></div><div><b>${t.seen}</b><span>학습한 단어</span></div></div>
     <div class="sec">일차별 커리큘럼 <span>${SET.cur === 'exam' ? '기출 단어만' : '전체'} · 하루 ${SET.size}단어 · ${D}일</span></div>
     <div class="days" id="days">`;
@@ -355,13 +374,13 @@ function renderHome() {
     </div>
     <div class="sec">따로 모아 공부하기</div>
     <button class="row" data-act="deck" data-k="pool"><div class="l"><b>누적 오답 단어</b><span class="s">틀린 단어가 맞힐 때까지 다음 날로 넘어와요 · ${pool.length}개</span></div><div class="arr">›</div></button>
-    <button class="row" data-act="deck" data-k="exam"><div class="l"><b>시험지 앱에서 체크한 단어</b><span class="s">기출 풀면서 탭한 단어 · ${wordsFromExamApp().length}개</span></div><div class="arr">›</div></button>
+    ${(() => { const c = scanExamApp(); return `<button class="row" data-act="deck" data-k="exam"><div class="l"><b>시험지 앱에서 체크한 단어</b><span class="s">기출 풀면서 탭한 단어 ${c.keep.length}개${c.easy.length ? ` · 잘못 누른 쉬운 단어 ${c.easy.length}개 제외` : ''} · 누적 복습에 자동 포함</span></div><div class="arr">›</div></button>${c.easy.length ? `<button class="row" data-act="xeasy"><div class="l"><span class="s" style="margin:0">└ 제외한 쉬운 체크 단어 ${c.easy.length}개 보기</span></div><div class="arr">›</div></button>` : ''}`; })()}
     <button class="row" data-act="deck" data-k="star"><div class="l"><b>별표 단어</b><span class="s">★ 표시한 단어 · ${t.star}개</span></div><div class="arr">›</div></button>
     <button class="row" data-act="deck" data-k="weak"><div class="l"><b>자꾸 틀리는 단어</b><span class="s">2번 이상 틀린 단어</span></div><div class="arr">›</div></button>
     <div class="sec">도구</div>
     <button class="row" data-act="list"><div class="l"><b>단어 찾기 · 전체 목록</b><span class="s">검색, 일차별 보기, 뜻 가리고 훑기</span></div><div class="arr">›</div></button>
     <button class="row" data-act="settings"><div class="l"><b>설정</b><span class="s">하루 단어 수 · 시험 방식 · 소리 · 초기화</span></div><div class="arr">›</div></button>
-    <a class="row" href="exam.html" style="text-decoration:none"><div class="l"><b>기출 시험지 풀기 →</b><span class="s">서성한 2023–2025 기출을 한 문제씩</span></div><div class="arr">›</div></a>
+    <a class="row" href="exam.html" style="text-decoration:none"><div class="l"><b>기출 시험지 풀기 →</b><span class="s">서성한 2023–2025 · 중앙대 2023–2026 기출을 한 문제씩</span></div><div class="arr">›</div></a>
     <p class="small muted ko" style="text-align:center;margin:26px 0 40px">학습 기록은 이 기기의 브라우저에만 저장됩니다.</p></div>`;
   $('#app').innerHTML = h;
   const on = document.querySelector('.day.on'); if (on) on.scrollIntoView({ inline: 'center', block: 'nearest' });
@@ -397,7 +416,7 @@ function renderCards() {
   if (!CS) return go('home');
   const it = CS.deck.words[CS.order[CS.idx]], w = it.w, s = ST.words[w.w] || {};
   let h = `<div class="top"><div class="wrap"><button class="btn" data-act="${CS.back === 'list' ? 'list' : 'home'}">‹ ${CS.back === 'list' ? '검색' : '목록'}</button><div class="ttl">${esc(CS.deck.title)} 플래시카드</div><button class="btn r" data-act="speak" aria-label="발음 듣기">발음</button></div></div><div class="progress"><i style="width:${(CS.idx + 1) / CS.order.length * 100}%"></i></div><div class="wrap">`;
-  h += `<div class="card" id="card"><div class="meta"><div>${it.cum ? '<span class="badge cum">누적 복습</span>' : ''}${(w.src || []).slice(0, 4).map(x => `<span class="badge">${esc(srcLabel(x))}</span>`).join('')}${w.origin === 'gre' && !(w.src || []).length ? '<span class="badge">고난도</span>' : ''}${w.imp === 1 ? '<span class="badge">빈출</span>' : ''}</div><button data-act="star" style="font-size:20px;line-height:1;min-width:44px;min-height:44px;margin:-10px -10px -10px 0" aria-label="별표">${s.star ? '★' : '☆'}</button></div>
+  h += `<div class="card" id="card"><div class="meta"><div>${it.cum ? '<span class="badge cum">누적 복습</span>' : ''}${(w.src || []).slice(0, 4).map(x => `<span class="badge">${esc(srcLabel(x))}</span>`).join('')}${w.origin === 'gre' && !(w.src || []).length ? '<span class="badge">고난도</span>' : ''}${w.imp === 1 ? '<span class="badge">빈출</span>' : ''}${w.vq ? '<span class="badge">어휘문제 기출</span>' : ''}${w.exN > 1 ? `<span class="badge">기출 ${w.exN}회</span>` : ''}</div><button data-act="star" style="font-size:20px;line-height:1;min-width:44px;min-height:44px;margin:-10px -10px -10px 0" aria-label="별표">${s.star ? '★' : '☆'}</button></div>
     <div class="hw en">${esc(w.w)}</div>${w.ipa ? `<div class="ipa">${esc(w.ipa)}</div>` : ''}<div class="pos">${esc(w.pos || '')}</div>
     <button class="cover-m ${CS.shown ? '' : 'hide'}" data-act="flip">${esc(w.ko)}</button>
     ${w.ex ? `<div class="ex en hyp">${highlight(w.ex, w.w)}</div>${w.exKo ? `<div class="exko ${CS.shown ? '' : 'hide'}">${esc(w.exKo)}</div>` : ''}${w.exRef ? `<div class="exref">${esc(w.exRef)} 기출</div>` : ''}` : ''}
@@ -624,6 +643,7 @@ function listFiltered() {
   const q = LQ.q.trim().toLowerCase();
   let L = W;
   if (LQ.f === 'exam') L = L.filter(w => w.src && w.src.length);
+  if (LQ.f === 'xeasy') L = scanExamApp().easy;
   if (LQ.f === 'star') L = L.filter(w => ST.words[w.w] && ST.words[w.w].star);
   if (LQ.f === 'm') L = L.filter(w => ST.words[w.w] && ST.words[w.w].m);
   if (LQ.f === 'day') L = dayWords(ST.day);
@@ -635,7 +655,7 @@ function renderList() {
   const f = (k, l) => `<button class="tab ${LQ.f === k ? 'on' : ''}" data-act="lf" data-k="${k}">${l}</button>`;
   let h = `<div class="top"><div class="wrap"><button class="btn" data-act="home">‹ 목록</button><div class="ttl" id="lttl">단어 찾기 · ${L.length.toLocaleString()}</div><button class="btn r" data-act="lhide">${LQ.hide ? '뜻 보기' : '뜻 가리기'}</button></div></div><div class="wrap">
     <input class="search" id="q" type="search" placeholder="영어 · 뜻 · 동의어 검색" value="${esc(LQ.q)}" autocomplete="off" autocapitalize="off" spellcheck="false">
-    <div class="tabs">${f('all', '전체')}${f('day', 'Day ' + ST.day)}${f('exam', '기출')}${f('star', '별표')}${f('m', '마스터')}</div><div id="lbody">`;
+    <div class="tabs">${f('all', '전체')}${f('day', 'Day ' + ST.day)}${f('exam', '기출')}${f('star', '별표')}${f('m', '마스터')}${LQ.f === 'xeasy' ? f('xeasy', '제외한 체크') : ''}</div><div id="lbody">`;
   h += listBody(L);
   h += `</div><div class="pad-b"></div></div>`;
   $('#app').innerHTML = h;
@@ -650,7 +670,7 @@ function listBody(L) {
   return h;
 }
 function openWord(word) {
-  const w = BYW[word]; if (!w) return;
+  const w = BYW[word] || (LQ.f === 'xeasy' && scanExamApp().easy.find(x => x.w === word)); if (!w) return;   // ad-hoc checked words aren't in the list
   CS = { deck: { title: '단어', words: [{ w, cum: false }], day: 0, kind: 'one' }, order: [0], idx: 0, shown: true, kind: 'one', back: 'list' };
   go('cards');
 }
@@ -661,15 +681,17 @@ function renderSettings() {
   const pick = (k, opts) => `<div class="pick">${opts.map(([v, l]) => `<button class="${SET[k] === v ? 'on' : ''}" data-act="pick" data-k="${k}" data-v="${v}">${l}</button>`).join('')}</div>`;
   $('#app').innerHTML = `<div class="top"><div class="wrap"><button class="btn" data-act="home">‹ 목록</button><div class="ttl">설정</div><span class="btn"></span></div></div><div class="wrap">
     <div class="set"><div>하루 단어 수<span>일차 수가 다시 나뉘어요 (기록은 단어별로 유지)</span></div>${pick('size', [[20, '20'], [30, '30'], [40, '40'], [50, '50'], [60, '60']])}</div>
-    <div class="set"><div>커리큘럼 범위<span>전체 ${W.length.toLocaleString()} / 서성한 기출 ${EXAM_IDX.length.toLocaleString()}</span></div>${pick('cur', [['all', '전체'], ['exam', '기출만']])}</div>
+    <div class="set"><div>커리큘럼 범위<span>편입 핵심 ${CORE_IDX.length.toLocaleString()} / 기출 단어 ${EXAM_IDX.length.toLocaleString()}</span></div>${pick('cur', [['all', '전체'], ['exam', '기출만']])}</div>
     <div class="set"><div>시험 방식</div>${pick('type', [['type', '직접 입력'], ['choice', '4지선다']])}</div>
     <div class="set"><div>출제 방향</div>${pick('dir', [['en2ko', '영→한'], ['ko2en', '한→영']])}</div>
     ${sw('hideM', '카드에서 뜻 먼저 가리기', '카드를 넘기면 뜻과 예문 해석을 가려서 시작')}
     ${sw('unknownOnly', '미암기 단어만 카드로', '마스터·별표 단어는 플래시카드에서 건너뛰기')}
+    ${sw('easy', '쉬운 단어도 커리큘럼에 넣기', `수능 기본 이하이거나 편입에 거의 안 나오는 ${(W.length - CORE_IDX.length).toLocaleString()}단어 (기본은 제외)`)}
+    ${sw('easyChecked', '시험지 체크 단어 중 쉬운 단어도 포함', '기본은 잘못 누른 것으로 보고 제외')}
     ${sw('sound', '정답/오답 효과음', '')}
     ${sw('tts', '자동 발음', '카드·문제가 나올 때 영어 발음 재생')}
     <button class="set" data-act="resetall"><div>학습 기록 초기화<span>일차 진도, 누적 오답, 별표, 마스터 기록 삭제</span></div><span>›</span></button>
-    <p class="small muted ko" style="margin-top:22px;line-height:1.7">단어 출처: 서강대·성균관대·한양대 2023–2025 편입 기출 어휘, GRE 어휘 목록(gre-recall, MIT 라이선스). 뜻·예문 해석·팁은 학습용으로 작성되어 오류가 있을 수 있어요.</p></div>`;
+    <p class="small muted ko" style="margin-top:22px;line-height:1.7">단어 출처: 서강대·성균관대·한양대(2023–2025)·중앙대(2023–2026) 편입 기출 어휘, GRE 어휘 목록(gre-recall, MIT 라이선스). 뜻·예문 해석·팁은 학습용으로 작성되어 오류가 있을 수 있어요.</p></div>`;
 }
 
 /* ============ events ============ */
@@ -713,6 +735,7 @@ document.addEventListener('click', ev => {
     case 'lf': LQ.f = d.k; LQ.lim = 100; renderList(); break;
     case 'lhide': LQ.hide = !LQ.hide; renderList(); break;
     case 'more': LQ.lim += 200; renderList(); break;
+    case 'xeasy': LQ = { q: '', f: 'xeasy', hide: false, lim: 200 }; CS = null; go('list'); break;
     case 'open': openWord(d.w); break;
     case 'settings': go('settings'); break;
     case 'sw': SET[d.k] = !SET[d.k]; save(); renderSettings(); break;
@@ -725,6 +748,7 @@ let sw0 = null;
 document.addEventListener('touchstart', e => { if (VIEW === 'cards' && e.touches.length === 1) sw0 = { x: e.touches[0].clientX, y: e.touches[0].clientY, t: Date.now() }; }, { passive: true });
 document.addEventListener('touchend', e => { if (!sw0) return; const t = e.changedTouches[0], dx = t.clientX - sw0.x, dy = t.clientY - sw0.y, dt = Date.now() - sw0.t; sw0 = null; if (Math.abs(dx) > 60 && Math.abs(dy) < 50 && dt < 600) cardMove(dx < 0 ? 1 : -1); }, { passive: true });
 window.addEventListener('pagehide', save);
+importChecked();
 go('home');
 </script>
 </body>

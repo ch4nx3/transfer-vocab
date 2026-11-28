@@ -6,7 +6,7 @@ import json, re, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 WORD_RE = re.compile(r"[A-Za-z]+(?:[-'’][A-Za-z]+)*")
-SCHOOLS = {'서강대': 0, '성균관대': 1, '한양대': 2}
+SCHOOLS = {'서강대': 0, '성균관대': 1, '한양대': 2, '중앙대': 3}
 
 
 def strip(s):
@@ -14,7 +14,7 @@ def strip(s):
 
 
 def main():
-    exams = [json.loads(p.read_text()) for p in sorted((ROOT / 'data').glob('*.json')) if p.name != 'vocab.json']
+    exams = [json.loads(p.read_text()) for p in sorted((ROOT / 'data').glob('*.json')) if p.name not in ('vocab.json', 'vocab_ratings.json')]
     exams.sort(key=lambda e: (SCHOOLS.get(e['school'], 9), -e['year']))
 
     # global form -> lemma (first exam wins, like the app's fallback table)
